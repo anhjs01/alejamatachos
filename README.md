@@ -14,6 +14,18 @@ Aplicación web en desarrollo para el calendario sorpresa de ALEJA.
 - Preparación PWA mediante `manifest.webmanifest`, `icon.svg` y `service-worker.js`.
 - Diseño adaptable a móvil y escritorio, con animaciones y respeto por `prefers-reduced-motion`.
 
+## Auditoría local del catálogo
+
+Con Node.js instalado, ejecuta desde la raíz del repositorio:
+
+```bash
+node scripts/auditar-catalogo.js
+```
+
+El script informa las cantidades por categoría, IDs con formato inválido o duplicados, títulos duplicados y canciones sin ID. Devuelve un código de error para IDs inválidos o duplicados de ID/título. Las canciones sin ID se muestran como pendientes, porque no se deben rellenar con identificadores adivinados.
+
+**Límite:** es una auditoría estática local. No comprueba que los videos existan, sean insertables o correspondan a la canción. Para esa validación hace falta consultar fuentes de YouTube y revisar los resultados individualmente.
+
 ## Archivos principales
 
 - `index.html`: interfaz, estilos, calendario, lienzo y minijuego.
