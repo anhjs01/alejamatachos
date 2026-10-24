@@ -117,6 +117,15 @@
     actualizarUI();
   }
 
+  function reproducirCancion(cancion, categoria) {
+    if (!cancion || !cancion.youtubeId) return;
+    cancionActual = { ...cancion, categoria: categoria || cancion.categoria || "amor" };
+    sonando = false;
+    errorReproduccion = false;
+    reproducirId(cancionActual.youtubeId, false);
+    actualizarUI();
+  }
+
   function reproducirDia(dia) {
     if (!dia) return;
     if (!dia.youtubeId) { console.warn("Este día no tiene youtubeId; no se cambiará a una canción aleatoria."); return; }
@@ -194,6 +203,7 @@
 
   window.SorpresaReproductor = {
     reproducirCategoria: reproducirCategoria,
+    reproducirCancion: reproducirCancion,
     reproducirDia: reproducirDia,
     estaSonando: function () { return sonando; },
     haIniciado: function () { return !!cancionActual; },
