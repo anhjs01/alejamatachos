@@ -463,6 +463,36 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 @media(max-width:560px){.cat-game-pad button{width:72px;height:50px}.cat-game-stat{font-size:.65rem;padding:8px 10px}}
 @media(prefers-reduced-motion:reduce){.cat-game *{scroll-behavior:auto}}
 
+
+/* Minijuego de rompecabezas */
+.puzzle-game{position:relative;margin-top:24px;padding:clamp(18px,3vw,30px);border:1px solid #40515a;background:linear-gradient(145deg,#13141f,#0a1015 80%);overflow:hidden}
+.puzzle-game:before{content:"";position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse at 0% 0%,#c7a5ff16,transparent 42%),radial-gradient(ellipse at 100% 100%,#53dfff12,transparent 40%)}
+.puzzle-game>*{position:relative;z-index:1}
+.puzzle-head{display:flex;justify-content:space-between;align-items:start;gap:14px;flex-wrap:wrap}
+.puzzle-head h3{font-size:clamp(1.5rem,4vw,2.4rem);margin:7px 0}
+.puzzle-copy{max-width:620px;color:var(--muted);font-size:.88rem;line-height:1.65}
+.puzzle-layout{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(200px,.9fr);gap:clamp(16px,3vw,30px);align-items:center;margin-top:18px}
+.puzzle-board{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px;max-width:480px;width:100%;aspect-ratio:1;padding:7px;border:1px solid #536074;border-radius:18px;background:#0b111c;box-shadow:0 18px 48px #0004}
+.puzzle-piece{position:relative;min-width:0;min-height:0;border:1px solid #d8edff28;border-radius:8px;background-color:#152033;background-repeat:no-repeat;background-size:300% 300%;padding:0;overflow:hidden;cursor:grab;transition:border-color .16s,transform .16s,filter .16s}
+.puzzle-piece:hover{border-color:#a5efff;filter:brightness(1.12)}
+.puzzle-piece:focus-visible{outline:2px solid var(--blue);outline-offset:2px;z-index:2}
+.puzzle-piece.selected{border:3px solid #ffe7a0;transform:scale(.96);filter:brightness(1.2)}
+.puzzle-piece:after{content:attr(data-number);position:absolute;right:5px;bottom:4px;font: .62rem 'DM Mono',monospace;color:#ffffffa6;text-shadow:0 1px 5px #000}
+.puzzle-side{padding:20px;border:1px solid #344650;border-radius:20px 7px 20px 7px;background:#0b1319}
+.puzzle-side h4{font-size:1.2rem;margin:0 0 8px}
+.puzzle-side p{color:var(--muted);font-size:.83rem;line-height:1.65}
+.puzzle-stats{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
+.puzzle-stat{padding:8px 10px;border:1px solid #3c5059;border-radius:999px;font:.7rem 'DM Mono',monospace;color:#eaf8fa}
+.puzzle-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.puzzle-actions button{padding:11px 13px;border:1px solid #405b67;background:#14232b;color:#eaf8fa;border-radius:999px;font:700 .7rem 'DM Mono',monospace}
+.puzzle-actions button.primary{background:var(--blue);border-color:var(--blue);color:#071014}
+.puzzle-actions button:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+.puzzle-status{min-height:44px;color:#bdefff;font-size:.82rem;line-height:1.55;margin:12px 0 0}
+.puzzle-preview{display:flex;align-items:center;gap:10px;margin-top:12px}
+.puzzle-preview canvas{width:70px;height:70px;border:1px solid #465c67;border-radius:10px}
+.puzzle-preview span{font-size:.74rem;color:var(--muted);line-height:1.5}
+@media(max-width:700px){.puzzle-layout{grid-template-columns:1fr}.puzzle-board{max-width:440px;margin-inline:auto}.puzzle-side{padding:16px}}
+
 </style>
 </head>
 <body>
@@ -527,7 +557,19 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
  <div class="cat-game">
   <div class="cat-game-head"><div><div class="mono">PEQUEÑOS MUNDOS / ARCADE</div><h3>El gatito estelar ✦</h3></div><div class="cat-game-stats"><span class="cat-game-stat" id="cat-score">PUNTOS 0</span><span class="cat-game-stat" id="cat-time">TIEMPO 30</span><span class="cat-game-stat" id="cat-best">RÉCORD 0</span></div></div>
   <p class="cat-game-copy">Recoge estrellas para sumar puntos. Los corazones valen más; los meteoritos te hacen perder puntos. ¡No dejes que se escape la noche!</p>
-  <div class="cat-game-stage"><canvas id="cat-game-canvas" width="760" height="360" aria-label="Juego del gatito que recoge estrellas"></canvas><div class="cat-game-overlay" id="cat-overlay"><div class="cat-game-overlay-inner"><h4 id="cat-overlay-title">¿Listos, patitas?</h4><p id="cat-overlay-copy">Mueve al gatito con ← → o A / D. En móvil, usa los botones de abajo. Tienes 30 segundos para recoger estrellas y corazones.</p><div class="cat-game-actions"><button class="primary" id="cat-start" type="button">EMPEZAR A JUGAR ✦</button></div></div></div></div>
+  <div class="cat-game-stage"><canvas id="cat-game-canvas" width="760" height="360" aria-label="Juego del gatito que recoge estrellas"></canvas><div class="cat-game-overlay" id="cat-overlay"><div class="cat-game-overlay-inner"><h4 id="cat-overlay-title">¿Listos, patitas?</h4><p id="cat-overlay-copy">Mueve al gatito con ← → o A / D. En móvil, usa los botones de abajo. Tienes 30 segundos para recoger estrellas y coraz
+<section class="section" id="juego-rompecabezas">
+ <div class="section-head"><div><div class="mono">06 / Una imagen, pieza a pieza</div><h2>ARMA<br><span>EL RECUERDO.</span></h2></div><p class="section-intro">Un pequeño rompecabezas nocturno: mezcla las piezas y vuelve a encontrar el orden. Puedes intercambiarlas con un toque o arrastrarlas a su lugar.</p></div>
+ <div class="puzzle-game">
+  <div class="puzzle-head"><div><div class="mono">PEQUEÑOS MUNDOS / ROMPECABEZAS</div><h3>Una noche para reconstruir ✧</h3></div></div>
+  <p class="puzzle-copy">Empieza con nueve piezas. Selecciona una y luego otra para intercambiarlas, o arrastra una pieza hasta otra. Si necesitas una pista, puedes mirar la imagen completa.</p>
+  <div class="puzzle-layout">
+   <div class="puzzle-board" id="puzzle-board" role="group" aria-label="Rompecabezas de nueve piezas"></div>
+   <aside class="puzzle-side"><h4>Todo encuentra su lugar.</h4><p>Observa la luna, las estrellas y al pequeño gato. Cada pieza tiene su sitio; no hay límite de tiempo, así que puedes resolverlo a tu ritmo.</p><div class="puzzle-stats"><span class="puzzle-stat" id="puzzle-moves">MOVIMIENTOS 0</span><span class="puzzle-stat" id="puzzle-best">RÉCORD —</span></div><div class="puzzle-actions"><button class="primary" id="puzzle-shuffle" type="button">MEZCLAR PIEZAS ↻</button><button id="puzzle-hint" type="button" aria-pressed="false">VER PISTA</button></div><div class="puzzle-preview"><canvas id="puzzle-preview" width="96" height="96" aria-label="Vista previa de la ilustración completa"></canvas><span id="puzzle-status" class="puzzle-status" role="status" aria-live="polite">Toca dos piezas para intercambiarlas y completar la ilustración.</span></div></aside>
+  </div>
+ </div>
+</section>
+ones.</p><div class="cat-game-actions"><button class="primary" id="cat-start" type="button">EMPEZAR A JUGAR ✦</button></div></div></div></div>
   <div class="cat-game-pad" aria-label="Controles táctiles"><button type="button" id="cat-left" aria-label="Mover gatito a la izquierda">←</button><button type="button" id="cat-right" aria-label="Mover gatito a la derecha">→</button></div>
   <p class="cat-game-hint" id="cat-status" role="status" aria-live="polite">Pulsa empezar cuando quieras jugar.</p>
  </div>
@@ -730,7 +772,45 @@ document.querySelector('#save').addEventListener('click',()=>{visited.add(active
  document.addEventListener('keydown',e=>{if(!running)return;if(['ArrowLeft','ArrowRight','a','A','d','D'].includes(e.key)){e.preventDefault();if(e.key==='ArrowLeft'||e.key==='a'||e.key==='A')keys.left=true;else keys.right=true}});
  document.addEventListener('keyup',e=>{if(['ArrowLeft','a','A'].includes(e.key))keys.left=false;if(['ArrowRight','d','D'].includes(e.key))keys.right=false});
  window.addEventListener('blur',()=>{keys.left=keys.right=false});
- function bindHold(id,key){const b=document.getElementById(id);if(!b)return;const down=e=>{e.preventDefault();keys[key]=true};const up=e=>{e.preventDefault();keys[key]=false};b.addEventListener('pointerdown',down);b.addEventListener('pointerup',up);b.addEventListener('pointercancel',up);b.addEventListener('pointerleave',up);b.addEventListener('contextmenu',e=>e.preventDefault())}
+ function bindHold(id,key){c
+/* Rompecabezas ilustrado de nueve piezas; selección táctil, arrastre, pista y récord local */
+(function(){
+ const board=document.getElementById('puzzle-board'),preview=document.getElementById('puzzle-preview'),movesEl=document.getElementById('puzzle-moves'),bestEl=document.getElementById('puzzle-best'),status=document.getElementById('puzzle-status'),hint=document.getElementById('puzzle-hint');
+ if(!board||!preview)return;
+ const art=document.createElement('canvas');art.width=480;art.height=480;const c=art.getContext('2d'),p=preview.getContext('2d');
+ const bg=c.createLinearGradient(0,0,480,480);bg.addColorStop(0,'#171a38');bg.addColorStop(.55,'#172c46');bg.addColorStop(1,'#0b1729');c.fillStyle=bg;c.fillRect(0,0,480,480);
+ c.fillStyle='#fff0bd';c.beginPath();c.arc(365,96,43,0,Math.PI*2);c.fill();c.fillStyle='#17213a';c.beginPath();c.arc(382,82,38,0,Math.PI*2);c.fill();
+ for(let i=0;i<75;i++){const x=(i*139+21)%480,y=(i*83+17)%350;c.globalAlpha=.3+(i%5)*.13;c.fillStyle=i%6===0?'#8deaff':'#fff4db';c.beginPath();c.arc(x,y,i%8===0?2.5:1.2,0,Math.PI*2);c.fill()}c.globalAlpha=1;
+ c.fillStyle='#263e58';c.beginPath();c.moveTo(0,330);c.lineTo(100,230);c.lineTo(205,345);c.lineTo(315,250);c.lineTo(480,350);c.lineTo(480,480);c.lineTo(0,480);c.closePath();c.fill();
+ c.fillStyle='#101b2a';c.beginPath();c.moveTo(0,395);c.quadraticCurveTo(120,330,230,410);c.quadraticCurveTo(350,455,480,380);c.lineTo(480,480);c.lineTo(0,480);c.closePath();c.fill();
+ // Gatito dibujado a mano en el centro de la ilustración.
+ c.save();c.translate(235,340);c.fillStyle='#e4edf2';c.beginPath();c.ellipse(0,22,58,72,0,0,Math.PI*2);c.fill();c.beginPath();c.moveTo(-49,-8);c.lineTo(-43,-84);c.lineTo(-4,-52);c.closePath();c.fill();c.beginPath();c.moveTo(8,-52);c.lineTo(45,-85);c.lineTo(49,-6);c.closePath();c.fill();
+ c.fillStyle='#f49db7';c.beginPath();c.moveTo(-40,-22);c.lineTo(-38,-69);c.lineTo(-15,-48);c.closePath();c.fill();c.beginPath();c.moveTo(20,-48);c.lineTo(39,-70);c.lineTo(41,-20);c.closePath();c.fill();
+ c.fillStyle='#1a2a3a';c.beginPath();c.arc(-20,-15,5,0,Math.PI*2);c.arc(20,-15,5,0,Math.PI*2);c.fill();c.fillStyle='#f49db7';c.beginPath();c.moveTo(-6,-1);c.lineTo(6,-1);c.lineTo(0,6);c.closePath();c.fill();
+ c.strokeStyle='#263c4d';c.lineWidth=2;c.beginPath();c.moveTo(-14,6);c.lineTo(-40,1);c.moveTo(-14,13);c.lineTo(-40,17);c.moveTo(14,6);c.lineTo(40,1);c.moveTo(14,13);c.lineTo(40,17);c.stroke();
+ c.strokeStyle='#e4edf2';c.lineWidth=9;c.lineCap='round';c.beginPath();c.moveTo(44,48);c.quadraticCurveTo(90,20,65,-3);c.stroke();c.fillStyle='#53dfff';c.beginPath();c.ellipse(0,53,42,9,0,0,Math.PI*2);c.fill();c.restore();
+ c.fillStyle='#ffe7a0';c.font='bold 25px sans-serif';c.fillText('✦',70,135);c.fillText('✧',305,210);c.fillText('✦',400,300);
+ p.drawImage(art,0,0,96,96);
+ let order=[],selected=null,moves=0,best=0,dragged=null,showHint=false;
+ try{const saved=JSON.parse(localStorage.getItem('aleja-puzzle-best-v1')||'null');if(Number.isFinite(saved)&&saved>0)best=saved}catch(_){}
+ bestEl.textContent='RÉCORD '+(best||'—');
+ function shuffleOrder(){order=[0,1,2,3,4,5,6,7,8];for(let i=order.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[order[i],order[j]]=[order[j],order[i]]}if(order.every((v,i)=>v===i))[order[0],order[1]]=[order[1],order[0]]}
+ function solved(){return order.every((v,i)=>v===i)}
+ function render(){
+  board.innerHTML='';
+  order.forEach((piece,pos)=>{const b=document.createElement('button');b.type='button';b.className='puzzle-piece'+(selected===pos?' selected':'');b.dataset.pos=String(pos);b.dataset.piece=String(piece);b.dataset.number=String(piece+1).padStart(2,'0');b.setAttribute('aria-label','Pieza '+(piece+1)+', posición '+(pos+1)+(selected===pos?', seleccionada':''));b.style.backgroundImage='url("'+art.toDataURL('image/png')+'")';b.style.backgroundPosition=(piece%3)*50+'% '+Math.floor(piece/3)*50+'%';b.draggable=true;
+   b.addEventListener('click',()=>pick(pos));b.addEventListener('dragstart',e=>{dragged=pos;e.dataTransfer.setData('text/plain',String(pos));e.dataTransfer.effectAllowed='move'});b.addEventListener('dragover',e=>{e.preventDefault();e.dataTransfer.dropEffect='move'});b.addEventListener('drop',e=>{e.preventDefault();const from=dragged!==null?dragged:Number(e.dataTransfer.getData('text/plain'));swap(from,pos);dragged=null});board.appendChild(b)});
+  movesEl.textContent='MOVIMIENTOS '+moves;
+  if(showHint){hint.setAttribute('aria-pressed','true');hint.textContent='OCULTAR PISTA';board.style.backgroundImage='url("'+art.toDataURL('image/png')+'")';board.style.backgroundSize='cover';board.style.backgroundPosition='center'}else{hint.setAttribute('aria-pressed','false');hint.textContent='VER PISTA';board.style.backgroundImage='none'}
+ }
+ function pick(pos){if(solved())return;if(selected===null){selected=pos;status.textContent='Pieza seleccionada. Ahora toca otra para intercambiar.';render();return}if(selected===pos){selected=null;status.textContent='Selección cancelada.';render();return}swap(selected,pos)}
+ function swap(a,b){if(!Number.isInteger(a)||!Number.isInteger(b)||a<0||b<0||a>=9||b>=9||a===b)return;[order[a],order[b]]=[order[b],order[a]];moves++;selected=null;render();if(solved()){status.textContent='¡Lo lograste! Reconstruiste la noche en '+moves+' movimientos. ✨';if(!best||moves<best){best=moves;try{localStorage.setItem('aleja-puzzle-best-v1',String(best))}catch(_){}bestEl.textContent='RÉCORD '+best}}else status.textContent='Vas muy bien. Busca la continuidad del cielo y la silueta del gatito.'}
+ document.getElementById('puzzle-shuffle').addEventListener('click',()=>{shuffleOrder();moves=0;selected=null;showHint=false;render();status.textContent='Piezas mezcladas. ¡A reconstruir la noche!'});
+ hint.addEventListener('click',()=>{showHint=!showHint;render();status.textContent=showHint?'Pista activada: observa la imagen completa y busca los bordes que coinciden.':'Pista oculta. ¡Sigue armando la imagen!'});
+ shuffleOrder();render();
+})();
+
+onst b=document.getElementById(id);if(!b)return;const down=e=>{e.preventDefault();keys[key]=true};const up=e=>{e.preventDefault();keys[key]=false};b.addEventListener('pointerdown',down);b.addEventListener('pointerup',up);b.addEventListener('pointercancel',up);b.addEventListener('pointerleave',up);b.addEventListener('contextmenu',e=>e.preventDefault())}
  bindHold('cat-left','left');bindHold('cat-right','right');
  drawScene();drawCat();updateHud();
 })();
