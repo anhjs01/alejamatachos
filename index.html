@@ -710,16 +710,9 @@ document.querySelector('#save').addEventListener('click',()=>{visited.add(active
    if(canvas.width&&canvas.height)old.getContext('2d').drawImage(canvas,0,0);
    const rect=canvas.getBoundingClientRect(), ratio=Math.min(window.devicePixelRatio||1,2);
    canvas.width=Math.max(1,Math.round(rect.width*ratio));canvas.height=Math.max(1,Math.round(
-/* El gatito estelar: controles de teclado y tacto, dificultad progresiva y récord local */
-(function(){
- const canvas=document.getElementById('cat-game-canvas'),ctx=canvas&&canvas.getContext('2d');
- if(!canvas||!ctx)return;
- const overlay=document.getElementById('cat-overlay'),title=document.getElementById('cat-overlay-title'),copy=document.getElementById('cat-overlay-copy'),start=document.getElementById('cat-start'),scoreEl=document.getElementById('cat-score'),timeEl=document.getElementById('cat-time'),bestEl=document.getElementById('cat-best'),status=document.getElementById('cat-status');
- const W=760,H=360,reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
- let running=false,score=0,remaining=30,last=0,spawn=0,raf=0,objects=[],keys={left:false,right:false},player={x:W/2,y:H-48},stars=[],best=0;
- try{best=Number(localStorage.getItem('aleja-gatito-record-v1')||0)||0}catch(_){}
- bestEl.textContent='RÉCORD '+best;
- for(let i=0;i<72;i++)stars.push({x:(i*137.3)%W,y:(i*71.7)%H,r:i%5===0?1.6:.8,a:.25+(i%6)*.1});
- function roundedRect(x,y,w,h,r){ctx.beginPath();ctx.roundRect(x,y,w,h,r);ctx.fill()}
- function drawScene(){
-  const bg=ctx.createLinearGradient(0,0,0,H);bg.addColorS
+
+update();
+if('serviceWorker' in navigator && location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}))}
+</script>
+</body>
+</html>
