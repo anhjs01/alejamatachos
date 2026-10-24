@@ -338,6 +338,29 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 @media(max-width:560px){.door-wrap:nth-child(8n+2):after,.door-wrap:nth-child(11n+5):after,.door-wrap:nth-child(17n+9):after{right:-3px;top:-7px;font-size:8px}.calendar-meta:after{font-size:8px}}
 @media(prefers-reduced-motion:reduce){.door.featured{animation:none}.door:hover:after,.door:focus-visible:after{animation:none}}
 
+/* Apertura de puerta: la carta se siente como una pieza física del universo */
+.backdrop{background:radial-gradient(ellipse at 50% 45%,#10252bd9 0%,#020506ee 72%);backdrop-filter:blur(12px)}
+.backdrop.open{animation:portal-in .28s cubic-bezier(.2,.75,.2,1)}
+.letter{isolation:isolate;box-shadow:10px 10px 0 var(--blue),18px 18px 0 #53dfff20;transform-origin:50% 75%;animation:letter-drop .48s cubic-bezier(.16,1,.3,1) both}
+.letter:before{content:"";position:absolute;z-index:-1;inset:12px;border:1px solid #0b12141c;clip-path:polygon(0 0,100% 2%,98% 100%,2% 97%);pointer-events:none}
+.letter:after{content:"✳";position:absolute;z-index:-1;right:28px;bottom:16px;color:#53dfff30;font-size:clamp(4rem,12vw,7rem);line-height:1;transform:rotate(-14deg);pointer-events:none;animation:letter-mark 6s ease-in-out infinite}
+#day-label{display:inline-flex;align-items:center;gap:8px;padding:6px 9px;background:#0b12140a;border-left:3px solid #0b1214}
+#letter-title{max-width:9ch;text-wrap:balance;animation:title-settle .5s .08s both}
+#letter-text{position:relative;z-index:1}
+#keyword{display:inline-block;margin-top:12px;padding:8px 10px;border:1px dashed #0b12145c;letter-spacing:.09em}
+.letter .close{width:38px;height:38px;display:grid;place-items:center;border:1px solid #0b121426;border-radius:50%;transition:transform .22s,background .22s,color .22s}
+.letter .close:hover{transform:rotate(90deg);background:#0b1214;color:var(--paper)}
+.letter .song-action{position:relative;z-index:1;border-radius:2px 12px 2px 12px;transition:transform .2s,background .2s}
+.letter .song-action:not(:disabled):hover{transform:translateY(-2px);background:#123840}
+.letter #save{position:relative;z-index:1;transition:filter .2s,transform .2s}
+.letter #save:hover{filter:brightness(1.12);transform:translateY(-2px)}
+@keyframes portal-in{from{opacity:0;backdrop-filter:blur(0)}to{opacity:1;backdrop-filter:blur(12px)}}
+@keyframes letter-drop{0%{opacity:0;transform:translateY(28px) scale(.94) rotate(1.5deg);clip-path:polygon(8% 0,100% 0,100% 90%,92% 100%,0 100%,0 8%)}65%{opacity:1;transform:translateY(-3px) scale(1.005) rotate(-.4deg)}100%{transform:translateY(0) scale(1) rotate(0);clip-path:polygon(0 0,100% 0,100% 100%,0 100%)}}
+@keyframes title-settle{from{opacity:0;transform:translateY(8px);letter-spacing:-.02em}to{opacity:1;transform:translateY(0)}}
+@keyframes letter-mark{0%,100%{transform:rotate(-14deg) scale(1)}50%{transform:rotate(4deg) scale(1.07)}}
+@media(max-width:560px){.letter:before{inset:8px}.letter:after{right:18px;bottom:12px;font-size:4rem}.letter #save{max-width:100%;white-space:normal}}
+@media(prefers-reduced-motion:reduce){.letter,.backdrop.open,#letter-title,.letter:after{animation:none}.letter .close,.letter .song-action,.letter #save{transition:none}}
+
 /* Playlist navegable */
 .music-playlist{max-width:900px;border:1px solid #35474d;background:linear-gradient(145deg,#111a1d,#090d0e);padding:clamp(16px,3vw,28px);border-radius:3px 18px 3px 18px}
 .playlist-heading{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-bottom:14px;border-bottom:1px solid #344247}
