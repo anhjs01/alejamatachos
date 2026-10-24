@@ -26,15 +26,39 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 <section class="section" id="universo"><div class="section-head"><div><div class="mono">02 / Más allá del calendario</div><h2>UN UNIVERSO<br><span>PROPIO.</span></h2></div><p class="section-intro">Cada espacio tendrá su propia personalidad sin perder el hilo visual: trazos dibujados, collage, tipografía expresiva, geometrías imperfectas y movimiento con intención.</p></div><div class="cards"><article class="card" id="musica"><div class="symbol">♫</div><div class="mono">01 / SONIDO</div><h3>Rincón del sonido</h3><p>Catálogo musical real y reproductor compartido. La integración se hará desde las fuentes existentes, sin inventar identificadores ni prometer reproducción antes de probarla.</p></article><article class="card" id="arte"><div class="symbol">✳</div><div class="mono">02 / CREACIÓN</div><h3>El lienzo</h3><p>Un estudio para dibujar, explorar colores y conservar creaciones, con controles cómodos tanto en móvil como en escritorio.</p></article><article class="card" id="juegos"><div class="symbol">↗</div><div class="mono">03 / JUEGO</div><h3>Pequeños mundos</h3><p>Minijuegos originales con interacción, retos y detalles gráficos propios, pensados para sentirse parte del mismo universo.</p></article></div></section>
 </main><footer><div><div class="footer-logo">ALEJA<span>✳</span></div><div class="mono" style="margin-top:7px">365 días · una sola historia</div></div><div class="mono">MÚSICA · ARTE · SORPRESAS · TÚ ♥</div><a href="#inicio" class="btn secondary">VOLVER ARRIBA ↑</a></footer>
 <div class="backdrop" id="backdrop" role="dialog" aria-modal="true" aria-labelledby="letter-title"><article class="letter"><button class="close" id="close" aria-label="Cerrar">×</button><div class="mono" id="day-label">PUERTA 001 / 365</div><h2 id="letter-title">UNA PEQUEÑA<br>SORPRESA.</h2><p id="letter-text">Esta puerta es el punto de entrada visual. Su contenido definitivo se incorporará desde los materiales originales revisados.</p><div class="mono" id="keyword">PALABRA CLAVE · COMIENZO</div><button class="btn" id="save">GUARDAR ESTE MOMENTO ✦</button></article></div><div class="toast" id="toast" role="status">Momento guardado ✦</div>
+<script src="./contenido-calendario.js"></script>
+<script src="./catalogo-canciones.js"></script>
+<script src="./contenido-portada.js"></script>
 <script>
-const grid=document.querySelector('#grid'),backdrop=document.querySelector('#backdrop'),visited=new Set();let active=1;
+const grid=document.querySelector('#grid'),backdrop=document.querySelector('#backdrop');
+const storageKey='aleja-visitas-v1';
+let visited=new Set();
+try{const saved=JSON.parse(localStorage.getItem(storageKey)||'[]');if(Array.isArray(saved))visited=new Set(saved.filter(n=>Number.isInteger(n)&&n>=1&&n<=365))}catch(_){visited=new Set()}
+let active=1;
 const shapes=['','s1','s2','s3','s4','s5','s6','s7','s8'];
-const titles=['UNA PEQUEÑA SORPRESA.','UN RAYITO DE LUZ.','UNA CANCIÓN PARA TI.','UN MOMENTO NUESTRO.','UN DETALLE INESPERADO.','UNA IDEA BRILLANTE.'];
-const keywords=['COMIENZO','LUZ','MÚSICA','RECUERDO','SORPRESA','CREATIVIDAD'];
+const safeText=(v)=>typeof v==='string'?v.trim():'';
+function entryFor(n){return Array.isArray(CALENDARIO)?CALENDARIO.find(d=>Number(d.dia)===n):null}
+function keywordFor(n){const d=entryFor(n);if(!d)return 'POR DESCUBRIR';return safeText(d.categoria)||safeText(d.tono)||'UN DETALLE'}
 for(let n=1;n<=365;n++){const b=document.createElement('button');b.className='door '+shapes[(n*7+n%5)%shapes.length]+(n===1?' featured':'');b.type='button';b.innerHTML='<b>'+String(n).padStart(2,'0')+'</b>';b.setAttribute('aria-label','Abrir puerta '+n);b.style.setProperty('--tilt',(((n%5)-2)*1.2)+'deg');b.addEventListener('click',()=>openDoor(n));grid.appendChild(b)}
-function openDoor(n){active=n;document.querySelector('#day-label').textContent='PUERTA '+String(n).padStart(3,'0')+' / 365';document.querySelector('#letter-title').textContent=titles[(n-1)%titles.length];document.querySelector('#letter-text').textContent='Esta es la estructura inicial de la puerta '+n+'. El contenido definitivo se integrará después de revisar y validar los textos originales, sin inventar recuerdos personales.';document.querySelector('#keyword').textContent='PALABRA CLAVE · '+keywords[(n-1)%keywords.length];document.querySelector('#save').textContent=visited.has(n)?'MOMENTO GUARDADO ✓':'GUARDAR ESTE MOMENTO ✦';backdrop.classList.add('open');document.querySelector('#close').focus()}
-function update(){document.querySelector('#count').textContent=visited.size+' / 365';document.querySelector('#fill').style.width=(visited.size/365*100)+'%';document.querySelectorAll('.door').forEach((b,i)=>{b.classList.toggle('done',visited.has(i+1));if(visited.has(i+1))b.title=keywords[i%keywords.length]})}
-function close(){backdrop.classList.remove('open')}document.querySelector('#close').addEventListener('click',close);backdrop.addEventListener('click',e=>{if(e.target===backdrop)close()});document.addEventListener('keydown',e=>{if(e.key==='Escape')close()});document.querySelector('#save').addEventListener('click',()=>{visited.add(active);update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
+function openDoor(n){
+ active=n;const d=entryFor(n);
+ document.querySelector('#day-label').textContent='PUERTA '+String(n).padStart(3,'0')+' / 365'+(d&&d.fechaTexto?' · '+d.fechaTexto.toUpperCase():'');
+ document.querySelector('#letter-title').textContent=d?(safeText(d.categoria)||'UN DETALLE PARA TI').toUpperCase():(n<=365?'ESTA PUERTA ESTÁ POR DESCUBRIR':'');
+ const pieces=[];
+ if(d){if(safeText(d.buenosDias))pieces.push('PARA EMPEZAR EL DÍA\n'+d.buenosDias);if(Array.isArray(d.poema))d.poema.forEach((p,i)=>{if(safeText(p))pieces.push((i===0?'UN PENSAMIENTO':'OTRA COSA PARA RECORDAR')+'\n'+p)});if(safeText(d.detalle))pieces.push('PEQUEÑO DETALLE\n'+d.detalle);if(safeText(d.buenasNoches))pieces.push('PARA CERRAR EL DÍA\n'+d.buenasNoches);if(safeText(d.cancionTitulo))pieces.push('CANCIÓN\n'+d.cancionTitulo+(d.cancionArtista?' — '+d.cancionArtista:''));}
+ else pieces.push('El calendario original disponible contiene 78 días con contenido escrito. Esta puerta todavía no tiene un mensaje verificado; la dejamos pendiente para no inventar recuerdos ni atribuirle a Aleja detalles que no estén confirmados.');
+ document.querySelector('#letter-text').textContent=pieces.join('\n\n');
+ document.querySelector('#keyword').textContent='PALABRA CLAVE · '+keywordFor(n).toLocaleUpperCase('es-CO');
+ document.querySelector('#save').textContent=visited.has(n)?'MOMENTO GUARDADO ✓':'GUARDAR ESTE MOMENTO ✦';
+ backdrop.classList.add('open');document.querySelector('#close').focus()
+}
+function update(){document.querySelector('#count').textContent=visited.size+' / 365';document.querySelector('#fill').style.width=(visited.size/365*100)+'%';document.querySelectorAll('.door').forEach((b,i)=>{b.classList.toggle('done',visited.has(i+1));if(visited.has(i+1))b.title=keywordFor(i+1)})}
+function close(){backdrop.classList.remove('open')}
+document.querySelector('#close').addEventListener('click',close);
+backdrop.addEventListener('click',e=>{if(e.target===backdrop)close()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')close()});
+document.querySelector('#save').addEventListener('click',()=>{visited.add(active);try{localStorage.setItem(storageKey,JSON.stringify([...visited]))}catch(_){}update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
+update();
 </script>
 </body>
 </html>
