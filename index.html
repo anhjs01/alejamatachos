@@ -37,6 +37,26 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .letter p{white-space:pre-line;overflow-wrap:anywhere}
 .backdrop{padding:18px;overflow-y:auto;align-items:center}
 @media(max-width:560px){.calendar-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:7px}.door-keyword{font-size:.55rem}.letter{width:100%;padding:26px 22px;box-shadow:6px 6px 0 var(--blue)}}
+
+/* Lienzo interactivo */
+.canvas-studio{border:1px solid var(--line);background:#0b1012;padding:clamp(16px,3vw,30px);margin-top:28px;position:relative;overflow:hidden}
+.canvas-studio:before{content:"";position:absolute;inset:0;background-image:radial-gradient(#8edff51c .8px,transparent .8px);background-size:16px 16px;pointer-events:none}
+.canvas-top,.canvas-tools{position:relative;z-index:1;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.canvas-top h3{font-size:clamp(1.3rem,3vw,2rem);margin:7px 0 16px}
+.canvas-tools{justify-content:flex-start;margin:12px 0}
+.canvas-palette{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.color-dot{width:30px;height:30px;border-radius:50% 42% 48% 38%;border:2px solid #ffffff70;cursor:pointer;transform:rotate(-8deg)}
+.color-dot[aria-pressed="true"]{outline:2px solid var(--blue);outline-offset:3px}
+.canvas-action{font:700 .72rem var(--mono,monospace);letter-spacing:.04em;border:1px solid var(--line);background:#121a1d;color:var(--ink);padding:11px 13px;cursor:pointer;border-radius:999px}
+.canvas-action:hover{border-color:var(--blue);color:var(--blue)}
+.canvas-action:focus-visible,.color-dot:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+.canvas-size{display:flex;align-items:center;gap:10px;color:var(--muted);font: .75rem monospace}
+.canvas-size input{width:110px;accent-color:var(--blue)}
+.canvas-wrap{position:relative;z-index:1;border:1px solid #324147;background:#f7f4ec;overflow:hidden;touch-action:none}
+#lienzo-canvas{display:block;width:100%;height:clamp(260px,48vw,460px);cursor:crosshair;touch-action:none}
+.canvas-status{position:relative;z-index:1;color:var(--muted);font-size:.78rem;line-height:1.6;margin:12px 0 0}
+@media(max-width:560px){.canvas-studio{padding:14px}.canvas-action{padding:10px 11px}.color-dot{width:27px;height:27px}}
+
 </style>
 </head>
 <body>
@@ -45,6 +65,34 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 <section class="hero" id="inicio"><div><div class="eyebrow mono">Un universo hecho para ti · 365 días</div><h1>365 DÍAS<span>DE <small>✳</small> ALEJA</span></h1><p class="intro">Una puerta cada día. Música, pequeñas sorpresas, creatividad y momentos por descubrir. Un universo visual hecho a medida, con una identidad distinta en cada rincón.</p><div class="actions"><a class="btn" href="#calendario">DESCUBRIR EL CALENDARIO ↗</a><a class="btn secondary" href="#universo">EXPLORAR</a></div></div><div class="hero-art"><div class="orbit" aria-hidden="true">✳</div><div class="portrait"><img src="https://raw.githubusercontent.com/anhjs01/mismatachos/main/aleja/WhatsApp%20Image%202026-10-13%20at%207.00.35%20PM.jpeg" alt="Aleja" onerror="this.style.display='none';this.parentElement.style.background='radial-gradient(ellipse at 50% 40%,#243b42,#0c1315 65%)'"></div><div class="sticker">HECHO CON<br>MUCHO AMOR ✦</div><div class="sticker bottom">365 DÍAS<br>UNA HISTORIA</div></div></section>
 <section class="section" id="calendario"><div class="section-head"><div><div class="mono">01 / El ritual de cada día</div><h2>CALENDARIO<br><span>DE ADVIENTO.</span></h2></div><p class="section-intro">Un muro de pequeñas puertas sorpresa. Cada una tiene su propio contorno y carácter. Solo verás el número hasta que decidas abrirla; después, el contenido y su palabra clave aparecerán aparte.</p></div><div class="calendar-box"><div class="calendar-meta"><div><div class="mono">365 PUERTAS · UN RECORRIDO</div><div style="font-weight:700;font-size:1.15rem;margin-top:7px">¿Cuál abrimos hoy? <span class="blue">✳</span></div></div><div class="meter"><div class="meterline mono"><span>VISITADAS</span><span id="count">0 / 365</span></div><div class="meterbar"><span id="fill"></span></div></div></div><div class="calendar-grid" id="grid" aria-label="Calendario de adviento de 365 días"></div><div class="calendar-foot"><span><span class="blue">✦</span> Puerta visitada</span><span>Formas diferentes, números visibles</span><span>La palabra clave aparece al abrir la puerta</span></div></div></section>
 <section class="section" id="universo"><div class="section-head"><div><div class="mono">02 / Más allá del calendario</div><h2>UN UNIVERSO<br><span>PROPIO.</span></h2></div><p class="section-intro">Cada espacio tendrá su propia personalidad sin perder el hilo visual: trazos dibujados, collage, tipografía expresiva, geometrías imperfectas y movimiento con intención.</p></div><div class="cards"><article class="card" id="musica"><div class="symbol">♫</div><div class="mono">01 / SONIDO</div><h3>Rincón del sonido</h3><p>Catálogo musical real y reproductor compartido. La integración se hará desde las fuentes existentes, sin inventar identificadores ni prometer reproducción antes de probarla.</p></article><article class="card" id="arte"><div class="symbol">✳</div><div class="mono">02 / CREACIÓN</div><h3>El lienzo</h3><p>Un estudio para dibujar, explorar colores y conservar creaciones, con controles cómodos tanto en móvil como en escritorio.</p></article><article class="card" id="juegos"><div class="symbol">↗</div><div class="mono">03 / JUEGO</div><h3>Pequeños mundos</h3><p>Minijuegos originales con interacción, retos y detalles gráficos propios, pensados para sentirse parte del mismo universo.</p></article></div></section>
+
+<section class="section" id="lienzo">
+  <div class="section-head">
+    <div><div class="mono">03 / Un lugar para crear</div><h2>EL<br><span>LIENZO.</span></h2></div>
+    <p class="section-intro">Un pequeño estudio para dibujar sin tener que instalar nada. Usa el dedo en el teléfono o el ratón en el computador; puedes deshacer trazos, guardar tu dibujo en este navegador o exportarlo como imagen.</p>
+  </div>
+  <div class="canvas-studio">
+    <div class="canvas-top"><div><div class="mono">ESTUDIO ABIERTO · 001</div><h3>Deja aquí una idea.</h3></div><button class="canvas-action" id="canvas-restore" type="button">RECUPERAR DIBUJO</button></div>
+    <div class="canvas-tools"><div class="canvas-palette" role="group" aria-label="Color del pincel" id="canvas-palette">
+      <button class="color-dot" type="button" data-color="#101719" aria-label="Negro" aria-pressed="true" style="background:#101719"></button>
+      <button class="color-dot" type="button" data-color="#38c9f0" aria-label="Azul cielo" aria-pressed="false" style="background:#38c9f0"></button>
+      <button class="color-dot" type="button" data-color="#f06b91" aria-label="Rosa" aria-pressed="false" style="background:#f06b91"></button>
+      <button class="color-dot" type="button" data-color="#ffbd59" aria-label="Amarillo" aria-pressed="false" style="background:#ffbd59"></button>
+      <button class="color-dot" type="button" data-color="#4baf85" aria-label="Verde" aria-pressed="false" style="background:#4baf85"></button>
+      <button class="color-dot" type="button" data-color="#ffffff" aria-label="Blanco" aria-pressed="false" style="background:#ffffff"></button>
+    </div></div>
+    <div class="canvas-tools"><label class="canvas-size" for="canvas-brush">TAMAÑO <input id="canvas-brush" type="range" min="1" max="28" value="5"><span id="canvas-brush-value">5 px</span></label>
+      <button class="canvas-action" id="canvas-undo" type="button">↶ DESHACER</button>
+      <button class="canvas-action" id="canvas-eraser" type="button" aria-pressed="false">BORRADOR</button>
+      <button class="canvas-action" id="canvas-clear" type="button">LIMPIAR</button>
+      <button class="canvas-action" id="canvas-save" type="button">GUARDAR AQUÍ</button>
+      <button class="canvas-action" id="canvas-export" type="button">EXPORTAR PNG ↓</button>
+    </div>
+    <div class="canvas-wrap"><canvas id="lienzo-canvas" aria-label="Lienzo en blanco para dibujar" role="img"></canvas></div>
+    <p class="canvas-status" id="canvas-status" role="status" aria-live="polite">El dibujo se guarda solo cuando pulsas «Guardar aquí». Permanece en este navegador y no se sincroniza con otros dispositivos.</p>
+  </div>
+</section>
+
 </main><footer><div><div class="footer-logo">ALEJA<span>✳</span></div><div class="mono" style="margin-top:7px">365 días · una sola historia</div></div><div class="mono">MÚSICA · ARTE · SORPRESAS · TÚ ♥</div><a href="#inicio" class="btn secondary">VOLVER ARRIBA ↑</a></footer>
 <div class="backdrop" id="backdrop" role="dialog" aria-modal="true" aria-labelledby="letter-title"><article class="letter"><button class="close" id="close" aria-label="Cerrar">×</button><div class="mono" id="day-label">PUERTA 001 / 365</div><h2 id="letter-title">UNA PEQUEÑA<br>SORPRESA.</h2><p id="letter-text">Esta puerta es el punto de entrada visual. Su contenido definitivo se incorporará desde los materiales originales revisados.</p><div class="mono" id="keyword">PALABRA CLAVE · COMIENZO</div>
 <button class="song-action" id="play-day-song" type="button">▶ ESCUCHAR CANCIÓN DEL DÍA</button><button class="btn" id="save">GUARDAR ESTE MOMENTO ✦</button></article></div><div class="toast" id="toast" role="status">Momento guardado ✦</div>
@@ -84,6 +132,43 @@ document.querySelector('#play-day-song').addEventListener('click',()=>{const d=e
 const oldOpenDoor=openDoor;
 openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySelector('#play-day-song');b.disabled=!(d&&d.youtubeId);b.textContent=(d&&d.youtubeId)?'▶ ESCUCHAR CANCIÓN DEL DÍA':'CANCIÓN AÚN NO DISPONIBLE';};
 document.querySelector('#save').addEventListener('click',()=>{visited.add(active);try{localStorage.setItem(storageKey,JSON.stringify([...visited]))}catch(_){}update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
+
+/* Estudio de dibujo: táctil, ratón, deshacer y almacenamiento local. */
+(function(){
+ const canvas=document.getElementById('lienzo-canvas'); if(!canvas)return;
+ const ctx=canvas.getContext('2d',{alpha:false});
+ const brush=document.getElementById('canvas-brush'), brushValue=document.getElementById('canvas-brush-value');
+ const status=document.getElementById('canvas-status'), palette=document.getElementById('canvas-palette');
+ const saveKey='aleja-lienzo-v1'; let color='#101719', erasing=false, drawing=false, last=null, history=[];
+ function background(){ctx.fillStyle='#f7f4ec';ctx.fillRect(0,0,canvas.width,canvas.height)}
+ function snapshot(){try{history.push(canvas.toDataURL('image/png'));if(history.length>25)history.shift()}catch(_){}}
+ function resize(){
+   const old=document.createElement('canvas');old.width=canvas.width||1;old.height=canvas.height||1;
+   if(canvas.width&&canvas.height)old.getContext('2d').drawImage(canvas,0,0);
+   const rect=canvas.getBoundingClientRect(), ratio=Math.min(window.devicePixelRatio||1,2);
+   canvas.width=Math.max(1,Math.round(rect.width*ratio));canvas.height=Math.max(1,Math.round(rect.height*ratio));
+   background();if(old.width>1&&old.height>1)ctx.drawImage(old,0,0,old.width,old.height,0,0,canvas.width,canvas.height);
+   ctx.lineCap='round';ctx.lineJoin='round';
+ }
+ function point(e){const r=canvas.getBoundingClientRect();return {x:(e.clientX-r.left)*(canvas.width/r.width),y:(e.clientY-r.top)*(canvas.height/r.height)}}
+ function down(e){if(e.button!==undefined&&e.button!==0)return;drawing=true;last=point(e);canvas.setPointerCapture?.(e.pointerId);ctx.beginPath();ctx.arc(last.x,last.y,Math.max(1,Number(brush.value)*(canvas.width/canvas.getBoundingClientRect().width)/2),0,Math.PI*2);ctx.fillStyle=erasing?'#f7f4ec':color;ctx.fill();snapshot();e.preventDefault()}
+ function move(e){if(!drawing||!last)return;const p=point(e);ctx.beginPath();ctx.moveTo(last.x,last.y);ctx.lineTo(p.x,p.y);ctx.strokeStyle=erasing?'#f7f4ec':color;ctx.lineWidth=Number(brush.value)*(canvas.width/canvas.getBoundingClientRect().width);ctx.stroke();last=p;e.preventDefault()}
+ function up(){drawing=false;last=null}
+ function restoreData(data){const img=new Image();img.onload=()=>{background();ctx.drawImage(img,0,0,canvas.width,canvas.height);snapshot();status.textContent='Dibujo recuperado en este lienzo.'};img.onerror=()=>status.textContent='No se pudo abrir el dibujo guardado.';img.src=data}
+ canvas.addEventListener('pointerdown',down);canvas.addEventListener('pointermove',move);canvas.addEventListener('pointerup',up);canvas.addEventListener('pointercancel',up);canvas.addEventListener('lostpointercapture',up);
+ palette.addEventListener('click',e=>{const b=e.target.closest('[data-color]');if(!b)return;color=b.dataset.color;erasing=false;document.getElementById('canvas-eraser').setAttribute('aria-pressed','false');palette.querySelectorAll('[data-color]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)))});
+ brush.addEventListener('input',()=>brushValue.textContent=brush.value+' px');
+ document.getElementById('canvas-eraser').addEventListener('click',e=>{erasing=!erasing;e.currentTarget.setAttribute('aria-pressed',String(erasing));e.currentTarget.textContent=erasing?'BORRADOR ACTIVO':'BORRADOR'});
+ document.getElementById('canvas-undo').addEventListener('click',()=>{if(history.length<2){status.textContent='No hay más trazos para deshacer.';return}history.pop();restoreData(history.pop())});
+ document.getElementById('canvas-clear').addEventListener('click',()=>{snapshot();background();snapshot();status.textContent='Lienzo limpio. Tu dibujo guardado anteriormente no se ha borrado.'});
+ document.getElementById('canvas-save').addEventListener('click',()=>{try{localStorage.setItem(saveKey,canvas.toDataURL('image/png'));status.textContent='Dibujo guardado en este navegador.'}catch(_){status.textContent='El navegador no permitió guardar el dibujo. Usa Exportar PNG para conservar una copia.'}});
+ document.getElementById('canvas-restore').addEventListener('click',()=>{try{const data=localStorage.getItem(saveKey);if(data)restoreData(data);else status.textContent='Todavía no hay un dibujo guardado en este navegador.'}catch(_){status.textContent='No se pudo acceder al almacenamiento local.'}});
+ document.getElementById('canvas-export').addEventListener('click',()=>{try{const a=document.createElement('a');a.href=canvas.toDataURL('image/png');a.download='aleja-mi-dibujo.png';a.click();status.textContent='Se solicitó exportar el dibujo como PNG.'}catch(_){status.textContent='No se pudo exportar la imagen.'}});
+ resize();snapshot();
+ try{const saved=localStorage.getItem(saveKey);if(saved)restoreData(saved)}catch(_){}
+ if('ResizeObserver' in window){let pending=false;new ResizeObserver(()=>{if(pending)return;pending=true;requestAnimationFrame(()=>{pending=false;resize()})}).observe(canvas)}
+})();
+
 update();
 if('serviceWorker' in navigator && location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}))}
 </script>
