@@ -420,6 +420,22 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 @keyframes urban-spin{to{rotate:360deg}}
 @media(max-width:700px){.urban-atmosphere{opacity:.44}.urban-atmosphere svg{width:70vw}.urban-atmosphere .doodle-left{left:-30%;top:19%}.urban-atmosphere .doodle-right{right:-29%;top:62%;width:65vw}.urban-tag.tag-one{right:2%;top:34%}.urban-tag.tag-two{left:2%;top:78%}}
 @media(prefers-reduced-motion:reduce){.urban-atmosphere *, .urban-tag,.urban-crosshair{animation:none!important;will-change:auto}}
+
+/* Calendario: segunda capa visual propia y brillo continuo al mantener el cursor */
+.calendar-box{position:relative;isolation:isolate;overflow:hidden;background:linear-gradient(135deg,#0b1519f2 0%,#0a1014ed 48%,#101c20f2 100%);box-shadow:inset 0 1px 0 #b6f4ff0c,0 24px 70px #0003}
+.calendar-box:before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(ellipse at 14% 18%,#53dfff16 0,transparent 34%),radial-gradient(ellipse at 84% 70%,#4a91a51b 0,transparent 38%),repeating-linear-gradient(132deg,transparent 0 38px,#74d9e609 39px,#74d9e609 40px,transparent 41px 78px);background-size:100% 100%,100% 100%,220% 220%;animation:calendar-drift 34s linear infinite}
+.calendar-box:after{content:"✳     ·       ✦          ·      ✧";position:absolute;inset:12px 18px auto auto;z-index:-1;pointer-events:none;color:#8beaff20;font:clamp(1.1rem,3vw,2.4rem) 'DM Mono',monospace;letter-spacing:.45em;white-space:pre;animation:calendar-spark 8s ease-in-out infinite alternate}
+.calendar-box>*{position:relative;z-index:1}
+.calendar-meta{padding-bottom:17px;border-bottom:1px solid #7ccddd18}
+.calendar-grid{position:relative}
+.calendar-grid:before{content:"";position:absolute;inset:-8px;z-index:-1;pointer-events:none;background:radial-gradient(circle at 18% 25%,#53dfff0b 0 1px,transparent 2px),radial-gradient(circle at 72% 66%,#b4f7ff12 0 1px,transparent 2px);background-size:31px 29px,43px 37px;opacity:.9}
+.door:after{background:linear-gradient(112deg,transparent 0%,transparent 35%,#b9f7ff05 42%,#b9f7ff48 49%,#ffffff26 51%,#53dfff20 56%,transparent 64%,transparent 100%);background-size:230% 100%;background-position:100% 0;transition:opacity .2s}
+.door:hover:after,.door:focus-visible:after{opacity:1;animation:door-sheen-loop 3.2s ease-in-out infinite}
+@keyframes door-sheen-loop{0%,12%{background-position:100% 0;transform:translateX(-2%)}48%,62%{background-position:0 0;transform:translateX(2%)}100%{background-position:100% 0;transform:translateX(-2%)}}
+@keyframes calendar-drift{0%{background-position:0 0,0 0,0 0}100%{background-position:0 0,0 0,220px 220px}}
+@keyframes calendar-spark{0%{opacity:.3;transform:translate3d(0,0,0) rotate(-4deg)}100%{opacity:.8;transform:translate3d(-8px,7px,0) rotate(4deg)}}
+@media(prefers-reduced-motion:reduce){.calendar-box:before,.calendar-box:after,.door:hover:after,.door:focus-visible:after{animation:none!important}.door:hover:after,.door:focus-visible:after{background-position:50% 0}}
+
 </style>
 </head>
 <body>
