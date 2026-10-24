@@ -16,6 +16,30 @@
 @media(max-width:420px){.brand .brand-name{display:none}.topbar .btn{padding:7px 8px}.stage-actions .btn.export-label{font-size:0;gap:0}.stage-actions .btn.export-label .glyph{font-size:16px}.tool-btn{width:39px;min-height:41px}.tool-btn .glyph{font-size:17px}.board-viewport{padding-left:52px}.grid2{gap:7px}}
 @media(orientation:landscape) and (max-height:520px){:root{--top:48px}.topbar{padding-inline:8px}.brand-mark{width:26px;height:26px}.toolrail{padding-block:4px;gap:1px}.tool-btn{min-height:35px}.tool-btn .glyph{font-size:16px}.stage-toolbar{min-height:36px}.board-viewport{padding:8px 15px}.board-shadow{height:100%;width:auto;aspect-ratio:3/2;max-width:100%}.right-panel .panel-section{padding:9px}.mobile-drawer{top:43px}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;scroll-behavior:auto!important}}
+/* Paneles con margen inferior y desplazamiento independiente */
+.workspace>.right-panel{align-self:stretch;box-sizing:border-box;height:calc(100% - 40px);margin:12px 0 28px;overflow-y:auto;overscroll-behavior:contain;border-radius:18px 0 0 18px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.right-panel .panel-tabs{flex-shrink:0}
+.zoom-dock .focus-board{width:34px;border-left:1px solid #ffffff18;border-radius:10px;font-size:20px;color:#dbeafe}
+.panel-close{display:none}
+@media(max-width:700px){
+ .workspace>.right-panel{height:min(72dvh,620px);max-height:calc(100dvh - 112px);margin:0;inset:auto 0 0;width:100%;border-radius:22px 22px 0 0;border:1px solid var(--line);border-bottom:0;padding-bottom:calc(12px + env(safe-area-inset-bottom));overflow-y:auto}
+ .right-panel .panel-tabs{grid-template-columns:repeat(4,minmax(0,1fr));padding:8px;gap:5px}
+ .right-panel .panel-tab{min-width:0;padding:10px 2px;font-size:11px}
+ .panel-close{display:inline-flex;align-items:center;justify-content:center;border:1px solid #ffffff16;border-radius:10px;background:#ffffff08;color:var(--ink);font-size:21px;font-weight:500}
+ .mobile-drawer{display:none!important}
+ .stage-toolbar{position:relative;z-index:16;min-width:0}
+ .stage-actions{min-width:0;max-width:100%}
+ .board-viewport{min-width:0}
+ .zoom-dock{max-width:calc(100% - 70px);gap:2px}
+ .zoom-dock .focus-board{width:32px}
+}
+@media(max-width:420px){
+ .right-panel .panel-tabs{padding:6px;gap:3px}
+ .right-panel .panel-tab{font-size:10px;padding:9px 1px}
+ .zoom-dock{left:calc(50% + 20px);padding:4px}
+ .zoom-dock .btn{width:29px;height:29px}
+ .zoom-dock .focus-board{width:30px}
+}
 </style>
 </head>
 <body>
@@ -71,10 +95,10 @@
 <div class="board-empty" id="empty-hint"><div><span>✳</span><b>Tu idea empieza aquí</b><small>Escribe, dibuja o añade una imagen</small></div></div>
 </div>
 </div>
-<div class="zoom-dock" aria-label="Control de zoom"><button class="btn" id="zoom-out" aria-label="Alejar">−</button><span class="zoom-value" id="zoom-label">100%</span><button class="btn" id="zoom-in" aria-label="Acercar">＋</button><button class="btn" id="zoom-reset" aria-label="Restablecer zoom">↺</button></div>
+<div class="zoom-dock" aria-label="Control de zoom"><button class="btn" id="zoom-out" aria-label="Alejar">−</button><span class="zoom-value" id="zoom-label">100%</span><button class="btn" id="zoom-in" aria-label="Acercar">＋</button><button class="btn" id="zoom-reset" aria-label="Restablecer zoom">↺</button><button class="btn focus-board" id="focus-board" aria-label="Centrar y ajustar el lienzo" title="Encontrar lienzo y ajustarlo a pantalla">⌖</button></div>
 </section>
 <aside class="right-panel" id="right-panel" aria-label="Propiedades, capas y recursos">
-<div class="panel-tabs" role="tablist"><button class="panel-tab" data-panel="properties" role="tab" aria-selected="true">Editar</button><button class="panel-tab" data-panel="layers" role="tab" aria-selected="false">Capas</button><button class="panel-tab" data-panel="canvas" role="tab" aria-selected="false">Lienzo</button></div>
+<div class="panel-tabs" role="tablist"><button class="panel-tab" data-panel="properties" role="tab" aria-selected="true">Editar</button><button class="panel-tab" data-panel="layers" role="tab" aria-selected="false">Capas</button><button class="panel-tab" data-panel="canvas" role="tab" aria-selected="false">Lienzo</button><button class="panel-close mobile-only" id="close-panel" type="button" aria-label="Ocultar panel" title="Ocultar opciones">×</button></div>
 <section class="panel-section" data-section="properties">
 <div class="section-head"><div><div class="eyebrow">Inspector</div><h2 id="selection-title">Diseño y estilo</h2></div><button class="btn small ghost" id="clear-selection">Deseleccionar</button></div>
 <div id="no-selection">
@@ -246,7 +270,7 @@ viewport.addEventListener('pointermove',e=>{if(!gesture||!gesture.pointers.has(e
 function endGesture(e){if(!gesture)return;gesture.pointers.delete(e.pointerId);if(gesture.pointers.size<2)gesture.start=null;if(!gesture.pointers.size)gesture=null}viewport.addEventListener('pointerup',endGesture);viewport.addEventListener('pointercancel',endGesture);
 viewport.addEventListener('wheel',e=>{if(canvasViewLocked&&(e.ctrlKey||e.metaKey)){e.preventDefault();return}if(e.ctrlKey||e.metaKey){e.preventDefault();const r=viewport.getBoundingClientRect(),next=clamp(zoom*(e.deltaY<0?1.1:.9),.12,4),ratio=next/zoom;panX=(e.clientX-r.left-r.width/2)-(e.clientX-r.left-r.width/2-panX)*ratio;panY=(e.clientY-r.top-r.height/2)-(e.clientY-r.top-r.height/2-panY)*ratio;zoom=next;applyView()}},{passive:false});
 document.querySelectorAll('[data-tool]').forEach(b=>b.addEventListener('click',()=>setTool(b.dataset.tool)));
-document.querySelectorAll('[data-panel]').forEach(b=>b.addEventListener('click',()=>switchPanel(b.dataset.panel)));
+document.querySelectorAll('[data-panel]').forEach(b=>b.addEventListener('click',()=>{if(window.matchMedia('(max-width:700px)').matches&&panel.classList.contains('mobile-open')&&b.getAttribute('aria-selected')==='true'){panel.classList.remove('mobile-open');return}switchPanel(b.dataset.panel)}));
 $('undo').addEventListener('click',undo);$('redo').addEventListener('click',redo);
 $('project-name').addEventListener('change',()=>{doc.name=$('project-name').value.trim()||'Diseño sin título';snapshot()});
 $('quick-color').addEventListener('input',e=>{brushColor=e.target.value;$('new-text-color').value=e.target.value;$('obj-color').value=e.target.value});
@@ -266,7 +290,7 @@ $('rotate-left').addEventListener('click',()=>{const l=currentLayer();if(l&&!l.l
 $('move-back').addEventListener('click',()=>reorderSelected(-1));$('move-front').addEventListener('click',()=>reorderSelected(1));$('layer-up').addEventListener('click',()=>reorderSelected(1));$('layer-down').addEventListener('click',()=>reorderSelected(-1));$('duplicate-object').addEventListener('click',duplicateSelected);$('delete-object').addEventListener('click',deleteSelected);$('layer-lock').addEventListener('click',()=>{const l=currentLayer();if(l){l.locked=!l.locked;commit()}});$('layer-visible').addEventListener('click',()=>{const l=currentLayer();if(l){l.visible=!l.visible;commit()}});
 $('canvas-preset').addEventListener('change',e=>{const p=PRESETS[e.target.value];if(p){$('canvas-width').value=p[0];$('canvas-height').value=p[1]}});
 $('apply-size').addEventListener('click',()=>setCanvasSize($('canvas-width').value,$('canvas-height').value));$('swap-orientation').addEventListener('click',()=>setCanvasSize(doc.height,doc.width));
-document.querySelectorAll('[data-bg]').forEach(b=>b.addEventListener('click',()=>{doc.bg=b.dataset.bg;syncDocumentControls();render();snapshot()}));$('custom-bg').addEventListener('input',e=>{doc.bg=e.target.value;syncDocumentControls();render();changed()});$('show-safe').addEventListener('change',e=>{doc.safe=e.target.checked;render();snapshot()});$('grid-size').addEventListener('input',e=>{$('grid-size-out').textContent=e.target.value+' px';doc.gridSize=Number(e.target.value);render();changed()});$('toggle-grid').addEventListener('click',()=>{doc.grid=!doc.grid;$('toggle-grid').setAttribute('aria-pressed',String(doc.grid));render();snapshot()});$('fit-board').addEventListener('click',fitView);$('zoom-in').addEventListener('click',()=>{zoom=clamp(zoom*1.2,.12,4);applyView()});$('zoom-out').addEventListener('click',()=>{zoom=clamp(zoom/1.2,.12,4);applyView()});$('zoom-reset').addEventListener('click',fitView);
+document.querySelectorAll('[data-bg]').forEach(b=>b.addEventListener('click',()=>{doc.bg=b.dataset.bg;syncDocumentControls();render();snapshot()}));$('custom-bg').addEventListener('input',e=>{doc.bg=e.target.value;syncDocumentControls();render();changed()});$('show-safe').addEventListener('change',e=>{doc.safe=e.target.checked;render();snapshot()});$('grid-size').addEventListener('input',e=>{$('grid-size-out').textContent=e.target.value+' px';doc.gridSize=Number(e.target.value);render();changed()});$('toggle-grid').addEventListener('click',()=>{doc.grid=!doc.grid;$('toggle-grid').setAttribute('aria-pressed',String(doc.grid));render();snapshot()});$('fit-board').addEventListener('click',fitView);$('zoom-in').addEventListener('click',()=>{zoom=clamp(zoom*1.2,.12,4);applyView()});$('zoom-out').addEventListener('click',()=>{zoom=clamp(zoom/1.2,.12,4);applyView()});$('zoom-reset').addEventListener('click',fitView);$('focus-board').addEventListener('click',()=>{fitView();tell('Lienzo centrado y ajustado a la pantalla.')});$('close-panel').addEventListener('click',()=>panel.classList.remove('mobile-open'));
 $('save-project').addEventListener('click',saveCopy);$('import-project').addEventListener('click',()=> $('project-input').click());$('project-input').addEventListener('change',e=>{const file=e.target.files&&e.target.files[0];e.target.value='';if(!file)return;if(file.size>25*1024*1024){tell('El archivo supera el límite de 25 MB.');return}if(!confirm('¿Importar este proyecto? El diseño actual se guardará en el navegador antes de abrir el archivo.'))return;const reader=new FileReader();reader.onload=()=>{let parsed;try{parsed=JSON.parse(String(reader.result||''))}catch(err){tell('El archivo no contiene un JSON válido.');return}if(!parsed||!Array.isArray(parsed.layers)){tell('El JSON no parece ser un proyecto válido de Aleja Estudio.');return}if(restoreDoc(parsed)){history=[serialize()];redoStack=[];updateHistoryButtons();saveLocal();switchPanel('properties');tell('Proyecto importado correctamente')}};reader.onerror=()=>tell('No se pudo leer el archivo seleccionado.');reader.readAsText(file)});$('clear-document').addEventListener('click',()=>{if(confirm('¿Eliminar todas las capas de este diseño? Esta acción se puede deshacer.')){doc.layers=[];selectedId=null;commit();tell('Lienzo limpio')}});$('new-project').addEventListener('click',()=>{if(confirm('¿Crear un diseño nuevo? El proyecto actual permanece guardado en este navegador.')){saveLocal();doc={version:2,name:'Diseño sin título',width:1200,height:800,bg:'#ffffff',safe:false,grid:false,gridSize:50,layers:[]};selectedId=null;history=[];redoStack=[];syncDocumentControls();fitView();commit();snapshot();switchPanel('properties')}});
 $('export-open').addEventListener('click',()=>openModal('export-modal'));$('export-quality').addEventListener('input',e=>$('quality-out').textContent=e.target.value+'%');$('export-format').addEventListener('change',()=>{$('quality-wrap').hidden=$('export-format').value!=='jpeg';$('export-transparent').disabled=$('export-format').value!=='png'});$('do-export').addEventListener('click',exportDesign);
 $('help-open').addEventListener('click',()=>openModal('help-modal'));document.querySelectorAll('[data-close-modal]').forEach(b=>b.addEventListener('click',()=>closeModal(b.dataset.closeModal)));document.querySelectorAll('.modal-backdrop').forEach(m=>m.addEventListener('click',e=>{if(e.target===m)closeModal(m.id)}));
