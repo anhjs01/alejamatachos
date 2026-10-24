@@ -314,6 +314,30 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .door-wrap:nth-child(361) .door,.door-wrap:nth-child(362) .door,.door-wrap:nth-child(363) .door,.door-wrap:nth-child(364) .door,.door-wrap:nth-child(365) .door{clip-path:polygon(0 4%,96% 0,100% 91%,88% 100%,4% 96%);transform:none}
 .door-wrap:nth-child(361) .door:hover,.door-wrap:nth-child(362) .door:hover,.door-wrap:nth-child(363) .door:hover,.door-wrap:nth-child(364) .door:hover,.door-wrap:nth-child(365) .door:hover{transform:translateY(-3px) rotate(var(--tilt))}
 .door-wrap:nth-child(361) .door:before,.door-wrap:nth-child(362) .door:before,.door-wrap:nth-child(363) .door:before,.door-wrap:nth-child(364) .door:before,.door-wrap:nth-child(365) .door:before{inset:4px;clip-path:none}
+/* Calendario editorial: micrografismos, ritmo y estados visibles sin tocar la lógica de las 365 puertas */
+.calendar-meta{position:relative;padding-bottom:14px;border-bottom:1px solid #26383d}
+.calendar-meta:after{content:"365 / DAILY ARCHIVE";position:absolute;right:0;bottom:-7px;padding:0 8px;background:#0d1416;color:#66838b;font:9px 'DM Mono',monospace;letter-spacing:.12em}
+.calendar-grid{column-gap:clamp(6px,1.05vw,13px)}
+.door-wrap:before{content:"";position:absolute;top:-5px;left:3px;width:5px;height:5px;background:var(--blue);opacity:0;transform:rotate(45deg) scale(.5);transition:opacity .2s,transform .25s;pointer-events:none}
+.door-wrap:hover:before,.door-wrap:focus-within:before{opacity:.9;transform:rotate(45deg) scale(1)}
+.door-wrap:nth-child(8n+2):after,.door-wrap:nth-child(11n+5):after,.door-wrap:nth-child(17n+9):after{content:"✳";position:absolute;right:-5px;top:-9px;z-index:3;color:var(--blue);font:9px 'DM Mono',monospace;opacity:.55;pointer-events:none;transition:transform .3s,opacity .2s}
+.door-wrap:nth-child(11n+5):after{content:"+";font-size:13px}
+.door-wrap:nth-child(17n+9):after{content:"↗";font-size:10px}
+.door-wrap:hover:after,.door-wrap:focus-within:after{opacity:1;transform:rotate(24deg) scale(1.25)}
+.door{overflow:visible;will-change:transform}
+.door:after{content:"";position:absolute;inset:0;pointer-events:none;opacity:0;background:linear-gradient(135deg,transparent 38%,#53dfff18 49%,transparent 60%);transform:translateX(-55%);transition:opacity .18s}
+.door:hover:after,.door:focus-visible:after{opacity:1;animation:door-sheen .65s ease-out}
+.door.done b{text-shadow:0 0 12px #53dfff66}
+.door.done:before{border-color:#53dfff;opacity:.9}
+.door.featured{animation:door-glow 3.8s ease-in-out infinite}
+.door-keyword{letter-spacing:.07em;text-transform:uppercase}
+.calendar-foot{align-items:center}
+.calendar-foot:before{content:"✳";color:var(--blue);font-size:1rem}
+@keyframes door-sheen{from{transform:translateX(-55%)}to{transform:translateX(55%)}}
+@keyframes door-glow{0%,100%{box-shadow:0 0 12px #53dfff25}50%{box-shadow:0 0 23px #53dfff5c}}
+@media(max-width:560px){.door-wrap:nth-child(8n+2):after,.door-wrap:nth-child(11n+5):after,.door-wrap:nth-child(17n+9):after{right:-3px;top:-7px;font-size:8px}.calendar-meta:after{font-size:8px}}
+@media(prefers-reduced-motion:reduce){.door.featured{animation:none}.door:hover:after,.door:focus-visible:after{animation:none}}
+
 /* Playlist navegable */
 .music-playlist{max-width:900px;border:1px solid #35474d;background:linear-gradient(145deg,#111a1d,#090d0e);padding:clamp(16px,3vw,28px);border-radius:3px 18px 3px 18px}
 .playlist-heading{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-bottom:14px;border-bottom:1px solid #344247}
