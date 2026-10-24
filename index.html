@@ -212,22 +212,38 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 }
 @media(prefers-reduced-motion:reduce){.ring-one,.graphic-sound i,.welcome-foot-mark,.welcome-hero h1 .hero-name small{animation:none!important}}
 
+
+/* Portada depurada: el arte gráfico no reutiliza la foto personal. */
+.portrait-artwork{background:#080d10!important;position:relative;isolation:isolate;overflow:hidden}
+.portrait-artwork:before{content:"";position:absolute;inset:0;background:linear-gradient(145deg,#101b20 0%,#071014 56%,#10252a 100%);z-index:0}
+.cover-art-grid{position:absolute;inset:0;overflow:hidden;background:linear-gradient(90deg,transparent 49.8%,#53dfff1c 50%,transparent 50.2%),linear-gradient(transparent 49.8%,#53dfff16 50%,transparent 50.2%);background-size:48px 48px;z-index:1}
+.cover-art-orbit{position:absolute;width:78%;aspect-ratio:1;border:1px solid #53dfff99;border-radius:50%;left:9%;top:11%;transform:rotate(-24deg);box-shadow:0 0 0 24px #53dfff09,0 0 0 56px #53dfff06}
+.cover-art-orbit:before,.cover-art-orbit:after{content:"";position:absolute;inset:12%;border:1px dashed #f3f3ed7a;border-radius:50%;transform:rotate(48deg) scaleX(.55)}
+.cover-art-orbit:after{inset:-8% 30%;border:1px solid #53dfff75;transform:rotate(55deg)}
+.cover-art-star{position:absolute;top:12%;right:14%;font-size:clamp(3rem,7vw,5rem);color:#53dfff;animation:float 6s ease-in-out infinite}
+.cover-art-word{position:absolute;left:4%;right:0;top:38%;font-size:clamp(4rem,9vw,7.6rem);font-weight:700;letter-spacing:-.12em;color:transparent;-webkit-text-stroke:1.5px #f3f3ed;transform:rotate(-8deg);white-space:nowrap}
+.cover-art-label{position:absolute;left:8%;bottom:16%;font-size:.62rem;letter-spacing:.16em;color:#53dfff;transform:rotate(-7deg)}
+.cover-art-stamp{position:absolute;right:8%;bottom:8%;padding:12px 16px;background:#53dfff;color:#071014;font:700 .8rem 'DM Mono',monospace;line-height:1.6;transform:rotate(7deg);box-shadow:5px 5px 0 #f3f3ed}
+.cover-art-lines{position:absolute;width:50%;height:20%;left:7%;bottom:7%;border-top:2px solid #f3f3ed;border-bottom:1px solid #53dfff;transform:rotate(-11deg)}
+.welcome-secondary{display:none!important}
+@media(max-width:760px){.site-header nav{width:auto;margin-left:auto}.site-header nav .nav-btn{display:inline-flex}.header-note{display:none}.cover-art-word{font-size:clamp(3.8rem,15vw,6rem)}}
+
 </style>
 </head>
 <body>
-<header class="site-header"><a class="brand" href="#inicio" aria-label="Aleja, inicio">ALEJA<span>✳</span><i>®</i></a><div class="header-note mono">UN UNIVERSO PROPIO / 365 DÍAS</div><nav aria-label="Navegación principal"><a href="#calendario">Calendario</a><a href="#universo">Universo</a><a href="./lienzo.html">Lienzo</a><a href="#juego-reto">Juego</a><a class="nav-btn" href="#welcome-menu">ENTRAR AL UNIVERSO <span>↗</span></a></nav></header>
+<header class="site-header"><a class="brand" href="#inicio" aria-label="Aleja, inicio">ALEJA<span>✳</span><i>®</i></a><div class="header-note mono">UN UNIVERSO PROPIO / 365 DÍAS</div><nav aria-label="Navegación principal"><a class="nav-btn" href="#welcome-menu">ENTRAR A MI UNIVERSO <span>↗</span></a></nav></header>
 <main>
 <section class="hero welcome-hero" id="inicio">
  <div class="hero-copy">
   <div class="eyebrow mono"><span class="eyebrow-dot"></span> UN LUGAR HECHO SOLO PARA TI <span class="eyebrow-year">2026—2027</span></div>
   <div class="hero-title-wrap"><span class="hero-index mono">A / 001</span><h1>NO ES SOLO<br><em>UNA PÁGINA.</em><span class="hero-name">ES <b>ALEJA</b><small>✳</small></span></h1></div>
   <p class="intro">365 días. Canciones que dicen algo, pequeñas sorpresas y rincones para crear. Entra despacio: hay un universo entero esperándote.</p>
-  <div class="actions welcome-actions"><a class="btn welcome-primary" href="#welcome-menu"><span class="btn-number">01</span><span>ENTRAR A MI UNIVERSO</span><span class="btn-arrow">↗</span></a><a class="btn secondary welcome-secondary" href="#calendario"><span>DESCUBRIR LA PRIMERA PUERTA</span><span>↓</span></a></div>
+  <div class="actions welcome-actions"><a class="btn welcome-primary" href="#welcome-menu"><span class="btn-number">01</span><span>ENTRAR A MI UNIVERSO</span><span class="btn-arrow">↗</span></a></div>
   <div class="hero-footline"><span class="mono">HECHO CON MUCHO AMOR</span><span class="hand-note">y un poquito de magia ✳</span></div>
  </div>
  <div class="hero-art welcome-art">
   <div class="art-ring ring-one"></div><div class="art-ring ring-two"></div><span class="art-side-label mono">ALEJA / EDICIÓN PERSONAL</span>
-  <div class="portrait"><img src="https://raw.githubusercontent.com/anhjs01/mismatachos/main/aleja/WhatsApp%20Image%202026-10-13%20at%207.00.35%20PM.jpeg" alt="La protagonista del universo de Aleja" onerror="this.style.display='none';this.parentElement.classList.add('portrait-fallback')"><div class="portrait-overlay"></div><span class="portrait-caption mono">LA PROTAGONISTA<br>DE ESTA HISTORIA</span></div>
+  <div class="portrait portrait-artwork" role="img" aria-label="Composición gráfica abstracta de la portada, pendiente de sustituir por la ilustración de referencia"><div class="cover-art-grid" aria-hidden="true"><span class="cover-art-orbit"></span><span class="cover-art-star">✳</span><span class="cover-art-word">ALEJA</span><span class="cover-art-label mono">365 / UN UNIVERSO PROPIO</span><span class="cover-art-stamp">PARA TI<br>✦</span><span class="cover-art-lines"></span></div><div class="portrait-overlay"></div><span class="portrait-caption mono">UNA HISTORIA FUERA DE LO COMÚN</span></div>
   <div class="sticker welcome-sticker">EST. 365<br><span>✦</span> DÍAS</div><div class="sticker bottom welcome-sticker-bottom">ESTO ES<br><b>PARA TI.</b></div>
   <div class="orbit" aria-hidden="true">✳</div><div class="orbit-note mono">DESLIZA / EXPLORA / DESCUBRE</div>
   <svg class="hero-scribble" viewBox="0 0 220 90" aria-hidden="true"><path d="M8 62 C45 5 77 90 112 40 S174 4 210 28" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M193 16 L211 28 L194 39" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -242,10 +258,10 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
   <a class="welcome-tile tile-create" href="./lienzo.html"><span class="tile-number">03</span><span class="tile-graphic graphic-create" aria-hidden="true"><i>✳</i><b>CREA<br>SIN REGLAS</b></span><span class="tile-meta mono">ESTUDIO CREATIVO</span><strong>El lienzo<span>↗</span></strong><span class="tile-description">Tu imaginación también tiene casa.</span><span class="tile-stroke"></span></a>
   <a class="welcome-tile tile-game" href="#juego-reto"><span class="tile-number">04</span><span class="tile-graphic graphic-game" aria-hidden="true"><b>?</b><i>!</i></span><span class="tile-meta mono">UN MINUTO DE JUEGO</span><strong>Pequeños mundos<span>↗</span></strong><span class="tile-description">Juega, prueba, vuelve a intentarlo.</span><span class="tile-stroke"></span></a>
  </div>
- <div class="welcome-menu-foot"><span class="mono">NO ES SOLO UNA PÁGINA. ES ALEJA.</span><span class="welcome-foot-mark">✳</span><span class="mono">DESDE AQUÍ, TODO EMPIEZA.</span></div>
+ <div class="welcome-menu-foot"><span class="mono">365 DÍAS · UN SOLO UNIVERSO</span><span class="welcome-foot-mark">✳</span><span class="mono">ELIGE POR DÓNDE EMPEZAR.</span></div>
 </section>
 <section class="section" id="calendario"><div class="section-head"><div><div class="mono">01 / El ritual de cada día</div><h2>CALENDARIO<br><span>DE ADVIENTO.</span></h2></div><p class="section-intro">Un muro de pequeñas puertas sorpresa. Cada una tiene su propio contorno y carácter. Solo verás el número hasta que decidas abrirla; después, el contenido y su palabra clave aparecerán aparte.</p></div><div class="calendar-box"><div class="calendar-meta"><div><div class="mono">365 PUERTAS · UN RECORRIDO</div><div style="font-weight:700;font-size:1.15rem;margin-top:7px">¿Cuál abrimos hoy? <span class="blue">✳</span></div></div><div class="meter"><div class="meterline mono"><span>VISITADAS</span><span id="count">0 / 365</span></div><div class="meterbar"><span id="fill"></span></div></div></div><div class="calendar-grid" id="grid" aria-label="Calendario de adviento de 365 días"></div><div class="calendar-foot"><span><span class="blue">✦</span> Puerta visitada</span><span>Formas diferentes, números visibles</span><span>La palabra clave aparece al abrir la puerta</span></div></div></section>
-<section class="section" id="universo"><div class="section-head"><div><div class="mono">02 / Más allá del calendario</div><h2>UN UNIVERSO<br><span>PROPIO.</span></h2></div><p class="section-intro">Cada espacio tendrá su propia personalidad sin perder el hilo visual: trazos dibujados, collage, tipografía expresiva, geometrías imperfectas y movimiento con intención.</p></div><div class="cards"><article class="card" id="musica"><div class="symbol">♫</div><div class="mono">01 / SONIDO</div><h3>Rincón del sonido</h3><p>Catálogo musical real y reproductor compartido. La integración se hará desde las fuentes existentes, sin inventar identificadores ni prometer reproducción antes de probarla.</p></article><article class="card" id="arte"><div class="symbol">✳</div><div class="mono">02 / CREACIÓN</div><h3>El lienzo</h3><p>Un estudio para dibujar, explorar colores y conservar creaciones, con controles cómodos tanto en móvil como en escritorio.</p><a class="btn secondary" href="./lienzo.html">ABRIR EL LIENZO ↗</a></article><article class="card" id="juegos"><div class="symbol">↗</div><div class="mono">03 / JUEGO</div><h3>Pequeños mundos</h3><p>Minijuegos originales con interacción, retos y detalles gráficos propios, pensados para sentirse parte del mismo universo.</p><a class="btn secondary" href="#juego-reto">JUGAR AHORA ↗</a></article></div></section>
+
 
 
 <section class="section" id="juego-reto">
@@ -259,16 +275,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
  </div>
 </section>
 
-<section class="section" id="lienzo">
-  <div class="section-head">
-    <div><div class="mono">03 / Un lugar para crear</div><h2>EL<br><span>LIENZO.</span></h2></div>
-    <p class="section-intro">El calendario se queda aquí. Para crear sin distracciones, el lienzo tiene su propio estudio: herramientas de dibujo, paleta ampliada, ajustes de trazo y una hoja de trabajo independiente.</p>
-  </div>
-  <div class="canvas-studio">
-    <div class="canvas-top"><div><div class="mono">ESTUDIO CREATIVO · 001</div><h3>Una pantalla solo para tus ideas.</h3></div><a class="btn" href="./lienzo.html">ENTRAR AL ESTUDIO ↗</a></div>
-    <p class="canvas-status">Lápiz, marcador, borrador, deshacer y rehacer, papel con cuadrícula o puntos, guardado local y exportación PNG. Diseñado para escritorio, tableta y móvil.</p>
-  </div>
-</section>
+
 
 </main><footer><div><div class="footer-logo">ALEJA<span>✳</span></div><div class="mono" style="margin-top:7px">365 días · una sola historia</div></div><div class="mono">MÚSICA · ARTE · SORPRESAS · TÚ ♥</div><a href="#inicio" class="btn secondary">VOLVER ARRIBA ↑</a></footer>
 <div class="backdrop" id="backdrop" role="dialog" aria-modal="true" aria-labelledby="letter-title"><article class="letter"><button class="close" id="close" aria-label="Cerrar">×</button><div class="mono" id="day-label">PUERTA 001 / 365</div><h2 id="letter-title">UNA PEQUEÑA<br>SORPRESA.</h2><p id="letter-text">Esta puerta es el punto de entrada visual. Su contenido definitivo se incorporará desde los materiales originales revisados.</p><div class="mono" id="keyword">PALABRA CLAVE · COMIENZO</div>
