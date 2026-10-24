@@ -264,6 +264,24 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 @media(max-width:760px){.portrait-artwork{box-shadow:10px 10px 0 #53dfff17,-4px 5px 0 #ff31581c}.cover-cat{transform:translateY(3%) scale(1.08)}}
 @media(prefers-reduced-motion:reduce){.cover-cat,.cover-art-orbit,.cover-cat ellipse:first-of-type,.cover-cat ellipse:nth-of-type(2){animation:none!important}}
 
+
+/* Interacción de las cuatro puertas: cada tarjeta responde de forma distinta. */
+.welcome-tile{will-change:transform;backface-visibility:hidden}
+.welcome-tile .tile-number{transition:color .2s,background .2s,padding .2s}
+.welcome-tile .tile-graphic{transition:transform .35s cubic-bezier(.2,.8,.2,1),filter .35s}
+.welcome-tile .tile-stroke{transition:transform .35s ease,opacity .25s}
+.welcome-tile:hover .tile-number,.welcome-tile:focus-visible .tile-number{color:#071014;background:var(--blue);padding:5px 7px}
+.welcome-tile:hover .tile-graphic,.welcome-tile:focus-visible .tile-graphic{transform:translateY(-4px) rotate(2deg);filter:drop-shadow(0 0 12px #53dfff22)}
+.welcome-tile:nth-child(2):hover .tile-graphic,.welcome-tile:nth-child(2):focus-visible .tile-graphic{transform:translateY(-4px) scale(1.07)}
+.welcome-tile:nth-child(3):hover .tile-graphic,.welcome-tile:nth-child(3):focus-visible .tile-graphic{transform:translateY(-4px) rotate(-5deg)}
+.welcome-tile:nth-child(4):hover .tile-graphic,.welcome-tile:nth-child(4):focus-visible .tile-graphic{transform:translateY(-4px) rotate(7deg)}
+.welcome-tile strong span{display:inline-block;transition:transform .2s ease}
+.welcome-tile:hover strong span,.welcome-tile:focus-visible strong span{transform:translate(4px,-4px)}
+.welcome-tile:focus-visible{outline:3px solid var(--blue);outline-offset:5px}
+.welcome-tile:active{transform:translateY(-2px) scale(.99)}
+@media(hover:none){.welcome-tile:hover{transform:none}.welcome-tile:hover .tile-graphic{transform:none;filter:none}}
+@media(prefers-reduced-motion:reduce){.welcome-tile,.welcome-tile *{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+
 </style>
 </head>
 <body>
