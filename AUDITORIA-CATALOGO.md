@@ -1,16 +1,17 @@
 # Auditoría estructural del catálogo musical
 
 **Archivo revisado:** `catalogo-canciones.js`  
-**Alcance:** validación estática de la estructura del catálogo. Esta revisión no consulta YouTube y no certifica la disponibilidad o correspondencia de los videos.
+**Revisión:** comprobación estática reproducible del contenido del archivo. No consulta YouTube ni certifica que los videos existan, sean públicos, se puedan insertar o correspondan a la grabación correcta.
 
 ## Resumen
 
 - Canciones registradas: **360**.
 - Canciones con `youtubeId`: **355**.
-- Identificadores presentes únicos: **355**.
-- Identificadores presentes con formato de 11 caracteres admitido por YouTube: **355**.
+- Identificadores únicos presentes: **355**.
+- Identificadores con formato de 11 caracteres: **355**.
+- Identificadores con formato inválido: **0**.
 - Identificadores duplicados: **0**.
-- Títulos duplicados exactos (ignorando mayúsculas/minúsculas): **0**.
+- Títulos duplicados ignorando mayúsculas/minúsculas y espacios externos: **0**.
 - Canciones sin `youtubeId`: **5**.
 
 ## Distribución por categoría
@@ -23,9 +24,7 @@
 | `ambiente` | 46 |
 | **Total** | **360** |
 
-## Canciones pendientes de verificación
-
-Las siguientes entradas no tienen el campo `youtubeId`:
+## Canciones sin identificador
 
 | Categoría | Título | Artista |
 |---|---|---|
@@ -37,24 +36,16 @@ Las siguientes entradas no tienen el campo `youtubeId`:
 
 No se completaron estos campos con IDs adivinados. Deben verificarse contra una fuente fiable y la grabación exacta antes de incorporarlos.
 
-## Verificación externa de las cinco entradas pendientes
+## IDs duplicados
 
-Se contrastaron los títulos y el artista con el listado del álbum *Shyheim a/k/a The Rugged Child* (1994). AllMusic incluye las cinco pistas en su listado del álbum y MusicBrainz también registra el lanzamiento y sus pistas. Esto confirma que las entradas pertenecen al repertorio publicado, pero **no confirma qué video de YouTube corresponde a cada grabación**.
+No se detectaron IDs duplicados.
 
-Fuentes consultadas:
-- [AllMusic — Shyheim a/k/a the Rugged Child](https://www.allmusic.com/album/shyheim-a-k-a-the-rugged-child-mw0000109753)
-- [MusicBrainz — lanzamiento A.K.A. The Rugged Child](https://musicbrainz.org/release/7c84a7d6-0329-449a-84c1-841d6c812fb1)
+## Títulos duplicados
 
-| Entrada del catálogo | Resultado de la comprobación |
-|---|---|
-| Never Say Never (Interlude) | Figura en el álbum; falta verificar un video exacto |
-| Here I Am | Figura en el álbum; falta verificar un video exacto |
-| Napsack | Figura en el álbum; falta verificar un video exacto |
-| 4 The Headpiece (Interlude) | Figura en el álbum; falta verificar un video exacto |
-| Shouts On The Outs (Interlude) | Figura en el álbum; falta verificar un video exacto |
-
-No se añadieron identificadores de YouTube porque las búsquedas realizadas no proporcionaron enlaces de video verificables para estas grabaciones concretas. Es preferible mantener el campo vacío antes que enlazar una versión equivocada.
+No se detectaron títulos duplicados tras normalizar mayúsculas/minúsculas y espacios externos.
 
 ## Qué significa y qué no significa esta revisión
 
-La revisión confirma la consistencia básica de los datos presentes en el archivo. Un ID con formato válido puede apuntar a un video eliminado, privado, bloqueado por región o a una versión distinta de la canción esperada. Por tanto, queda pendiente una comprobación canción por canción de la correspondencia título/artista/video, así como pruebas de reproducción en un navegador real.
+La revisión confirma la consistencia estructural de los datos presentes. Un ID con formato válido puede apuntar a un video eliminado, privado, bloqueado por región o a una versión distinta de la canción esperada. La API oficial de YouTube documenta los recursos de video y campos como título, duración y restricciones regionales, pero comprobar esos datos de forma automatizada requiere acceso a la API o revisar los videos individualmente: [documentación oficial de videos](https://developers.google.com/youtube/data/reference/rest/v3/videos). La disponibilidad para reproducción insertada también puede variar.
+
+Queda pendiente la verificación canción por canción de la correspondencia título/artista/video, así como pruebas de reproducción en un navegador real.
