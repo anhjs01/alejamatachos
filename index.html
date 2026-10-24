@@ -241,6 +241,29 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .portrait-artwork .portrait-overlay{z-index:3;background:linear-gradient(0deg,#05090be8 0%,transparent 38%,#07101422 100%),linear-gradient(90deg,#53dfff0b,#ff31580c)}
 .portrait-artwork .portrait-caption{z-index:4;left:8%;right:8%;bottom:5%;font-size:clamp(.5rem,1vw,.68rem);letter-spacing:.14em}
 .cover-art-grid{z-index:1}.cover-art-word{z-index:1;top:42%;opacity:.85}
+
+/* Pulido de portada: profundidad, contraste y movimiento con respeto a accesibilidad. */
+.portrait-artwork{isolation:isolate;box-shadow:18px 18px 0 #53dfff17,-8px 8px 0 #ff31581c}
+.portrait-artwork:after{content:"";position:absolute;inset:12px;border:1px solid #eaf5f62b;clip-path:polygon(0 0,100% 0,100% 82%,82% 100%,0 100%);pointer-events:none;z-index:5}
+.cover-cat{transform:translateY(2%) scale(1.04);transform-origin:50% 65%;filter:drop-shadow(0 0 20px #53dfff17);animation:cat-drift 8s ease-in-out infinite}
+.cover-cat ellipse:first-of-type{animation:cat-red-glow 6s ease-in-out infinite}
+.cover-cat ellipse:nth-of-type(2){animation:cat-blue-glow 7s ease-in-out infinite}
+.cover-art-orbit{animation:orbit-drift 18s linear infinite}
+.cover-art-star{filter:drop-shadow(0 0 14px #53dfff55)}
+.cover-art-stamp{z-index:4}
+.cover-art-label{z-index:4}
+.portrait-artwork .portrait-caption{padding-top:12px;border-top:1px solid #53dfff55;text-shadow:0 2px 10px #000}
+.hero-art .art-side-label{z-index:6}
+.welcome-primary{transition:transform .22s ease,box-shadow .22s ease,background .22s ease}
+.welcome-primary:hover{transform:translate(-2px,-2px);box-shadow:8px 8px 0 #53dfff;background:#f3f3ed;color:#071014}
+.welcome-primary:focus-visible,.nav-btn:focus-visible,.welcome-tile:focus-visible,.music-note-link:focus-visible{outline:3px solid #53dfff;outline-offset:5px}
+@keyframes cat-drift{0%,100%{transform:translateY(2%) scale(1.04)}50%{transform:translateY(0) scale(1.06)}}
+@keyframes cat-red-glow{0%,100%{opacity:.85}50%{opacity:.52}}
+@keyframes cat-blue-glow{0%,100%{opacity:1}50%{opacity:.65}}
+@keyframes orbit-drift{from{transform:rotate(-24deg)}to{transform:rotate(336deg)}}
+@media(max-width:760px){.portrait-artwork{box-shadow:10px 10px 0 #53dfff17,-4px 5px 0 #ff31581c}.cover-cat{transform:translateY(3%) scale(1.08)}}
+@media(prefers-reduced-motion:reduce){.cover-cat,.cover-art-orbit,.cover-cat ellipse:first-of-type,.cover-cat ellipse:nth-of-type(2){animation:none!important}}
+
 </style>
 </head>
 <body>
