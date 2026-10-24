@@ -30,7 +30,7 @@ El script informa las cantidades por categoría, IDs con formato inválido o dup
 
 - `index.html`: interfaz, estilos, calendario, lienzo y minijuego.
 - `contenido-calendario.js`: contenido personalizado disponible para los días documentados.
-- `catalogo-canciones.js`: catálogo musical por categoría.
+- `catalogo-canciones.js`: catálogo musical por categoría (`amor`, `filosofica` y `ambiente`). La antigua categoría `hot` se integró en `amor`; sus canciones e IDs de YouTube se conservaron.
 - `reproductor.js`: integración del reproductor.
 - `manifest.webmanifest`: metadatos para instalación como aplicación.
 - `service-worker.js`: caché básica del shell de la aplicación.
