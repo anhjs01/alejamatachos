@@ -1,4 +1,4 @@
-const CACHE_NAME = 'aleja-shell-v2';
+const CACHE_NAME = 'aleja-shell-v3';
 const SHELL = [
   './',
   './index.html',
