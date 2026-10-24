@@ -3,6 +3,7 @@ const SHELL = [
   './',
   './index.html',
   './manifest.webmanifest',
+  './icon.svg',
   './catalogo-canciones.js',
   './contenido-calendario.js',
   './contenido-portada.js',
