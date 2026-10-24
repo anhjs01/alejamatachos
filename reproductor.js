@@ -25,6 +25,7 @@
   let precargada = null; // cancion cargada en silencio de antemano, lista para sonar
   let cancionActual = null;
   let sonando = false;
+  let errorReproduccion = false;
 
   /* -----------------------------------------------------------------
      1) CARGAR LA API DE YOUTUBE (una sola vez, lo antes posible)
@@ -83,6 +84,12 @@
           }
 
           sonando = e.data === YT.PlayerState.PLAYING;
+          if (sonando) errorReproduccion = false;
+          actualizarUI();
+        },
+        onError: function () {
+          sonando = false;
+          errorReproduccion = true;
           actualizarUI();
         },
       },
@@ -135,6 +142,8 @@
     const elegida = opciones[Math.floor(Math.random() * opciones.length)];
     cancionActual = elegida;
     cancionActual.categoria = categoria;
+    sonando = false;
+    errorReproduccion = false;
 
     // si la precarga silenciosa ya es justo esta cancion, solo hay
     // que quitarle el silencio: suena casi instantaneo, sin recargar
@@ -145,7 +154,6 @@
       reproducirId(elegida.youtubeId, false);
     }
     precargada = null;
-    sonando = true;
     actualizarUI();
   }
 
@@ -168,6 +176,8 @@
     // avance automático sigan funcionando aunque el tono del día sea distinto.
     cancionActual.categoria = categoriaEncontrada ||
       (typeof CATALOGO_CANCIONES !== "undefined" && CATALOGO_CANCIONES[dia.tono] ? dia.tono : "amor");
+    sonando = false;
+    errorReproduccion = false;
     if (precargada && precargada.youtubeId === dia.youtubeId && player && apiLista) {
       // Reutiliza la precarga silenciosa cuando el usuario elige la canción inicial.
       player.unMute();
@@ -175,7 +185,7 @@
     } else {
       reproducirId(dia.youtubeId, false);
     }
-    precargada = null; sonando = true; actualizarUI();
+    precargada = null; actualizarUI();
   }
   function pausarOReanudar() {
     if (!player) return;
@@ -219,7 +229,7 @@
     const nombre = cancionActual.artista
       ? cancionActual.titulo + " · " + cancionActual.artista
       : cancionActual.titulo;
-    info.textContent = "🎵 " + nombre;
+    info.textContent = errorReproduccion ? "No se pudo reproducir este video. Prueba con otra canción." : "🎵 " + nombre;
     elBarra.querySelector("#reproductorPlayPausa").textContent = sonando ? "⏸" : "▶";
   }
 
