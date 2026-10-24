@@ -57,6 +57,28 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .canvas-status{position:relative;z-index:1;color:var(--muted);font-size:.78rem;line-height:1.6;margin:12px 0 0}
 @media(max-width:560px){.canvas-studio{padding:14px}.canvas-action{padding:10px 11px}.color-dot{width:27px;height:27px}}
 
+
+/* Minijuego: conecta la melodía */
+.music-game{position:relative;border:1px solid var(--line);padding:clamp(18px,3vw,32px);margin-top:26px;background:linear-gradient(135deg,#10191d,#090d0f 72%);overflow:hidden}
+.music-game:after{content:"♪";position:absolute;right:3%;top:-30px;font-size:clamp(7rem,18vw,14rem);line-height:1;color:#38c9f012;pointer-events:none;transform:rotate(12deg)}
+.game-head,.game-actions,.game-options{position:relative;z-index:1}
+.game-head{display:flex;align-items:flex-start;justify-content:space-between;gap:18px;flex-wrap:wrap}
+.game-head h3{font-size:clamp(1.5rem,4vw,2.6rem);margin:8px 0}
+.game-score{font:700 .78rem monospace;color:var(--blue);border:1px solid #38c9f055;padding:9px 12px;border-radius:999px}
+.game-question{position:relative;z-index:1;margin:24px 0 16px;max-width:680px;font-size:clamp(1.1rem,2.5vw,1.5rem);line-height:1.5}
+.game-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.game-option{font:600 .9rem inherit;text-align:left;min-height:64px;padding:14px 16px;border:1px solid #3a4b51;background:#111a1d;color:var(--ink);cursor:pointer;border-radius:18px 6px 18px 6px;transition:transform .18s,border-color .18s,background .18s}
+.game-option:hover:not(:disabled){transform:translateY(-2px);border-color:var(--blue)}
+.game-option:focus-visible,.game-actions button:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+.game-option.correct{border-color:#5ad6a1;background:#133327}
+.game-option.wrong{border-color:#ff7f91;background:#351b22}
+.game-option:disabled{cursor:default;opacity:1}
+.game-feedback{position:relative;z-index:1;min-height:48px;margin:16px 0 0;color:var(--muted);line-height:1.6}
+.game-actions{display:flex;gap:10px;flex-wrap:wrap}
+.game-actions button{font:700 .72rem monospace;letter-spacing:.04em;padding:12px 15px;border:1px solid var(--line);background:#10191d;color:var(--ink);cursor:pointer;border-radius:999px}
+.game-actions button.primary{background:var(--blue);border-color:var(--blue);color:#071014}
+@media(max-width:560px){.game-options{grid-template-columns:1fr}.game-option{min-height:56px}}
+
 </style>
 </head>
 <body>
@@ -65,6 +87,18 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 <section class="hero" id="inicio"><div><div class="eyebrow mono">Un universo hecho para ti · 365 días</div><h1>365 DÍAS<span>DE <small>✳</small> ALEJA</span></h1><p class="intro">Una puerta cada día. Música, pequeñas sorpresas, creatividad y momentos por descubrir. Un universo visual hecho a medida, con una identidad distinta en cada rincón.</p><div class="actions"><a class="btn" href="#calendario">DESCUBRIR EL CALENDARIO ↗</a><a class="btn secondary" href="#universo">EXPLORAR</a></div></div><div class="hero-art"><div class="orbit" aria-hidden="true">✳</div><div class="portrait"><img src="https://raw.githubusercontent.com/anhjs01/mismatachos/main/aleja/WhatsApp%20Image%202026-10-13%20at%207.00.35%20PM.jpeg" alt="Aleja" onerror="this.style.display='none';this.parentElement.style.background='radial-gradient(ellipse at 50% 40%,#243b42,#0c1315 65%)'"></div><div class="sticker">HECHO CON<br>MUCHO AMOR ✦</div><div class="sticker bottom">365 DÍAS<br>UNA HISTORIA</div></div></section>
 <section class="section" id="calendario"><div class="section-head"><div><div class="mono">01 / El ritual de cada día</div><h2>CALENDARIO<br><span>DE ADVIENTO.</span></h2></div><p class="section-intro">Un muro de pequeñas puertas sorpresa. Cada una tiene su propio contorno y carácter. Solo verás el número hasta que decidas abrirla; después, el contenido y su palabra clave aparecerán aparte.</p></div><div class="calendar-box"><div class="calendar-meta"><div><div class="mono">365 PUERTAS · UN RECORRIDO</div><div style="font-weight:700;font-size:1.15rem;margin-top:7px">¿Cuál abrimos hoy? <span class="blue">✳</span></div></div><div class="meter"><div class="meterline mono"><span>VISITADAS</span><span id="count">0 / 365</span></div><div class="meterbar"><span id="fill"></span></div></div></div><div class="calendar-grid" id="grid" aria-label="Calendario de adviento de 365 días"></div><div class="calendar-foot"><span><span class="blue">✦</span> Puerta visitada</span><span>Formas diferentes, números visibles</span><span>La palabra clave aparece al abrir la puerta</span></div></div></section>
 <section class="section" id="universo"><div class="section-head"><div><div class="mono">02 / Más allá del calendario</div><h2>UN UNIVERSO<br><span>PROPIO.</span></h2></div><p class="section-intro">Cada espacio tendrá su propia personalidad sin perder el hilo visual: trazos dibujados, collage, tipografía expresiva, geometrías imperfectas y movimiento con intención.</p></div><div class="cards"><article class="card" id="musica"><div class="symbol">♫</div><div class="mono">01 / SONIDO</div><h3>Rincón del sonido</h3><p>Catálogo musical real y reproductor compartido. La integración se hará desde las fuentes existentes, sin inventar identificadores ni prometer reproducción antes de probarla.</p></article><article class="card" id="arte"><div class="symbol">✳</div><div class="mono">02 / CREACIÓN</div><h3>El lienzo</h3><p>Un estudio para dibujar, explorar colores y conservar creaciones, con controles cómodos tanto en móvil como en escritorio.</p></article><article class="card" id="juegos"><div class="symbol">↗</div><div class="mono">03 / JUEGO</div><h3>Pequeños mundos</h3><p>Minijuegos originales con interacción, retos y detalles gráficos propios, pensados para sentirse parte del mismo universo.</p></article></div></section>
+
+
+<section class="section" id="juego-reto">
+ <div class="section-head"><div><div class="mono">04 / Un minuto de juego</div><h2>¿QUÉ<br><span>SUENA?</span></h2></div><p class="section-intro">Un pequeño reto de cultura musical: lee la pista, elige una respuesta y descubre un dato. No reproduce audio ni necesita permisos; puedes jugar varias rondas y mejorar tu puntuación.</p></div>
+ <div class="music-game">
+  <div class="game-head"><div><div class="mono">RETO MUSICAL · RONDA CORTA</div><h3>Conecta la melodía.</h3></div><div class="game-score" id="game-score">PUNTOS 0 · RONDA 1</div></div>
+  <p class="game-question" id="game-question">Preparando la primera pista…</p>
+  <div class="game-options" id="game-options" role="group" aria-label="Respuestas posibles"></div>
+  <p class="game-feedback" id="game-feedback" role="status" aria-live="polite">Elige una respuesta para empezar a jugar.</p>
+  <div class="game-actions"><button class="primary" id="game-next" type="button">SIGUIENTE PISTA →</button><button id="game-reset" type="button">REINICIAR PUNTUACIÓN</button></div>
+ </div>
+</section>
 
 <section class="section" id="lienzo">
   <div class="section-head">
@@ -132,6 +166,28 @@ document.querySelector('#play-day-song').addEventListener('click',()=>{const d=e
 const oldOpenDoor=openDoor;
 openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySelector('#play-day-song');b.disabled=!(d&&d.youtubeId);b.textContent=(d&&d.youtubeId)?'▶ ESCUCHAR CANCIÓN DEL DÍA':'CANCIÓN AÚN NO DISPONIBLE';};
 document.querySelector('#save').addEventListener('click',()=>{visited.add(active);try{localStorage.setItem(storageKey,JSON.stringify([...visited]))}catch(_){}update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
+
+
+/* Minijuego autónomo: no reproduce audio ni altera la lista musical. */
+(function(){
+ const data=[
+  {q:'¿Qué artista interpreta «Dilemma» junto a Kelly Rowland?',a:'Nelly',opts:['Nelly','Usher','Akon','Ne-Yo'],fact:'«Dilemma» fue un sencillo de Nelly con Kelly Rowland.'},
+  {q:'¿Quién canta «Love» en el catálogo del proyecto?',a:'Keyshia Cole',opts:['Keyshia Cole','Coco Jones','SZA','Alicia Keys'],fact:'La canción «Love» está registrada en el catálogo bajo Keyshia Cole.'},
+  {q:'¿Qué artista aparece en «TWENTIES»?',a:'GIVĒON',opts:['GIVĒON','Brent Faiyaz','Shyheim','Busta Rhymes'],fact:'«TWENTIES» aparece en el catálogo de amor con GIVĒON.'},
+  {q:'¿Quién interpreta «Moment Of Your Life» junto a Coco Jones?',a:'Brent Faiyaz',opts:['Brent Faiyaz','Nelly','Aaron Taylor','Micro TDH'],fact:'La entrada del catálogo conserva la colaboración de Brent Faiyaz y Coco Jones.'},
+  {q:'¿Qué artista aparece en «I Think I Love You Again»?',a:'Aaron Taylor',opts:['Aaron Taylor','GIVĒON','Keyshia Cole','Shyheim'],fact:'El catálogo registra «I Think I Love You Again» a nombre de Aaron Taylor.'},
+  {q:'¿Con qué grupo aparece asociada «I Know What You Want»?',a:'Flipmode Squad',opts:['Flipmode Squad','Wu-Tang Clan','OutKast','The Roots'],fact:'El título del catálogo menciona a Flipmode Squad junto a Busta Rhymes y Mariah Carey.'}
+ ];
+ const q=document.getElementById('game-question'),opts=document.getElementById('game-options'),feedback=document.getElementById('game-feedback'),scoreEl=document.getElementById('game-score');
+ const next=document.getElementById('game-next'),reset=document.getElementById('game-reset');if(!q||!opts)return;
+ let round=0,score=0,answered=false,current=null,used=[];
+ function pick(){if(used.length===data.length)used=[];const remaining=data.map((_,i)=>i).filter(i=>!used.includes(i));const i=remaining[Math.floor(Math.random()*remaining.length)];used.push(i);return data[i]}
+ function render(){current=pick();answered=false;q.textContent=current.q;opts.replaceChildren();const answers=[...current.opts].sort(()=>Math.random()-.5);answers.forEach(answer=>{const b=document.createElement('button');b.type='button';b.className='game-option';b.textContent=answer;b.addEventListener('click',()=>choose(b,answer));opts.appendChild(b)});feedback.textContent='Elige una respuesta. Cada acierto suma un punto.';scoreEl.textContent='PUNTOS '+score+' · RONDA '+(round+1);next.textContent='SIGUIENTE PISTA →'}
+ function choose(button,answer){if(answered)return;answered=true;round++;const buttons=[...opts.querySelectorAll('button')];buttons.forEach(b=>{b.disabled=true;if(b.textContent===current.a)b.classList.add('correct')});if(answer===current.a){score++;feedback.textContent='¡Correcto! '+current.fact}else{button.classList.add('wrong');feedback.textContent='Esta vez no. La respuesta era '+current.a+'. '+current.fact}scoreEl.textContent='PUNTOS '+score+' · RONDA '+round;next.textContent='OTRA PISTA →'}
+ next.addEventListener('click',()=>{if(!answered&&round===0){render();return}render()});
+ reset.addEventListener('click',()=>{round=0;score=0;used=[];render();feedback.textContent='Puntuación reiniciada. ¡Vamos de nuevo!'});
+ render();
+})();
 
 /* Estudio de dibujo: táctil, ratón, deshacer y almacenamiento local. */
 (function(){
