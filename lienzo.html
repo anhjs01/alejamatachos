@@ -261,7 +261,7 @@ function exportDesign(){
  function drawNext(i){
   if(i>=layers.length){finish();return}
   const l=layers[i];
-  if(l.type==='image'&&l.src&&!l.image){
+  if(l.type==='image'&&l.src&&(!l.image||!l.image.complete||!(l.image.naturalWidth||l.image.width))){
    const im=new Image();
    im.onload=()=>{l.image=im;drawOne(l);drawNext(i+1)};
    im.onerror=()=>{failedImages++;drawNext(i+1)};
