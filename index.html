@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#080b0d">
+<link rel="manifest" href="./manifest.webmanifest">
 <meta name="description" content="Un universo de 365 días para Aleja: música, arte, pequeños recuerdos y sorpresas.">
 <title>ALEJA — 365 días, una historia</title>
 <style>
@@ -83,6 +84,7 @@ const oldOpenDoor=openDoor;
 openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySelector('#play-day-song');b.disabled=!(d&&d.youtubeId);b.textContent=(d&&d.youtubeId)?'▶ ESCUCHAR CANCIÓN DEL DÍA':'CANCIÓN AÚN NO DISPONIBLE';};
 document.querySelector('#save').addEventListener('click',()=>{visited.add(active);try{localStorage.setItem(storageKey,JSON.stringify([...visited]))}catch(_){}update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
 update();
+if('serviceWorker' in navigator && location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}))}
 </script>
 </body>
 </html>
