@@ -432,27 +432,58 @@ openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySe
 document.querySelector('#save').addEventListener('click',()=>{visited.add(active);try{localStorage.setItem(storageKey,JSON.stringify([...visited]))}catch(_){}update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
 
 
-/* Minijuego autónomo: no reproduce audio ni altera la lista musical. */
+/* Playlist: selección reproducible del catálogo existente, sin inventar canciones. */
+(function(){
+ const list=document.getElementById('playlist-list'),count=document.getElementById('playlist-count'),note=document.getElementById('playlist-note');
+ if(!list||typeof CATALOGO_CANCIONES==='undefined')return;
+ const entries=[];
+ Object.entries(CATALOGO_CANCIONES).forEach(([categoria,canciones])=>(canciones||[]).forEach(c=>{if(c&&c.youtubeId&&!entries.some(x=>x.youtubeId===c.youtubeId))entries.push({...c,categoria})}));
+ const chosen=entries.slice(0,12);
+ count.textContent=chosen.length+' CANCIONES';
+ chosen.forEach((song,i)=>{
+  const b=document.createElement('button');b.type='button';b.className='playlist-song';b.setAttribute('aria-label','Reproducir '+song.titulo+' de '+song.artista);
+  b.innerHTML='<span class="playlist-play" aria-hidden="true">▶</span><span class="playlist-song-copy"><span class="playlist-song-title"></span><span class="playlist-song-artist"></span></span>';
+  b.querySelector('.playlist-song-title').textContent=song.titulo;b.querySelector('.playlist-song-artist').textContent=song.artista||'Artista no indicado';
+  b.addEventListener('click',()=>{
+   if(!window.SorpresaReproductor||typeof window.SorpresaReproductor.reproducirCancion!=='function'){note.textContent='El reproductor aún se está preparando. Inténtalo de nuevo en un momento.';return}
+   window.SorpresaReproductor.reproducirCancion(song,song.categoria);
+   list.querySelectorAll('.playlist-song').forEach(x=>{x.classList.remove('is-playing');x.querySelector('.playlist-play').textContent='▶'});
+   b.classList.add('is-playing');b.querySelector('.playlist-play').textContent='♫';note.textContent='Reproduciendo: '+song.titulo+' · '+song.artista;
+  });
+  list.appendChild(b);
+ });
+ count.textContent=chosen.length+' DE '+entries.length+' CANCIONES';
+})();
+
+/* Pequeños Mundos: puntuación, feedback claro, rachas visuales y reinicio real. */
 (function(){
  const data=[
   {q:'¿Qué artista interpreta «Dilemma» junto a Kelly Rowland?',a:'Nelly',opts:['Nelly','Usher','Akon','Ne-Yo'],fact:'«Dilemma» fue un sencillo de Nelly con Kelly Rowland.'},
-  {q:'¿Quién canta «Love» en el catálogo del proyecto?',a:'Keyshia Cole',opts:['Keyshia Cole','Coco Jones','SZA','Alicia Keys'],fact:'La canción «Love» está registrada en el catálogo bajo Keyshia Cole.'},
+  {q:'¿Quién canta «Love» en el catálogo del proyecto?',a:'Keyshia Cole',opts:['Keyshia Cole','Coco Jones','SZA','Alicia Keys'],fact:'«Love» está registrada en el catálogo bajo Keyshia Cole.'},
   {q:'¿Qué artista aparece en «TWENTIES»?',a:'GIVĒON',opts:['GIVĒON','Brent Faiyaz','Shyheim','Busta Rhymes'],fact:'«TWENTIES» aparece en el catálogo de amor con GIVĒON.'},
-  {q:'¿Quién interpreta «Moment Of Your Life» junto a Coco Jones?',a:'Brent Faiyaz',opts:['Brent Faiyaz','Nelly','Aaron Taylor','Micro TDH'],fact:'La entrada del catálogo conserva la colaboración de Brent Faiyaz y Coco Jones.'},
-  {q:'¿Qué artista aparece en «I Think I Love You Again»?',a:'Aaron Taylor',opts:['Aaron Taylor','GIVĒON','Keyshia Cole','Shyheim'],fact:'El catálogo registra «I Think I Love You Again» a nombre de Aaron Taylor.'},
-  {q:'¿Con qué grupo aparece asociada «I Know What You Want»?',a:'Flipmode Squad',opts:['Flipmode Squad','Wu-Tang Clan','OutKast','The Roots'],fact:'El título del catálogo menciona a Flipmode Squad junto a Busta Rhymes y Mariah Carey.'}
+  {q:'¿Quién interpreta «Moment Of Your Life» junto a Coco Jones?',a:'Brent Faiyaz',opts:['Brent Faiyaz','Nelly','Aaron Taylor','Micro TDH'],fact:'El catálogo conserva la colaboración de Brent Faiyaz y Coco Jones.'},
+  {q:'¿Qué artista aparece en «I Think I Love You Again»?',a:'Aaron Taylor',opts:['Aaron Taylor','GIVĒON','Keyshia Cole','Shyheim'],fact:'El catálogo registra este tema a nombre de Aaron Taylor.'},
+  {q:'¿Con qué grupo aparece asociada «I Know What You Want»?',a:'Flipmode Squad',opts:['Flipmode Squad','Wu-Tang Clan','OutKast','The Roots'],fact:'El catálogo menciona a Flipmode Squad junto a Busta Rhymes y Mariah Carey.'}
  ];
- const q=document.getElementById('game-question'),opts=document.getElementById('game-options'),feedback=document.getElementById('game-feedback'),scoreEl=document.getElementById('game-score');
- const next=document.getElementById('game-next'),reset=document.getElementById('game-reset');if(!q||!opts)return;
- let round=0,score=0,answered=false,current=null,used=[];
+ const root=document.querySelector('.music-game'),q=document.getElementById('game-question'),opts=document.getElementById('game-options'),feedback=document.getElementById('game-feedback'),scoreEl=document.getElementById('game-score'),next=document.getElementById('game-next'),reset=document.getElementById('game-reset'),streakEl=document.getElementById('game-streak'),music=document.getElementById('game-music');
+ if(!root||!q||!opts)return;
+ let round=0,score=0,streak=0,answered=false,current=null,used=[],ended=false;
  function pick(){if(used.length===data.length)used=[];const remaining=data.map((_,i)=>i).filter(i=>!used.includes(i));const i=remaining[Math.floor(Math.random()*remaining.length)];used.push(i);return data[i]}
- function render(){current=pick();answered=false;q.textContent=current.q;opts.replaceChildren();const answers=[...current.opts].sort(()=>Math.random()-.5);answers.forEach(answer=>{const b=document.createElement('button');b.type='button';b.className='game-option';b.textContent=answer;b.addEventListener('click',()=>choose(b,answer));opts.appendChild(b)});feedback.textContent='Elige una respuesta. Cada acierto suma un punto.';scoreEl.textContent='PUNTOS '+score+' · RONDA '+(round+1);next.textContent='SIGUIENTE PISTA →'}
- function choose(button,answer){if(answered)return;answered=true;round++;const buttons=[...opts.querySelectorAll('button')];buttons.forEach(b=>{b.disabled=true;if(b.textContent===current.a)b.classList.add('correct')});if(answer===current.a){score++;feedback.textContent='¡Correcto! '+current.fact}else{button.classList.add('wrong');feedback.textContent='Esta vez no. La respuesta era '+current.a+'. '+current.fact}scoreEl.textContent='PUNTOS '+score+' · RONDA '+round;next.textContent='OTRA PISTA →'}
- next.addEventListener('click',()=>{if(!answered&&round===0){render();return}render()});
- reset.addEventListener('click',()=>{round=0;score=0;used=[];render();feedback.textContent='Puntuación reiniciada. ¡Vamos de nuevo!'});
+ function updateScore(){scoreEl.textContent='PUNTOS '+score+' · RONDA '+(round+1);root.classList.remove('streak-2','streak-3','streak-4','streak-5');if(streak>=2)root.classList.add('streak-'+Math.min(streak,5));[...streakEl.children].forEach((s,i)=>s.classList.toggle('lit',i<Math.min(streak,3)))}
+ function render(){current=pick();answered=false;ended=false;q.textContent=current.q;opts.replaceChildren();const answers=[...current.opts].sort(()=>Math.random()-.5);answers.forEach(answer=>{const b=document.createElement('button');b.type='button';b.className='game-option';b.textContent=answer;b.addEventListener('click',()=>choose(b,answer));opts.appendChild(b)});feedback.textContent='Elige una respuesta. Cada acierto suma un punto.';next.disabled=true;next.textContent='SIGUIENTE PREGUNTA →';updateScore()}
+ function choose(button,answer){
+  if(answered||ended)return;answered=true;round++;const buttons=[...opts.querySelectorAll('button')];buttons.forEach(b=>{b.disabled=true;if(b.textContent===current.a)b.classList.add('correct')});
+  root.classList.remove('is-correct','is-wrong','celebrate');
+  if(answer===current.a){score++;streak++;feedback.textContent='¡CORRECTO! ✨ '+current.fact;root.classList.add('is-correct','celebrate');void root.offsetWidth;root.classList.add('is-correct','celebrate');next.textContent='¡VAMOS CON OTRA! →'}
+  else{streak=0;button.classList.add('wrong');feedback.textContent='¡ESTA VEZ NO! La respuesta era '+current.a+'. '+current.fact;root.classList.add('is-wrong');next.textContent='INTENTAR OTRA VEZ →'}
+  updateScore();next.disabled=false;
+ }
+ next.addEventListener('click',()=>{if(!answered){feedback.textContent='Primero elige una respuesta para esta pregunta.';return}render()});
+ reset.addEventListener('click',()=>{round=0;score=0;streak=0;used=[];answered=false;ended=false;root.classList.remove('is-correct','is-wrong','celebrate','streak-2','streak-3','streak-4','streak-5');feedback.textContent='Juego reiniciado. ¡Nueva partida, nueva oportunidad!';render()});
+ if(music)music.addEventListener('click',()=>{if(window.SorpresaReproductor&&typeof window.SorpresaReproductor.reproducirCategoria==='function'){window.SorpresaReproductor.reproducirCategoria('amor');music.textContent='♫ CAMBIAR CANCIÓN';feedback.textContent='La música ya está en marcha. ¡A jugar!'}else{feedback.textContent='El reproductor se está preparando. Prueba de nuevo en un momento.'}});
  render();
 })();
-
+ 
 /* Estudio de dibujo: táctil, ratón, deshacer y almacenamiento local. */
 (function(){
  const canvas=document.getElementById('lienzo-canvas'); if(!canvas)return;
