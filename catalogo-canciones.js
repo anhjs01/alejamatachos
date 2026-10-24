@@ -230,6 +230,296 @@ const CATALOGO_CANCIONES = {
       "titulo": "Is This Love",
       "artista": "Bob Marley & The Wailers",
       "youtubeId": "69RdQFDuYPI"
+    },
+    {
+      "titulo": "Drop It Like It's Hot",
+      "artista": "Snoop Dogg; Pharrell Williams",
+      "youtubeId": "GtUVQei3nX4"
+    },
+    {
+      "titulo": "Get Low",
+      "artista": "Lil Jon & The East Side Boyz; Ying Yang Twins",
+      "youtubeId": "yUZeZNxiD-M"
+    },
+    {
+      "titulo": "Las Tetas D.",
+      "artista": "Crack Family",
+      "youtubeId": "LQhERHd-k0E"
+    },
+    {
+      "titulo": "Parla Pura",
+      "artista": "Rap Bang Club",
+      "youtubeId": "9Ulu3Ysg6uw"
+    },
+    {
+      "titulo": "Queen Tings (Santi Remix)",
+      "artista": "Masego; Cruel Santino; Santi",
+      "youtubeId": "UntyHH7Pfs0"
+    },
+    {
+      "titulo": "Between the Sheets",
+      "artista": "The Isley Brothers",
+      "youtubeId": "TNDb8qKZEX8"
+    },
+    {
+      "titulo": "Boombastic",
+      "artista": "Shaggy",
+      "youtubeId": "f0sVDGFoIOI"
+    },
+    {
+      "titulo": "POP DAT THANG",
+      "artista": "DaBaby",
+      "youtubeId": "syc4SzrubKY"
+    },
+    {
+      "titulo": "Pony",
+      "artista": "Ginuwine",
+      "youtubeId": "lbnoG2dsUk0"
+    },
+    {
+      "titulo": "Ain't Shit",
+      "artista": "Doja Cat",
+      "youtubeId": "13MvatpPQv4"
+    },
+    {
+      "titulo": "Quién Pidió Pollo",
+      "artista": "Granuja;Doble Porcion",
+      "youtubeId": "hctMB2pQkyY"
+    },
+    {
+      "titulo": "Nas Is Like",
+      "artista": "Nas",
+      "youtubeId": "VC4ORS5n9Hg"
+    },
+    {
+      "titulo": "Real Hip-Hop",
+      "artista": "Das EFX",
+      "youtubeId": "LvNOVqaz75c"
+    },
+    {
+      "titulo": "Hip 2 Da Game",
+      "artista": "Lord Finesse",
+      "youtubeId": "ihZXuUDUYho"
+    },
+    {
+      "titulo": "Shadowboxin'",
+      "artista": "GZA;Method Man",
+      "youtubeId": "-IZE7JSLJU0"
+    },
+    {
+      "titulo": "Hell on Earth (Front Lines)",
+      "artista": "Mobb Deep",
+      "youtubeId": "-lonWMzBKdU"
+    },
+    {
+      "titulo": "Real Muthaphuckkin' G's",
+      "artista": "Eazy-E",
+      "youtubeId": "trDFi_zSttQ"
+    },
+    {
+      "titulo": "Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage)",
+      "artista": "Craig Mack;Busta Rhymes;LL COOL J;Rampage;The Notorious B.I.G.",
+      "youtubeId": "PMbELEUfmIA"
+    },
+    {
+      "titulo": "I Get Around",
+      "artista": "2Pac;Digital Underground",
+      "youtubeId": "YqJAnQTwmJs"
+    },
+    {
+      "titulo": "Da Joint",
+      "artista": "EPMD",
+      "youtubeId": "Ze2A4g-sTT8"
+    },
+    {
+      "titulo": "Runnin'",
+      "artista": "The Pharcyde",
+      "youtubeId": "jQ-RrGCSa2M"
+    },
+    {
+      "titulo": "MC's Act Like They Don't Know",
+      "artista": "KRS-One",
+      "youtubeId": "xnI8JEW7Ty4"
+    },
+    {
+      "titulo": "Above The Clouds",
+      "artista": "Gang Starr;Inspectah Deck",
+      "youtubeId": "NqhNTA2VHqk"
+    },
+    {
+      "titulo": "Tonight's Da Night",
+      "artista": "Redman",
+      "youtubeId": "fOUARXiVMHs"
+    },
+    {
+      "titulo": "Chief Rocka",
+      "artista": "Lords Of The Underground",
+      "youtubeId": "YFbLRZCExBk"
+    },
+    {
+      "titulo": "Bucktown",
+      "artista": "Smif-N-Wessun",
+      "youtubeId": "CwQSq5iZdpQ"
+    },
+    {
+      "titulo": "Leflaur Leflah Eshkoshka",
+      "artista": "Heltah Skeltah",
+      "youtubeId": "KxkkWLi3yuI"
+    },
+    {
+      "titulo": "Shimmy Shimmy Ya",
+      "artista": "Ol' Dirty Bastard",
+      "youtubeId": "h2zgB93KANE"
+    },
+    {
+      "titulo": "Ms. Fat Booty",
+      "artista": "Mos Def",
+      "youtubeId": "NAHuQSPE4Wk"
+    },
+    {
+      "titulo": "Who Got Da Props",
+      "artista": "Black Moon;Smif-N-Wessun",
+      "youtubeId": "KfCaacYKN6s"
+    },
+    {
+      "titulo": "Wrong Side of da Tracks",
+      "artista": "Artifacts",
+      "youtubeId": "jRZFWhRQFzQ"
+    },
+    {
+      "titulo": "Me Or The Papes",
+      "artista": "Jeru The Damaja",
+      "youtubeId": "g9S_sfBfIUA"
+    },
+    {
+      "titulo": "Boyz-N-The-Hood",
+      "artista": "Eazy-E",
+      "youtubeId": "64mx7TiCbuY"
+    },
+    {
+      "titulo": "On And On",
+      "artista": "Shyheim",
+      "youtubeId": "VqNeWP26FVY"
+    },
+    {
+      "titulo": "Get Money",
+      "artista": "Junior M.A.F.I.A.",
+      "youtubeId": "zZ29lDumb9U"
+    },
+    {
+      "titulo": "Time's Up",
+      "artista": "O.C.",
+      "youtubeId": "6gNmCGQRpcc"
+    },
+    {
+      "titulo": "Born 2 Live",
+      "artista": "O.C.",
+      "youtubeId": "Gf68J5iqK6g"
+    },
+    {
+      "titulo": "Mama Said Knock You Out",
+      "artista": "LL COOL J",
+      "youtubeId": "vimZj8HW0Kg"
+    },
+    {
+      "titulo": "Children's Story",
+      "artista": "Slick Rick",
+      "youtubeId": "HjNTu8jdukA"
+    },
+    {
+      "titulo": "Flava in Ya Ear",
+      "artista": "Craig Mack",
+      "youtubeId": "GNFqMx0gY7I"
+    },
+    {
+      "titulo": "How I Could Just Kill a Man",
+      "artista": "Cypress Hill",
+      "youtubeId": "Yg-RIOATCbU"
+    },
+    {
+      "titulo": "Livin' Proof",
+      "artista": "Group Home",
+      "youtubeId": "NA6nF3qM_pI"
+    },
+    {
+      "titulo": "Whirlwind Thru Cities",
+      "artista": "Afu-Ra",
+      "youtubeId": "Q3nMnBvjcAg"
+    },
+    {
+      "titulo": "What They Do",
+      "artista": "The Roots",
+      "youtubeId": "_qzacv8dtb4"
+    },
+    {
+      "titulo": "Got Your Money (feat. Kelis)",
+      "artista": "Ol' Dirty Bastard;Kelis",
+      "youtubeId": "XXTzm5GtqVo"
+    },
+    {
+      "titulo": "1st of Tha Month",
+      "artista": "Bone Thugs-N-Harmony",
+      "youtubeId": "PArF9k2SbQk"
+    },
+    {
+      "titulo": "Gotta Get Mine",
+      "artista": "MC Breed",
+      "youtubeId": "2Tr3fM8vkX4"
+    },
+    {
+      "titulo": "Mass Appeal",
+      "artista": "Gang Starr",
+      "youtubeId": "y9lNbNGbo24"
+    },
+    {
+      "titulo": "Slam",
+      "artista": "Onyx",
+      "youtubeId": "7ADgCeYJMN4"
+    },
+    {
+      "titulo": "Simon Says",
+      "artista": "Pharoahe Monch",
+      "youtubeId": "cKsMMoc_oOA"
+    },
+    {
+      "titulo": "Definition",
+      "artista": "Black Star",
+      "youtubeId": "EuJaStSL0xM"
+    },
+    {
+      "titulo": "You Never Knew",
+      "artista": "Hieroglyphics",
+      "youtubeId": "QWveXdj6oZU"
+    },
+    {
+      "titulo": "Come Clean - E New Y Radio",
+      "artista": "Jeru The Damaja",
+      "youtubeId": "pzJnltNrtsI"
+    },
+    {
+      "titulo": "Fall In Love",
+      "artista": "Slum Village",
+      "youtubeId": "s732BigTxZk"
+    },
+    {
+      "titulo": "Street Talkin'",
+      "artista": "Slick Rick;Outkast",
+      "youtubeId": "6u1Ps6ZlDxA"
+    },
+    {
+      "titulo": "Word Iz Life",
+      "artista": "Poor Righteous Teachers",
+      "youtubeId": "aofb1GQOc5k"
+    },
+    {
+      "titulo": "Streiht Up Menace",
+      "artista": "MC Eiht",
+      "youtubeId": "sJmuseO04SQ"
+    },
+    {
+      "titulo": "Camino de Tu Ombligo",
+      "artista": "Rupatrupa",
+      "youtubeId": "ekfybvh0TRo"
     }
   ],
   "filosofica": [
@@ -1282,298 +1572,6 @@ const CATALOGO_CANCIONES = {
       "titulo": "Shouts On The Outs (Interlude)",
       "artista": "Shyheim",
       "youtubeId": ""
-    }
-  ],
-  "hot": [
-    {
-      "titulo": "Drop It Like It's Hot",
-      "artista": "Snoop Dogg; Pharrell Williams",
-      "youtubeId": "GtUVQei3nX4"
-    },
-    {
-      "titulo": "Get Low",
-      "artista": "Lil Jon & The East Side Boyz; Ying Yang Twins",
-      "youtubeId": "yUZeZNxiD-M"
-    },
-    {
-      "titulo": "Las Tetas D.",
-      "artista": "Crack Family",
-      "youtubeId": "LQhERHd-k0E"
-    },
-    {
-      "titulo": "Parla Pura",
-      "artista": "Rap Bang Club",
-      "youtubeId": "9Ulu3Ysg6uw"
-    },
-    {
-      "titulo": "Queen Tings (Santi Remix)",
-      "artista": "Masego; Cruel Santino; Santi",
-      "youtubeId": "UntyHH7Pfs0"
-    },
-    {
-      "titulo": "Between the Sheets",
-      "artista": "The Isley Brothers",
-      "youtubeId": "TNDb8qKZEX8"
-    },
-    {
-      "titulo": "Boombastic",
-      "artista": "Shaggy",
-      "youtubeId": "f0sVDGFoIOI"
-    },
-    {
-      "titulo": "POP DAT THANG",
-      "artista": "DaBaby",
-      "youtubeId": "syc4SzrubKY"
-    },
-    {
-      "titulo": "Pony",
-      "artista": "Ginuwine",
-      "youtubeId": "lbnoG2dsUk0"
-    },
-    {
-      "titulo": "Ain't Shit",
-      "artista": "Doja Cat",
-      "youtubeId": "13MvatpPQv4"
-    },
-    {
-      "titulo": "Quién Pidió Pollo",
-      "artista": "Granuja;Doble Porcion",
-      "youtubeId": "hctMB2pQkyY"
-    },
-    {
-      "titulo": "Nas Is Like",
-      "artista": "Nas",
-      "youtubeId": "VC4ORS5n9Hg"
-    },
-    {
-      "titulo": "Real Hip-Hop",
-      "artista": "Das EFX",
-      "youtubeId": "LvNOVqaz75c"
-    },
-    {
-      "titulo": "Hip 2 Da Game",
-      "artista": "Lord Finesse",
-      "youtubeId": "ihZXuUDUYho"
-    },
-    {
-      "titulo": "Shadowboxin'",
-      "artista": "GZA;Method Man",
-      "youtubeId": "-IZE7JSLJU0"
-    },
-    {
-      "titulo": "Hell on Earth (Front Lines)",
-      "artista": "Mobb Deep",
-      "youtubeId": "-lonWMzBKdU"
-    },
-    {
-      "titulo": "Real Muthaphuckkin' G's",
-      "artista": "Eazy-E",
-      "youtubeId": "trDFi_zSttQ"
-    },
-    {
-      "titulo": "Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage)",
-      "artista": "Craig Mack;Busta Rhymes;LL COOL J;Rampage;The Notorious B.I.G.",
-      "youtubeId": "PMbELEUfmIA"
-    },
-    {
-      "titulo": "I Get Around",
-      "artista": "2Pac;Digital Underground",
-      "youtubeId": "YqJAnQTwmJs"
-    },
-    {
-      "titulo": "Da Joint",
-      "artista": "EPMD",
-      "youtubeId": "Ze2A4g-sTT8"
-    },
-    {
-      "titulo": "Runnin'",
-      "artista": "The Pharcyde",
-      "youtubeId": "jQ-RrGCSa2M"
-    },
-    {
-      "titulo": "MC's Act Like They Don't Know",
-      "artista": "KRS-One",
-      "youtubeId": "xnI8JEW7Ty4"
-    },
-    {
-      "titulo": "Above The Clouds",
-      "artista": "Gang Starr;Inspectah Deck",
-      "youtubeId": "NqhNTA2VHqk"
-    },
-    {
-      "titulo": "Tonight's Da Night",
-      "artista": "Redman",
-      "youtubeId": "fOUARXiVMHs"
-    },
-    {
-      "titulo": "Chief Rocka",
-      "artista": "Lords Of The Underground",
-      "youtubeId": "YFbLRZCExBk"
-    },
-    {
-      "titulo": "Bucktown",
-      "artista": "Smif-N-Wessun",
-      "youtubeId": "CwQSq5iZdpQ"
-    },
-    {
-      "titulo": "Leflaur Leflah Eshkoshka",
-      "artista": "Heltah Skeltah",
-      "youtubeId": "KxkkWLi3yuI"
-    },
-    {
-      "titulo": "Shimmy Shimmy Ya",
-      "artista": "Ol' Dirty Bastard",
-      "youtubeId": "h2zgB93KANE"
-    },
-    {
-      "titulo": "Ms. Fat Booty",
-      "artista": "Mos Def",
-      "youtubeId": "NAHuQSPE4Wk"
-    },
-    {
-      "titulo": "Who Got Da Props",
-      "artista": "Black Moon;Smif-N-Wessun",
-      "youtubeId": "KfCaacYKN6s"
-    },
-    {
-      "titulo": "Wrong Side of da Tracks",
-      "artista": "Artifacts",
-      "youtubeId": "jRZFWhRQFzQ"
-    },
-    {
-      "titulo": "Me Or The Papes",
-      "artista": "Jeru The Damaja",
-      "youtubeId": "g9S_sfBfIUA"
-    },
-    {
-      "titulo": "Boyz-N-The-Hood",
-      "artista": "Eazy-E",
-      "youtubeId": "64mx7TiCbuY"
-    },
-    {
-      "titulo": "On And On",
-      "artista": "Shyheim",
-      "youtubeId": "VqNeWP26FVY"
-    },
-    {
-      "titulo": "Get Money",
-      "artista": "Junior M.A.F.I.A.",
-      "youtubeId": "zZ29lDumb9U"
-    },
-    {
-      "titulo": "Time's Up",
-      "artista": "O.C.",
-      "youtubeId": "6gNmCGQRpcc"
-    },
-    {
-      "titulo": "Born 2 Live",
-      "artista": "O.C.",
-      "youtubeId": "Gf68J5iqK6g"
-    },
-    {
-      "titulo": "Mama Said Knock You Out",
-      "artista": "LL COOL J",
-      "youtubeId": "vimZj8HW0Kg"
-    },
-    {
-      "titulo": "Children's Story",
-      "artista": "Slick Rick",
-      "youtubeId": "HjNTu8jdukA"
-    },
-    {
-      "titulo": "Flava in Ya Ear",
-      "artista": "Craig Mack",
-      "youtubeId": "GNFqMx0gY7I"
-    },
-    {
-      "titulo": "How I Could Just Kill a Man",
-      "artista": "Cypress Hill",
-      "youtubeId": "Yg-RIOATCbU"
-    },
-    {
-      "titulo": "Livin' Proof",
-      "artista": "Group Home",
-      "youtubeId": "NA6nF3qM_pI"
-    },
-    {
-      "titulo": "Whirlwind Thru Cities",
-      "artista": "Afu-Ra",
-      "youtubeId": "Q3nMnBvjcAg"
-    },
-    {
-      "titulo": "What They Do",
-      "artista": "The Roots",
-      "youtubeId": "_qzacv8dtb4"
-    },
-    {
-      "titulo": "Got Your Money (feat. Kelis)",
-      "artista": "Ol' Dirty Bastard;Kelis",
-      "youtubeId": "XXTzm5GtqVo"
-    },
-    {
-      "titulo": "1st of Tha Month",
-      "artista": "Bone Thugs-N-Harmony",
-      "youtubeId": "PArF9k2SbQk"
-    },
-    {
-      "titulo": "Gotta Get Mine",
-      "artista": "MC Breed",
-      "youtubeId": "2Tr3fM8vkX4"
-    },
-    {
-      "titulo": "Mass Appeal",
-      "artista": "Gang Starr",
-      "youtubeId": "y9lNbNGbo24"
-    },
-    {
-      "titulo": "Slam",
-      "artista": "Onyx",
-      "youtubeId": "7ADgCeYJMN4"
-    },
-    {
-      "titulo": "Simon Says",
-      "artista": "Pharoahe Monch",
-      "youtubeId": "cKsMMoc_oOA"
-    },
-    {
-      "titulo": "Definition",
-      "artista": "Black Star",
-      "youtubeId": "EuJaStSL0xM"
-    },
-    {
-      "titulo": "You Never Knew",
-      "artista": "Hieroglyphics",
-      "youtubeId": "QWveXdj6oZU"
-    },
-    {
-      "titulo": "Come Clean - E New Y Radio",
-      "artista": "Jeru The Damaja",
-      "youtubeId": "pzJnltNrtsI"
-    },
-    {
-      "titulo": "Fall In Love",
-      "artista": "Slum Village",
-      "youtubeId": "s732BigTxZk"
-    },
-    {
-      "titulo": "Street Talkin'",
-      "artista": "Slick Rick;Outkast",
-      "youtubeId": "6u1Ps6ZlDxA"
-    },
-    {
-      "titulo": "Word Iz Life",
-      "artista": "Poor Righteous Teachers",
-      "youtubeId": "aofb1GQOc5k"
-    },
-    {
-      "titulo": "Streiht Up Menace",
-      "artista": "MC Eiht",
-      "youtubeId": "sJmuseO04SQ"
-    },
-    {
-      "titulo": "Camino de Tu Ombligo",
-      "artista": "Rupatrupa",
-      "youtubeId": "ekfybvh0TRo"
     }
   ],
   "ambiente": [
