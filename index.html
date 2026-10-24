@@ -139,14 +139,14 @@ const grid=document.querySelector('#grid'),backdrop=document.querySelector('#bac
 const storageKey='aleja-visitas-v1';
 let visited=new Set();
 try{const saved=JSON.parse(localStorage.getItem(storageKey)||'[]');if(Array.isArray(saved))visited=new Set(saved.filter(n=>Number.isInteger(n)&&n>=1&&n<=365))}catch(_){visited=new Set()}
-let active=1;
+let active=1,previousFocus=null;
 const shapes=['','s1','s2','s3','s4','s5','s6','s7','s8'];
 const safeText=(v)=>typeof v==='string'?v.trim():'';
 function entryFor(n){return Array.isArray(CALENDARIO)?CALENDARIO.find(d=>Number(d.dia)===n):null}
 function keywordFor(n){const d=entryFor(n);if(!d)return 'POR DESCUBRIR';return safeText(d.categoria)||safeText(d.tono)||'UN DETALLE'}
 for(let n=1;n<=365;n++){const wrap=document.createElement('div');wrap.className='door-wrap';const b=document.createElement('button');b.className='door '+shapes[(n*7+n%5)%shapes.length]+(n===1?' featured':'');b.type='button';b.innerHTML='<b>'+String(n).padStart(2,'0')+'</b>';b.setAttribute('aria-label','Abrir puerta '+n);b.style.setProperty('--tilt',(((n%5)-2)*1.2)+'deg');b.addEventListener('click',()=>openDoor(n));const label=document.createElement('span');label.className='door-keyword';label.setAttribute('aria-hidden','true');label.textContent='';wrap.append(b,label);grid.appendChild(wrap)}
 function openDoor(n){
- active=n;const d=entryFor(n);
+ previousFocus=document.activeElement;active=n;const d=entryFor(n);
  document.querySelector('#day-label').textContent='PUERTA '+String(n).padStart(3,'0')+' / 365'+(d&&d.fechaTexto?' · '+d.fechaTexto.toUpperCase():'');
  document.querySelector('#letter-title').textContent=d?(safeText(d.categoria)||'UN DETALLE PARA TI').toUpperCase():(n<=365?'ESTA PUERTA ESTÁ POR DESCUBRIR':'');
  const pieces=[];
@@ -158,10 +158,10 @@ function openDoor(n){
  backdrop.classList.add('open');document.querySelector('#close').focus()
 }
 function update(){document.querySelector('#count').textContent=visited.size+' / 365';document.querySelector('#fill').style.width=(visited.size/365*100)+'%';document.querySelectorAll('.door').forEach((b,i)=>{const n=i+1,done=visited.has(n),word=keywordFor(n);b.classList.toggle('done',done);b.title=done?word:'Abrir puerta '+n;const label=b.parentElement.querySelector('.door-keyword');label.textContent=done?word.toLocaleUpperCase('es-CO').slice(0,18):'';label.classList.toggle('visible',done);label.setAttribute('aria-hidden',done?'false':'true')})}
-function close(){backdrop.classList.remove('open')}
+function close(){backdrop.classList.remove('open');if(previousFocus&&typeof previousFocus.focus==='function'&&previousFocus.isConnected)previousFocus.focus()}
 document.querySelector('#close').addEventListener('click',close);
 backdrop.addEventListener('click',e=>{if(e.target===backdrop)close()});
-document.addEventListener('keydown',e=>{if(e.key==='Escape')close()});
+document.addEventListener('keydown',e=>{if(!backdrop.classList.contains('open'))return;if(e.key==='Escape'){close();return}if(e.key==='Tab'){const focusables=[...backdrop.querySelectorAll('button:not(:disabled),a[href],[tabindex]:not([tabindex="-1"])')].filter(el=>!el.hasAttribute('hidden'));if(!focusables.length)return;const first=focusables[0],last=focusables[focusables.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}}});
 document.querySelector('#play-day-song').addEventListener('click',()=>{const d=entryFor(active);if(d&&d.youtubeId&&window.SorpresaReproductor){window.SorpresaReproductor.reproducirDia(d)}else{const b=document.querySelector('#play-day-song');b.textContent='CANCIÓN NO DISPONIBLE PARA ESTE DÍA';b.disabled=true}});
 const oldOpenDoor=openDoor;
 openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySelector('#play-day-song');b.disabled=!(d&&d.youtubeId);b.textContent=(d&&d.youtubeId)?'▶ ESCUCHAR CANCIÓN DEL DÍA':'CANCIÓN AÚN NO DISPONIBLE';};
