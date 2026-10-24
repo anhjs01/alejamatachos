@@ -493,7 +493,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .puzzle-preview span{font-size:.74rem;color:var(--muted);line-height:1.5}
 @media(max-width:700px){.puzzle-layout{grid-template-columns:1fr}.puzzle-board{max-width:440px;margin-inline:auto}.puzzle-side{padding:16px}}
 
-</style>
+.mini-launch-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.mini-launch{position:relative;display:flex;flex-direction:column;gap:16px;min-height:230px;padding:clamp(22px,4vw,38px);border:1px solid #34474d;border-radius:28px 8px 28px 8px;background:radial-gradient(circle at 100% 0,#15333c 0,transparent 48%),linear-gradient(140deg,#111a1d,#090d0f);overflow:hidden;transition:transform .3s,border-color .3s}.mini-launch:hover,.mini-launch:focus-visible{transform:translateY(-5px);border-color:var(--blue)}.mini-launch strong{font-size:clamp(1.5rem,3vw,2.5rem);line-height:1;letter-spacing:-.06em;max-width:430px}.mini-launch strong span{color:var(--blue)}.mini-launch p{color:var(--muted);max-width:390px;line-height:1.7;margin:0}.launch-mark{position:absolute;right:24px;bottom:12px;font-size:3rem;color:#53dfff38}@media(max-width:650px){.mini-launch-grid{grid-template-columns:1fr}}</style>
 </head>
 <body>
 <div class="urban-atmosphere" aria-hidden="true">
@@ -552,21 +552,11 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
  <div class="welcome-menu-foot"><span class="mono">365 DÍAS · UN SOLO UNIVERSO</span><span class="welcome-foot-mark">✳</span><span class="mono">ELIGE POR DÓNDE EMPEZAR.</span></div>
 </section>
 <section class="section music-note-section" id="musica"><div class="section-head"><div><div class="mono">02 / Canciones que acompañan</div><h2>EL RINCÓN<br><span>SONORO.</span></h2></div><p class="section-intro">Una pequeña playlist hecha con las canciones del catálogo. Elige cualquiera para escucharla; las canciones del calendario también podrán encontrarse aquí cuando estén vinculadas a un día.</p></div><div class="music-playlist"><div class="playlist-heading"><span class="mono">CANCIONES DE TUS DÍAS ABIERTOS</span><span class="mono" id="playlist-count">0 / 12 CANCIONES</span></div><div class="playlist-list" id="playlist-list" aria-label="Canciones de los días abiertos"></div><p class="playlist-note" id="playlist-note" role="status" aria-live="polite">
-<section class="section" id="juego-gatito">
- <div class="section-head"><div><div class="mono">05 / Un cielo de sorpresas</div><h2>ATRAPA<br><span>ESTRELLAS.</span></h2></div><p class="section-intro">Ayuda al gatito a recoger las estrellas que caen del cielo. Muévete, consigue puntos y descubre cuánto puedes reunir antes de que se acabe el tiempo.</p></div>
- <div class="cat-game">
-  <div class="cat-game-head"><div><div class="mono">PEQUEÑOS MUNDOS / ARCADE</div><h3>El gatito estelar ✦</h3></div><div class="cat-game-stats"><span class="cat-game-stat" id="cat-score">PUNTOS 0</span><span class="cat-game-stat" id="cat-time">TIEMPO 30</span><span class="cat-game-stat" id="cat-best">RÉCORD 0</span></div></div>
-  <p class="cat-game-copy">Recoge estrellas para sumar puntos. Los corazones valen más; los meteoritos te hacen perder puntos. ¡No dejes que se escape la noche!</p>
-  <div class="cat-game-stage"><canvas id="cat-game-canvas" width="760" height="360" aria-label="Juego del gatito que recoge estrellas"></canvas><div class="cat-game-overlay" id="cat-overlay"><div class="cat-game-overlay-inner"><h4 id="cat-overlay-title">¿Listos, patitas?</h4><p id="cat-overlay-copy">Mueve al gatito con ← → o A / D. En móvil, usa los botones de abajo. Tienes 30 segundos para recoger estrellas y coraz
-<section class="section" id="juego-rompecabezas">
- <div class="section-head"><div><div class="mono">06 / Una imagen, pieza a pieza</div><h2>ARMA<br><span>EL RECUERDO.</span></h2></div><p class="section-intro">Un pequeño rompecabezas nocturno: mezcla las piezas y vuelve a encontrar el orden. Puedes intercambiarlas con un toque o arrastrarlas a su lugar.</p></div>
- <div class="puzzle-game">
-  <div class="puzzle-head"><div><div class="mono">PEQUEÑOS MUNDOS / ROMPECABEZAS</div><h3>Una noche para reconstruir ✧</h3></div></div>
-  <p class="puzzle-copy">Empieza con nueve piezas. Selecciona una y luego otra para intercambiarlas, o arrastra una pieza hasta otra. Si necesitas una pista, puedes mirar la imagen completa.</p>
-  <div class="puzzle-layout">
-   <div class="puzzle-board" id="puzzle-board" role="group" aria-label="Rompecabezas de nueve piezas"></div>
-   <aside class="puzzle-side"><h4>Todo encuentra su lugar.</h4><p>Observa la luna, las estrellas y al pequeño gato. Cada pieza tiene su sitio; no hay límite de tiempo, así que puedes resolverlo a tu ritmo.</p><div class="puzzle-stats"><span class="puzzle-stat" id="puzzle-moves">MOVIMIENTOS 0</span><span class="puzzle-stat" id="puzzle-best">RÉCORD —</span></div><div class="puzzle-actions"><button class="primary" id="puzzle-shuffle" type="button">MEZCLAR PIEZAS ↻</button><button id="puzzle-hint" type="button" aria-pressed="false">VER PISTA</button></div><div class="puzzle-preview"><canvas id="puzzle-preview" width="96" height="96" aria-label="Vista previa de la ilustración completa"></canvas><span id="puzzle-status" class="puzzle-status" role="status" aria-live="polite">Toca dos piezas para intercambiarlas y completar la ilustración.</span></div></aside>
-  </div>
+<section class="section" id="pequenos-mundos">
+ <div class="section-head"><div><div class="mono">05 / Pequeños mundos</div><h2>JUEGA<br><span>UN RATITO.</span></h2></div><p class="section-intro">El calendario y sus sorpresas tienen su propio espacio. Los minijuegos viven en pantallas independientes para que puedas jugar sin interrumpir los 365 días.</p></div>
+ <div class="mini-launch-grid">
+  <a class="mini-launch" href="./gatito-estelar.html"><span class="mono">ARCADE · 30 SEGUNDOS</span><strong>ATRAPA ESTRELLAS <span>↗</span></strong><p>Ayuda al gatito a recoger estrellas, sumar puntos y superar tu récord.</p><span class="launch-mark">✦</span></a>
+  <a class="mini-launch" href="./rompecabezas.html"><span class="mono">PUZLE · A TU RITMO</span><strong>ARMA EL RECUERDO <span>↗</span></strong><p>Intercambia nueve piezas hasta reconstruir la ilustración nocturna.</p><span class="launch-mark">✧</span></a>
  </div>
 </section>
 ones.</p><div class="cat-game-actions"><button class="primary" id="cat-start" type="button">EMPEZAR A JUGAR ✦</button></div></div></div></div>
@@ -732,124 +722,4 @@ document.querySelector('#save').addEventListener('click',()=>{visited.add(active
  for(let i=0;i<72;i++)stars.push({x:(i*137.3)%W,y:(i*71.7)%H,r:i%5===0?1.6:.8,a:.25+(i%6)*.1});
  function roundedRect(x,y,w,h,r){ctx.beginPath();ctx.roundRect(x,y,w,h,r);ctx.fill()}
  function drawScene(){
-  const bg=ctx.createLinearGradient(0,0,0,H);bg.addColorStop(0,'#10162c');bg.addColorStop(1,'#09111d');ctx.fillStyle=bg;ctx.fillRect(0,0,W,H);
-  stars.forEach((p,i)=>{ctx.globalAlpha=p.a*(reduce?1:.78+.22*Math.sin(performance.now()/850+i));ctx.fillStyle=i%7===0?'#9beaff':'#f4f2ff';ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fill()});ctx.globalAlpha=1;
-  ctx.strokeStyle='#b9eaff12';ctx.lineWidth=1;for(let x=0;x<W;x+=38){ctx.beginPath();ctx.moveTo(x,H-24);ctx.lineTo(x+((x%3)-1)*10,H);ctx.stroke()}
- }
- function drawCat(){
-  const x=player.x,y=player.y;
-  ctx.save();ctx.translate(x,y);
-  ctx.fillStyle='#53dfff22';ctx.beginPath();ctx.ellipse(0,17,32,9,0,0,Math.PI*2);ctx.fill();
-  ctx.strokeStyle='#d5f5ff';ctx.lineWidth=5;ctx.lineCap='round';ctx.beginPath();ctx.moveTo(20,3);ctx.bezierCurveTo(38,-4,29,-21,17,-13);ctx.stroke();
-  ctx.fillStyle='#d9e8ef';ctx.beginPath();ctx.ellipse(0,0,22,18,0,0,Math.PI*2);ctx.fill();
-  ctx.beginPath();ctx.moveTo(-18,-8);ctx.lineTo(-17,-29);ctx.lineTo(-3,-17);ctx.closePath();ctx.fill();ctx.beginPath();ctx.moveTo(4,-17);ctx.lineTo(18,-29);ctx.lineTo(19,-7);ctx.closePath();ctx.fill();
-  ctx.fillStyle='#f49cae';ctx.beginPath();ctx.moveTo(-15,-12);ctx.lineTo(-16,-23);ctx.lineTo(-8,-16);ctx.closePath();ctx.fill();ctx.beginPath();ctx.moveTo(9,-16);ctx.lineTo(16,-23);ctx.lineTo(15,-11);ctx.closePath();ctx.fill();
-  ctx.fillStyle='#14202c';ctx.beginPath();ctx.arc(-8,-2,2.3,0,Math.PI*2);ctx.arc(8,-2,2.3,0,Math.PI*2);ctx.fill();
-  ctx.fillStyle='#f49cae';ctx.beginPath();ctx.moveTo(-3,4);ctx.lineTo(3,4);ctx.lineTo(0,7);ctx.closePath();ctx.fill();
-  ctx.strokeStyle='#243642';ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(-7,7);ctx.lineTo(-19,5);ctx.moveTo(-7,10);ctx.lineTo(-19,12);ctx.moveTo(7,7);ctx.lineTo(19,5);ctx.moveTo(7,10);ctx.lineTo(19,12);ctx.stroke();
-  ctx.fillStyle='#53dfff';roundedRect(-18,13,36,10,5);ctx.fillStyle='#eafaff';ctx.beginPath();ctx.arc(0,18,2,0,Math.PI*2);ctx.fill();ctx.restore();
- }
- function drawObjects(){
-  objects.forEach(o=>{ctx.save();ctx.translate(o.x,o.y);if(o.kind==='star'){ctx.fillStyle='#ffe7a0';ctx.shadowColor='#ffd56b';ctx.shadowBlur=14;ctx.beginPath();for(let i=0;i<10;i++){const a=-Math.PI/2+i*Math.PI/5,r=i%2?o.r*.44:o.r;ctx.lineTo(Math.cos(a)*r,Math.sin(a)*r)}ctx.closePath();ctx.fill()}else if(o.kind==='heart'){ctx.fillStyle='#ff93bc';ctx.shadowColor='#ff93bc';ctx.shadowBlur=15;ctx.font='bold 27px sans-serif';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText('♥',0,0)}else{ctx.fillStyle='#b6a6ff';ctx.shadowColor='#b6a6ff';ctx.shadowBlur=12;ctx.rotate(o.spin);ctx.beginPath();ctx.moveTo(-o.r,-o.r*.5);ctx.lineTo(o.r,o.r*.5);ctx.lineTo(o.r*.4,o.r);ctx.lineTo(-o.r*.5,o.r*.3);ctx.closePath();ctx.fill()}ctx.restore()})
- }
- function render(){drawScene();drawObjects();drawCat()}
- function updateHud(){scoreEl.textContent='PUNTOS '+score;timeEl.textContent='TIEMPO '+Math.ceil(remaining);bestEl.textContent='RÉCORD '+best}
- function finish(){
-  running=false;cancelAnimationFrame(raf);overlay.hidden=false;title.textContent='¡Noche completada! ✦';copy.textContent='El gatito consiguió '+score+' puntos. '+(score>=best&&score>0?'¡Nuevo récord! Las estrellas brillan por ti.':'¿Probamos otra vez para superar tu récord?');start.textContent='JUGAR OTRA VEZ ↻';status.textContent='Partida terminada: '+score+' puntos.';
-  if(score>best){best=score;try{localStorage.setItem('aleja-gatito-record-v1',String(best))}catch(_){}}
-  updateHud();render();
- }
- function frame(now){
-  if(!running)return;const dt=Math.min((now-last)/1000||0,.04);last=now;remaining=Math.max(0,remaining-dt);
-  const speed=reduce?245:285;player.x+=((keys.right?1:0)-(keys.left?1:0))*speed*dt;player.x=Math.max(28,Math.min(W-28,player.x));
-  spawn+=dt;if(spawn>Math.max(.28,.76-score/260)){spawn=0;const roll=Math.random();objects.push({x:22+Math.random()*(W-44),y:-20,r:roll>.92?15:roll>.79?13:12,kind:roll>.92?'heart':roll>.79?'meteor':'star',vy:105+Math.random()*75+score*.25,spin:0})}
-  objects.forEach(o=>{o.y+=o.vy*dt;o.spin+=dt*2});
-  objects=objects.filter(o=>{if(Math.abs(o.x-player.x)<31&&Math.abs(o.y-player.y)<29){score=Math.max(0,score+(o.kind==='heart'?5:o.kind==='meteor'?-3:1));return false}return o.y<H+30});
-  updateHud();render();if(remaining<=0){finish();return}raf=requestAnimationFrame(frame)
- }
- function begin(){cancelAnimationFrame(raf);score=0;remaining=30;last=performance.now();spawn=0;objects=[];player.x=W/2;keys.left=keys.right=false;running=true;overlay.hidden=true;status.textContent='¡A recoger estrellas! Cada corazón suma cinco puntos.';updateHud();raf=requestAnimationFrame(frame)}
- start.addEventListener('click',begin);
- document.addEventListener('keydown',e=>{if(!running)return;if(['ArrowLeft','ArrowRight','a','A','d','D'].includes(e.key)){e.preventDefault();if(e.key==='ArrowLeft'||e.key==='a'||e.key==='A')keys.left=true;else keys.right=true}});
- document.addEventListener('keyup',e=>{if(['ArrowLeft','a','A'].includes(e.key))keys.left=false;if(['ArrowRight','d','D'].includes(e.key))keys.right=false});
- window.addEventListener('blur',()=>{keys.left=keys.right=false});
- function bindHold(id,key){c
-;
-
-onst b=document.getElementById(id);if(!b)return;const down=e=>{e.preventDefault();keys[key]=true};const up=e=>{e.preventDefault();keys[key]=false};b.addEventListener('pointerdown',down);b.addEventListener('pointerup',up);b.addEventListener('pointercancel',up);b.addEventListener('pointerleave',up);b.addEventListener('contextmenu',e=>e.preventDefault())}
- bindHold('cat-left','left');bindHold('cat-right','right');
- drawScene();drawCat();updateHud();
-})();
-
-rect.height*ratio));
-   background();if(old.width>1&&old.height>1)ctx.drawImage(old,0,0,old.width,old.height,0,0,canvas.width,canvas.height);
-   ctx.lineCap='round';ctx.lineJoin='round';
- }
- function point(e){const r=canvas.getBoundingClientRect();return {x:(e.clientX-r.left)*(canvas.width/r.width),y:(e.clientY-r.top)*(canvas.height/r.height)}}
- function down(e){if(e.button!==undefined&&e.button!==0)return;drawing=true;last=point(e);canvas.setPointerCapture?.(e.pointerId);ctx.beginPath();ctx.arc(last.x,last.y,Math.max(1,Number(brush.value)*(canvas.width/canvas.getBoundingClientRect().width)/2),0,Math.PI*2);ctx.fillStyle=erasing?'#f7f4ec':color;ctx.fill();e.preventDefault()}
- function move(e){if(!drawing||!last)return;const p=point(e);ctx.beginPath();ctx.moveTo(last.x,last.y);ctx.lineTo(p.x,p.y);ctx.strokeStyle=erasing?'#f7f4ec':color;ctx.lineWidth=Number(brush.value)*(canvas.width/canvas.getBoundingClientRect().width);ctx.stroke();last=p;e.preventDefault()}
- function up(){if(drawing)snapshot();drawing=false;last=null}
- function restoreData(data){const img=new Image();img.onload=()=>{background();ctx.drawImage(img,0,0,canvas.width,canvas.height);status.textContent='Dibujo recuperado en este lienzo.'};img.onerror=()=>status.textContent='No se pudo abrir el dibujo guardado.';img.src=data}
- canvas.addEventListener('pointerdown',down);canvas.addEventListener('pointermove',move);canvas.addEventListener('pointerup',up);canvas.addEventListener('pointercancel',up);canvas.addEventListener('lostpointercapture',up);
- palette.addEventListener('click',e=>{const b=e.target.closest('[data-color]');if(!b)return;color=b.dataset.color;erasing=false;document.getElementById('canvas-eraser').setAttribute('aria-pressed','false');palette.querySelectorAll('[data-color]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)))});
- brush.addEventListener('input',()=>brushValue.textContent=brush.value+' px');
- document.getElementById('canvas-eraser').addEventListener('click',e=>{erasing=!erasing;e.currentTarget.setAttribute('aria-pressed',String(erasing));e.currentTarget.textContent=erasing?'BORRADOR ACTIVO':'BORRADOR'});
- document.getElementById('canvas-undo').addEventListener('click',()=>{if(history.length<2){status.textContent='No hay más trazos para deshacer.';return}history.pop();restoreData(history[history.length-1])});
- document.getElementById('canvas-clear').addEventListener('click',()=>{snapshot();background();snapshot();status.textContent='Lienzo limpio. Tu dibujo guardado anteriormente no se ha borrado.'});
- document.getElementById('canvas-save').addEventListener('click',()=>{try{localStorage.setItem(saveKey,canvas.toDataURL('image/png'));status.textContent='Dibujo guardado en este navegador.'}catch(_){status.textContent='El navegador no permitió guardar el dibujo. Usa Exportar PNG para conservar una copia.'}});
- document.getElementById('canvas-restore').addEventListener('click',()=>{try{const data=localStorage.getItem(saveKey);if(data)restoreData(data);else status.textContent='Todavía no hay un dibujo guardado en este navegador.'}catch(_){status.textContent='No se pudo acceder al almacenamiento local.'}});
- document.getElementById('canvas-export').addEventListener('click',()=>{try{const a=document.createElement('a');a.href=canvas.toDataURL('image/png');a.download='aleja-mi-dibujo.png';a.click();status.textContent='Se solicitó exportar el dibujo como PNG.'}catch(_){status.textContent='No se pudo exportar la imagen.'}});
- resize();snapshot();
- try{const saved=localStorage.getItem(saveKey);if(saved)restoreData(saved)}catch(_){}
- if('ResizeObserver' in window){let pending=false;new ResizeObserver(()=>{if(pending)return;pending=true;requestAnimationFrame(()=>{pending=false;resize()})}).observe(canvas)}
-})();
-
-// Desplazamiento sutil de los garabatos al recorrer la página; se pausa en móviles de bajo movimiento.
-(function(){
- const layer=document.querySelector('.urban-atmosphere');
- if(!layer||window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
- let queued=false;
- function drift(){const y=window.scrollY||0;layer.style.setProperty('--urban-shift-a',(y*.045).toFixed(1)+'px');layer.style.setProperty('--urban-shift-b',(-y*.035).toFixed(1)+'px');queued=false}
- window.addEventListener('scroll',()=>{if(!queued){queued=true;requestAnimationFrame(drift)}},{passive:true});
- drift();
-})();
-/* Rompecabezas ilustrado de nueve piezas; selección táctil, arrastre, pista y récord local */
-(function(){
- const board=document.getElementById('puzzle-board'),preview=document.getElementById('puzzle-preview'),movesEl=document.getElementById('puzzle-moves'),bestEl=document.getElementById('puzzle-best'),status=document.getElementById('puzzle-status'),hint=document.getElementById('puzzle-hint');
- if(!board||!preview)return;
- const art=document.createElement('canvas');art.width=480;art.height=480;const c=art.getContext('2d'),p=preview.getContext('2d');
- const bg=c.createLinearGradient(0,0,480,480);bg.addColorStop(0,'#171a38');bg.addColorStop(.55,'#172c46');bg.addColorStop(1,'#0b1729');c.fillStyle=bg;c.fillRect(0,0,480,480);
- c.fillStyle='#fff0bd';c.beginPath();c.arc(365,96,43,0,Math.PI*2);c.fill();c.fillStyle='#17213a';c.beginPath();c.arc(382,82,38,0,Math.PI*2);c.fill();
- for(let i=0;i<75;i++){const x=(i*139+21)%480,y=(i*83+17)%350;c.globalAlpha=.3+(i%5)*.13;c.fillStyle=i%6===0?'#8deaff':'#fff4db';c.beginPath();c.arc(x,y,i%8===0?2.5:1.2,0,Math.PI*2);c.fill()}c.globalAlpha=1;
- c.fillStyle='#263e58';c.beginPath();c.moveTo(0,330);c.lineTo(100,230);c.lineTo(205,345);c.lineTo(315,250);c.lineTo(480,350);c.lineTo(480,480);c.lineTo(0,480);c.closePath();c.fill();
- c.fillStyle='#101b2a';c.beginPath();c.moveTo(0,395);c.quadraticCurveTo(120,330,230,410);c.quadraticCurveTo(350,455,480,380);c.lineTo(480,480);c.lineTo(0,480);c.closePath();c.fill();
- // Gatito dibujado a mano en el centro de la ilustración.
- c.save();c.translate(235,340);c.fillStyle='#e4edf2';c.beginPath();c.ellipse(0,22,58,72,0,0,Math.PI*2);c.fill();c.beginPath();c.moveTo(-49,-8);c.lineTo(-43,-84);c.lineTo(-4,-52);c.closePath();c.fill();c.beginPath();c.moveTo(8,-52);c.lineTo(45,-85);c.lineTo(49,-6);c.closePath();c.fill();
- c.fillStyle='#f49db7';c.beginPath();c.moveTo(-40,-22);c.lineTo(-38,-69);c.lineTo(-15,-48);c.closePath();c.fill();c.beginPath();c.moveTo(20,-48);c.lineTo(39,-70);c.lineTo(41,-20);c.closePath();c.fill();
- c.fillStyle='#1a2a3a';c.beginPath();c.arc(-20,-15,5,0,Math.PI*2);c.arc(20,-15,5,0,Math.PI*2);c.fill();c.fillStyle='#f49db7';c.beginPath();c.moveTo(-6,-1);c.lineTo(6,-1);c.lineTo(0,6);c.closePath();c.fill();
- c.strokeStyle='#263c4d';c.lineWidth=2;c.beginPath();c.moveTo(-14,6);c.lineTo(-40,1);c.moveTo(-14,13);c.lineTo(-40,17);c.moveTo(14,6);c.lineTo(40,1);c.moveTo(14,13);c.lineTo(40,17);c.stroke();
- c.strokeStyle='#e4edf2';c.lineWidth=9;c.lineCap='round';c.beginPath();c.moveTo(44,48);c.quadraticCurveTo(90,20,65,-3);c.stroke();c.fillStyle='#53dfff';c.beginPath();c.ellipse(0,53,42,9,0,0,Math.PI*2);c.fill();c.restore();
- c.fillStyle='#ffe7a0';c.font='bold 25px sans-serif';c.fillText('✦',70,135);c.fillText('✧',305,210);c.fillText('✦',400,300);
- p.drawImage(art,0,0,96,96);
- let order=[],selected=null,moves=0,best=0,dragged=null,showHint=false;
- try{const saved=JSON.parse(localStorage.getItem('aleja-puzzle-best-v1')||'null');if(Number.isFinite(saved)&&saved>0)best=saved}catch(_){}
- bestEl.textContent='RÉCORD '+(best||'—');
- function shuffleOrder(){order=[0,1,2,3,4,5,6,7,8];for(let i=order.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[order[i],order[j]]=[order[j],order[i]]}if(order.every((v,i)=>v===i))[order[0],order[1]]=[order[1],order[0]]}
- function solved(){return order.every((v,i)=>v===i)}
- function render(){
-  board.innerHTML='';
-  order.forEach((piece,pos)=>{const b=document.createElement('button');b.type='button';b.className='puzzle-piece'+(selected===pos?' selected':'');b.dataset.pos=String(pos);b.dataset.piece=String(piece);b.dataset.number=String(piece+1).padStart(2,'0');b.setAttribute('aria-label','Pieza '+(piece+1)+', posición '+(pos+1)+(selected===pos?', seleccionada':''));b.style.backgroundImage='url("'+art.toDataURL('image/png')+'")';b.style.backgroundPosition=(piece%3)*50+'% '+Math.floor(piece/3)*50+'%';b.draggable=true;
-   b.addEventListener('click',()=>pick(pos));b.addEventListener('dragstart',e=>{dragged=pos;e.dataTransfer.setData('text/plain',String(pos));e.dataTransfer.effectAllowed='move'});b.addEventListener('dragover',e=>{e.preventDefault();e.dataTransfer.dropEffect='move'});b.addEventListener('drop',e=>{e.preventDefault();const from=dragged!==null?dragged:Number(e.dataTransfer.getData('text/plain'));swap(from,pos);dragged=null});board.appendChild(b)});
-  movesEl.textContent='MOVIMIENTOS '+moves;
-  if(showHint){hint.setAttribute('aria-pressed','true');hint.textContent='OCULTAR PISTA';board.style.backgroundImage='url("'+art.toDataURL('image/png')+'")';board.style.backgroundSize='cover';board.style.backgroundPosition='center'}else{hint.setAttribute('aria-pressed','false');hint.textContent='VER PISTA';board.style.backgroundImage='none'}
- }
- function pick(pos){if(solved())return;if(selected===null){selected=pos;status.textContent='Pieza seleccionada. Ahora toca otra para intercambiar.';render();return}if(selected===pos){selected=null;status.textContent='Selección cancelada.';render();return}swap(selected,pos)}
- function swap(a,b){if(!Number.isInteger(a)||!Number.isInteger(b)||a<0||b<0||a>=9||b>=9||a===b)return;[order[a],order[b]]=[order[b],order[a]];moves++;selected=null;render();if(solved()){status.textContent='¡Lo lograste! Reconstruiste la noche en '+moves+' movimientos. ✨';if(!best||moves<best){best=moves;try{localStorage.setItem('aleja-puzzle-best-v1',String(best))}catch(_){}bestEl.textContent='RÉCORD '+best}}else status.textContent='Vas muy bien. Busca la continuidad del cielo y la silueta del gatito.'}
- document.getElementById('puzzle-shuffle').addEventListener('click',()=>{shuffleOrder();moves=0;selected=null;showHint=false;render();status.textContent='Piezas mezcladas. ¡A reconstruir la noche!'});
- hint.addEventListener('click',()=>{showHint=!showHint;render();status.textContent=showHint?'Pista activada: observa la imagen completa y busca los bordes que coinciden.':'Pista oculta. ¡Sigue armando la imagen!'});
- shuffleOrder();render();
-})()
-update();
-if('serviceWorker' in navigator && location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}))}
-</script>
-</body>
-</html>
+  const bg=ctx.createLinearGradient(0,0,0,H);bg.addColorS
