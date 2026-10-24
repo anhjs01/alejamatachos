@@ -163,7 +163,7 @@ function restoreDoc(serial){try{
  const d=typeof serial==='string'?JSON.parse(serial):serial;
  if(!d||typeof d!=='object'||Array.isArray(d)||!Array.isArray(d.layers)||d.layers.length>1000)throw new Error('invalid project');
  const allowedTypes=new Set(['stroke','image','shape','line','text']);
- const allowedShapes=new Set(['rect','ellipse','triangle','star','arrow','line']);
+ const allowedShapes=new Set(['rect','roundrect','ellipse','triangle','star','arrow','diamond','pentagon','hexagon','cross','heart','line']);
  const layers=d.layers.map(l=>{
   if(!l||typeof l!=='object'||Array.isArray(l)||!allowedTypes.has(l.type))throw new Error('invalid layer');
   if(l.type==='stroke'){
