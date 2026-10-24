@@ -18,11 +18,12 @@
 
 | Categoría | Registros |
 |---|---:|
-| `amor` | 46 |
+| `amor` | 104 |
 | `filosofica` | 210 |
-| `hot` | 58 |
 | `ambiente` | 46 |
 | **Total** | **360** |
+
+La antigua categoría `hot` se eliminó como clasificación y sus 58 canciones se incorporaron a `amor`. Se conservaron los objetos de cada canción, incluidos sus títulos, artistas e identificadores de YouTube; no se eliminaron canciones. Esta reorganización no cambia el total del catálogo.
 
 ## Canciones sin identificador
 
