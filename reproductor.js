@@ -213,7 +213,7 @@
     elBarra.className = "reproductor-barra";
     elBarra.innerHTML =
       '<button type="button" class="reproductor-btn" id="reproductorPlayPausa" aria-label="Pausar o reanudar">⏸</button>' +
-      '<span class="reproductor-info" id="reproductorInfo">Elegiendo música…</span>' +
+      '<span class="reproductor-info" id="reproductorInfo" role="status" aria-live="polite" aria-atomic="true">Eligiendo música…</span>' +
       '<button type="button" class="reproductor-btn" id="reproductorSiguiente" aria-label="Cambiar canción">⟳</button>';
     document.body.appendChild(elBarra);
 
