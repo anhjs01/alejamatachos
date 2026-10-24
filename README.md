@@ -8,14 +8,15 @@ Aplicación web en desarrollo para el calendario sorpresa de ALEJA.
 - Calendario visual de 365 puertas con formas geométricas variadas; cada botón muestra solo su número.
 - Apertura de puerta con contenido disponible y palabra clave fuera del botón.
 - Registro local de puertas visitadas mediante `localStorage`; persiste en el mismo navegador, pero no se sincroniza entre dispositivos.
-- Reproductor musical integrado con la API oficial de YouTube. La reproducción depende de una acción del usuario, de la disponibilidad del video y de las restricciones del navegador.
-- **Lienzo de dibujo funcional:** entrada táctil y ratón, paleta de colores, tamaño de pincel, borrador, deshacer, limpiar, guardar en el navegador y exportar PNG.
+- Reproductor musical integrado con la API oficial de YouTube. La reproducción depende de una acción del usuario, la disponibilidad del video y las restricciones del navegador.
+- **Lienzo de dibujo:** entrada táctil y ratón, paleta de colores, tamaño de pincel, borrador, deshacer, limpiar, guardar en el navegador y exportar PNG.
+- **Minijuego musical:** preguntas de selección múltiple, retroalimentación inmediata, puntuación y reinicio. No reproduce audio ni necesita permisos.
 - Preparación PWA mediante `manifest.webmanifest`, `icon.svg` y `service-worker.js`.
 - Diseño adaptable a móvil y escritorio, con animaciones y respeto por `prefers-reduced-motion`.
 
 ## Archivos principales
 
-- `index.html`: interfaz, estilos y lógica del calendario y del lienzo.
+- `index.html`: interfaz, estilos, calendario, lienzo y minijuego.
 - `contenido-calendario.js`: contenido personalizado disponible para los días documentados.
 - `catalogo-canciones.js`: catálogo musical por categoría.
 - `reproductor.js`: integración del reproductor.
@@ -30,7 +31,7 @@ La auditoría del catálogo comprueba estructura, duplicados y formato de los id
 
 El dibujo guardado vive en el almacenamiento local del navegador. No es una copia en la nube ni se sincroniza entre dispositivos; conviene exportar un PNG si se quiere conservar una copia fuera del navegador.
 
-La PWA y el lienzo deben probarse en navegadores reales: instalación en iPhone y escritorio, uso sin conexión, actualización de caché, accesibilidad, dibujo táctil, memoria disponible y reproducción/pausa/siguiente canción de YouTube. No se afirma que estas pruebas estén aprobadas.
+El minijuego usa preguntas basadas en metadatos del catálogo; no evalúa reconocimiento de audio. La PWA, el lienzo y el juego deben probarse en navegadores reales: instalación en iPhone y escritorio, uso sin conexión, actualización de caché, accesibilidad, dibujo táctil y reproducción/pausa/siguiente canción de YouTube. No se afirma que esas pruebas estén aprobadas.
 
 ## Repositorios de referencia
 
