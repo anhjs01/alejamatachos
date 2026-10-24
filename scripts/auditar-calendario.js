@@ -16,7 +16,7 @@ function readDeclaredJson(file, declaration, closing) {
   if (equals < 0) throw new Error(`Declaración inválida en ${file}`);
   const end = source.lastIndexOf(closing);
   if (end <= equals) throw new Error(`No se encontró el cierre ${closing} en ${file}`);
-  return JSON.parse(source.slice(equals + 1, end).trim());
+  return JSON.parse(source.slice(equals + 1, end + closing.trim().length).trim());
 }
 
 const calendario = readDeclaredJson("contenido-calendario.js", "const CALENDARIO", "\n];");
