@@ -323,7 +323,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .playlist-song.is-playing{border-color:var(--blue);background:#102c33;box-shadow:inset 3px 0 var(--blue)}
 .playlist-play{display:grid;place-items:center;width:34px;height:34px;flex:0 0 34px;border:1px solid #53dfff66;border-radius:50%;color:var(--blue)}
 .playlist-song-copy{min-width:0;display:block}.playlist-song-title,.playlist-song-artist{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.playlist-song-title{font-size:.82rem;font-weight:700}.playlist-song-artist{font-size:.7rem;color:var(--muted);margin-top:4px}
-.playlist-note{font-size:.78rem;color:var(--muted);line-height:1.6;margin:16px 0 0;min-height:1.5em}
+.playlist-search-label{display:block;margin-top:16px;font-size:.68rem;letter-spacing:.12em;color:var(--muted)}.playlist-search{display:block;width:100%;margin-top:8px;padding:12px 14px;border:1px solid #35474d;border-radius:3px 12px 3px 12px;background:#0b1113;color:var(--paper);font:inherit;outline:none}.playlist-search:focus-visible{border-color:var(--blue);box-shadow:0 0 0 3px #53dfff20}.playlist-song-day{display:block;margin-top:5px;color:var(--blue);font-size:.64rem;letter-spacing:.05em}.playlist-note{font-size:.78rem;color:var(--muted);line-height:1.6;margin:16px 0 0;min-height:1.5em}.playlist-empty{grid-column:1/-1;padding:18px;border:1px dashed #35474d;color:var(--muted);font-size:.85rem}
 @media(max-width:560px){.playlist-list{grid-template-columns:1fr}.art-placeholder-monogram{font-size:clamp(7rem,28vw,10rem)}}
 /* Juego con celebraciones, rachas y estados visuales que evolucionan */
 .music-game{--game-glow:#53dfff;transition:background .45s,border-color .45s,box-shadow .45s;background:radial-gradient(ellipse at 100% 0%,color-mix(in srgb,var(--game-glow) 13%,transparent),transparent 48%),linear-gradient(135deg,#10191d,#090d0f 72%)}
@@ -382,7 +382,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
  </div>
  <div class="welcome-menu-foot"><span class="mono">365 DÍAS · UN SOLO UNIVERSO</span><span class="welcome-foot-mark">✳</span><span class="mono">ELIGE POR DÓNDE EMPEZAR.</span></div>
 </section>
-<section class="section music-note-section" id="musica"><div class="section-head"><div><div class="mono">02 / Canciones que acompañan</div><h2>EL RINCÓN<br><span>SONORO.</span></h2></div><p class="section-intro">Una pequeña playlist hecha con las canciones del catálogo. Elige cualquiera para escucharla; las canciones del calendario también podrán encontrarse aquí cuando estén vinculadas a un día.</p></div><div class="music-playlist"><div class="playlist-heading"><span class="mono">SELECCIÓN DEL CATÁLOGO</span><span class="mono" id="playlist-count">CARGANDO CANCIONES…</span></div><div class="playlist-list" id="playlist-list" aria-label="Canciones del catálogo"></div><p class="playlist-note" id="playlist-note" role="status">Elige una canción para empezar a escuchar.</p></div></section>
+<section class="section music-note-section" id="musica"><div class="section-head"><div><div class="mono">02 / Canciones que acompañan</div><h2>EL RINCÓN<br><span>SONORO.</span></h2></div><p class="section-intro">Una pequeña playlist hecha con las canciones del catálogo. Elige cualquiera para escucharla; las canciones del calendario también podrán encontrarse aquí cuando estén vinculadas a un día.</p></div><div class="music-playlist"><div class="playlist-heading"><span class="mono">CALENDARIO + CATÁLOGO</span><span class="mono" id="playlist-count">CARGANDO CANCIONES…</span></div><label class="playlist-search-label" for="playlist-search">BUSCAR UNA CANCIÓN, ARTISTA O DÍA</label><input class="playlist-search" id="playlist-search" type="search" placeholder="Ej. Three Little Birds, Bob Marley o día 12" autocomplete="off"><div class="playlist-list" id="playlist-list" aria-label="Canciones del calendario y catálogo"></div><p class="playlist-note" id="playlist-note" role="status" aria-live="polite">Las canciones de los días disponibles aparecen primero; después, el catálogo sin duplicados.</p></div></section>
 <section class="section" id="calendario"><div class="section-head"><div><div class="mono">01 / El ritual de cada día</div><h2>CALENDARIO<br><span>DE ADVIENTO.</span></h2></div><p class="section-intro">Un muro de pequeñas puertas sorpresa. Cada una tiene su propio contorno y carácter. Solo verás el número hasta que decidas abrirla; después, el contenido y su palabra clave aparecerán aparte.</p></div><div class="calendar-box"><div class="calendar-meta"><div><div class="mono">365 PUERTAS · UN RECORRIDO</div><div style="font-weight:700;font-size:1.15rem;margin-top:7px">¿Cuál abrimos hoy? <span class="blue">✳</span></div></div><div class="meter"><div class="meterline mono"><span>VISITADAS</span><span id="count">0 / 365</span></div><div class="meterbar"><span id="fill"></span></div></div></div><div class="calendar-grid" id="grid" aria-label="Calendario de adviento de 365 días"></div><div class="calendar-foot"><span><span class="blue">✦</span> Puerta visitada</span><span>Formas diferentes, números visibles</span><span>La palabra clave aparece al abrir la puerta</span></div></div></section>
 
 
@@ -441,29 +441,55 @@ openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySe
 document.querySelector('#save').addEventListener('click',()=>{visited.add(active);try{localStorage.setItem(storageKey,JSON.stringify([...visited]))}catch(_){}update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
 
 
-/* Playlist: selección reproducible del catálogo existente, sin inventar canciones. */
+/* Playlist unificada: primero canciones de días del calendario, luego catálogo; deduplicación por YouTube ID y búsqueda. */
 (function(){
- const list=document.getElementById('playlist-list'),count=document.getElementById('playlist-count'),note=document.getElementById('playlist-note');
- if(!list||typeof CATALOGO_CANCIONES==='undefined')return;
- const entries=[];
- Object.entries(CATALOGO_CANCIONES).forEach(([categoria,canciones])=>(canciones||[]).forEach(c=>{if(c&&c.youtubeId&&!entries.some(x=>x.youtubeId===c.youtubeId))entries.push({...c,categoria})}));
- const chosen=entries.slice(0,12);
- count.textContent=chosen.length+' CANCIONES';
- chosen.forEach((song,i)=>{
-  const b=document.createElement('button');b.type='button';b.className='playlist-song';b.setAttribute('aria-label','Reproducir '+song.titulo+' de '+song.artista);
-  b.innerHTML='<span class="playlist-play" aria-hidden="true">▶</span><span class="playlist-song-copy"><span class="playlist-song-title"></span><span class="playlist-song-artist"></span></span>';
-  b.querySelector('.playlist-song-title').textContent=song.titulo;b.querySelector('.playlist-song-artist').textContent=song.artista||'Artista no indicado';
-  b.addEventListener('click',()=>{
-   if(!window.SorpresaReproductor||typeof window.SorpresaReproductor.reproducirCancion!=='function'){note.textContent='El reproductor aún se está preparando. Inténtalo de nuevo en un momento.';return}
-   window.SorpresaReproductor.reproducirCancion(song,song.categoria);
-   list.querySelectorAll('.playlist-song').forEach(x=>{x.classList.remove('is-playing');x.querySelector('.playlist-play').textContent='▶'});
-   b.classList.add('is-playing');b.querySelector('.playlist-play').textContent='♫';note.textContent='Reproduciendo: '+song.titulo+' · '+song.artista;
+ const list=document.getElementById('playlist-list'),count=document.getElementById('playlist-count'),note=document.getElementById('playlist-note'),search=document.getElementById('playlist-search');
+ if(!list||!count||!search||typeof CATALOGO_CANCIONES==='undefined')return;
+ const entries=[],byId=new Map();
+ const add=(song,source)=>{
+  if(!song||!song.youtubeId)return;
+  const id=String(song.youtubeId).trim();if(!id)return;
+  if(byId.has(id)){
+   const existing=byId.get(id);
+   if(source.day&&!existing.day){existing.day=source.day;existing.date=source.date;}
+   return;
+  }
+  const item={titulo:song.cancionTitulo||song.titulo||'Canción sin título',artista:song.cancionArtista||song.artista||'Artista no indicado',youtubeId:id,categoria:song.categoria||song.tono||source.categoria||'amor',day:source.day||null,date:source.date||''};
+  byId.set(id,item);entries.push(item);
+ };
+ if(Array.isArray(CALENDARIO))CALENDARIO.slice().sort((a,b)=>Number(a.dia)-Number(b.dia)).forEach(d=>add(d,{day:Number(d.dia),date:d.fechaTexto||d.fecha||''}));
+ Object.entries(CATALOGO_CANCIONES).forEach(([categoria,canciones])=>(canciones||[]).forEach(c=>add({...c,categoria},{categoria})));
+ let currentSongId=null;
+ function render(){
+  const query=search.value.trim().toLocaleLowerCase();
+  const filtered=entries.filter(song=>[song.titulo,song.artista,String(song.day||''),'día '+String(song.day||''),song.date,song.categoria].join(' ').toLocaleLowerCase().includes(query));
+  list.replaceChildren();
+  count.textContent=filtered.length+' DE '+entries.length+' CANCIONES';
+  if(!filtered.length){const empty=document.createElement('p');empty.className='playlist-empty';empty.textContent='No encontramos canciones con esa búsqueda. Prueba con otro título, artista o número de día.';list.appendChild(empty);return;}
+  filtered.forEach(song=>{
+   const b=document.createElement('button');b.type='button';b.className='playlist-song'+(currentSongId===song.youtubeId?' is-playing':'');
+   b.setAttribute('aria-label','Reproducir '+song.titulo+' de '+song.artista+(song.day?' · canción del día '+song.day:''));
+   const icon=document.createElement('span');icon.className='playlist-play';icon.setAttribute('aria-hidden','true');icon.textContent=currentSongId===song.youtubeId?'♫':'▶';
+   const copy=document.createElement('span');copy.className='playlist-song-copy';
+   const title=document.createElement('span');title.className='playlist-song-title';title.textContent=song.titulo;
+   const artist=document.createElement('span');artist.className='playlist-song-artist';artist.textContent=song.artista;
+   copy.append(title,artist);
+   if(song.day){const day=document.createElement('span');day.className='playlist-song-day';day.textContent='DÍA '+String(song.day).padStart(3,'0')+(song.date?' · '+song.date:'');copy.appendChild(day);}
+   b.append(icon,copy);
+   b.addEventListener('click',()=>{
+    if(!window.SorpresaReproductor||typeof window.SorpresaReproductor.reproducirCancion!=='function'){note.textContent='El reproductor aún se está preparando. Inténtalo de nuevo en un momento.';return;}
+    currentSongId=song.youtubeId;
+    window.SorpresaReproductor.reproducirCancion(song,song.categoria);
+    note.textContent='Reproduciendo: '+song.titulo+' · '+song.artista+(song.day?' · canción del día '+song.day:' · catálogo');
+    render();
+    const active=list.querySelector('.is-playing');if(active)active.setAttribute('aria-current','true');
+   });
+   list.appendChild(b);
   });
-  list.appendChild(b);
- });
- count.textContent=chosen.length+' DE '+entries.length+' CANCIONES';
+ }
+ search.addEventListener('input',render);
+ render();
 })();
-
 /* Pequeños Mundos: puntuación, feedback claro, rachas visuales y reinicio real. */
 (function(){
  const data=[
