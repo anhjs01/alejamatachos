@@ -1,19 +1,7 @@
 /* =======================================================================
-   REPRODUCTOR.JS — música de fondo real, usando el reproductor oficial
-   de YouTube (embebido, sin descargar nada — 100% dentro de las reglas
-   de YouTube, igual que insertar un video en cualquier página web).
-   -----------------------------------------------------------------------
-   No necesitas editar este archivo. El contenido de las canciones vive
-   en catalogo-canciones.js.
-
-   Por las reglas de los navegadores, la música solo puede empezar a
-   SONAR (con volumen) después de un clic. Para que arranque lo más
-   rápido posible apenas hay ese primer clic, el reproductor deja una
-   canción "precargada" en silencio desde que la página abre (los
-   navegadores sí permiten reproducir en silencio sin necesidad de
-   clic) — así, cuando llega el primer clic real, casi siempre solo
-   hace falta quitarle el silencio en vez de cargar la canción desde
-   cero, y suena casi al instante.
+   REPRODUCTOR.JS — reproductor oficial de YouTube.
+   La API puede prepararse al cargar la página, pero no se solicita ni
+   se carga una canción hasta que la persona elige reproducir.
    ======================================================================= */
 
 (function () {
@@ -22,7 +10,6 @@
   let player = null;
   let apiLista = false;
   let pendiente = null; // videoId en espera si se pidió reproducir antes de tiempo
-  let precargada = null; // cancion cargada en silencio de antemano, lista para sonar
   let cancionActual = null;
   let sonando = false;
   let errorReproduccion = false;
@@ -67,8 +54,6 @@
             const solicitud = pendiente;
             pendiente = null;
             reproducirId(solicitud.videoId, solicitud.silencioso);
-          } else {
-            precargarPorAdelantado();
           }
         },
         onStateChange: function (e) {
@@ -97,24 +82,7 @@
   }
 
   /* -----------------------------------------------------------------
-     2) PRECARGA SILENCIOSA (apenas la página abre, sin esperar clic)
-     ----------------------------------------------------------------- */
-  function precargarPorAdelantado() {
-    if (typeof CATALOGO_CANCIONES === "undefined" || !player || !player.loadVideoById) return;
-    // La canción de entrada se mantiene fija: Moment Of Your Life.
-    // La reproducción con sonido comienza tras una interacción del usuario,
-    // como exigen los navegadores modernos.
-    const esPortada = !!document.getElementById("heartBtn");
-    const videoId = esPortada ? "Jv17JsayCSI" : ((CATALOGO_CANCIONES.amor || []).find(c => c.youtubeId)?.youtubeId);
-    if (!videoId) return;
-    precargada = { titulo: "Moment Of Your Life (feat. Coco Jones)", artista: "Brent Faiyaz & Coco Jones", youtubeId: videoId, categoria: "amor" };
-    player.mute();
-    player.loadVideoById(videoId);
-    player.pauseVideo();
-  }
-
-  /* -----------------------------------------------------------------
-     3) REPRODUCIR
+     2) REPRODUCIR
      ----------------------------------------------------------------- */
   function reproducirId(videoId, silencioso) {
     if (!videoId || !player) return;
@@ -145,15 +113,7 @@
     sonando = false;
     errorReproduccion = false;
 
-    // si la precarga silenciosa ya es justo esta cancion, solo hay
-    // que quitarle el silencio: suena casi instantaneo, sin recargar
-    if (precargada && player && precargada.youtubeId === elegida.youtubeId) {
-      player.unMute();
-      player.playVideo();
-    } else {
-      reproducirId(elegida.youtubeId, false);
-    }
-    precargada = null;
+    reproducirId(elegida.youtubeId, false);
     actualizarUI();
   }
 
@@ -178,14 +138,8 @@
       (typeof CATALOGO_CANCIONES !== "undefined" && CATALOGO_CANCIONES[dia.tono] ? dia.tono : "amor");
     sonando = false;
     errorReproduccion = false;
-    if (precargada && precargada.youtubeId === dia.youtubeId && player && apiLista) {
-      // Reutiliza la precarga silenciosa cuando el usuario elige la canción inicial.
-      player.unMute();
-      player.playVideo();
-    } else {
-      reproducirId(dia.youtubeId, false);
-    }
-    precargada = null; actualizarUI();
+    reproducirId(dia.youtubeId, false);
+    actualizarUI();
   }
   function pausarOReanudar() {
     if (!player) return;
@@ -203,7 +157,7 @@
   }
 
   /* -----------------------------------------------------------------
-     4) UI MÍNIMA — barra flotante "sonando ahora"
+     3) UI MÍNIMA — barra flotante "sonando ahora"
      ----------------------------------------------------------------- */
   let elBarra = null;
 
@@ -234,7 +188,7 @@
   }
 
   /* -----------------------------------------------------------------
-     5) INICIO
+     4) INICIO
      ----------------------------------------------------------------- */
   cargarAPI();
 
