@@ -337,6 +337,15 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 @keyframes celebrateBurst{0%{opacity:0;transform:scale(.3) rotate(-25deg)}45%{opacity:1;transform:scale(1.2) rotate(8deg)}100%{opacity:0;transform:scale(1.6) rotate(18deg)}}
 @media(prefers-reduced-motion:reduce){.music-game.is-correct,.music-game.is-wrong,.music-game.celebrate:after{animation:none!important}.playlist-song,.game-streak span{transition:none!important}}
 
+
+/* Icono de Pequeños Mundos: planeta ilustrado, no un signo de interrogación */
+.graphic-game .world-globe{position:relative;width:76px;height:76px;border:1.5px solid var(--blue);border-radius:50%;box-shadow:0 0 0 8px #53dfff0b,0 0 24px #53dfff16;transform:rotate(-18deg)}
+.graphic-game .world-globe:before,.graphic-game .world-globe:after{content:"";position:absolute;inset:9px -7px;border:1px solid #53dfffaa;border-radius:50%;transform:rotate(58deg)}
+.graphic-game .world-globe:after{inset:-7px 18px;transform:rotate(-30deg);border-color:#f3f3ed88}
+.graphic-game .world-globe i,.graphic-game .world-globe b,.graphic-game .world-globe em{position:absolute;display:block;border:1px solid #53dfffaa;border-radius:50%;font-size:0}
+.graphic-game .world-globe i{inset:13px 3px}.graphic-game .world-globe b{inset:3px 23px}.graphic-game .world-globe em{width:8px;height:8px;right:7px;top:8px;background:#53dfff;border:0}
+.graphic-game .world-star{position:absolute;right:16%;top:5%;font-size:1.8rem;color:#f3f3ed;font-style:normal;transform:rotate(12deg)}
+
 </style>
 </head>
 <body>
@@ -369,7 +378,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
   <a class="welcome-tile tile-calendar" href="#calendario"><span class="tile-number">01</span><span class="tile-graphic graphic-calendar" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span><span class="tile-meta mono">365 MOMENTOS</span><strong>El calendario<span>↗</span></strong><span class="tile-description">Una sorpresa por descubrir, cada día.</span><span class="tile-stroke"></span></a>
   <a class="welcome-tile tile-music" href="#musica"><span class="tile-number">02</span><span class="tile-graphic graphic-sound" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span><span class="tile-meta mono">DALE AL PLAY</span><strong>El rincón sonoro<span>↗</span></strong><span class="tile-description">Canciones, recuerdos y señales.</span><span class="tile-stroke"></span></a>
   <a class="welcome-tile tile-create" href="./lienzo.html"><span class="tile-number">03</span><span class="tile-graphic graphic-create" aria-hidden="true"><i>✳</i><b>CREA<br>SIN REGLAS</b></span><span class="tile-meta mono">ESTUDIO CREATIVO</span><strong>El lienzo<span>↗</span></strong><span class="tile-description">Tu imaginación también tiene casa.</span><span class="tile-stroke"></span></a>
-  <a class="welcome-tile tile-game" href="#juego-reto"><span class="tile-number">04</span><span class="tile-graphic graphic-game" aria-hidden="true"><b>?</b><i>!</i></span><span class="tile-meta mono">UN MINUTO DE JUEGO</span><strong>Pequeños mundos<span>↗</span></strong><span class="tile-description">Juega, prueba, vuelve a intentarlo.</span><span class="tile-stroke"></span></a>
+  <a class="welcome-tile tile-game" href="#juego-reto"><span class="tile-number">04</span><span class="tile-graphic graphic-game" aria-hidden="true"><span class="world-globe"><i></i><b></b><em></em></span><i class="world-star">✦</i></span><span class="tile-meta mono">UN MINUTO DE JUEGO</span><strong>Pequeños mundos<span>↗</span></strong><span class="tile-description">Juega, prueba, vuelve a intentarlo.</span><span class="tile-stroke"></span></a>
  </div>
  <div class="welcome-menu-foot"><span class="mono">365 DÍAS · UN SOLO UNIVERSO</span><span class="welcome-foot-mark">✳</span><span class="mono">ELIGE POR DÓNDE EMPEZAR.</span></div>
 </section>
@@ -475,7 +484,7 @@ document.querySelector('#save').addEventListener('click',()=>{visited.add(active
   if(answered||ended)return;answered=true;round++;const buttons=[...opts.querySelectorAll('button')];buttons.forEach(b=>{b.disabled=true;if(b.textContent===current.a)b.classList.add('correct')});
   root.classList.remove('is-correct','is-wrong','celebrate');
   if(answer===current.a){score++;streak++;feedback.textContent='¡CORRECTO! ✨ '+current.fact;root.classList.add('is-correct','celebrate');void root.offsetWidth;root.classList.add('is-correct','celebrate');next.textContent='¡VAMOS CON OTRA! →'}
-  else{streak=0;button.classList.add('wrong');feedback.textContent='¡ESTA VEZ NO! La respuesta era '+current.a+'. '+current.fact;root.classList.add('is-wrong');next.textContent='INTENTAR OTRA VEZ →'}
+  else{streak=0;button.classList.add('wrong');feedback.textContent='¡PERDISTE ESTA RONDA! La respuesta era '+current.a+'. '+current.fact;root.classList.add('is-wrong');next.textContent='INTENTAR OTRA VEZ →'}
   updateScore();next.disabled=false;
  }
  next.addEventListener('click',()=>{if(!answered){feedback.textContent='Primero elige una respuesta para esta pregunta.';return}render()});
