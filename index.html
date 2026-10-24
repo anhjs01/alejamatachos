@@ -317,7 +317,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 /* Playlist navegable */
 .music-playlist{max-width:900px;border:1px solid #35474d;background:linear-gradient(145deg,#111a1d,#090d0e);padding:clamp(16px,3vw,28px);border-radius:3px 18px 3px 18px}
 .playlist-heading{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-bottom:14px;border-bottom:1px solid #344247}
-.playlist-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:14px}
+.playlist-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:14px;max-height:390px;overflow-y:auto;overscroll-behavior:contain;padding:2px 6px 6px 2px;scrollbar-width:thin;scrollbar-color:#45616a #101719}.playlist-list::-webkit-scrollbar{width:8px}.playlist-list::-webkit-scrollbar-track{background:#101719;border-radius:8px}.playlist-list::-webkit-scrollbar-thumb{background:#45616a;border-radius:8px}
 .playlist-song{display:flex;align-items:center;gap:12px;min-width:0;text-align:left;padding:12px;border:1px solid #2d3b40;background:#0d1417;color:var(--paper);border-radius:3px 12px 3px 12px;transition:transform .2s,border-color .2s,background .2s}
 .playlist-song:hover,.playlist-song:focus-visible{border-color:var(--blue);background:#142328;transform:translateY(-2px);outline:none}
 .playlist-song.is-playing{border-color:var(--blue);background:#102c33;box-shadow:inset 3px 0 var(--blue)}
@@ -382,7 +382,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
  </div>
  <div class="welcome-menu-foot"><span class="mono">365 DÍAS · UN SOLO UNIVERSO</span><span class="welcome-foot-mark">✳</span><span class="mono">ELIGE POR DÓNDE EMPEZAR.</span></div>
 </section>
-<section class="section music-note-section" id="musica"><div class="section-head"><div><div class="mono">02 / Canciones que acompañan</div><h2>EL RINCÓN<br><span>SONORO.</span></h2></div><p class="section-intro">Una pequeña playlist hecha con las canciones del catálogo. Elige cualquiera para escucharla; las canciones del calendario también podrán encontrarse aquí cuando estén vinculadas a un día.</p></div><div class="music-playlist"><div class="playlist-heading"><span class="mono">CALENDARIO + CATÁLOGO</span><span class="mono" id="playlist-count">CARGANDO CANCIONES…</span></div><label class="playlist-search-label" for="playlist-search">BUSCAR UNA CANCIÓN, ARTISTA O DÍA</label><input class="playlist-search" id="playlist-search" type="search" placeholder="Ej. Three Little Birds, Bob Marley o día 12" autocomplete="off"><div class="playlist-list" id="playlist-list" aria-label="Canciones del calendario y catálogo"></div><p class="playlist-note" id="playlist-note" role="status" aria-live="polite">Las canciones de los días disponibles aparecen primero; después, el catálogo sin duplicados.</p></div></section>
+<section class="section music-note-section" id="musica"><div class="section-head"><div><div class="mono">02 / Canciones que acompañan</div><h2>EL RINCÓN<br><span>SONORO.</span></h2></div><p class="section-intro">Una pequeña playlist hecha con las canciones del catálogo. Elige cualquiera para escucharla; las canciones del calendario también podrán encontrarse aquí cuando estén vinculadas a un día.</p></div><div class="music-playlist"><div class="playlist-heading"><span class="mono">CANCIONES DE TUS DÍAS ABIERTOS</span><span class="mono" id="playlist-count">0 / 12 CANCIONES</span></div><div class="playlist-list" id="playlist-list" aria-label="Canciones de los días abiertos"></div><p class="playlist-note" id="playlist-note" role="status" aria-live="polite">Abre una puerta del calendario para añadir aquí su canción. Se mostrarán hasta 12 canciones y podrás desplazarte dentro de esta caja.</p></div></section>
 <section class="section" id="calendario"><div class="section-head"><div><div class="mono">01 / El ritual de cada día</div><h2>CALENDARIO<br><span>DE ADVIENTO.</span></h2></div><p class="section-intro">Un muro de pequeñas puertas sorpresa. Cada una tiene su propio contorno y carácter. Solo verás el número hasta que decidas abrirla; después, el contenido y su palabra clave aparecerán aparte.</p></div><div class="calendar-box"><div class="calendar-meta"><div><div class="mono">365 PUERTAS · UN RECORRIDO</div><div style="font-weight:700;font-size:1.15rem;margin-top:7px">¿Cuál abrimos hoy? <span class="blue">✳</span></div></div><div class="meter"><div class="meterline mono"><span>VISITADAS</span><span id="count">0 / 365</span></div><div class="meterbar"><span id="fill"></span></div></div></div><div class="calendar-grid" id="grid" aria-label="Calendario de adviento de 365 días"></div><div class="calendar-foot"><span><span class="blue">✦</span> Puerta visitada</span><span>Formas diferentes, números visibles</span><span>La palabra clave aparece al abrir la puerta</span></div></div></section>
 
 
@@ -409,9 +409,11 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 <script src="./contenido-portada.js"></script>
 <script>
 const grid=document.querySelector('#grid'),backdrop=document.querySelector('#backdrop');
-const storageKey='aleja-visitas-v1';
-let visited=new Set();
+const storageKey='aleja-visitas-v1',openedStorageKey='aleja-dias-abiertos-v1';
+let visited=new Set(),openedDays=new Set();
 try{const saved=JSON.parse(localStorage.getItem(storageKey)||'[]');if(Array.isArray(saved))visited=new Set(saved.filter(n=>Number.isInteger(n)&&n>=1&&n<=365))}catch(_){visited=new Set()}
+try{const savedOpened=JSON.parse(localStorage.getItem(openedStorageKey)||'[]');if(Array.isArray(savedOpened))openedDays=new Set(savedOpened.filter(n=>Number.isInteger(n)&&n>=1&&n<=365))}catch(_){openedDays=new Set()}
+window.AlejaDiasAbiertos=openedDays;
 let active=1,previousFocus=null;
 const shapes=['','s1','s2','s3','s4','s5','s6','s7','s8'];
 const safeText=(v)=>typeof v==='string'?v.trim():'';
@@ -419,7 +421,7 @@ function entryFor(n){return Array.isArray(CALENDARIO)?CALENDARIO.find(d=>Number(
 function keywordFor(n){const d=entryFor(n);if(!d)return 'POR DESCUBRIR';return safeText(d.categoria)||safeText(d.tono)||'UN DETALLE'}
 for(let n=1;n<=365;n++){const wrap=document.createElement('div');wrap.className='door-wrap';const b=document.createElement('button');b.className='door '+shapes[(n*7+n%5)%shapes.length]+(n===1?' featured':'');b.type='button';b.innerHTML='<b>'+String(n).padStart(2,'0')+'</b>';b.setAttribute('aria-label','Abrir puerta '+n);b.style.setProperty('--tilt',(((n%5)-2)*1.2)+'deg');b.addEventListener('click',()=>openDoor(n));const label=document.createElement('span');label.className='door-keyword';label.setAttribute('aria-hidden','true');label.textContent='';wrap.append(b,label);grid.appendChild(wrap)}
 function openDoor(n){
- previousFocus=document.activeElement;active=n;const d=entryFor(n);
+ previousFocus=document.activeElement;active=n;openedDays.add(n);window.AlejaDiasAbiertos=openedDays;try{localStorage.setItem(openedStorageKey,JSON.stringify([...openedDays].sort((a,b)=>a-b)))}catch(_){}window.dispatchEvent(new CustomEvent('aleja:dia-abierto',{detail:{dia:n}}));const d=entryFor(n);
  document.querySelector('#day-label').textContent='PUERTA '+String(n).padStart(3,'0')+' / 365'+(d&&d.fechaTexto?' · '+d.fechaTexto.toUpperCase():'');
  document.querySelector('#letter-title').textContent=d?(safeText(d.categoria)||'UN DETALLE PARA TI').toUpperCase():(n<=365?'ESTA PUERTA ESTÁ POR DESCUBRIR':'');
  const pieces=[];
@@ -441,53 +443,39 @@ openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySe
 document.querySelector('#save').addEventListener('click',()=>{visited.add(active);try{localStorage.setItem(storageKey,JSON.stringify([...visited]))}catch(_){}update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
 
 
-/* Playlist unificada: primero canciones de días del calendario, luego catálogo; deduplicación por YouTube ID y búsqueda. */
+/* Rincón sonoro: solo canciones de días abiertos, máximo 12, con scroll interno. */
 (function(){
- const list=document.getElementById('playlist-list'),count=document.getElementById('playlist-count'),note=document.getElementById('playlist-note'),search=document.getElementById('playlist-search');
- if(!list||!count||!search||typeof CATALOGO_CANCIONES==='undefined')return;
- const entries=[],byId=new Map();
- const add=(song,source)=>{
-  if(!song||!song.youtubeId)return;
-  const id=String(song.youtubeId).trim();if(!id)return;
-  if(byId.has(id)){
-   const existing=byId.get(id);
-   if(source.day&&!existing.day){existing.day=source.day;existing.date=source.date;}
-   return;
-  }
-  const item={titulo:song.cancionTitulo||song.titulo||'Canción sin título',artista:song.cancionArtista||song.artista||'Artista no indicado',youtubeId:id,categoria:song.categoria||song.tono||source.categoria||'amor',day:source.day||null,date:source.date||''};
-  byId.set(id,item);entries.push(item);
- };
- if(Array.isArray(CALENDARIO))CALENDARIO.slice().sort((a,b)=>Number(a.dia)-Number(b.dia)).forEach(d=>add(d,{day:Number(d.dia),date:d.fechaTexto||d.fecha||''}));
- Object.entries(CATALOGO_CANCIONES).forEach(([categoria,canciones])=>(canciones||[]).forEach(c=>add({...c,categoria},{categoria})));
+ const list=document.getElementById('playlist-list'),count=document.getElementById('playlist-count'),note=document.getElementById('playlist-note');
+ if(!list||!count||typeof CALENDARIO==='undefined')return;
+ const LIMIT=12;
  let currentSongId=null;
+ const opened=()=>window.AlejaDiasAbiertos instanceof Set?[...window.AlejaDiasAbiertos]:[];
  function render(){
-  const query=search.value.trim().toLocaleLowerCase();
-  const filtered=entries.filter(song=>[song.titulo,song.artista,String(song.day||''),'día '+String(song.day||''),song.date,song.categoria].join(' ').toLocaleLowerCase().includes(query));
+  const days=opened().sort((a,b)=>a-b);
+  const songs=days.map(n=>CALENDARIO.find(d=>Number(d.dia)===n)).filter(d=>d&&d.youtubeId).filter((d,i,arr)=>arr.findIndex(x=>x.youtubeId===d.youtubeId)===i).slice(-LIMIT);
   list.replaceChildren();
-  count.textContent=filtered.length+' DE '+entries.length+' CANCIONES';
-  if(!filtered.length){const empty=document.createElement('p');empty.className='playlist-empty';empty.textContent='No encontramos canciones con esa búsqueda. Prueba con otro título, artista o número de día.';list.appendChild(empty);return;}
-  filtered.forEach(song=>{
-   const b=document.createElement('button');b.type='button';b.className='playlist-song'+(currentSongId===song.youtubeId?' is-playing':'');
-   b.setAttribute('aria-label','Reproducir '+song.titulo+' de '+song.artista+(song.day?' · canción del día '+song.day:''));
-   const icon=document.createElement('span');icon.className='playlist-play';icon.setAttribute('aria-hidden','true');icon.textContent=currentSongId===song.youtubeId?'♫':'▶';
+  count.textContent=songs.length+' / '+LIMIT+' CANCIONES';
+  if(!songs.length){const empty=document.createElement('p');empty.className='playlist-empty';empty.textContent='Todavía no hay canciones aquí. Abre un día del calendario que tenga una canción y aparecerá en esta lista.';list.appendChild(empty);return;}
+  songs.forEach(day=>{
+   const n=Number(day.dia),b=document.createElement('button');b.type='button';b.className='playlist-song'+(currentSongId===day.youtubeId?' is-playing':'');
+   b.setAttribute('aria-label','Reproducir canción del día '+n+': '+(day.cancionTitulo||'Canción sin título')+' de '+(day.cancionArtista||'artista no indicado'));
+   const icon=document.createElement('span');icon.className='playlist-play';icon.setAttribute('aria-hidden','true');icon.textContent=currentSongId===day.youtubeId?'♫':'▶';
    const copy=document.createElement('span');copy.className='playlist-song-copy';
-   const title=document.createElement('span');title.className='playlist-song-title';title.textContent=song.titulo;
-   const artist=document.createElement('span');artist.className='playlist-song-artist';artist.textContent=song.artista;
-   copy.append(title,artist);
-   if(song.day){const day=document.createElement('span');day.className='playlist-song-day';day.textContent='DÍA '+String(song.day).padStart(3,'0')+(song.date?' · '+song.date:'');copy.appendChild(day);}
-   b.append(icon,copy);
+   const title=document.createElement('span');title.className='playlist-song-title';title.textContent=day.cancionTitulo||'Canción sin título';
+   const artist=document.createElement('span');artist.className='playlist-song-artist';artist.textContent=day.cancionArtista||'Artista no indicado';
+   const label=document.createElement('span');label.className='playlist-song-day';label.textContent='DÍA '+String(n).padStart(3,'0')+(day.fechaTexto?' · '+day.fechaTexto:'');
+   copy.append(title,artist,label);b.append(icon,copy);
    b.addEventListener('click',()=>{
-    if(!window.SorpresaReproductor||typeof window.SorpresaReproductor.reproducirCancion!=='function'){note.textContent='El reproductor aún se está preparando. Inténtalo de nuevo en un momento.';return;}
-    currentSongId=song.youtubeId;
-    window.SorpresaReproductor.reproducirCancion(song,song.categoria);
-    note.textContent='Reproduciendo: '+song.titulo+' · '+song.artista+(song.day?' · canción del día '+song.day:' · catálogo');
-    render();
-    const active=list.querySelector('.is-playing');if(active)active.setAttribute('aria-current','true');
+    if(!window.SorpresaReproductor||typeof window.SorpresaReproductor.reproducirDia!=='function'){note.textContent='El reproductor aún se está preparando. Inténtalo de nuevo en un momento.';return;}
+    currentSongId=day.youtubeId;window.SorpresaReproductor.reproducirDia(day);
+    note.textContent='Reproduciendo la canción del día '+n+': '+(day.cancionTitulo||'Canción sin título')+' · '+(day.cancionArtista||'artista no indicado');
+    render();const active=list.querySelector('.is-playing');if(active)active.setAttribute('aria-current','true');
    });
    list.appendChild(b);
   });
+  if(days.filter(n=>CALENDARIO.some(d=>Number(d.dia)===n&&d.youtubeId)).length>LIMIT)note.textContent='Mostrando las últimas '+LIMIT+' canciones de tus días abiertos. Desplázate dentro de la caja para recorrerlas.';
  }
- search.addEventListener('input',render);
+ window.addEventListener('aleja:dia-abierto',render);
  render();
 })();
 /* Pequeños Mundos: puntuación, feedback claro, rachas visuales y reinicio real. */
