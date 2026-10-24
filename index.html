@@ -296,6 +296,47 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 @media(max-width:420px){.welcome-hero .hero-art{width:78%}.welcome-hero .art-side-label{left:-12%;font-size:.5rem}.welcome-hero .welcome-sticker{right:-12%;font-size:.52rem}.welcome-hero .welcome-sticker-bottom{left:-12%}}
 @media(prefers-reduced-motion:reduce){.skip-to-content{transition:none!important}}
 
+
+/* Arte principal: espacio editorial limpio hasta integrar la ilustración final */
+.art-placeholder{position:absolute;inset:0;z-index:2;display:grid;place-items:center;overflow:hidden;background:radial-gradient(ellipse at 50% 45%,#18323a 0%,#0b1418 52%,#070b0d 100%)}
+.art-placeholder:before{content:"";position:absolute;inset:8%;border:1px solid #53dfff77;transform:rotate(-8deg);clip-path:polygon(9% 0,100% 5%,92% 100%,0 88%)}
+.art-placeholder:after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(135deg,transparent 0 27px,#53dfff0c 28px 29px);pointer-events:none}
+.art-placeholder-index,.art-placeholder-note{position:absolute;left:8%;z-index:2;color:#53dfff;font-size:.56rem;letter-spacing:.16em}
+.art-placeholder-index{top:8%}.art-placeholder-note{bottom:18%;right:8%;left:auto;text-align:right}
+.art-placeholder-monogram{position:relative;z-index:2;font-size:clamp(8rem,17vw,13rem);font-weight:700;letter-spacing:-.15em;line-height:1;color:transparent;-webkit-text-stroke:1.5px #f3f3ed;transform:rotate(-9deg);text-shadow:8px 8px 0 #53dfff22}
+.art-placeholder-monogram span{display:inline-block;font-size:.3em;color:#53dfff;-webkit-text-stroke:0;vertical-align:top;margin:10px 0 0 12px;animation:float 5s ease-in-out infinite}
+.art-placeholder-orbit{position:absolute;width:68%;aspect-ratio:1;border:1px dashed #53dfff80;border-radius:50%;box-shadow:0 0 0 22px #53dfff09,0 0 0 48px #53dfff06;transform:rotate(-26deg)}
+/* El marco no recorta la última fila: las puertas inferiores quedan totalmente pulsables */
+.calendar-box{clip-path:none;border-radius:3px 18px 3px 18px;overflow:visible;background:radial-gradient(ellipse at 8% 100%,#12303a55,transparent 36%),radial-gradient(ellipse at 95% 0%,#53dfff0b,transparent 28%),linear-gradient(145deg,#111a1d,#090d0e)}
+.calendar-grid{overflow:visible;padding:4px 3px 8px}
+.door-wrap{position:relative;z-index:0}.door-wrap:focus-within{z-index:4}
+.door-wrap:nth-child(361),.door-wrap:nth-child(362),.door-wrap:nth-child(363),.door-wrap:nth-child(364),.door-wrap:nth-child(365){padding-bottom:3px}
+.door-wrap:nth-child(361) .door,.door-wrap:nth-child(362) .door,.door-wrap:nth-child(363) .door,.door-wrap:nth-child(364) .door,.door-wrap:nth-child(365) .door{clip-path:polygon(0 4%,96% 0,100% 91%,88% 100%,4% 96%);transform:none}
+.door-wrap:nth-child(361) .door:hover,.door-wrap:nth-child(362) .door:hover,.door-wrap:nth-child(363) .door:hover,.door-wrap:nth-child(364) .door:hover,.door-wrap:nth-child(365) .door:hover{transform:translateY(-3px) rotate(var(--tilt))}
+.door-wrap:nth-child(361) .door:before,.door-wrap:nth-child(362) .door:before,.door-wrap:nth-child(363) .door:before,.door-wrap:nth-child(364) .door:before,.door-wrap:nth-child(365) .door:before{inset:4px;clip-path:none}
+/* Playlist navegable */
+.music-playlist{max-width:900px;border:1px solid #35474d;background:linear-gradient(145deg,#111a1d,#090d0e);padding:clamp(16px,3vw,28px);border-radius:3px 18px 3px 18px}
+.playlist-heading{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-bottom:14px;border-bottom:1px solid #344247}
+.playlist-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:14px}
+.playlist-song{display:flex;align-items:center;gap:12px;min-width:0;text-align:left;padding:12px;border:1px solid #2d3b40;background:#0d1417;color:var(--paper);border-radius:3px 12px 3px 12px;transition:transform .2s,border-color .2s,background .2s}
+.playlist-song:hover,.playlist-song:focus-visible{border-color:var(--blue);background:#142328;transform:translateY(-2px);outline:none}
+.playlist-song.is-playing{border-color:var(--blue);background:#102c33;box-shadow:inset 3px 0 var(--blue)}
+.playlist-play{display:grid;place-items:center;width:34px;height:34px;flex:0 0 34px;border:1px solid #53dfff66;border-radius:50%;color:var(--blue)}
+.playlist-song-copy{min-width:0;display:block}.playlist-song-title,.playlist-song-artist{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.playlist-song-title{font-size:.82rem;font-weight:700}.playlist-song-artist{font-size:.7rem;color:var(--muted);margin-top:4px}
+.playlist-note{font-size:.78rem;color:var(--muted);line-height:1.6;margin:16px 0 0;min-height:1.5em}
+@media(max-width:560px){.playlist-list{grid-template-columns:1fr}.art-placeholder-monogram{font-size:clamp(7rem,28vw,10rem)}}
+/* Juego con celebraciones, rachas y estados visuales que evolucionan */
+.music-game{--game-glow:#53dfff;transition:background .45s,border-color .45s,box-shadow .45s;background:radial-gradient(ellipse at 100% 0%,color-mix(in srgb,var(--game-glow) 13%,transparent),transparent 48%),linear-gradient(135deg,#10191d,#090d0f 72%)}
+.music-game.streak-2{--game-glow:#b7f36b}.music-game.streak-3{--game-glow:#ffca70}.music-game.streak-4{--game-glow:#d7a6ff}.music-game.streak-5{--game-glow:#ff8fb3}
+.music-game.is-correct{animation:answerWin .65s ease-out}.music-game.is-wrong{animation:answerMiss .45s ease-out}
+.game-streak{display:flex;gap:8px;margin-top:18px;color:#4c5b60;font-size:1.1rem}.game-streak span{display:inline-block;transition:transform .25s,color .25s}.game-streak span.lit{color:var(--game-glow);transform:scale(1.25) rotate(12deg);text-shadow:0 0 18px color-mix(in srgb,var(--game-glow) 45%,transparent)}
+.music-game.celebrate:after{content:"✦  ✧  ✦  ✧  ✦";position:absolute;right:7%;top:18%;font-size:clamp(1.3rem,4vw,2.8rem);letter-spacing:.18em;color:var(--game-glow);pointer-events:none;animation:celebrateBurst .7s ease-out}
+.game-score{transition:color .25s,border-color .25s,transform .25s}.music-game.streak-2 .game-score,.music-game.streak-3 .game-score,.music-game.streak-4 .game-score,.music-game.streak-5 .game-score{color:var(--game-glow);border-color:var(--game-glow)}
+@keyframes answerWin{0%{transform:scale(1)}35%{transform:scale(1.012);box-shadow:0 0 0 2px #5ad6a155,0 0 36px #5ad6a122}100%{transform:scale(1)}}
+@keyframes answerMiss{0%,100%{transform:translateX(0)}25%{transform:translateX(-5px)}75%{transform:translateX(5px)}}
+@keyframes celebrateBurst{0%{opacity:0;transform:scale(.3) rotate(-25deg)}45%{opacity:1;transform:scale(1.2) rotate(8deg)}100%{opacity:0;transform:scale(1.6) rotate(18deg)}}
+@media(prefers-reduced-motion:reduce){.music-game.is-correct,.music-game.is-wrong,.music-game.celebrate:after{animation:none!important}.playlist-song,.game-streak span{transition:none!important}}
+
 </style>
 </head>
 <body>
