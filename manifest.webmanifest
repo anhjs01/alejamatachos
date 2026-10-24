@@ -1,0 +1,13 @@
+{
+  "name": "ALEJA — 365 días",
+  "short_name": "ALEJA",
+  "description": "Un calendario personal de música, arte y pequeñas sorpresas.",
+  "lang": "es-CO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080b0d",
+  "theme_color": "#080b0d",
+  "orientation": "portrait-primary",
+  "icons": []
+}
