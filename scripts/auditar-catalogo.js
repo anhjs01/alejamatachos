@@ -66,7 +66,7 @@ const duplicateIds = [...idMap.entries()].filter(([, items]) => items.length > 1
 const duplicateTitles = [...titleMap.entries()].filter(([, items]) => items.length > 1);
 const withId = total - missingIds.length;
 
-console.log("\\nResumen");
+console.log("\nResumen");
 console.log("-------");
 console.log(`Total: ${total}`);
 console.log(`Con youtubeId: ${withId}`);
@@ -78,7 +78,7 @@ console.log(`Sin youtubeId: ${missingIds.length}`);
 
 function printGroup(title, groups) {
   if (!groups.length) return;
-  console.log(`\\n${title}`);
+  console.log(`\n${title}`);
   for (const item of groups) {
     console.log(Array.isArray(item) ? `- ${item[0]}: ${item[1].join(" | ")}` : `- ${item}`);
   }
