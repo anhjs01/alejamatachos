@@ -346,9 +346,50 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .graphic-game .world-globe i{inset:13px 3px}.graphic-game .world-globe b{inset:3px 23px}.graphic-game .world-globe em{width:8px;height:8px;right:7px;top:8px;background:#53dfff;border:0}
 .graphic-game .world-star{position:absolute;right:16%;top:5%;font-size:1.8rem;color:#f3f3ed;font-style:normal;transform:rotate(12deg)}
 
+
+/* Atmósfera urbana dibujada: inspirada en garabatos de skate, no en una imagen copiada */
+.urban-atmosphere{position:fixed;inset:0;z-index:0;overflow:hidden;pointer-events:none;contain:strict;opacity:.78}
+.urban-atmosphere svg{position:absolute;width:min(44vw,610px);height:auto;overflow:visible;fill:none;stroke:#eaf7f8;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;filter:drop-shadow(0 0 5px #53dfff14);will-change:transform}
+.urban-atmosphere .doodle-left{left:-8.5%;top:15%;transform:translate3d(0,var(--urban-shift-a,0px),0) rotate(-8deg);animation:urban-drift-a 19s ease-in-out infinite}
+.urban-atmosphere .doodle-right{right:-8%;top:48%;width:min(39vw,520px);stroke:#53dfff;transform:translate3d(0,var(--urban-shift-b,0px),0) rotate(7deg);animation:urban-drift-b 23s ease-in-out infinite}
+.urban-tag{position:absolute;font:700 clamp(1.1rem,2.5vw,2.4rem) 'DM Mono',monospace;letter-spacing:-.08em;color:transparent;-webkit-text-stroke:1px #dcebed;opacity:.24;transform:rotate(-13deg);animation:urban-tag-float 11s ease-in-out infinite}
+.urban-tag.tag-one{top:24%;right:7%}.urban-tag.tag-two{top:72%;left:6%;color:#53dfff;-webkit-text-stroke:0;opacity:.17;transform:rotate(8deg);animation-delay:-4s}
+.urban-crosshair{position:absolute;width:22px;height:22px;opacity:.35;animation:urban-spin 24s linear infinite}
+.urban-crosshair:before,.urban-crosshair:after{content:"";position:absolute;background:#53dfff}
+.urban-crosshair:before{width:22px;height:1px;top:10px}.urban-crosshair:after{height:22px;width:1px;left:10px}
+.urban-crosshair.cross-one{left:27%;top:20%}.urban-crosshair.cross-two{right:24%;bottom:17%;animation-direction:reverse}
+.site-header,main,footer{position:relative;z-index:1}
+@keyframes urban-drift-a{0%,100%{margin-top:0}50%{margin-top:-24px}}
+@keyframes urban-drift-b{0%,100%{margin-top:0}50%{margin-top:28px}}
+@keyframes urban-tag-float{0%,100%{translate:0 0}50%{translate:0 -13px}}
+@keyframes urban-spin{to{rotate:360deg}}
+@media(max-width:700px){.urban-atmosphere{opacity:.44}.urban-atmosphere svg{width:70vw}.urban-atmosphere .doodle-left{left:-30%;top:19%}.urban-atmosphere .doodle-right{right:-29%;top:62%;width:65vw}.urban-tag.tag-one{right:2%;top:34%}.urban-tag.tag-two{left:2%;top:78%}}
+@media(prefers-reduced-motion:reduce){.urban-atmosphere *, .urban-tag,.urban-crosshair{animation:none!important;will-change:auto}}
 </style>
 </head>
 <body>
+<div class="urban-atmosphere" aria-hidden="true">
+ <svg class="doodle-left" viewBox="0 0 420 520">
+  <path d="M42 110l28-47 13 38 35-19-18 48 39-7-27 36 25 24-51-5-10 42-20-35-34 16 15-39-27-17 34-8z"/>
+  <path d="M160 30q-18 28 2 52t-4 53q-17 27 8 47t-4 54M180 38q-15 27 4 48t-2 52q-13 24 10 44t-3 51"/>
+  <path d="M60 300q25-34 53 0t-4 49q-18 15-35-2t7-25q17-6 19 10M130 276l15 22 23-12-8 28 20 14-28 2-6 25-13-22-25 8 13-23-16-17 27 2z"/>
+  <path d="M43 410q34-30 66 0t67 0 67 0M43 423q34-30 66 0t67 0 67 0"/>
+  <path d="M250 85l22 20 24-12-9 27 19 19-28 1-10 25-12-23-26 7 14-22-15-18 26 3z"/>
+  <circle cx="325" cy="310" r="38" stroke-dasharray="5 8"/><circle cx="325" cy="310" r="22"/>
+  <path d="M305 310h40M325 290v40M258 445l16-18 13 19 19-7-8 23 16 16-25-2-10 22-8-22-24 3 15-17z"/>
+ </svg>
+ <svg class="doodle-right" viewBox="0 0 420 520">
+  <path d="M80 55q55-43 108 0t108 0M80 68q55-43 108 0t108 0M80 81q55-43 108 0t108 0"/>
+  <path d="M180 155l23-42 15 35 36-12-20 34 23 24-43-3-13 38-14-34-36 8 20-29z"/>
+  <path d="M80 245q25-35 50 0t-4 48q-17 14-33-2t7-24q15-6 17 9M147 260l34-10 7 35-33 11z"/>
+  <path d="M245 235l-15 36 27-4-19 43 42-54-27 3 13-24zM295 315l16 20 24-12-8 28 20 14-29 1-8 26-14-23-25 7 14-22-15-18 26 3z"/>
+  <path d="M70 400q42-38 84 0t84 0 84 0M70 414q42-38 84 0t84 0 84 0"/>
+  <circle cx="130" cy="130" r="29" stroke-dasharray="4 7"/><path d="M130 110v40M110 130h40"/>
+  <path d="M310 95q20-28 40 0t-5 34q-13 11-25-2t5-18q11-4 12 6"/>
+ </svg>
+ <span class="urban-tag tag-one">NO RULES / JUST ART</span><span class="urban-tag tag-two">✳ MADE OF MEMORIES</span>
+ <span class="urban-crosshair cross-one"></span><span class="urban-crosshair cross-two"></span>
+</div>
 <a class="skip-to-content" href="#contenido-principal">Saltar al contenido</a>
 <header class="site-header"><a class="brand" href="#inicio" aria-label="Aleja, inicio">ALEJA<span>✳</span><i>®</i></a><div class="header-note mono">UN UNIVERSO PROPIO / 365 DÍAS</div></header>
 <main id="contenido-principal">
@@ -543,6 +584,15 @@ document.querySelector('#save').addEventListener('click',()=>{visited.add(active
  if('ResizeObserver' in window){let pending=false;new ResizeObserver(()=>{if(pending)return;pending=true;requestAnimationFrame(()=>{pending=false;resize()})}).observe(canvas)}
 })();
 
+// Desplazamiento sutil de los garabatos al recorrer la página; se pausa en móviles de bajo movimiento.
+(function(){
+ const layer=document.querySelector('.urban-atmosphere');
+ if(!layer||window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+ let queued=false;
+ function drift(){const y=window.scrollY||0;layer.style.setProperty('--urban-shift-a',(y*.045).toFixed(1)+'px');layer.style.setProperty('--urban-shift-b',(-y*.035).toFixed(1)+'px');queued=false}
+ window.addEventListener('scroll',()=>{if(!queued){queued=true;requestAnimationFrame(drift)}},{passive:true});
+ drift();
+})();
 update();
 if('serviceWorker' in navigator && location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}))}
 </script>
