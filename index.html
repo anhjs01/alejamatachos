@@ -361,6 +361,14 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 @media(max-width:560px){.letter:before{inset:8px}.letter:after{right:18px;bottom:12px;font-size:4rem}.letter #save{max-width:100%;white-space:normal}}
 @media(prefers-reduced-motion:reduce){.letter,.backdrop.open,#letter-title,.letter:after{animation:none}.letter .close,.letter .song-action,.letter #save{transition:none}}
 
+/* Navegación entre días sin cerrar la carta */
+.letter-navigation{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:8px;margin:0 34px 18px 0}
+.letter-navigation #day-label{min-width:0;justify-self:center;text-align:center;font-size:.62rem;line-height:1.5}
+.letter-navigation button{border:1px solid #0b12142b;background:transparent;color:#0b1214;padding:8px 9px;font:9px 'DM Mono',monospace;letter-spacing:.04em;transition:background .2s,color .2s,transform .2s}
+.letter-navigation button:hover:not(:disabled){background:#0b1214;color:var(--paper);transform:translateY(-2px)}
+.letter-navigation button:disabled{opacity:.25;cursor:not-allowed}
+@media(max-width:420px){.letter-navigation{grid-template-columns:auto minmax(0,1fr) auto;gap:4px;margin-right:28px}.letter-navigation button{padding:7px 5px;font-size:8px}.letter-navigation #day-label{font-size:.56rem;letter-spacing:.04em}}
+
 /* Playlist navegable */
 .music-playlist{max-width:900px;border:1px solid #35474d;background:linear-gradient(145deg,#111a1d,#090d0e);padding:clamp(16px,3vw,28px);border-radius:3px 18px 3px 18px}
 .playlist-heading{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-bottom:14px;border-bottom:1px solid #344247}
@@ -489,7 +497,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 
 
 </main><footer><div><div class="footer-logo">ALEJA<span>✳</span></div><div class="mono" style="margin-top:7px">365 días · una sola historia</div></div><div class="mono">MÚSICA · ARTE · SORPRESAS · TÚ ♥</div><a href="#inicio" class="btn secondary">VOLVER ARRIBA ↑</a></footer>
-<div class="backdrop" id="backdrop" role="dialog" aria-modal="true" aria-labelledby="letter-title"><article class="letter"><button class="close" id="close" aria-label="Cerrar">×</button><div class="mono" id="day-label">PUERTA 001 / 365</div><h2 id="letter-title">UNA PEQUEÑA<br>SORPRESA.</h2><p id="letter-text">Esta puerta es el punto de entrada visual. Su contenido definitivo se incorporará desde los materiales originales revisados.</p><div class="mono" id="keyword">PALABRA CLAVE · COMIENZO</div>
+<div class="backdrop" id="backdrop" role="dialog" aria-modal="true" aria-labelledby="letter-title"><article class="letter"><button class="close" id="close" aria-label="Cerrar">×</button><div class="letter-navigation"><button type="button" id="day-prev" aria-label="Abrir día anterior">← ANTERIOR</button><div class="mono" id="day-label">PUERTA 001 / 365</div><button type="button" id="day-next" aria-label="Abrir día siguiente">SIGUIENTE →</button></div><h2 id="letter-title">UNA PEQUEÑA<br>SORPRESA.</h2><p id="letter-text">Esta puerta es el punto de entrada visual. Su contenido definitivo se incorporará desde los materiales originales revisados.</p><div class="mono" id="keyword">PALABRA CLAVE · COMIENZO</div>
 <button class="song-action" id="play-day-song" type="button">▶ ESCUCHAR CANCIÓN DEL DÍA</button><button class="btn" id="save">GUARDAR ESTE MOMENTO ✦</button></article></div><div class="toast" id="toast" role="status">Momento guardado ✦</div>
 <script src="./catalogo-canciones.js"></script>
 <script src="./reproductor.js"></script>
@@ -509,7 +517,7 @@ function entryFor(n){return Array.isArray(CALENDARIO)?CALENDARIO.find(d=>Number(
 function keywordFor(n){const d=entryFor(n);if(!d)return 'POR DESCUBRIR';return safeText(d.categoria)||safeText(d.tono)||'UN DETALLE'}
 for(let n=1;n<=365;n++){const wrap=document.createElement('div');wrap.className='door-wrap';const b=document.createElement('button');b.className='door '+shapes[(n*7+n%5)%shapes.length]+(n===1?' featured':'');b.type='button';b.innerHTML='<b>'+String(n).padStart(2,'0')+'</b>';b.setAttribute('aria-label','Abrir puerta '+n);b.style.setProperty('--tilt',(((n%5)-2)*1.2)+'deg');b.addEventListener('click',()=>openDoor(n));const label=document.createElement('span');label.className='door-keyword';label.setAttribute('aria-hidden','true');label.textContent='';wrap.append(b,label);grid.appendChild(wrap)}
 function openDoor(n){
- previousFocus=document.activeElement;active=n;openedDays.add(n);window.AlejaDiasAbiertos=openedDays;try{localStorage.setItem(openedStorageKey,JSON.stringify([...openedDays].sort((a,b)=>a-b)))}catch(_){}window.dispatchEvent(new CustomEvent('aleja:dia-abierto',{detail:{dia:n}}));const d=entryFor(n);
+ if(!backdrop.classList.contains('open'))previousFocus=document.activeElement;active=n;openedDays.add(n);window.AlejaDiasAbiertos=openedDays;try{localStorage.setItem(openedStorageKey,JSON.stringify([...openedDays].sort((a,b)=>a-b)))}catch(_){}window.dispatchEvent(new CustomEvent('aleja:dia-abierto',{detail:{dia:n}}));const d=entryFor(n);
  document.querySelector('#day-label').textContent='PUERTA '+String(n).padStart(3,'0')+' / 365'+(d&&d.fechaTexto?' · '+d.fechaTexto.toUpperCase():'');
  document.querySelector('#letter-title').textContent=d?(safeText(d.categoria)||'UN DETALLE PARA TI').toUpperCase():(n<=365?'ESTA PUERTA ESTÁ POR DESCUBRIR':'');
  const pieces=[];
@@ -522,6 +530,13 @@ function openDoor(n){
 }
 function update(){document.querySelector('#count').textContent=visited.size+' / 365';document.querySelector('#fill').style.width=(visited.size/365*100)+'%';document.querySelectorAll('.door').forEach((b,i)=>{const n=i+1,done=visited.has(n),word=keywordFor(n);b.classList.toggle('done',done);b.title=done?word:'Abrir puerta '+n;const label=b.parentElement.querySelector('.door-keyword');label.textContent=done?word.toLocaleUpperCase('es-CO').slice(0,18):'';label.classList.toggle('visible',done);label.setAttribute('aria-hidden',done?'false':'true')})}
 function close(){backdrop.classList.remove('open');if(previousFocus&&typeof previousFocus.focus==='function'&&previousFocus.isConnected)previousFocus.focus()}
+function syncDayNavigation(){document.querySelector('#day-prev').disabled=active<=1;document.querySelector('#day-next').disabled=active>=365}
+document.querySelector('#day-prev').addEventListener('click',()=>{if(active>1)openDoor(active-1)});
+document.querySelector('#day-next').addEventListener('click',()=>{if(active<365)openDoor(active+1)});
+document.addEventListener('keydown',e=>{if(!backdrop.classList.contains('open'))return;if(e.altKey||e.ctrlKey||e.metaKey)return;if(e.key==='ArrowLeft'&&active>1){e.preventDefault();openDoor(active-1)}else if(e.key==='ArrowRight'&&active<365){e.preventDefault();openDoor(active+1)}});
+const previousOpenDoorForNavigation=openDoor;
+openDoor=function(n){previousOpenDoorForNavigation(n);syncDayNavigation()};
+syncDayNavigation();
 document.querySelector('#close').addEventListener('click',close);
 backdrop.addEventListener('click',e=>{if(e.target===backdrop)close()});
 document.addEventListener('keydown',e=>{if(!backdrop.classList.contains('open'))return;if(e.key==='Escape'){close();return}if(e.key==='Tab'){const focusables=[...backdrop.querySelectorAll('button:not(:disabled),a[href],[tabindex]:not([tabindex="-1"])')].filter(el=>!el.hasAttribute('hidden'));if(!focusables.length)return;const first=focusables[0],last=focusables[focusables.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}}});
