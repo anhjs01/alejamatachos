@@ -436,64 +436,8 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 @keyframes calendar-spark{0%{opacity:.3;transform:translate3d(0,0,0) rotate(-4deg)}100%{opacity:.8;transform:translate3d(-8px,7px,0) rotate(4deg)}}
 @media(prefers-reduced-motion:reduce){.calendar-box:before,.calendar-box:after,.door:hover:after,.door:focus-visible:after{animation:none!important}.door:hover:after,.door:focus-visible:after{background-position:50% 0}}
 
-
-/* Minijuego arcade: el gatito recoge estrellas */
-.cat-game{position:relative;margin-top:24px;padding:clamp(18px,3vw,30px);border:1px solid #40515a;background:linear-gradient(145deg,#10191d,#090d11 78%);overflow:hidden}
-.cat-game:before{content:"";position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse at 12% 0%,#a78bfa18,transparent 42%),radial-gradient(ellipse at 92% 100%,#53dfff14,transparent 40%)}
-.cat-game>*{position:relative;z-index:1}
-.cat-game-head{display:flex;justify-content:space-between;align-items:start;gap:15px;flex-wrap:wrap}
-.cat-game h3{font-size:clamp(1.5rem,4vw,2.4rem);margin:7px 0}
-.cat-game-copy{max-width:650px;color:var(--muted);font-size:.88rem;line-height:1.65}
-.cat-game-stats{display:flex;gap:8px;flex-wrap:wrap}
-.cat-game-stat{padding:9px 12px;border:1px solid #40515a;border-radius:999px;color:#eaf8fa;font: .72rem 'DM Mono',monospace}
-.cat-game-stage{position:relative;margin-top:18px;border:1px solid #344d58;border-radius:18px;overflow:hidden;background:#080e19}
-#cat-game-canvas{display:block;width:100%;height:auto;aspect-ratio:760/360;touch-action:pan-y}
-.cat-game-overlay{position:absolute;inset:0;display:grid;place-items:center;padding:20px;text-align:center;background:#080e19b8;backdrop-filter:blur(3px)}
-.cat-game-overlay[hidden]{display:none}
-.cat-game-overlay-inner{max-width:420px}
-.cat-game-overlay h4{font-size:clamp(1.4rem,4vw,2.2rem);margin:0 0 9px}
-.cat-game-overlay p{color:#c1d0dc;line-height:1.6;font-size:.88rem}
-.cat-game-actions{display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap;margin-top:14px}
-.cat-game-actions button{font:700 .72rem 'DM Mono',monospace;padding:12px 16px;border:1px solid #3c6572;background:#12252c;color:#e8faff;border-radius:999px}
-.cat-game-actions button.primary{background:var(--blue);color:#061014;border-color:var(--blue)}
-.cat-game-actions button:focus-visible,.cat-game-pad button:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
-.cat-game-pad{display:flex;justify-content:center;gap:12px;margin-top:12px}
-.cat-game-pad button{width:58px;height:46px;border:1px solid #3b6571;border-radius:16px 7px 16px 7px;background:#12242a;color:#baf5ff;font-size:1.2rem;touch-action:manipulation}
-.cat-game-hint{text-align:center;color:var(--muted);font-size:.75rem;line-height:1.5;margin:10px 0 0}
-@media(max-width:560px){.cat-game-pad button{width:72px;height:50px}.cat-game-stat{font-size:.65rem;padding:8px 10px}}
-@media(prefers-reduced-motion:reduce){.cat-game *{scroll-behavior:auto}}
-
-
-/* Minijuego de rompecabezas */
-.puzzle-game{position:relative;margin-top:24px;padding:clamp(18px,3vw,30px);border:1px solid #40515a;background:linear-gradient(145deg,#13141f,#0a1015 80%);overflow:hidden}
-.puzzle-game:before{content:"";position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse at 0% 0%,#c7a5ff16,transparent 42%),radial-gradient(ellipse at 100% 100%,#53dfff12,transparent 40%)}
-.puzzle-game>*{position:relative;z-index:1}
-.puzzle-head{display:flex;justify-content:space-between;align-items:start;gap:14px;flex-wrap:wrap}
-.puzzle-head h3{font-size:clamp(1.5rem,4vw,2.4rem);margin:7px 0}
-.puzzle-copy{max-width:620px;color:var(--muted);font-size:.88rem;line-height:1.65}
-.puzzle-layout{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(200px,.9fr);gap:clamp(16px,3vw,30px);align-items:center;margin-top:18px}
-.puzzle-board{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px;max-width:480px;width:100%;aspect-ratio:1;padding:7px;border:1px solid #536074;border-radius:18px;background:#0b111c;box-shadow:0 18px 48px #0004}
-.puzzle-piece{position:relative;min-width:0;min-height:0;border:1px solid #d8edff28;border-radius:8px;background-color:#152033;background-repeat:no-repeat;background-size:300% 300%;padding:0;overflow:hidden;cursor:grab;transition:border-color .16s,transform .16s,filter .16s}
-.puzzle-piece:hover{border-color:#a5efff;filter:brightness(1.12)}
-.puzzle-piece:focus-visible{outline:2px solid var(--blue);outline-offset:2px;z-index:2}
-.puzzle-piece.selected{border:3px solid #ffe7a0;transform:scale(.96);filter:brightness(1.2)}
-.puzzle-piece:after{content:attr(data-number);position:absolute;right:5px;bottom:4px;font: .62rem 'DM Mono',monospace;color:#ffffffa6;text-shadow:0 1px 5px #000}
-.puzzle-side{padding:20px;border:1px solid #344650;border-radius:20px 7px 20px 7px;background:#0b1319}
-.puzzle-side h4{font-size:1.2rem;margin:0 0 8px}
-.puzzle-side p{color:var(--muted);font-size:.83rem;line-height:1.65}
-.puzzle-stats{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
-.puzzle-stat{padding:8px 10px;border:1px solid #3c5059;border-radius:999px;font:.7rem 'DM Mono',monospace;color:#eaf8fa}
-.puzzle-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
-.puzzle-actions button{padding:11px 13px;border:1px solid #405b67;background:#14232b;color:#eaf8fa;border-radius:999px;font:700 .7rem 'DM Mono',monospace}
-.puzzle-actions button.primary{background:var(--blue);border-color:var(--blue);color:#071014}
-.puzzle-actions button:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
-.puzzle-status{min-height:44px;color:#bdefff;font-size:.82rem;line-height:1.55;margin:12px 0 0}
-.puzzle-preview{display:flex;align-items:center;gap:10px;margin-top:12px}
-.puzzle-preview canvas{width:70px;height:70px;border:1px solid #465c67;border-radius:10px}
-.puzzle-preview span{font-size:.74rem;color:var(--muted);line-height:1.5}
-@media(max-width:700px){.puzzle-layout{grid-template-columns:1fr}.puzzle-board{max-width:440px;margin-inline:auto}.puzzle-side{padding:16px}}
-
-.mini-launch-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.mini-launch{position:relative;display:flex;flex-direction:column;gap:16px;min-height:230px;padding:clamp(22px,4vw,38px);border:1px solid #34474d;border-radius:28px 8px 28px 8px;background:radial-gradient(circle at 100% 0,#15333c 0,transparent 48%),linear-gradient(140deg,#111a1d,#090d0f);overflow:hidden;transition:transform .3s,border-color .3s}.mini-launch:hover,.mini-launch:focus-visible{transform:translateY(-5px);border-color:var(--blue)}.mini-launch strong{font-size:clamp(1.5rem,3vw,2.5rem);line-height:1;letter-spacing:-.06em;max-width:430px}.mini-launch strong span{color:var(--blue)}.mini-launch p{color:var(--muted);max-width:390px;line-height:1.7;margin:0}.launch-mark{position:absolute;right:24px;bottom:12px;font-size:3rem;color:#53dfff38}@media(max-width:650px){.mini-launch-grid{grid-template-columns:1fr}}</style>
+.graphic-puzzle{display:grid;grid-template-columns:repeat(2,42px);grid-template-rows:repeat(2,42px);gap:5px;transform:rotate(-7deg);filter:drop-shadow(5px 6px 0 #53dfff20)}.graphic-puzzle i{display:grid;place-items:center;border:1px solid #53dfff9c;background:linear-gradient(135deg,#53dfff24,#101719);font-size:1.2rem;font-style:normal;color:var(--blue);clip-path:polygon(0 0,90% 4%,100% 100%,5% 93%)}.tile-puzzle .tile-graphic{color:#53dfff}.tile-puzzle:nth-child(5){margin-top:10px;clip-path:polygon(0 3%,96% 0,100% 94%,5% 100%)}@media(max-width:1000px){.welcome-tiles{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(max-width:650px){.welcome-tiles{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.welcome-tile{min-height:270px;padding:15px 13px 19px}.welcome-tile:nth-child(2),.welcome-tile:nth-child(3),.welcome-tile:nth-child(4),.welcome-tile:nth-child(5){margin-top:0}.welcome-tile strong{font-size:1.1rem}.tile-description{font-size:.72rem}}
+</style>
 </head>
 <body>
 <div class="urban-atmosphere" aria-hidden="true">
@@ -542,29 +486,17 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
  <div class="hero-vertical mono">UNA HISTORIA QUE SE ABRE DÍA A DÍA</div>
 </section>
 <section class="welcome-menu section" id="welcome-menu" aria-labelledby="welcome-menu-title">
- <div class="welcome-menu-head"><div><div class="mono"><span class="blue">✳</span> ELIGE POR DÓNDE EMPEZAR / 01—04</div><h2 id="welcome-menu-title">TU MUNDO.<br><span>TUS REGLAS.</span></h2></div><p class="section-intro">No hay una sola forma de recorrerlo. Abre una puerta, encuentra una canción o crea algo que sea solo tuyo.</p></div>
+ <div class="welcome-menu-head"><div><div class="mono"><span class="blue">✳</span> ELIGE POR DÓNDE EMPEZAR / 01—05</div><h2 id="welcome-menu-title">TU MUNDO.<br><span>TUS REGLAS.</span></h2></div><p class="section-intro">No hay una sola forma de recorrerlo. Abre una puerta, encuentra una canción o crea algo que sea solo tuyo.</p></div>
  <div class="welcome-tiles">
   <a class="welcome-tile tile-calendar" href="#calendario"><span class="tile-number">01</span><span class="tile-graphic graphic-calendar" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span><span class="tile-meta mono">365 MOMENTOS</span><strong>El calendario<span>↗</span></strong><span class="tile-description">Una sorpresa por descubrir, cada día.</span><span class="tile-stroke"></span></a>
   <a class="welcome-tile tile-music" href="#musica"><span class="tile-number">02</span><span class="tile-graphic graphic-sound" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span><span class="tile-meta mono">DALE AL PLAY</span><strong>El rincón sonoro<span>↗</span></strong><span class="tile-description">Canciones, recuerdos y señales.</span><span class="tile-stroke"></span></a>
   <a class="welcome-tile tile-create" href="./lienzo.html"><span class="tile-number">03</span><span class="tile-graphic graphic-create" aria-hidden="true"><i>✳</i><b>CREA<br>SIN REGLAS</b></span><span class="tile-meta mono">ESTUDIO CREATIVO</span><strong>El lienzo<span>↗</span></strong><span class="tile-description">Tu imaginación también tiene casa.</span><span class="tile-stroke"></span></a>
-  <a class="welcome-tile tile-game" href="#juego-reto"><span class="tile-number">04</span><span class="tile-graphic graphic-game" aria-hidden="true"><span class="world-globe"><i></i><b></b><em></em></span><i class="world-star">✦</i></span><span class="tile-meta mono">UN MINUTO DE JUEGO</span><strong>Pequeños mundos<span>↗</span></strong><span class="tile-description">Juega, prueba, vuelve a intentarlo.</span><span class="tile-stroke"></span></a>
+  <a class="welcome-tile tile-game" href="./gatito-estelar.html"><span class="tile-number">04</span><span class="tile-graphic graphic-game" aria-hidden="true"><span class="world-globe"><i></i><b></b><em></em></span><i class="world-star">✦</i></span><span class="tile-meta mono">ARCADE · 30 SEGUNDOS</span><strong>Atrapa estrellas<span>↗</span></strong><span class="tile-description">Ayuda al gatito a superar tu récord.</span><span class="tile-stroke"></span></a>
+  <a class="welcome-tile tile-puzzle" href="./rompecabezas.html"><span class="tile-number">05</span><span class="tile-graphic graphic-puzzle" aria-hidden="true"><i>▧</i><i>▤</i><i>▥</i><i>▦</i></span><span class="tile-meta mono">PUZLE · A TU RITMO</span><strong>Arma el recuerdo<span>↗</span></strong><span class="tile-description">Reconstruye la ilustración pieza a pieza.</span><span class="tile-stroke"></span></a>
  </div>
  <div class="welcome-menu-foot"><span class="mono">365 DÍAS · UN SOLO UNIVERSO</span><span class="welcome-foot-mark">✳</span><span class="mono">ELIGE POR DÓNDE EMPEZAR.</span></div>
 </section>
-<section class="section music-note-section" id="musica"><div class="section-head"><div><div class="mono">02 / Canciones que acompañan</div><h2>EL RINCÓN<br><span>SONORO.</span></h2></div><p class="section-intro">Una pequeña playlist hecha con las canciones del catálogo. Elige cualquiera para escucharla; las canciones del calendario también podrán encontrarse aquí cuando estén vinculadas a un día.</p></div><div class="music-playlist"><div class="playlist-heading"><span class="mono">CANCIONES DE TUS DÍAS ABIERTOS</span><span class="mono" id="playlist-count">0 / 12 CANCIONES</span></div><div class="playlist-list" id="playlist-list" aria-label="Canciones de los días abiertos"></div><p class="playlist-note" id="playlist-note" role="status" aria-live="polite">
-<section class="section" id="pequenos-mundos">
- <div class="section-head"><div><div class="mono">05 / Pequeños mundos</div><h2>JUEGA<br><span>UN RATITO.</span></h2></div><p class="section-intro">El calendario y sus sorpresas tienen su propio espacio. Los minijuegos viven en pantallas independientes para que puedas jugar sin interrumpir los 365 días.</p></div>
- <div class="mini-launch-grid">
-  <a class="mini-launch" href="./gatito-estelar.html"><span class="mono">ARCADE · 30 SEGUNDOS</span><strong>ATRAPA ESTRELLAS <span>↗</span></strong><p>Ayuda al gatito a recoger estrellas, sumar puntos y superar tu récord.</p><span class="launch-mark">✦</span></a>
-  <a class="mini-launch" href="./rompecabezas.html"><span class="mono">PUZLE · A TU RITMO</span><strong>ARMA EL RECUERDO <span>↗</span></strong><p>Intercambia nueve piezas hasta reconstruir la ilustración nocturna.</p><span class="launch-mark">✧</span></a>
- </div>
-</section>
-ones.</p><div class="cat-game-actions"><button class="primary" id="cat-start" type="button">EMPEZAR A JUGAR ✦</button></div></div></div></div>
-  <div class="cat-game-pad" aria-label="Controles táctiles"><button type="button" id="cat-left" aria-label="Mover gatito a la izquierda">←</button><button type="button" id="cat-right" aria-label="Mover gatito a la derecha">→</button></div>
-  <p class="cat-game-hint" id="cat-status" role="status" aria-live="polite">Pulsa empezar cuando quieras jugar.</p>
- </div>
-</section>
-Abre una puerta del calendario para añadir aquí su canción. Se mostrarán hasta 12 canciones y podrás desplazarte dentro de esta caja.</p></div></section>
+<section class="section music-note-section" id="musica"><div class="section-head"><div><div class="mono">02 / Canciones que acompañan</div><h2>EL RINCÓN<br><span>SONORO.</span></h2></div><p class="section-intro">Una pequeña playlist hecha con las canciones del catálogo. Elige cualquiera para escucharla; las canciones del calendario también podrán encontrarse aquí cuando estén vinculadas a un día.</p></div><div class="music-playlist"><div class="playlist-heading"><span class="mono">CANCIONES DE TUS DÍAS ABIERTOS</span><span class="mono" id="playlist-count">0 / 12 CANCIONES</span></div><div class="playlist-list" id="playlist-list" aria-label="Canciones de los días abiertos"></div><p class="playlist-note" id="playlist-note" role="status" aria-live="polite">Abre una puerta del calendario para añadir aquí su canción. Se mostrarán hasta 12 canciones y podrás desplazarte dentro de esta caja.</p></div></section>
 <section class="section" id="calendario"><div class="section-head"><div><div class="mono">01 / El ritual de cada día</div><h2>CALENDARIO<br><span>DE ADVIENTO.</span></h2></div><p class="section-intro">Un muro de pequeñas puertas sorpresa. Cada una tiene su propio contorno y carácter. Solo verás el número hasta que decidas abrirla; después, el contenido y su palabra clave aparecerán aparte.</p></div><div class="calendar-box"><div class="calendar-meta"><div><div class="mono">365 PUERTAS · UN RECORRIDO</div><div style="font-weight:700;font-size:1.15rem;margin-top:7px">¿Cuál abrimos hoy? <span class="blue">✳</span></div></div><div class="meter"><div class="meterline mono"><span>VISITADAS</span><span id="count">0 / 365</span></div><div class="meterbar"><span id="fill"></span></div></div></div><div class="calendar-grid" id="grid" aria-label="Calendario de adviento de 365 días"></div><div class="calendar-foot"><span><span class="blue">✦</span> Puerta visitada</span><span>Formas diferentes, números visibles</span><span>La palabra clave aparece al abrir la puerta</span></div></div></section>
 
 
@@ -709,8 +641,38 @@ document.querySelector('#save').addEventListener('click',()=>{visited.add(active
    const old=document.createElement('canvas');old.width=canvas.width||1;old.height=canvas.height||1;
    if(canvas.width&&canvas.height)old.getContext('2d').drawImage(canvas,0,0);
    const rect=canvas.getBoundingClientRect(), ratio=Math.min(window.devicePixelRatio||1,2);
-   canvas.width=Math.max(1,Math.round(rect.width*ratio));canvas.height=Math.max(1,Math.round(
+   canvas.width=Math.max(1,Math.round(rect.width*ratio));canvas.height=Math.max(1,Math.round(rect.height*ratio));
+   background();if(old.width>1&&old.height>1)ctx.drawImage(old,0,0,old.width,old.height,0,0,canvas.width,canvas.height);
+   ctx.lineCap='round';ctx.lineJoin='round';
+ }
+ function point(e){const r=canvas.getBoundingClientRect();return {x:(e.clientX-r.left)*(canvas.width/r.width),y:(e.clientY-r.top)*(canvas.height/r.height)}}
+ function down(e){if(e.button!==undefined&&e.button!==0)return;drawing=true;last=point(e);canvas.setPointerCapture?.(e.pointerId);ctx.beginPath();ctx.arc(last.x,last.y,Math.max(1,Number(brush.value)*(canvas.width/canvas.getBoundingClientRect().width)/2),0,Math.PI*2);ctx.fillStyle=erasing?'#f7f4ec':color;ctx.fill();e.preventDefault()}
+ function move(e){if(!drawing||!last)return;const p=point(e);ctx.beginPath();ctx.moveTo(last.x,last.y);ctx.lineTo(p.x,p.y);ctx.strokeStyle=erasing?'#f7f4ec':color;ctx.lineWidth=Number(brush.value)*(canvas.width/canvas.getBoundingClientRect().width);ctx.stroke();last=p;e.preventDefault()}
+ function up(){if(drawing)snapshot();drawing=false;last=null}
+ function restoreData(data){const img=new Image();img.onload=()=>{background();ctx.drawImage(img,0,0,canvas.width,canvas.height);status.textContent='Dibujo recuperado en este lienzo.'};img.onerror=()=>status.textContent='No se pudo abrir el dibujo guardado.';img.src=data}
+ canvas.addEventListener('pointerdown',down);canvas.addEventListener('pointermove',move);canvas.addEventListener('pointerup',up);canvas.addEventListener('pointercancel',up);canvas.addEventListener('lostpointercapture',up);
+ palette.addEventListener('click',e=>{const b=e.target.closest('[data-color]');if(!b)return;color=b.dataset.color;erasing=false;document.getElementById('canvas-eraser').setAttribute('aria-pressed','false');palette.querySelectorAll('[data-color]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)))});
+ brush.addEventListener('input',()=>brushValue.textContent=brush.value+' px');
+ document.getElementById('canvas-eraser').addEventListener('click',e=>{erasing=!erasing;e.currentTarget.setAttribute('aria-pressed',String(erasing));e.currentTarget.textContent=erasing?'BORRADOR ACTIVO':'BORRADOR'});
+ document.getElementById('canvas-undo').addEventListener('click',()=>{if(history.length<2){status.textContent='No hay más trazos para deshacer.';return}history.pop();restoreData(history[history.length-1])});
+ document.getElementById('canvas-clear').addEventListener('click',()=>{snapshot();background();snapshot();status.textContent='Lienzo limpio. Tu dibujo guardado anteriormente no se ha borrado.'});
+ document.getElementById('canvas-save').addEventListener('click',()=>{try{localStorage.setItem(saveKey,canvas.toDataURL('image/png'));status.textContent='Dibujo guardado en este navegador.'}catch(_){status.textContent='El navegador no permitió guardar el dibujo. Usa Exportar PNG para conservar una copia.'}});
+ document.getElementById('canvas-restore').addEventListener('click',()=>{try{const data=localStorage.getItem(saveKey);if(data)restoreData(data);else status.textContent='Todavía no hay un dibujo guardado en este navegador.'}catch(_){status.textContent='No se pudo acceder al almacenamiento local.'}});
+ document.getElementById('canvas-export').addEventListener('click',()=>{try{const a=document.createElement('a');a.href=canvas.toDataURL('image/png');a.download='aleja-mi-dibujo.png';a.click();status.textContent='Se solicitó exportar el dibujo como PNG.'}catch(_){status.textContent='No se pudo exportar la imagen.'}});
+ resize();snapshot();
+ try{const saved=localStorage.getItem(saveKey);if(saved)restoreData(saved)}catch(_){}
+ if('ResizeObserver' in window){let pending=false;new ResizeObserver(()=>{if(pending)return;pending=true;requestAnimationFrame(()=>{pending=false;resize()})}).observe(canvas)}
+})();
 
+// Desplazamiento sutil de los garabatos al recorrer la página; se pausa en móviles de bajo movimiento.
+(function(){
+ const layer=document.querySelector('.urban-atmosphere');
+ if(!layer||window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+ let queued=false;
+ function drift(){const y=window.scrollY||0;layer.style.setProperty('--urban-shift-a',(y*.045).toFixed(1)+'px');layer.style.setProperty('--urban-shift-b',(-y*.035).toFixed(1)+'px');queued=false}
+ window.addEventListener('scroll',()=>{if(!queued){queued=true;requestAnimationFrame(drift)}},{passive:true});
+ drift();
+})();
 update();
 if('serviceWorker' in navigator && location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}))}
 </script>
