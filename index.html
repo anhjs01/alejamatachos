@@ -25,6 +25,16 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .song-action{display:inline-flex;align-items:center;gap:8px;margin:14px 0 0;padding:11px 15px;border:1px solid #1a7b8b;border-radius:4px;background:#0c2429;color:#53dfff;font-size:.78rem;font-weight:700;cursor:pointer}
 .song-action:disabled{opacity:.45;cursor:not-allowed}
 #letter-text{white-space:pre-line}
+
+/* Las palabras aparecen debajo de la puerta, nunca dentro del botón numérico */
+.door-wrap{min-width:0;display:flex;flex-direction:column;align-items:stretch;gap:5px}
+.door-keyword{display:block;min-height:1.05em;text-align:center;font:clamp(.48rem,.68vw,.62rem) 'DM Mono',monospace;letter-spacing:.02em;color:var(--blue);opacity:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;transition:opacity .2s}
+.door-keyword.visible{opacity:1}
+.calendar-grid{row-gap:clamp(8px,1.25vw,14px)}
+.letter{max-height:calc(100dvh - 36px);overflow-y:auto;overscroll-behavior:contain;clip-path:none;border:1px solid #d5e7e9}
+.letter p{white-space:pre-line;overflow-wrap:anywhere}
+.backdrop{padding:18px;overflow-y:auto;align-items:center}
+@media(max-width:560px){.calendar-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:7px}.door-keyword{font-size:.55rem}.letter{width:100%;padding:26px 22px;box-shadow:6px 6px 0 var(--blue)}}
 </style>
 </head>
 <body>
@@ -50,7 +60,7 @@ const shapes=['','s1','s2','s3','s4','s5','s6','s7','s8'];
 const safeText=(v)=>typeof v==='string'?v.trim():'';
 function entryFor(n){return Array.isArray(CALENDARIO)?CALENDARIO.find(d=>Number(d.dia)===n):null}
 function keywordFor(n){const d=entryFor(n);if(!d)return 'POR DESCUBRIR';return safeText(d.categoria)||safeText(d.tono)||'UN DETALLE'}
-for(let n=1;n<=365;n++){const b=document.createElement('button');b.className='door '+shapes[(n*7+n%5)%shapes.length]+(n===1?' featured':'');b.type='button';b.innerHTML='<b>'+String(n).padStart(2,'0')+'</b>';b.setAttribute('aria-label','Abrir puerta '+n);b.style.setProperty('--tilt',(((n%5)-2)*1.2)+'deg');b.addEventListener('click',()=>openDoor(n));grid.appendChild(b)}
+for(let n=1;n<=365;n++){const wrap=document.createElement('div');wrap.className='door-wrap';const b=document.createElement('button');b.className='door '+shapes[(n*7+n%5)%shapes.length]+(n===1?' featured':'');b.type='button';b.innerHTML='<b>'+String(n).padStart(2,'0')+'</b>';b.setAttribute('aria-label','Abrir puerta '+n);b.style.setProperty('--tilt',(((n%5)-2)*1.2)+'deg');b.addEventListener('click',()=>openDoor(n));const label=document.createElement('span');label.className='door-keyword';label.setAttribute('aria-hidden','true');label.textContent='';wrap.append(b,label);grid.appendChild(wrap)}
 function openDoor(n){
  active=n;const d=entryFor(n);
  document.querySelector('#day-label').textContent='PUERTA '+String(n).padStart(3,'0')+' / 365'+(d&&d.fechaTexto?' · '+d.fechaTexto.toUpperCase():'');
@@ -63,7 +73,7 @@ function openDoor(n){
  document.querySelector('#save').textContent=visited.has(n)?'MOMENTO GUARDADO ✓':'GUARDAR ESTE MOMENTO ✦';
  backdrop.classList.add('open');document.querySelector('#close').focus()
 }
-function update(){document.querySelector('#count').textContent=visited.size+' / 365';document.querySelector('#fill').style.width=(visited.size/365*100)+'%';document.querySelectorAll('.door').forEach((b,i)=>{b.classList.toggle('done',visited.has(i+1));if(visited.has(i+1))b.title=keywordFor(i+1)})}
+function update(){document.querySelector('#count').textContent=visited.size+' / 365';document.querySelector('#fill').style.width=(visited.size/365*100)+'%';document.querySelectorAll('.door').forEach((b,i)=>{const n=i+1,done=visited.has(n),word=keywordFor(n);b.classList.toggle('done',done);b.title=done?word:'Abrir puerta '+n;const label=b.parentElement.querySelector('.door-keyword');label.textContent=done?word.toLocaleUpperCase('es-CO').slice(0,18):'';label.classList.toggle('visible',done);label.setAttribute('aria-hidden',done?'false':'true')})}
 function close(){backdrop.classList.remove('open')}
 document.querySelector('#close').addEventListener('click',close);
 backdrop.addEventListener('click',e=>{if(e.target===backdrop)close()});
