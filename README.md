@@ -1,35 +1,37 @@
 # ALEJA — 365 días, una historia
 
-Primera base visual del proyecto web de ALEJA.
+Aplicación web en desarrollo para el calendario sorpresa de ALEJA.
 
-## Estado de esta entrega
+## Funciones presentes
 
 - Portada con identidad urbana en negro, blanco y azul cielo.
-- Fotografía de Aleja referenciada desde el repositorio original `mismatachos` (sin copiar ni modificar ese repositorio).
-- Calendario visual de 365 puertas con formas geométricas variadas; cada puerta muestra únicamente el número.
-- Apertura de puerta con panel de contenido y palabra clave fuera de la puerta.
-- Contador de puertas visitadas durante la sesión.
-- Diseño adaptable a móvil y escritorio.
-- Animaciones con soporte para `prefers-reduced-motion`.
+- Calendario visual de 365 puertas con formas geométricas variadas; cada botón muestra solo su número.
+- Apertura de puerta con contenido disponible y palabra clave fuera del botón.
+- Registro local de puertas visitadas mediante `localStorage`; las visitas persisten en el mismo navegador, pero no se sincronizan entre dispositivos.
+- Reproductor musical integrado con la API oficial de YouTube. La reproducción requiere una acción explícita del usuario y depende de la disponibilidad del video y las restricciones del navegador.
+- Preparación PWA mediante `manifest.webmanifest`, `icon.svg` y `service-worker.js`.
+- Diseño adaptable a móvil y escritorio, con animaciones y respeto por `prefers-reduced-motion`.
 
-## Importante
+## Archivos principales
 
-Esta es la base visual inicial, no la implementación final. El contenido de las puertas aún es de demostración; las visitas no se guardan entre sesiones; el reproductor musical, el lienzo y los minijuegos todavía no están integrados. Los siguientes pasos son auditar e integrar con cuidado el catálogo y el contenido original desde los repositorios de referencia, y después probar funcionamiento y accesibilidad.
+- `index.html`: interfaz, estilos y lógica del calendario.
+- `contenido-calendario.js`: contenido personalizado disponible para los días documentados.
+- `catalogo-canciones.js`: catálogo de canciones por categoría.
+- `reproductor.js`: integración del reproductor.
+- `manifest.webmanifest`: metadatos para instalación como aplicación.
+- `service-worker.js`: caché básica para el shell de la aplicación.
+- `icon.svg`: icono vectorial de la aplicación.
+- `AUDITORIA-CATALOGO.md`: revisión estructural del catálogo musical.
 
-## Fuentes de referencia
+## Límites y pruebas pendientes
+
+La auditoría del catálogo comprueba estructura, duplicados y presencia/formato de identificadores; no demuestra por sí sola que cada video siga disponible ni que coincida con la grabación correcta. La auditoría detectó cinco canciones sin `youtubeId`; están listadas en `AUDITORIA-CATALOGO.md` y no se les asignaron identificadores inventados.
+
+La PWA está preparada de forma inicial, pero todavía debe probarse en navegadores reales: instalación en iPhone y escritorio, funcionamiento sin conexión, actualización de caché, accesibilidad, y reproducción/pausa/siguiente canción con la API de YouTube. No se afirma que esas pruebas estén aprobadas.
+
+## Repositorios de referencia
 
 - [mismatachos](https://github.com/anhjs01/mismatachos)
 - [protectovl](https://github.com/anhjs01/protectovl)
 
-Estos repositorios se consultan como fuentes y no se modifican en esta implementación.
-
-
-## Reproductor musical — primera integración
-
-- Se incorporó `reproductor.js` desde el proyecto fuente y se enlazó con el catálogo local.
-- Cada puerta con un `youtubeId` incluye un botón para solicitar la canción asignada a ese día.
-- La barra del reproductor aparece cuando el reproductor tiene una canción activa.
-- La reproducción con sonido depende de una acción explícita del usuario y de las restricciones del navegador/YouTube.
-- Las puertas sin una canción asignada muestran que la canción aún no está disponible; no se selecciona una canción aleatoria como sustituto.
-
-Pendiente de prueba en navegador real: confirmar carga de la API de YouTube, reproducción, pausa, siguiente canción, fallos de red, controles móviles y persistencia al cambiar de dispositivo. La persistencia de puertas usa almacenamiento local del navegador; no sincroniza entre dispositivos.
+Estos repositorios se consultan como fuentes; no se modifican desde este proyecto.
