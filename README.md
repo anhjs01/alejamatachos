@@ -26,6 +26,18 @@ El script informa las cantidades por categoría, IDs con formato inválido o dup
 
 **Límite:** es una auditoría estática local. No comprueba que los videos existan, sean insertables o correspondan a la canción. Para esa validación hace falta consultar fuentes de YouTube y revisar los resultados individualmente.
 
+## Auditoría estática del calendario
+
+Con Node.js instalado, ejecuta desde la raíz del repositorio:
+
+```bash
+node scripts/auditar-calendario.js
+```
+
+Comprueba que los números de día no estén duplicados, que cada entrada tenga un ID de YouTube con formato esperado, que el ID exista en el catálogo y que `cancionUrl` apunte al mismo ID. Los IDs repetidos en el calendario se notifican como aviso, no como error, porque podrían ser intencionales.
+
+**Límite:** no consulta YouTube. No confirma que un video siga disponible, permita reproducción incrustada ni corresponda realmente al título y artista indicados; eso requiere verificación externa por canción.
+
 ## Archivos principales
 
 - `index.html`: interfaz, estilos, calendario, lienzo y minijuego.
