@@ -217,6 +217,7 @@ document.getElementById('object-text-bg').addEventListener('input',e=>{const o=s
 document.getElementById('object-stroke').addEventListener('input',e=>{const o=selectedObject();if(o&&o.type==='text'){o.stroke=e.target.value;applyObjectStyle(o);persistObjects()}});
 document.getElementById('object-stroke-width').addEventListener('input',e=>{const o=selectedObject();if(o&&o.type==='text'){o.strokeWidth=Number(e.target.value);applyObjectStyle(o);persistObjects()}});
 document.getElementById('object-shadow').addEventListener('change',e=>{const o=selectedObject();if(o&&o.type==='text'){o.shadow=e.target.value;applyObjectStyle(o);persistObjects()}});
+['object-opacity','object-rotation','object-skew-x','object-skew-y','object-width','object-height','object-size','object-stroke-width'].forEach(id=>document.getElementById(id).addEventListener('change',()=>{if(selectedObject()){snapshot();say('Cambios de capa guardados en el historial.')}}));
 
 
 sizeInput.addEventListener('input',()=>{size=Number(sizeInput.value);sizeLabel.value=size+' px';sizeLabel.textContent=size+' px';document.querySelectorAll('[data-size]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.size)===size)))});
