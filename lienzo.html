@@ -40,6 +40,43 @@
  .zoom-dock .btn{width:29px;height:29px}
  .zoom-dock .focus-board{width:30px}
 }
+/* Ajuste fino de herramientas en pantallas estrechas */
+@media(max-width:700px){
+ .topbar{display:flex;flex-wrap:nowrap;min-width:0;overflow:hidden;gap:4px}
+ .topbar>*{flex-shrink:0}
+ #import-top{font-size:0;min-width:32px;width:32px;padding:7px}
+ #import-top::before{content:'⇧';font-size:17px;line-height:1}
+ #undo,#redo{width:30px;height:32px;padding:0;font-size:18px}
+ #export-open{font-size:0;width:36px;height:36px;justify-content:center;padding:0}
+ #export-open .glyph{font-size:17px}
+ .stage-toolbar{display:grid;grid-template-columns:minmax(0,1fr);align-content:start;gap:4px;padding:5px 8px 5px 61px;overflow:hidden}
+ .stage-toolbar .tool-context{display:block;max-width:100%;width:100%;font-size:10px;line-height:1.25;white-space:nowrap}
+ .stage-actions{display:flex;flex-wrap:nowrap;justify-content:flex-start;overflow-x:auto;overflow-y:hidden;max-width:100%;width:100%;min-width:0;padding:1px 0 4px;scrollbar-width:thin;overscroll-behavior-x:contain}
+ .stage-actions>*{flex:0 0 auto}
+ .stage-actions .toolbar-select{max-width:122px}
+ .stage-actions .btn{white-space:nowrap}
+ .board-viewport{min-height:0}
+ .zoom-dock{bottom:calc(8px + env(safe-area-inset-bottom));}
+ .right-panel.mobile-open{box-shadow:0 -20px 60px #0009}
+}
+@media(max-width:420px){
+ .topbar{gap:3px;padding-inline:5px}
+ .topbar .btn.icon{width:29px;height:31px}
+ #menu-home{width:28px}
+ #import-top{width:28px;min-width:28px}
+ #export-open{width:31px;height:32px}
+ .stage-toolbar{padding-left:54px}
+ .stage-actions .toolbar-select{max-width:104px}
+ .stage-actions .btn{padding:6px}
+ .board-viewport{padding-right:7px;padding-left:51px}
+ .zoom-dock{left:calc(50% + 15px)}
+}
+@media(orientation:landscape) and (max-height:520px) and (max-width:700px){
+ .stage-toolbar{grid-template-columns:minmax(110px,auto) minmax(0,1fr);align-items:center}
+ .stage-toolbar .tool-context{max-width:120px;white-space:normal}
+ .stage-actions{align-self:center}
+ .right-panel.mobile-open{height:min(82dvh,420px)}
+}
 </style>
 </head>
 <body>
