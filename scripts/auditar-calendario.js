@@ -19,8 +19,8 @@ function readDeclaredJson(file, declaration, closing) {
   return JSON.parse(source.slice(equals + 1, end).trim());
 }
 
-const calendario = readDeclaredJson("contenido-calendario.js", "const CALENDARIO", "\\n];");
-const catalogo = readDeclaredJson("catalogo-canciones.js", "const CATALOGO_CANCIONES", "\\n};");
+const calendario = readDeclaredJson("contenido-calendario.js", "const CALENDARIO", "\n];");
+const catalogo = readDeclaredJson("catalogo-canciones.js", "const CATALOGO_CANCIONES", "\n};");
 
 const errores = [];
 const avisos = [];
