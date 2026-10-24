@@ -222,7 +222,65 @@ document.querySelectorAll('[data-bg]').forEach(b=>b.addEventListener('click',()=
 $('save-project').addEventListener('click',saveCopy);$('import-project').addEventListener('click',()=> $('project-input').click());$('project-input').addEventListener('change',e=>{const file=e.target.files&&e.target.files[0];e.target.value='';if(!file)return;if(file.size>25*1024*1024){tell('El archivo supera el límite de 25 MB.');return}if(!confirm('¿Importar este proyecto? El diseño actual se guardará en el navegador antes de abrir el archivo.'))return;const reader=new FileReader();reader.onload=()=>{let parsed;try{parsed=JSON.parse(String(reader.result||''))}catch(err){tell('El archivo no contiene un JSON válido.');return}if(!parsed||!Array.isArray(parsed.layers)){tell('El JSON no parece ser un proyecto válido de Aleja Estudio.');return}if(restoreDoc(parsed)){history=[serialize()];redoStack=[];updateHistoryButtons();saveLocal();switchPanel('properties');tell('Proyecto importado correctamente')}};reader.onerror=()=>tell('No se pudo leer el archivo seleccionado.');reader.readAsText(file)});$('clear-document').addEventListener('click',()=>{if(confirm('¿Eliminar todas las capas de este diseño? Esta acción se puede deshacer.')){doc.layers=[];selectedId=null;commit();tell('Lienzo limpio')}});$('new-project').addEventListener('click',()=>{if(confirm('¿Crear un diseño nuevo? El proyecto actual permanece guardado en este navegador.')){saveLocal();doc={version:2,name:'Diseño sin título',width:1200,height:800,bg:'#ffffff',safe:false,grid:false,gridSize:50,layers:[]};selectedId=null;history=[];redoStack=[];syncDocumentControls();fitView();commit();snapshot();switchPanel('properties')}});
 $('export-open').addEventListener('click',()=>openModal('export-modal'));$('export-quality').addEventListener('input',e=>$('quality-out').textContent=e.target.value+'%');$('export-format').addEventListener('change',()=>{$('quality-wrap').hidden=$('export-format').value!=='jpeg';$('export-transparent').disabled=$('export-format').value!=='png'});$('do-export').addEventListener('click',exportDesign);
 $('help-open').addEventListener('click',()=>openModal('help-modal'));document.querySelectorAll('[data-close-modal]').forEach(b=>b.addEventListener('click',()=>closeModal(b.dataset.closeModal)));document.querySelectorAll('.modal-backdrop').forEach(m=>m.addEventListener('click',e=>{if(e.target===m)closeModal(m.id)}));
-function exportDesign(){const format=$('export-format').value;if(format==='json'){const blob=new Blob([serialize()],{type:'application/json'});download(blob,(doc.name||'aleja-diseno').replace(/[^\w\-]+/g,'-')+'.json');closeModal('export-modal');return}const out=document.createElement('canvas');out.width=doc.width;out.height=doc.height;const ox=out.getContext('2d');if(!(format==='png'&&$('export-transparent').checked)){ox.fillStyle=doc.bg==='transparent'?'#ffffff':doc.bg;ox.fillRect(0,0,out.width,out.height)}let pending=0;const finish=()=>{if(pending>0)return;out.toBlob(blob=>{if(!blob){tell('No se pudo crear la imagen. Prueba con un tamaño menor.');return}download(blob,(doc.name||'aleja-diseno').replace(/[^\w\-]+/g,'-')+'.'+(format==='jpeg'?'jpg':'png'));closeModal('export-modal');tell('Diseño exportado')},format==='jpeg'?'image/jpeg':'image/png',Number($('export-quality').value)/100)};const layers=doc.layers.filter(l=>l.visible);function drawNext(i){if(i>=layers.length){finish();return}const l=layers[i];if(l.type==='image'&&l.src&&!l.image){const im=new Image();im.onload=()=>{l.image=im;drawOne(l);drawNext(i+1)};im.onerror=()=>{drawNext(i+1)};im.src=l.src}else{drawOne(l);drawNext(i+1)}}function drawOne(l){ox.save();ox.globalAlpha=clamp(Number(l.opacity==null?1:l.opacity),0,1);ox.translate(l.x+l.w/2,l.y+l.h/2);ox.rotate((Number(l.rotation)||0)*Math.PI/180);ox.scale((l.flip==='x'||l.flip==='both')?-1:1,(l.flip==='y'||l.flip==='both')?-1:1);ox.translate(-l.w/2,-l.h/2);const old=ctx;ctx=ox;try{drawLayer(l)}catch(e){console.warn(e)}ctx=old;ox.restore()}drawNext(0)}
+function exportDesign(){
+ const format=$('export-format').value;
+ const filename=(doc.name||'aleja-diseno').replace(/[^\w\-]+/g,'-');
+ if(format==='json'){
+  try{download(new Blob([serialize()],{type:'application/json'}),filename+'.json');closeModal('export-modal')}
+  catch(e){console.error(e);tell('No se pudo preparar el proyecto JSON.')}
+  return
+ }
+ const out=document.createElement('canvas');
+ out.width=doc.width;out.height=doc.height;
+ const ox=out.getContext('2d');
+ if(!ox){tell('No se pudo iniciar el lienzo de exportación. Prueba con un tamaño menor.');return}
+ if(!(format==='png'&&$('export-transparent').checked)){
+  ox.fillStyle=doc.bg==='transparent'?'#ffffff':doc.bg;
+  ox.fillRect(0,0,out.width,out.height)
+ }
+ let failedImages=0,failedLayers=0,finished=false;
+ const finish=()=>{
+  if(finished)return;
+  finished=true;
+  try{
+   out.toBlob(blob=>{
+    if(!blob){tell('No se pudo crear la imagen. Prueba con un tamaño menor.');return}
+    try{
+     download(blob,filename+'.'+(format==='jpeg'?'jpg':'png'));
+     closeModal('export-modal');
+     if(failedImages||failedLayers){
+      tell('Exportación parcial: '+(failedImages?'no se pudieron cargar '+failedImages+' imagen(es)':'')+(failedImages&&failedLayers?' y ':'')+(failedLayers?'fallaron '+failedLayers+' capa(s) al dibujarse':'')+'. Revisa esas capas antes de exportar de nuevo.')
+     }else tell('Diseño exportado')
+    }catch(e){console.error(e);tell('La imagen se creó, pero no se pudo iniciar la descarga.')}
+   },format==='jpeg'?'image/jpeg':'image/png',Number($('export-quality').value)/100)
+  }catch(e){console.error(e);tell('Falló la exportación. Prueba con un tamaño menor.')}
+ };
+ const layers=doc.layers.filter(l=>l.visible);
+ function drawNext(i){
+  if(i>=layers.length){finish();return}
+  const l=layers[i];
+  if(l.type==='image'&&l.src&&!l.image){
+   const im=new Image();
+   im.onload=()=>{l.image=im;drawOne(l);drawNext(i+1)};
+   im.onerror=()=>{failedImages++;drawNext(i+1)};
+   im.src=l.src
+  }else{drawOne(l);drawNext(i+1)}
+ }
+ function drawOne(l){
+  ox.save();
+  try{
+   ox.globalAlpha=clamp(Number(l.opacity==null?1:l.opacity),0,1);
+   ox.translate(l.x+l.w/2,l.y+l.h/2);
+   ox.rotate((Number(l.rotation)||0)*Math.PI/180);
+   ox.scale((l.flip==='x'||l.flip==='both')?-1:1,(l.flip==='y'||l.flip==='both')?-1:1);
+   ox.translate(-l.w/2,-l.h/2);
+   const old=ctx;ctx=ox;
+   try{drawLayer(l)}finally{ctx=old}
+  }catch(e){failedLayers++;console.error('No se pudo dibujar la capa al exportar:',l.id,e)}
+  finally{ox.restore()}
+ }
+ drawNext(0)
+}
 function download(blob,name){const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1500)}
 window.addEventListener('keydown',e=>{const tag=e.target&&e.target.tagName,editing=['INPUT','TEXTAREA','SELECT'].includes(tag)||e.target?.isContentEditable;if(e.code==='Space'&&!editing){spaceDown=true;e.preventDefault()}if(editing)return;const mod=e.ctrlKey||e.metaKey;if(mod&&e.key.toLowerCase()==='z'){e.preventDefault();e.shiftKey?redo():undo()}else if(mod&&e.key.toLowerCase()==='y'){e.preventDefault();redo()}else if(mod&&e.key.toLowerCase()==='s'){e.preventDefault();saveLocal();tell('Proyecto guardado')}else if(!mod&&e.key.toLowerCase()==='v')setTool('select');else if(!mod&&e.key.toLowerCase()==='b')setTool('pen');else if(!mod&&e.key.toLowerCase()==='t')openTextModal();else if(e.key==='Escape'){document.querySelectorAll('.modal-backdrop').forEach(m=>m.hidden=true);panel.classList.remove('mobile-open')}});window.addEventListener('keyup',e=>{if(e.code==='Space')spaceDown=false});window.addEventListener('blur',()=>{spaceDown=false});window.addEventListener('resize',()=>{applyView()});window.addEventListener('orientationchange',()=>{setTimeout(fitView,120)});window.addEventListener('beforeunload',()=>{if(dirty)saveLocal()});
 function boot(){let saved=null;try{saved=localStorage.getItem(STORE_KEY)}catch(e){}if(saved&&restoreDoc(saved)){history=[serialize()]}else{syncDocumentControls();history=[serialize()]}updateHistoryButtons();fitView();render();renderLayers();syncInspector();updateEmpty();$('export-format').dispatchEvent(new Event('change'));if(!saved)saveLocal()}
