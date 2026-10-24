@@ -228,6 +228,14 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .welcome-secondary{display:none!important}
 @media(max-width:760px){.site-header nav{width:auto;margin-left:auto}.site-header nav .nav-btn{display:inline-flex}.header-note{display:none}.cover-art-word{font-size:clamp(3.8rem,15vw,6rem)}}
 
+
+.music-note-section{padding-top:48px;padding-bottom:48px}
+.music-note-link{display:flex;align-items:center;gap:18px;max-width:760px;padding:20px 22px;border:1px solid #35474d;background:linear-gradient(110deg,#111c20,#0a1012);clip-path:polygon(0 0,98% 2%,100% 82%,3% 100%);transition:transform .2s,border-color .2s}
+.music-note-link:hover{transform:translateY(-4px);border-color:var(--blue)}
+.music-note-symbol{display:grid;place-items:center;width:56px;height:56px;flex:0 0 56px;background:var(--blue);color:#071014;font-size:2rem;clip-path:polygon(8% 0,100% 12%,88% 100%,0 85%)}
+.music-note-link strong,.music-note-link small{display:block}.music-note-link strong{font-size:.83rem;letter-spacing:.04em}.music-note-link small{margin-top:7px;color:var(--muted);font-size:.76rem;line-height:1.5}.music-note-arrow{margin-left:auto;color:var(--blue);font-size:1.4rem}
+@media(max-width:540px){.music-note-link{gap:12px;padding:16px}.music-note-symbol{width:44px;height:44px;flex-basis:44px}.music-note-link strong{font-size:.72rem}}
+
 </style>
 </head>
 <body>
@@ -260,6 +268,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
  </div>
  <div class="welcome-menu-foot"><span class="mono">365 DÍAS · UN SOLO UNIVERSO</span><span class="welcome-foot-mark">✳</span><span class="mono">ELIGE POR DÓNDE EMPEZAR.</span></div>
 </section>
+<section class="section music-note-section" id="musica"><div class="section-head"><div><div class="mono">02 / Canciones que acompañan</div><h2>EL RINCÓN<br><span>SONORO.</span></h2></div><p class="section-intro">Cada canción forma parte de una historia. Abre el calendario y entra a una puerta para encontrar su canción del día cuando esté disponible.</p></div><a class="music-note-link" href="#calendario"><span class="music-note-symbol">♫</span><span><strong>ENCUENTRA LA CANCIÓN DEL DÍA</strong><small>365 puertas · canciones vinculadas a sus recuerdos</small></span><span class="music-note-arrow">↗</span></a></section>
 <section class="section" id="calendario"><div class="section-head"><div><div class="mono">01 / El ritual de cada día</div><h2>CALENDARIO<br><span>DE ADVIENTO.</span></h2></div><p class="section-intro">Un muro de pequeñas puertas sorpresa. Cada una tiene su propio contorno y carácter. Solo verás el número hasta que decidas abrirla; después, el contenido y su palabra clave aparecerán aparte.</p></div><div class="calendar-box"><div class="calendar-meta"><div><div class="mono">365 PUERTAS · UN RECORRIDO</div><div style="font-weight:700;font-size:1.15rem;margin-top:7px">¿Cuál abrimos hoy? <span class="blue">✳</span></div></div><div class="meter"><div class="meterline mono"><span>VISITADAS</span><span id="count">0 / 365</span></div><div class="meterbar"><span id="fill"></span></div></div></div><div class="calendar-grid" id="grid" aria-label="Calendario de adviento de 365 días"></div><div class="calendar-foot"><span><span class="blue">✦</span> Puerta visitada</span><span>Formas diferentes, números visibles</span><span>La palabra clave aparece al abrir la puerta</span></div></div></section>
 
 
