@@ -6,42 +6,44 @@ function burst(x,y,color,n=16){for(let i=0;i<n;i++){let a=rand(0,Math.PI*2),v=ra
 function updateHud(){scoreEl.textContent='PUNTOS '+score;levelEl.textContent='NIVEL '+level;livesEl.querySelectorAll('.life').forEach((el,i)=>el.classList.toggle('on',i<lives));lifeCount.textContent=lives+' / 5';if(boss){bossbar.classList.add('show');let p=Math.max(0,boss.hp/boss.max);bossfill.style.width=(p*100)+'%';bosstext.textContent=Math.ceil(p*100)+'%'}else bossbar.classList.remove('show')}
 function ship(x,y){
   ctx.save();
-  const combined=form===3;
-  const bob=Math.sin(elapsed*6)*2;
+  const combined=form===3,bob=Math.sin(elapsed*6)*2;
   ctx.translate(x,y+bob);
   const colors=[['#11141b','#4c596a','#6eeaff'],['#ff9b43','#8d451d','#ffd875'],['#f4f2eb','#242832','#b5f5ff']];
   function pod(dx,dy,kind,scale=1){
     const [fur,shadow,glow]=colors[kind];
     ctx.save();ctx.translate(dx,dy);ctx.scale(scale,scale);
-    ctx.shadowColor=glow;ctx.shadowBlur=17;
-    // Nave compacta, vista desde delante: orejas, morro y alas de mascota.
-    ctx.fillStyle=shadow;ctx.strokeStyle=glow;ctx.lineWidth=2.4;
-    ctx.beginPath();ctx.moveTo(-18,2);ctx.lineTo(-32,13);ctx.lineTo(-25,-7);ctx.lineTo(-18,-14);ctx.lineTo(-11,-8);ctx.lineTo(11,-8);ctx.lineTo(18,-14);ctx.lineTo(25,-7);ctx.lineTo(32,13);ctx.lineTo(18,2);ctx.lineTo(12,17);ctx.lineTo(-12,17);ctx.closePath();ctx.fill();ctx.stroke();
-    // Ventanas de cabina con la cara del animal, no una figura humana.
-    ctx.shadowBlur=0;ctx.fillStyle=fur;ctx.strokeStyle='#ffffffaa';ctx.lineWidth=1.4;
-    ctx.beginPath();ctx.moveTo(-13,-7);ctx.lineTo(-17,-26);ctx.lineTo(-3,-16);ctx.closePath();ctx.fill();ctx.stroke();
-    ctx.beginPath();ctx.moveTo(13,-7);ctx.lineTo(17,-26);ctx.lineTo(3,-16);ctx.closePath();ctx.fill();ctx.stroke();
-    ctx.fillStyle=kind===0?'#080a0e':kind===1?'#ffad58':'#fffdf5';
-    ctx.beginPath();ctx.ellipse(0,-3,14,15,0,0,Math.PI*2);ctx.fill();
-    ctx.fillStyle=kind===2?'#242832':'#fff7e8';
-    ctx.beginPath();ctx.ellipse(-5,-5,3.1,4.2,0,0,Math.PI*2);ctx.ellipse(5,-5,3.1,4.2,0,0,Math.PI*2);ctx.fill();
-    ctx.fillStyle=kind===2?'#171b24':kind===0?'#7feaff':'#65331c';
-    ctx.beginPath();ctx.arc(-5,-5,1.5,0,Math.PI*2);ctx.arc(5,-5,1.5,0,Math.PI*2);ctx.fill();
+    // Silueta de nave-mascota: alas, orejas, cabina y morro apuntando al frente.
+    ctx.shadowColor=glow;ctx.shadowBlur=18;ctx.fillStyle=shadow;ctx.strokeStyle=glow;ctx.lineWidth=2.2;
+    ctx.beginPath();ctx.moveTo(0,-27);ctx.lineTo(12,-15);ctx.lineTo(31,-5);ctx.lineTo(25,8);ctx.lineTo(14,5);ctx.lineTo(10,17);ctx.lineTo(-10,17);ctx.lineTo(-14,5);ctx.lineTo(-25,8);ctx.lineTo(-31,-5);ctx.lineTo(-12,-15);ctx.closePath();ctx.fill();ctx.stroke();
+    // Orejas de gato o mechones suaves de la perrita.
+    ctx.shadowBlur=8;ctx.fillStyle=fur;ctx.strokeStyle='#ffffffbb';ctx.lineWidth=1.4;
+    if(kind===2){
+      ctx.beginPath();ctx.ellipse(-11,-16,8,11,-.35,0,Math.PI*2);ctx.ellipse(11,-16,8,11,.35,0,Math.PI*2);ctx.fill();ctx.stroke();
+    }else{
+      ctx.beginPath();ctx.moveTo(-16,-11);ctx.lineTo(-19,-29);ctx.lineTo(-5,-18);ctx.closePath();ctx.fill();ctx.stroke();
+      ctx.beginPath();ctx.moveTo(16,-11);ctx.lineTo(19,-29);ctx.lineTo(5,-18);ctx.closePath();ctx.fill();ctx.stroke();
+    }
+    // Ventana frontal con la cara del animal claramente visible.
+    ctx.shadowBlur=0;ctx.fillStyle=fur;ctx.beginPath();ctx.ellipse(0,-5,14,15,0,0,Math.PI*2);ctx.fill();
+    if(kind===1){ctx.fillStyle='#ffd18b';ctx.beginPath();ctx.ellipse(-8,-12,4,7,-.4,0,Math.PI*2);ctx.ellipse(8,-12,4,7,.4,0,Math.PI*2);ctx.fill()}
+    if(kind===2){ctx.fillStyle='#242832';ctx.beginPath();ctx.ellipse(-5,-5,3.2,4.2,0,0,Math.PI*2);ctx.ellipse(5,-5,3.2,4.2,0,0,Math.PI*2);ctx.fill()}
+    else{ctx.fillStyle='#fff7e8';ctx.beginPath();ctx.ellipse(-5,-5,3.2,4.2,0,0,Math.PI*2);ctx.ellipse(5,-5,3.2,4.2,0,0,Math.PI*2);ctx.fill();ctx.fillStyle=kind===0?'#7feaff':'#65331c';ctx.beginPath();ctx.arc(-5,-5,1.5,0,Math.PI*2);ctx.arc(5,-5,1.5,0,Math.PI*2);ctx.fill()}
     ctx.fillStyle=kind===1?'#7b301c':'#ff9fbd';ctx.beginPath();ctx.moveTo(-3,2);ctx.lineTo(3,2);ctx.lineTo(0,5);ctx.closePath();ctx.fill();
     ctx.strokeStyle='#fff';ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(-3,7);ctx.quadraticCurveTo(0,10,3,7);ctx.stroke();
-    // Motor frontal y pequeños cañones apuntando hacia arriba.
-    const flame=18+Math.sin(elapsed*28+kind)*8;
-    const fg=ctx.createLinearGradient(0,13,0,flame+18);fg.addColorStop(0,glow);fg.addColorStop(1,'#8c65ff00');
-    ctx.fillStyle=fg;ctx.beginPath();ctx.moveTo(-5,13);ctx.lineTo(0,flame+17);ctx.lineTo(5,13);ctx.closePath();ctx.fill();
-    ctx.fillStyle='#efffff';ctx.fillRect(-20,2,3,9);ctx.fillRect(17,2,3,9);
+    // Propulsores gemelos y luz de cabina.
+    const flame=18+Math.sin(elapsed*28+kind)*8;const fg=ctx.createLinearGradient(0,13,0,flame+18);fg.addColorStop(0,glow);fg.addColorStop(1,'#8c65ff00');ctx.fillStyle=fg;
+    ctx.beginPath();ctx.moveTo(-10,9);ctx.lineTo(-8,flame+15);ctx.lineTo(-3,10);ctx.closePath();ctx.fill();
+    ctx.beginPath();ctx.moveTo(3,10);ctx.lineTo(8,flame+15);ctx.lineTo(10,9);ctx.closePath();ctx.fill();
+    ctx.fillStyle='#efffff';ctx.fillRect(-20,-1,3,9);ctx.fillRect(17,-1,3,9);
     ctx.restore();
   }
   if(combined){
-    // Formación ancha de tres mascotas: alas negras y naranjas, perrita al centro.
-    ctx.save();ctx.globalAlpha=.22+.08*Math.sin(elapsed*5);ctx.fillStyle='#b6a5ff';ctx.shadowColor='#b6a5ff';ctx.shadowBlur=26;
-    ctx.beginPath();ctx.ellipse(0,0,68,38,0,0,Math.PI*2);ctx.fill();ctx.restore();
-    pod(-39,5,0,.82);pod(0,-5,2,1.03);pod(39,5,1,.82);
-    ctx.strokeStyle='#d5faff';ctx.globalAlpha=.75;ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(-19,12);ctx.lineTo(0,22);ctx.lineTo(19,12);ctx.stroke();ctx.globalAlpha=1;
+    // Formación de escuadrón: alas del gato negro y naranja, perrita al centro.
+    ctx.save();ctx.globalAlpha=.24+.09*Math.sin(elapsed*5);ctx.fillStyle='#b6a5ff';ctx.shadowColor='#b6a5ff';ctx.shadowBlur=30;
+    ctx.beginPath();ctx.moveTo(-72,2);ctx.quadraticCurveTo(-42,-34,0,-30);ctx.quadraticCurveTo(42,-34,72,2);ctx.lineTo(47,22);ctx.lineTo(0,29);ctx.lineTo(-47,22);ctx.closePath();ctx.fill();ctx.restore();
+    pod(-42,4,0,.88);pod(0,-7,2,1.08);pod(42,4,1,.88);
+    ctx.strokeStyle='#d5faff';ctx.globalAlpha=.85;ctx.lineWidth=2.5;ctx.beginPath();ctx.moveTo(-20,13);ctx.lineTo(0,24);ctx.lineTo(20,13);ctx.stroke();ctx.globalAlpha=1;
+    ctx.fillStyle='#fff1a8';ctx.shadowColor='#fff1a8';ctx.shadowBlur=16;ctx.beginPath();ctx.arc(0,-28,4+Math.sin(elapsed*8),0,Math.PI*2);ctx.fill();ctx.shadowBlur=0;
   }else pod(0,0,Math.min(form,2),1);
   ctx.restore();
 }
@@ -57,7 +59,10 @@ for(let pi=0;pi<3;pi++){
  const hues=[['#ffc7ec','#a36bd2','#3b286d'],['#9ff7ff','#4286a8','#172e65'],['#ffd9a0','#c96d55','#4a233c']][(cycle%3+3)%3];
  ctx.save();ctx.translate(xx,yy);ctx.globalAlpha=.48;ctx.strokeStyle=hues[0];ctx.lineWidth=3;ctx.beginPath();ctx.ellipse(0,0,rad*1.65,rad*.42,-.35,0,Math.PI*2);ctx.stroke();
  const pg=ctx.createRadialGradient(-rad*.35,-rad*.4,2,0,0,rad);pg.addColorStop(0,hues[0]);pg.addColorStop(.48,hues[1]);pg.addColorStop(1,hues[2]);ctx.fillStyle=pg;ctx.beginPath();ctx.arc(0,0,rad,0,Math.PI*2);ctx.fill();
- ctx.globalAlpha=.17;ctx.fillStyle='#fff';ctx.beginPath();ctx.ellipse(-rad*.12,rad*.18,rad*.65,rad*.12,-.4,0,Math.PI*2);ctx.fill();ctx.restore();
+ // Continentes, cráteres y brillo de atmósfera para que cada mundo se sienta distinto.
+ ctx.globalAlpha=.17;ctx.fillStyle='#fff';ctx.beginPath();ctx.ellipse(-rad*.12,rad*.18,rad*.65,rad*.12,-.4,0,Math.PI*2);ctx.fill();
+ ctx.globalAlpha=.22;ctx.fillStyle=hues[2];for(let ci=0;ci<3;ci++){let cx=Math.sin(cycle*2+ci*2.1)*rad*.48,cy=Math.cos(cycle+ci)*rad*.42,cr=rad*(.1+(ci%2)*.07);ctx.beginPath();ctx.arc(cx,cy,cr,0,Math.PI*2);ctx.fill()}
+ ctx.globalAlpha=.55;ctx.strokeStyle=hues[0];ctx.lineWidth=1.5;ctx.beginPath();ctx.arc(0,0,rad+3,Math.PI*1.08,Math.PI*1.88);ctx.stroke();ctx.restore();
 }
 items.forEach(o=>{ctx.save();ctx.translate(o.x,o.y);ctx.rotate(o.rot||0);if(o.t==='homing'||o.t==='spread'){ctx.shadowColor=o.t==='homing'?'#72a7ff':'#b39bff';ctx.shadowBlur=18;ctx.fillStyle=o.t==='homing'?'#72a7ff':'#b39bff';ctx.font='bold 24px sans-serif';ctx.textAlign='center';ctx.fillText(o.t==='homing'?'⌁':'✺',0,8)}else if(o.t==='star'){ctx.shadowColor='#ffd875';ctx.shadowBlur=18;ctx.fillStyle='#ffd875';ctx.beginPath();for(let i=0;i<10;i++){let r=i%2?7:17,a=-Math.PI/2+i*Math.PI/5;ctx.lineTo(Math.cos(a)*r,Math.sin(a)*r)}ctx.closePath();ctx.fill()}else if(o.t==='heart'){ctx.fillStyle='#ff8fbd';ctx.font='30px sans-serif';ctx.textAlign='center';ctx.fillText('♥',0,10)}else if(o.t==='rocket'){ctx.fillStyle='#53dfff';ctx.shadowColor='#53dfff';ctx.shadowBlur=15;ctx.beginPath();ctx.moveTo(0,-18);ctx.lineTo(10,9);ctx.lineTo(0,5);ctx.lineTo(-10,9);ctx.closePath();ctx.fill()}else if(o.t==='power'){ctx.fillStyle='#6ea7ff';ctx.shadowColor='#6ea7ff';ctx.shadowBlur=18;ctx.font='bold 28px sans-serif';ctx.textAlign='center';ctx.fillText('➤',0,10)}else{ctx.fillStyle='#9aa8b4';ctx.strokeStyle='#d0dbe4';ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(-16,-9);ctx.lineTo(-8,-18);ctx.lineTo(9,-15);ctx.lineTo(18,-3);ctx.lineTo(11,13);ctx.lineTo(-6,17);ctx.lineTo(-18,5);ctx.closePath();ctx.fill();ctx.stroke();ctx.fillStyle='#4b5967';ctx.beginPath();ctx.arc(-3,-3,5,0,7);ctx.fill()}ctx.restore()});
 enemies.forEach(e=>{ctx.save();ctx.translate(e.x,e.y);ctx.rotate(Math.sin(elapsed*5+e.phase)*.12);ctx.shadowColor='#ff6d75';ctx.shadowBlur=15;ctx.fillStyle='#3b202c';ctx.strokeStyle='#ff8a91';ctx.lineWidth=2;ctx.beginPath();ctx.moveTo(0,14);ctx.lineTo(-17,-4);ctx.lineTo(-9,-13);ctx.lineTo(0,-7);ctx.lineTo(9,-13);ctx.lineTo(17,-4);ctx.closePath();ctx.fill();ctx.stroke();ctx.fillStyle='#ffd875';ctx.fillRect(-3,-5,6,4);ctx.restore()});
