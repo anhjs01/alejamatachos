@@ -1,7 +1,9 @@
-const CACHE_NAME = 'aleja-shell-v4';
+const CACHE_NAME = 'aleja-shell-v5';
 const SHELL = [
   './',
   './index.html',
+  './gatito-estelar.html',
+  './rompecabezas.html',
   './manifest.webmanifest',
   './icon.svg',
   './catalogo-canciones.js',
