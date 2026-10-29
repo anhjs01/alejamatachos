@@ -324,8 +324,8 @@ function commit(){render();snapshot();renderLayers();syncInspector();updateEmpty
 function restoreDoc(serial){try{
  const d=typeof serial==='string'?JSON.parse(serial):serial;
  if(!d||typeof d!=='object'||Array.isArray(d)||!Array.isArray(d.layers)||d.layers.length>1000)throw new Error('invalid project');
- const allowedTypes=new Set(['stroke','image','shape','line','text','shapeMask']);
- const allowedShapes=new Set(['rect','roundrect','ellipse','triangle','star','arrow','diamond','pentagon','hexagon','cross','heart','trapezoid','parallelogram','octagon','speech','moon','line','instagram','tiktok','youtube']);
+ const allowedTypes=new Set(['stroke','image','shape','line','text','shapeMask','eraseRect']);
+ const allowedShapes=new Set(['rect','roundrect','ellipse','triangle','star','arrow','diamond','pentagon','hexagon','cross','heart','trapezoid','parallelogram','octagon','speech','moon','line','instagram','tiktok','youtube','burst','fourstar','bolt','chevron','ring','cloud','flower','crown','tag','flag','pin','smile','gear','bracket','wave','ribbon','frame','rays']);
  const layers=d.layers.map(l=>{
   if(!l||typeof l!=='object'||Array.isArray(l)||!allowedTypes.has(l.type))throw new Error('invalid layer');
   if(l.type==='stroke'){
