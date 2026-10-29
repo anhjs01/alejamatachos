@@ -276,6 +276,108 @@
   .compare-menu-fields { grid-template-columns:repeat(2,minmax(0,1fr)); }
   .compare-menu-fields label:last-child { grid-column:1/-1; }
 }
+
+/* Perfil tablet / Surface: activa hasta 1100 px para cubrir iPad Pro, iPad Mini y Surface Pro. */
+@media (min-width:701px) and (max-width:1100px) {
+  :root { --left:68px; --right:258px; }
+  .toolrail { gap:4px; padding:9px 5px; overflow-x:hidden; overflow-y:auto; overscroll-behavior-y:contain; }
+  .toolrail .tool-btn { flex:0 0 auto; width:58px; min-height:46px; padding:4px 1px; gap:3px; font-size:9px; }
+  .toolrail .tool-btn .glyph { width:26px; height:25px; font-size:18px; }
+  .toolrail .rail-separator { flex:0 0 1px; margin:2px 0; }
+  .toolrail .rail-bottom { flex:0 0 auto; margin-top:8px; }
+  .stage-toolbar { min-width:0; overflow-x:auto; overflow-y:hidden; flex-wrap:nowrap; }
+  .stage-toolbar .tool-context { flex:0 0 auto; max-width:150px; }
+  .stage-actions { flex:0 0 auto; flex-wrap:nowrap; width:max-content; max-width:none; }
+  .stage-actions>* { flex:0 0 auto; }
+  .stage-actions .toolbar-select { max-width:125px; }
+  .board-viewport { min-width:0; min-height:0; }
+  /* El menú de comparación queda al lado del zoom y dentro del área visible. */
+  .compare-menu {
+    position:fixed;
+    left:auto;
+    right:calc(62px + env(safe-area-inset-right));
+    top:50%;
+    bottom:auto;
+    transform:translateY(-50%);
+    width:min(420px,calc(100vw - 96px));
+    min-width:0;
+    max-height:min(70dvh,680px);
+    box-sizing:border-box;
+    z-index:110;
+    overflow-x:hidden;
+    overflow-y:auto;
+    overscroll-behavior:contain;
+    touch-action:pan-y;
+  }
+  .compare-menu-fields { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .compare-menu-fields label:last-child { grid-column:1/-1; }
+}
+/* En tablet táctil, las dos barras laterales flotan sobre el lienzo y se ocultan por gesto. */
+@media (min-width:701px) and (max-width:1100px) and (pointer:coarse) {
+  .workspace { grid-template-columns:minmax(0,1fr)!important; grid-template-rows:minmax(0,1fr)!important; }
+  .stage-wrap { grid-column:1; grid-row:1; min-width:0; min-height:0; }
+  .toolrail {
+    position:absolute;
+    z-index:40;
+    left:8px; top:8px; bottom:8px;
+    width:60px; height:auto; max-height:none; min-height:0;
+    overflow-x:hidden; overflow-y:auto;
+    border:1px solid #ffffff16; border-radius:18px;
+    padding:7px 4px; background:#11161bf2;
+    box-shadow:0 12px 35px #0005;
+    transition:transform .22s ease,opacity .22s ease;
+  }
+  .app.gesture-left-hidden .toolrail { transform:translateX(calc(-100% - 20px)); opacity:0; pointer-events:none; }
+  .workspace>.right-panel,.right-panel {
+    display:none;
+    position:fixed;
+    z-index:90;
+    left:auto; right:0;
+    top:calc(var(--top,64px) + 8px); bottom:8px;
+    width:min(300px,32vw);
+    height:auto; max-height:none; min-height:0;
+    margin:0;
+    border:1px solid #ffffff26;
+    border-right:0;
+    border-radius:20px 0 0 20px;
+    padding:0 0 8px;
+    overflow-x:hidden; overflow-y:auto;
+    background:#11151afc;
+    box-shadow:-18px 0 55px #0009;
+    transform:none;
+    overscroll-behavior:contain;
+    touch-action:pan-y;
+  }
+  .right-panel.mobile-open { display:block; }
+  .app.gesture-right-hidden .right-panel { display:none!important; }
+  .app.gesture-right-hidden .workspace { grid-template-columns:minmax(0,1fr)!important; }
+  .right-panel .panel-tabs { top:0; grid-template-columns:repeat(3,minmax(0,1fr)); padding:8px 7px; gap:3px; }
+  .right-panel .panel-tab { font-size:10px; padding:9px 2px; }
+  .right-panel .panel-section { padding:11px; }
+  .edge-reveal-left,.edge-reveal-right {
+    position:fixed; z-index:95; top:50%; bottom:auto;
+    width:25px; height:58px; transform:translateY(-50%);
+  }
+  .edge-reveal-left { left:0; border-radius:0 12px 12px 0; }
+  .edge-reveal-right { right:0; border-radius:12px 0 0 12px; }
+  .app.gesture-left-hidden .edge-reveal-left:not([hidden]),
+  .app.gesture-right-hidden .edge-reveal-right:not([hidden]) { display:flex; }
+  .zoom-dock {
+    position:fixed; left:auto; right:8px; top:50%; bottom:auto;
+    transform:translateY(-50%);
+    flex-direction:column; align-items:center;
+    max-width:48px; max-height:72dvh; overflow-x:hidden; overflow-y:auto;
+    gap:3px; padding:5px;
+  }
+  .zoom-dock .btn { flex:0 0 31px; width:31px; min-width:31px; height:31px; }
+  .zoom-value { min-width:0; width:38px; font-size:9px; }
+  .zoom-dock .area-deform-dock { flex-direction:column; gap:3px; border-left:0; border-top:1px solid #ffffff1a; padding:5px 0 0; }
+  .zoom-dock .area-deform-dock .btn { width:40px; min-width:40px; min-height:29px; padding:3px 2px; white-space:normal; font-size:8px; }
+  .board-viewport { padding-left:76px!important; padding-right:58px!important; padding-bottom:12px!important; }
+  .stage-toolbar { padding-left:10px; }
+  .app.gesture-top-hidden>.topbar,.app.gesture-top-hidden .stage-toolbar { display:none!important; }
+  .app.canvas-focus-mode .edge-reveal { display:none!important; }
+}
 </style>
 </head>
 <body>
@@ -822,7 +924,7 @@ $('rotate-left').addEventListener('click',()=>{const l=currentLayer();if(l&&!l.l
 $('move-back').addEventListener('click',()=>reorderSelected(-1));$('move-front').addEventListener('click',()=>reorderSelected(1));$('layer-up').addEventListener('click',()=>reorderSelected(1));$('layer-down').addEventListener('click',()=>reorderSelected(-1));$('duplicate-object').addEventListener('click',duplicateSelected);$('delete-object').addEventListener('click',deleteSelected);$('layer-lock').addEventListener('click',()=>{const l=currentLayer();if(l){l.locked=!l.locked;commit()}});$('layer-visible').addEventListener('click',()=>{const l=currentLayer();if(l){l.visible=!l.visible;commit()}});
 $('canvas-preset').addEventListener('change',e=>{const p=PRESETS[e.target.value];if(p){$('canvas-width').value=p[0];$('canvas-height').value=p[1]}});
 $('apply-size').addEventListener('click',()=>setCanvasSize($('canvas-width').value,$('canvas-height').value));$('swap-orientation').addEventListener('click',()=>setCanvasSize(doc.height,doc.width));
-document.querySelectorAll('[data-bg]').forEach(b=>b.addEventListener('click',()=>{doc.bg=b.dataset.bg;syncDocumentControls();render();snapshot()}));$('custom-bg').addEventListener('input',e=>{doc.bg=e.target.value;syncDocumentControls();render();changed()});$('show-safe').addEventListener('change',e=>{doc.safe=e.target.checked;render();snapshot()});$('grid-size').addEventListener('input',e=>{$('grid-size-out').textContent=e.target.value+' px';doc.gridSize=Number(e.target.value);render();changed()});$('toggle-grid').addEventListener('click',()=>{doc.grid=!doc.grid;$('toggle-grid').setAttribute('aria-pressed',String(doc.grid));render();snapshot()});$('fit-board').addEventListener('click',fitView);$('zoom-in').addEventListener('click',()=>{zoom=clamp(zoom*1.2,.12,4);applyView()});$('zoom-out').addEventListener('click',()=>{zoom=clamp(zoom/1.2,.12,4);applyView()});$('zoom-reset').addEventListener('click',fitView);$('focus-board').addEventListener('click',()=>{viewport.scrollLeft=0;viewport.scrollTop=0;const vr=viewport.getBoundingClientRect(),br=board.getBoundingClientRect();panX+=vr.left+vr.width/2-(br.left+br.width/2);panY+=vr.top+vr.height/2-(br.top+br.height/2);applyView();tell('Lienzo traído al centro de la vista. Zoom conservado.')});const appRoot=$('app');let focusMode=false,dockDimTimer=0;function wakeDock(){const d=document.querySelector('.zoom-dock');if(!d)return;d.classList.remove('dock-dim');clearTimeout(dockDimTimer);if(focusMode)dockDimTimer=setTimeout(()=>d.classList.add('dock-dim'),5000)}async function setFocusMode(on){focusMode=!!on;appRoot.classList.toggle('canvas-focus-mode',focusMode);$('canvas-focus-toggle').setAttribute('aria-pressed',String(focusMode));$('canvas-focus-toggle').textContent=focusMode?'↙':'⛶';$('canvas-focus-toggle').title=focusMode?'Volver a mostrar todas las opciones':'Pantalla limpia: ocultar paneles';if(focusMode){$('comparison-tools').hidden=true;$('toggle-comparison-tools').setAttribute('aria-expanded','false');panel.classList.remove('mobile-open');wakeDock();try{if(!document.fullscreenElement&&appRoot.requestFullscreen)await appRoot.requestFullscreen()}catch(e){}}else{clearTimeout(dockDimTimer);document.querySelector('.zoom-dock').classList.remove('dock-dim');try{if(document.fullscreenElement&&document.exitFullscreen)await document.exitFullscreen()}catch(e){}}requestAnimationFrame(()=>{fitView();render()})}$('canvas-focus-toggle').addEventListener('click',()=>setFocusMode(!focusMode));document.addEventListener('fullscreenchange',()=>{if(!document.fullscreenElement&&focusMode){focusMode=false;appRoot.classList.remove('canvas-focus-mode');$('canvas-focus-toggle').setAttribute('aria-pressed','false');$('canvas-focus-toggle').textContent='⛶';clearTimeout(dockDimTimer);document.querySelector('.zoom-dock').classList.remove('dock-dim');requestAnimationFrame(()=>{fitView();render()})}});const dock=document.querySelector('.zoom-dock');['pointermove','pointerdown','focusin','mouseenter'].forEach(ev=>dock.addEventListener(ev,wakeDock,{passive:true}));dock.addEventListener('mouseleave',()=>{if(focusMode)wakeDock()});const revealLeft=$('reveal-left-panel'),revealRight=$('reveal-right-panel'),revealTop=$('reveal-top-panels');function isTouchPanelMode(){return window.matchMedia('(max-width:1024px) and (pointer:coarse)').matches}appRoot.classList.remove('gesture-top-hidden');function syncPanelGestures(){const enabled=isTouchPanelMode();revealLeft.hidden=!enabled||!appRoot.classList.contains('gesture-left-hidden')||focusMode;revealRight.hidden=!enabled||!appRoot.classList.contains('gesture-right-hidden')||focusMode;revealTop.hidden=!enabled||!appRoot.classList.contains('gesture-top-hidden')||focusMode}function setGesturePanel(which,hidden){appRoot.classList.toggle('gesture-'+which+'-hidden',!!hidden);if(which==='right'&&!hidden&&isTouchPanelMode())panel.classList.add('mobile-open');if(which==='right'&&hidden)panel.classList.remove('mobile-open');syncPanelGestures()}revealLeft.addEventListener('click',()=>setGesturePanel('left',false));revealRight.addEventListener('click',()=>setGesturePanel('right',false));revealTop.addEventListener('click',()=>setGesturePanel('top',false));let gestureStart=null;window.addEventListener('pointerdown',e=>{if(!isTouchPanelMode()||e.pointerType!=='touch'||focusMode){gestureStart=null;return}const target=e.target;if(target.closest('#right-panel,.modal-backdrop')){gestureStart=null;return}gestureStart={x:e.clientX,y:e.clientY,target,interactive:!!target.closest('button,a,input,select,textarea,[role="button"]')}},{passive:true});window.addEventListener('pointerup',e=>{if(!gestureStart||!isTouchPanelMode()||e.pointerType!=='touch'){gestureStart=null;return}const st=gestureStart;gestureStart=null;const dx=e.clientX-st.x,dy=e.clientY-st.y,ax=Math.abs(dx),ay=Math.abs(dy),w=window.innerWidth;if(Math.max(ax,ay)<65)return;/* La barra superior permanece fija: ocultarla cambia el alto disponible y deforma el lienzo. */if(st.interactive&&!(st.x<85&&ax>ay&&dx<0)&&!(st.x<28&&ax>ay&&dx>0)&&!(st.x>w-85&&ax>ay&&dx>0)&&!(st.x>w-28&&ax>ay&&dx<0))return;if(st.x<85&&ax>ay&&dx<0){setGesturePanel('left',true);return}if(st.x<28&&ax>ay&&dx>0&&appRoot.classList.contains('gesture-left-hidden')){setGesturePanel('left',false);return}if(st.x>w-85&&ax>ay&&dx>0){setGesturePanel('right',true);return}if(st.x>w-28&&ax>ay&&dx<0&&appRoot.classList.contains('gesture-right-hidden')){setGesturePanel('right',false);return}/* Los deslizamientos sobre el lienzo no ocultan la barra superior. */},{passive:true});window.addEventListener('resize',syncPanelGestures);syncPanelGestures();
+document.querySelectorAll('[data-bg]').forEach(b=>b.addEventListener('click',()=>{doc.bg=b.dataset.bg;syncDocumentControls();render();snapshot()}));$('custom-bg').addEventListener('input',e=>{doc.bg=e.target.value;syncDocumentControls();render();changed()});$('show-safe').addEventListener('change',e=>{doc.safe=e.target.checked;render();snapshot()});$('grid-size').addEventListener('input',e=>{$('grid-size-out').textContent=e.target.value+' px';doc.gridSize=Number(e.target.value);render();changed()});$('toggle-grid').addEventListener('click',()=>{doc.grid=!doc.grid;$('toggle-grid').setAttribute('aria-pressed',String(doc.grid));render();snapshot()});$('fit-board').addEventListener('click',fitView);$('zoom-in').addEventListener('click',()=>{zoom=clamp(zoom*1.2,.12,4);applyView()});$('zoom-out').addEventListener('click',()=>{zoom=clamp(zoom/1.2,.12,4);applyView()});$('zoom-reset').addEventListener('click',fitView);$('focus-board').addEventListener('click',()=>{viewport.scrollLeft=0;viewport.scrollTop=0;const vr=viewport.getBoundingClientRect(),br=board.getBoundingClientRect();panX+=vr.left+vr.width/2-(br.left+br.width/2);panY+=vr.top+vr.height/2-(br.top+br.height/2);applyView();tell('Lienzo traído al centro de la vista. Zoom conservado.')});const appRoot=$('app');let focusMode=false,dockDimTimer=0;function wakeDock(){const d=document.querySelector('.zoom-dock');if(!d)return;d.classList.remove('dock-dim');clearTimeout(dockDimTimer);if(focusMode)dockDimTimer=setTimeout(()=>d.classList.add('dock-dim'),5000)}async function setFocusMode(on){focusMode=!!on;appRoot.classList.toggle('canvas-focus-mode',focusMode);$('canvas-focus-toggle').setAttribute('aria-pressed',String(focusMode));$('canvas-focus-toggle').textContent=focusMode?'↙':'⛶';$('canvas-focus-toggle').title=focusMode?'Volver a mostrar todas las opciones':'Pantalla limpia: ocultar paneles';if(focusMode){$('comparison-tools').hidden=true;$('toggle-comparison-tools').setAttribute('aria-expanded','false');panel.classList.remove('mobile-open');wakeDock();try{if(!document.fullscreenElement&&appRoot.requestFullscreen)await appRoot.requestFullscreen()}catch(e){}}else{clearTimeout(dockDimTimer);document.querySelector('.zoom-dock').classList.remove('dock-dim');try{if(document.fullscreenElement&&document.exitFullscreen)await document.exitFullscreen()}catch(e){}}requestAnimationFrame(()=>{fitView();render()})}$('canvas-focus-toggle').addEventListener('click',()=>setFocusMode(!focusMode));document.addEventListener('fullscreenchange',()=>{if(!document.fullscreenElement&&focusMode){focusMode=false;appRoot.classList.remove('canvas-focus-mode');$('canvas-focus-toggle').setAttribute('aria-pressed','false');$('canvas-focus-toggle').textContent='⛶';clearTimeout(dockDimTimer);document.querySelector('.zoom-dock').classList.remove('dock-dim');requestAnimationFrame(()=>{fitView();render()})}});const dock=document.querySelector('.zoom-dock');['pointermove','pointerdown','focusin','mouseenter'].forEach(ev=>dock.addEventListener(ev,wakeDock,{passive:true}));dock.addEventListener('mouseleave',()=>{if(focusMode)wakeDock()});const revealLeft=$('reveal-left-panel'),revealRight=$('reveal-right-panel'),revealTop=$('reveal-top-panels');function isTouchPanelMode(){return window.matchMedia('(max-width:1100px) and (pointer:coarse)').matches}appRoot.classList.remove('gesture-top-hidden');function syncPanelGestures(){const enabled=isTouchPanelMode();revealLeft.hidden=!enabled||!appRoot.classList.contains('gesture-left-hidden')||focusMode;revealRight.hidden=!enabled||!appRoot.classList.contains('gesture-right-hidden')||focusMode;revealTop.hidden=!enabled||!appRoot.classList.contains('gesture-top-hidden')||focusMode}function setGesturePanel(which,hidden){appRoot.classList.toggle('gesture-'+which+'-hidden',!!hidden);if(which==='right'&&!hidden&&isTouchPanelMode())panel.classList.add('mobile-open');if(which==='right'&&hidden)panel.classList.remove('mobile-open');syncPanelGestures()}revealLeft.addEventListener('click',()=>setGesturePanel('left',false));revealRight.addEventListener('click',()=>setGesturePanel('right',false));revealTop.addEventListener('click',()=>setGesturePanel('top',false));let gestureStart=null;window.addEventListener('pointerdown',e=>{if(!isTouchPanelMode()||e.pointerType!=='touch'||focusMode){gestureStart=null;return}const target=e.target;if(target.closest('#right-panel,.modal-backdrop')){gestureStart=null;return}gestureStart={x:e.clientX,y:e.clientY,target,interactive:!!target.closest('button,a,input,select,textarea,[role="button"]')}},{passive:true});window.addEventListener('pointerup',e=>{if(!gestureStart||!isTouchPanelMode()||e.pointerType!=='touch'){gestureStart=null;return}const st=gestureStart;gestureStart=null;const dx=e.clientX-st.x,dy=e.clientY-st.y,ax=Math.abs(dx),ay=Math.abs(dy),w=window.innerWidth;if(Math.max(ax,ay)<65)return;/* La barra superior permanece fija: ocultarla cambia el alto disponible y deforma el lienzo. */if(st.interactive&&!(st.x<85&&ax>ay&&dx<0)&&!(st.x<28&&ax>ay&&dx>0)&&!(st.x>w-85&&ax>ay&&dx>0)&&!(st.x>w-28&&ax>ay&&dx<0))return;if(st.x<85&&ax>ay&&dx<0){setGesturePanel('left',true);return}if(st.x<28&&ax>ay&&dx>0&&appRoot.classList.contains('gesture-left-hidden')){setGesturePanel('left',false);return}if(st.x>w-85&&ax>ay&&dx>0){setGesturePanel('right',true);return}if(st.x>w-28&&ax>ay&&dx<0&&appRoot.classList.contains('gesture-right-hidden')){setGesturePanel('right',false);return}/* Los deslizamientos sobre el lienzo no ocultan la barra superior. */},{passive:true});window.addEventListener('resize',syncPanelGestures);syncPanelGestures();
 $('save-project').addEventListener('click',saveCopy);$('import-project').addEventListener('click',()=> $('project-input').click());$('project-input').addEventListener('change',e=>{const file=e.target.files&&e.target.files[0];e.target.value='';if(!file)return;if(file.size>250*1024*1024){tell('El archivo supera el límite de 250 MB.');return}if(!confirm('¿Importar este proyecto? El diseño actual se guardará en el navegador antes de abrir el archivo.'))return;const reader=new FileReader();reader.onload=async()=>{let parsed;try{parsed=JSON.parse(String(reader.result||''))}catch(err){tell('El archivo no contiene un JSON válido.');return}if(!parsed||!Array.isArray(parsed.layers)){tell('El JSON no parece ser un proyecto válido de Aleja Estudio.');return}if(restoreDoc(parsed)){storagePaused=false;projectExported=false;$('clear-storage').hidden=true;history=[serialize()];redoStack=[];updateHistoryButtons();switchPanel('properties');if(await saveLocal(true)){await updateStorageStatus();tell('Proyecto importado y guardado correctamente. El indicador de almacenamiento se ha actualizado.')}else{await updateStorageStatus();tell('Proyecto importado en memoria, pero no se pudo guardar. Exporta un JSON de respaldo y revisa el almacenamiento del navegador.')}}};reader.onerror=()=>tell('No se pudo leer el archivo seleccionado.');reader.readAsText(file)});$('clear-document').addEventListener('click',()=>{if(confirm('¿Eliminar todas las capas de este diseño? Esta acción se puede deshacer.')){doc.layers=[];selectedId=null;selectedIds=[];selectedAreaFilter=false;commit();tell('Lienzo limpio')}});$('new-project').addEventListener('click',()=>{if(confirm('¿Crear un diseño nuevo? El proyecto actual permanece guardado en este navegador.')){saveLocal();doc={version:2,name:'Diseño sin título',width:1200,height:800,bg:'#ffffff',safe:false,grid:false,gridSize:50,layers:[]};selectedId=null;history=[];redoStack=[];syncDocumentControls();fitView();commit();snapshot();switchPanel('properties')}});
 $('export-open').addEventListener('click',()=>openModal('export-modal'));$('export-quality').addEventListener('input',e=>$('quality-out').textContent=e.target.value+'%');$('export-format').addEventListener('change',()=>{$('quality-wrap').hidden=$('export-format').value!=='jpeg';$('export-transparent').disabled=$('export-format').value!=='png'});$('do-export').addEventListener('click',exportDesign);
 $('filters-open').addEventListener('click',()=>openFiltersModal('filters'));$('color-open').addEventListener('click',()=>openFiltersModal('color'));$('effects-open').addEventListener('click',()=>openFiltersModal('effects'));$('adjust-scope').addEventListener('change',()=>{writeAdjustmentControls($('adjust-scope').value==='area'?(doc.areaFilter?.adjustments||ADV_DEFAULTS):(doc.adjustments||ADV_DEFAULTS));previewAdvancedAdjustments()});document.getElementById('filters-modal').addEventListener('input',e=>{const el=e.target;if(el.matches('[data-adjust],[data-hsl]')){const key=el.dataset.adjust||el.dataset.hsl,out=$(el.id+'-out');if(out)out.textContent=Number(el.value).toFixed(key==='exposure'?1:0)+(key==='exposure'?' EV':key==='blur'?' px':'%');previewAdvancedAdjustments()}});document.getElementById('filters-modal').addEventListener('change',e=>{if(e.target.matches('[data-adjust],[data-hsl]')){snapshot()}});
