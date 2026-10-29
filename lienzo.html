@@ -184,14 +184,15 @@
 .panel-drag-handle{display:none}
 @media(max-width:1024px) and (pointer:coarse){
  .stage-wrap{overflow:visible}
- .stage-toolbar{position:relative;overflow:visible!important;z-index:24}
- .stage-actions{position:absolute;z-index:28;top:calc(100% + 6px);right:8px;display:flex;flex-direction:column;align-items:stretch;justify-content:flex-start;gap:5px;width:48px;max-height:38dvh;overflow-x:hidden;overflow-y:auto;padding:6px;border:1px solid #ffffff22;border-radius:16px;background:#10151ced;box-shadow:0 10px 28px #0007;backdrop-filter:blur(16px);touch-action:pan-y;overscroll-behavior:contain}
- .stage-actions>*{flex:0 0 auto;min-width:0;max-width:100%;width:100%}
- .stage-actions .toolbar-select{width:100%;min-width:0;max-width:100%;height:34px;padding:4px 2px;font-size:9px;text-overflow:ellipsis}
- .stage-actions .btn{width:100%;min-width:0;min-height:34px;padding:4px 2px;white-space:normal;font-size:10px;line-height:1.15;justify-content:center}
- .stage-actions .eraser-controls{width:100%;max-width:100%;display:grid;grid-template-columns:minmax(0,1fr)}
- .stage-actions .eraser-control{min-width:0;display:grid;gap:3px;font-size:9px}
- .stage-actions .eraser-control input{width:100%;min-width:0}
+ .stage-toolbar{position:relative;overflow-x:auto!important;overflow-y:hidden!important;z-index:24;display:flex;flex-wrap:nowrap;align-items:center;gap:8px;touch-action:pan-x;scrollbar-width:none}
+ .stage-toolbar::-webkit-scrollbar{display:none}
+ .stage-actions{position:static;inset:auto;z-index:auto;display:flex;flex:0 0 auto;flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:flex-start;gap:5px;width:max-content;max-width:none;max-height:none;overflow:visible;padding:0;border:0;border-radius:0;background:transparent;box-shadow:none;backdrop-filter:none;touch-action:pan-x}
+ .stage-actions>*{flex:0 0 auto;min-width:0;max-width:none;width:auto}
+ .stage-actions .toolbar-select{width:auto;min-width:96px;max-width:145px;height:34px;padding:4px 7px;font-size:10px;text-overflow:ellipsis}
+ .stage-actions .btn{width:auto;min-width:0;min-height:34px;padding:6px 8px;white-space:nowrap;font-size:10px;line-height:1.2;justify-content:center}
+ .stage-actions .eraser-controls{width:auto;max-width:none;display:flex;flex:0 0 auto;gap:5px}
+ .stage-actions .eraser-control{min-width:72px;display:flex;gap:3px;font-size:9px}
+ .stage-actions .eraser-control input{width:76px;min-width:0}
  .workspace>.right-panel,.right-panel{display:none;position:fixed;z-index:90;left:50%;right:auto;top:auto;bottom:0;transform:translateX(-50%);width:min(620px,100vw);height:var(--mobile-panel-height,min(48dvh,440px));max-height:92dvh;min-height:112px;margin:0;border:1px solid #ffffff26;border-bottom:0;border-radius:22px 22px 0 0;padding:0 0 calc(8px + env(safe-area-inset-bottom));overflow-x:hidden;overflow-y:auto;background:#11151afc;box-shadow:0 -22px 70px #000b;overscroll-behavior:contain;touch-action:pan-y}
  .right-panel.mobile-open{display:block}
  .panel-drag-handle{display:flex;position:sticky;top:0;z-index:8;height:27px;align-items:center;justify-content:center;background:#11151afc;border-radius:22px 22px 0 0;touch-action:none;cursor:grab}
@@ -217,11 +218,12 @@
 }
 @media(max-width:700px) and (pointer:coarse){.compare-menu{right:calc(60px + env(safe-area-inset-right));width:min(58vw,340px);min-width:min(210px,calc(100vw - 84px));max-height:66dvh;padding:10px;gap:9px}.compare-menu-title{align-items:flex-start}.compare-menu-title strong{max-width:calc(100% - 70px);line-height:1.35}.compare-menu-actions{gap:5px}.compare-menu-actions .btn{min-width:0;white-space:normal;line-height:1.2}.compare-menu-fields{grid-template-columns:minmax(0,1fr)}.compare-menu-fields label:last-child{grid-column:auto}.comparison-range,.comparison-split-control{grid-template-columns:minmax(0,1fr);gap:4px}.comparison-range input,.comparison-split-control input{height:28px;min-height:28px;touch-action:pan-x}}
 @media(max-width:700px) and (pointer:coarse){
- .stage-toolbar{padding:5px 8px 5px 54px;min-height:40px}
- .stage-toolbar .tool-context{max-width:100%;font-size:10px}
- .stage-actions{top:calc(100% + 5px);right:5px;width:43px;max-height:34dvh;padding:4px}
- .stage-actions .toolbar-select{font-size:8px;height:31px}
- .stage-actions .btn{font-size:9px;min-height:31px}
+ .stage-toolbar{padding:5px 8px 5px 54px;min-height:40px;gap:5px}
+ .stage-toolbar .tool-context{max-width:100%;font-size:10px;flex:0 0 auto}
+ .stage-actions{top:auto;right:auto;width:max-content;max-height:none;padding:0;gap:4px}
+ .stage-actions .toolbar-select{font-size:9px;height:31px;min-width:82px;max-width:115px;padding:4px 5px}
+ .stage-actions .btn{font-size:9px;min-height:31px;padding:5px 6px}
+ .stage-actions .eraser-control input{width:65px}
  .board-viewport{padding-left:51px!important;padding-right:54px!important;padding-bottom:12px!important}
  .zoom-dock{right:5px;max-height:64dvh;gap:2px;padding:4px}
  .zoom-dock .btn,.zoom-dock .focus-board{width:30px;min-width:30px;height:30px;flex-basis:30px}
@@ -229,24 +231,6 @@
  .right-panel .panel-section{padding:10px 11px}
 }
 @media(orientation:landscape) and (max-height:520px) and (pointer:coarse){.workspace>.right-panel,.right-panel{height:88dvh;max-height:92dvh}.stage-actions{max-height:55dvh}.zoom-dock{max-height:82dvh}}
-/* Corrección: las acciones superiores permanecen arriba y se ocultan con el gesto vertical */
-@media(max-width:1024px) and (pointer:coarse){
- .stage-toolbar{display:flex;flex-wrap:nowrap;overflow-x:auto!important;overflow-y:hidden!important;touch-action:pan-x;scrollbar-width:none}
- .stage-toolbar::-webkit-scrollbar{display:none}
- .stage-actions{position:static;inset:auto;z-index:auto;display:flex;flex:0 0 auto;flex-direction:row;align-items:center;justify-content:flex-start;gap:5px;width:max-content;max-width:none;max-height:none;overflow:visible;padding:0;border:0;border-radius:0;background:transparent;box-shadow:none;backdrop-filter:none;touch-action:pan-x}
- .stage-actions>*{flex:0 0 auto;min-width:0;max-width:none;width:auto}
- .stage-actions .toolbar-select{width:auto;min-width:96px;max-width:145px;height:auto;padding:7px 8px;font-size:11px}
- .stage-actions .btn{width:auto;min-width:0;min-height:34px;padding:7px 9px;white-space:nowrap;font-size:11px;line-height:1.2}
- .stage-actions .eraser-controls{width:auto;max-width:none;display:flex;grid-template-columns:none}
- .stage-actions .eraser-control{min-width:72px;display:flex;font-size:9px}
- .stage-actions .eraser-control input{width:76px;min-width:0}
-}
-@media(max-width:700px) and (pointer:coarse){
- .stage-toolbar{padding:5px 8px 5px 54px;min-height:40px}
- .stage-actions{top:auto;right:auto;width:max-content;max-height:none;padding:0}
- .stage-actions .toolbar-select{font-size:10px;height:31px;min-width:84px;padding:4px 6px}
- .stage-actions .btn{font-size:10px;min-height:31px;padding:5px 7px}
-}
 </style>
 </head>
 <body>
