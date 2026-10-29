@@ -782,10 +782,12 @@ function exportDesign(){
    },format==='jpeg'?'image/jpeg':'image/png',Number($('export-quality').value)/100)
   }catch(e){console.error(e);tell('Falló la exportación. Prueba con un tamaño menor.')}
  };
- const layers=doc.layers.filter(l=>l.visible);
+ const layers=compositeStackItems().filter(item=>item.kind==='area'||(item.value.visible&&groupFor(item.value)?.visible!==false));
  function drawNext(i){
-  if(i>=layers.length){if(doc.adjustments)applyAdvancedAdjustments(ox,out.width,out.height,doc.adjustments);const exportAreas=[...(Array.isArray(doc.areaFilters)?doc.areaFilters:[]),doc.areaFilter].filter(a=>a&&Array.isArray(a.points)&&a.points.length>=3&&a.filters);for(const savedArea of exportAreas){const areaCanvas=document.createElement('canvas');areaCanvas.width=out.width;areaCanvas.height=out.height;const ac=areaCanvas.getContext('2d');if(!ac)continue;ac.drawImage(out,0,0);ox.save();ox.beginPath();ox.moveTo(savedArea.points[0].x,savedArea.points[0].y);for(let j=1;j<savedArea.points.length;j++)ox.lineTo(savedArea.points[j].x,savedArea.points[j].y);ox.closePath();ox.clip();ox.filter=layerFilter({filters:savedArea.filters});ox.drawImage(areaCanvas,0,0);ox.filter='none';drawGrainOverlay(ox,out.width,out.height,savedArea.filters.grain);if(savedArea.adjustments){const adjOut=document.createElement('canvas');adjOut.width=out.width;adjOut.height=out.height;const adjCtx=adjOut.getContext('2d');if(adjCtx){adjCtx.drawImage(out,0,0);applyAdvancedAdjustments(adjCtx,out.width,out.height,savedArea.adjustments);ox.drawImage(adjOut,0,0)}}ox.restore()}finish();return}
-  const l=layers[i];
+  if(i>=layers.length){if(doc.adjustments)applyAdvancedAdjustments(ox,out.width,out.height,doc.adjustments);finish();return}
+  const item=layers[i];
+  if(item.kind==='area'){applyAreaFilterToContext(ox,item.value,out.width,out.height,out.width/doc.width,out.height/doc.height);drawNext(i+1);return}
+  const l=item.value;
   if(l.type==='image'&&l.src&&(!l.image||!l.image.complete||!(l.image.naturalWidth||l.image.width))){
    const im=new Image();
    im.onload=()=>{l.image=im;drawOne(l);drawNext(i+1)};
