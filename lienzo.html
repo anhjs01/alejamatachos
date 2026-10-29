@@ -398,7 +398,8 @@
 /* Escritorio: el menú Antes/Después se mantiene dentro del área visible al abrirse desde el Zoom Dock. */
 @media (min-width:1101px) {
   .zoom-dock { position:fixed; }
-  .zoom-dock .compare-menu {
+  /* #comparison-tools es hermano del Zoom Dock, no un elemento dentro de él. */
+  #comparison-tools {
     position:fixed!important;
     left:50%!important;
     right:auto!important;
@@ -412,7 +413,7 @@
     overflow-y:auto!important;
     z-index:1200!important;
   }
-  .zoom-dock .compare-menu[hidden] { display:none!important; }
+  #comparison-tools[hidden] { display:none!important; }
 }
 </style>
 </head>
