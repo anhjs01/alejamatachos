@@ -393,6 +393,26 @@
   .compare-menu { left:50%!important; right:auto!important; top:auto!important; bottom:calc(58px + env(safe-area-inset-bottom))!important; transform:translateX(-50%)!important; width:min(620px,calc(100vw - 32px))!important; min-width:0!important; max-height:min(48dvh,520px)!important; z-index:110!important; }
   .board-viewport { padding-bottom:58px!important; }
 }
+
+/* Escritorio: el menú Antes/Después se mantiene dentro del área visible al abrirse desde el Zoom Dock. */
+@media (min-width:1101px) {
+  .zoom-dock { position:fixed; }
+  .zoom-dock .compare-menu {
+    position:fixed!important;
+    left:50%!important;
+    right:auto!important;
+    top:auto!important;
+    bottom:calc(76px + env(safe-area-inset-bottom))!important;
+    transform:translateX(-50%)!important;
+    width:min(620px,calc(100vw - 48px))!important;
+    max-height:min(68dvh,620px)!important;
+    box-sizing:border-box!important;
+    overflow-x:hidden!important;
+    overflow-y:auto!important;
+    z-index:1200!important;
+  }
+  .zoom-dock .compare-menu[hidden] { display:none!important; }
+}
 </style>
 </head>
 <body>
