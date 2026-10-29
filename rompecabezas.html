@@ -80,5 +80,5 @@ body.puzzle-focus .puzzle-options{display:none}@media(max-width:600px){.puzzle-o
 function setBoardFocus(enabled){document.body.classList.toggle('puzzle-focus',enabled);focusButton.textContent=enabled?'VOLVER AL DISEÑO ↙':'AMPLIAR TABLERO ⤢';focusButton.setAttribute('aria-pressed',String(enabled));}
 focusButton.addEventListener('click',()=>setBoardFocus(!document.body.classList.contains('puzzle-focus')));
 window.addEventListener('keydown',e=>{if(e.key==='Escape'&&document.body.classList.contains('puzzle-focus'))setBoardFocus(false)});
-shuffle();updatePreview()})();
+randomizeArt();shuffle();updatePreview()})();
 </script></body></html>
