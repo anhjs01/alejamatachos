@@ -508,6 +508,15 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .welcome-hero .portrait-artwork .portrait-overlay{z-index:3}
 .welcome-hero .portrait-artwork .portrait-caption{z-index:4}
 @media(max-width:760px){.welcome-hero .portrait-artwork .hero-cat-image{object-position:center 44%}}
+
+/* Ajuste de profundidad: el retrato del gato pasa al primer plano */
+.welcome-hero .portrait-artwork{isolation:isolate}
+.welcome-hero .portrait-artwork .hero-cat-image{z-index:6!important;position:absolute;inset:0;display:block;opacity:1;visibility:visible;filter:none!important}
+.welcome-hero .portrait-artwork .cover-art-grid{z-index:3!important;background-color:transparent}
+.welcome-hero .portrait-artwork .portrait-overlay{z-index:7!important;pointer-events:none;background:linear-gradient(0deg,#05090b88 0%,transparent 30%,transparent 100%)}
+.welcome-hero .portrait-artwork .portrait-caption{z-index:9!important}
+.welcome-hero .portrait-artwork:after{z-index:8}
+
 </style>
 </head>
 <body>
