@@ -216,44 +216,78 @@ function burst(x,y,color,n=16){for(let i=0;i<n;i++){let a=rand(0,Math.PI*2),v=ra
 function updateHud(){scoreEl.textContent='PUNTOS '+score;levelEl.textContent='NIVEL '+level;livesEl.querySelectorAll('.life').forEach((el,i)=>el.classList.toggle('on',i<lives));lifeCount.textContent=lives+' / 5';if(boss){bossbar.classList.add('show');let p=Math.max(0,boss.hp/boss.max);bossfill.style.width=(p*100)+'%';bosstext.textContent=Math.ceil(p*100)+'%'}else bossbar.classList.remove('show')}
 function ship(x,y){
   ctx.save();
-  const combined=form===3,bob=Math.sin(elapsed*6)*2;
+  const combined=form===3,bob=Math.sin(elapsed*6)*1.8;
   ctx.translate(x,y+bob);
-  const colors=[['#11141b','#4c596a','#6eeaff'],['#ff9b43','#8d451d','#ffd875'],['#f4f2eb','#242832','#b5f5ff']];
+  const palettes=[
+    {fur:'#171a22',dark:'#080b11',light:'#343b49',inner:'#a9dce8',eye:'#8ff1ff',glow:'#6eeaff'},
+    {fur:'#f3a044',dark:'#a94f20',light:'#ffd18b',inner:'#efb1a0',eye:'#9b5528',glow:'#ffd875'},
+    {fur:'#f4f1e9',dark:'#252a32',light:'#ffffff',inner:'#d5a5a0',eye:'#292b31',glow:'#b5f5ff'}
+  ];
   function pod(dx,dy,kind,scale=1){
-    const [fur,shadow,glow]=colors[kind];
-    ctx.save();ctx.translate(dx,dy);ctx.scale(scale*mobileVisualScale(),scale*mobileVisualScale());
-    // Silueta de nave-mascota: alas, orejas, cabina y morro apuntando al frente.
-    ctx.shadowColor=glow;ctx.shadowBlur=18;ctx.fillStyle=shadow;ctx.strokeStyle=glow;ctx.lineWidth=2.2;
-    ctx.beginPath();ctx.moveTo(0,-27);ctx.lineTo(12,-15);ctx.lineTo(31,-5);ctx.lineTo(25,8);ctx.lineTo(14,5);ctx.lineTo(10,17);ctx.lineTo(-10,17);ctx.lineTo(-14,5);ctx.lineTo(-25,8);ctx.lineTo(-31,-5);ctx.lineTo(-12,-15);ctx.closePath();ctx.fill();ctx.stroke();
-    // Orejas de gato o mechones suaves de la perrita.
-    ctx.shadowBlur=8;ctx.fillStyle=fur;ctx.strokeStyle='#ffffffbb';ctx.lineWidth=1.4;
+    const p=palettes[kind],u=scale*mobileVisualScale();
+    ctx.save();ctx.translate(dx,dy);ctx.scale(u,u);
+    // Casco y alas: la maquinaria queda debajo y detrás de la cabeza.
+    ctx.shadowColor=p.glow;ctx.shadowBlur=13;ctx.fillStyle=p.dark;ctx.strokeStyle=p.glow;ctx.lineWidth=2;
+    ctx.beginPath();
+    ctx.moveTo(0,-2);ctx.quadraticCurveTo(18,3,25,17);ctx.lineTo(39,24);
+    ctx.lineTo(33,34);ctx.lineTo(17,30);ctx.lineTo(11,39);
+    ctx.lineTo(-11,39);ctx.lineTo(-17,30);ctx.lineTo(-33,34);
+    ctx.lineTo(-39,24);ctx.lineTo(-25,17);ctx.quadraticCurveTo(-18,3,0,-2);
+    ctx.closePath();ctx.fill();ctx.stroke();
+    // Aletas laterales redondeadas, sin prolongaciones sobre la cabeza.
+    ctx.shadowBlur=7;ctx.fillStyle=p.light;ctx.strokeStyle='#ffffff99';ctx.lineWidth=1.2;
+    ctx.beginPath();ctx.moveTo(-22,18);ctx.quadraticCurveTo(-39,7,-43,17);ctx.quadraticCurveTo(-39,30,-25,29);ctx.closePath();ctx.fill();ctx.stroke();
+    ctx.beginPath();ctx.moveTo(22,18);ctx.quadraticCurveTo(39,7,43,17);ctx.quadraticCurveTo(39,30,25,29);ctx.closePath();ctx.fill();ctx.stroke();
+    // Cabeza con mejillas: silueta felina suave y ancha, no una esfera con cuernos.
+    ctx.shadowBlur=9;ctx.shadowColor=p.glow;ctx.fillStyle=p.fur;ctx.strokeStyle='#ffffffbb';ctx.lineWidth=1.5;
     if(kind===2){
-      ctx.beginPath();ctx.ellipse(-17,-10,10,17,-.55,0,Math.PI*2);ctx.ellipse(17,-10,10,17,.55,0,Math.PI*2);ctx.fill();ctx.stroke();
+      // Perrita: orejas caídas y anchas que cuelgan a los lados.
+      ctx.beginPath();ctx.moveTo(-13,-22);ctx.quadraticCurveTo(-34,-35,-35,-12);ctx.quadraticCurveTo(-35,8,-21,8);ctx.quadraticCurveTo(-13,3,-14,-10);ctx.closePath();ctx.fill();ctx.stroke();
+      ctx.beginPath();ctx.moveTo(13,-22);ctx.quadraticCurveTo(34,-35,35,-12);ctx.quadraticCurveTo(35,8,21,8);ctx.quadraticCurveTo(13,3,14,-10);ctx.closePath();ctx.fill();ctx.stroke();
     }else{
-      ctx.beginPath();ctx.moveTo(-14,-13);ctx.lineTo(-23,-37);ctx.quadraticCurveTo(-7,-34,-2,-17);ctx.closePath();ctx.fill();ctx.stroke();
-      ctx.beginPath();ctx.moveTo(14,-13);ctx.lineTo(23,-37);ctx.quadraticCurveTo(7,-34,2,-17);ctx.closePath();ctx.fill();ctx.stroke();
+      // Orejas triangulares cortas, redondeadas en la punta y pegadas al cráneo.
+      ctx.beginPath();ctx.moveTo(-20,-15);ctx.quadraticCurveTo(-27,-26,-22,-35);ctx.quadraticCurveTo(-8,-33,-5,-18);ctx.closePath();ctx.fill();ctx.stroke();
+      ctx.beginPath();ctx.moveTo(20,-15);ctx.quadraticCurveTo(27,-26,22,-35);ctx.quadraticCurveTo(8,-33,5,-18);ctx.closePath();ctx.fill();ctx.stroke();
+      ctx.fillStyle=p.inner;
+      ctx.beginPath();ctx.moveTo(-19,-20);ctx.quadraticCurveTo(-22,-27,-19,-30);ctx.quadraticCurveTo(-11,-27,-9,-19);ctx.closePath();ctx.fill();
+      ctx.beginPath();ctx.moveTo(19,-20);ctx.quadraticCurveTo(22,-27,19,-30);ctx.quadraticCurveTo(11,-27,9,-19);ctx.closePath();ctx.fill();
     }
-    // Ventana frontal con la cara del animal claramente visible.
-    ctx.shadowBlur=0;ctx.fillStyle=fur;ctx.beginPath();ctx.ellipse(0,-5,19,19,0,0,Math.PI*2);ctx.fill();
-    if(kind===1){ctx.fillStyle='#ffd18b';ctx.beginPath();ctx.ellipse(-8,-20,5,9,-.4,0,Math.PI*2);ctx.ellipse(8,-20,5,9,.4,0,Math.PI*2);ctx.fill()}
-    if(kind===2){ctx.fillStyle='#242832';ctx.beginPath();ctx.ellipse(-5,-5,3.2,4.2,0,0,Math.PI*2);ctx.ellipse(5,-5,3.2,4.2,0,0,Math.PI*2);ctx.fill();ctx.fillStyle='#242832';ctx.beginPath();ctx.ellipse(-12,-12,7,12,-.55,0,Math.PI*2);ctx.fill();ctx.fillStyle='#fff';ctx.beginPath();ctx.ellipse(0,8,10,7,0,0,Math.PI*2);ctx.fill()}
-    else{ctx.fillStyle='#fff7e8';ctx.beginPath();ctx.ellipse(-5,-5,3.2,4.2,0,0,Math.PI*2);ctx.ellipse(5,-5,3.2,4.2,0,0,Math.PI*2);ctx.fill();ctx.fillStyle=kind===0?'#7feaff':'#65331c';ctx.beginPath();ctx.arc(-5,-5,1.5,0,Math.PI*2);ctx.arc(5,-5,1.5,0,Math.PI*2);ctx.fill()}
-    ctx.fillStyle=kind===1?'#7b301c':'#ff9fbd';ctx.beginPath();ctx.moveTo(-4,3);ctx.lineTo(4,3);ctx.lineTo(0,7);ctx.closePath();ctx.fill();
-    ctx.strokeStyle='#fff';ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(-3,7);ctx.quadraticCurveTo(0,10,3,7);ctx.stroke();
-    // Propulsores gemelos y luz de cabina.
-    const flame=18+Math.sin(elapsed*28+kind)*8;const fg=ctx.createLinearGradient(0,13,0,flame+18);fg.addColorStop(0,glow);fg.addColorStop(1,'#8c65ff00');ctx.fillStyle=fg;
-    ctx.beginPath();ctx.moveTo(-10,9);ctx.lineTo(-8,flame+15);ctx.lineTo(-3,10);ctx.closePath();ctx.fill();
-    ctx.beginPath();ctx.moveTo(3,10);ctx.lineTo(8,flame+15);ctx.lineTo(10,9);ctx.closePath();ctx.fill();
-    ctx.fillStyle='#efffff';ctx.fillRect(-20,-1,3,9);ctx.fillRect(17,-1,3,9);
+    // Rostro principal: mejillas, ojos separados, nariz y boca legibles.
+    ctx.shadowBlur=0;ctx.fillStyle=p.fur;ctx.strokeStyle='#ffffffaa';ctx.lineWidth=1.4;
+    ctx.beginPath();ctx.moveTo(0,-24);ctx.quadraticCurveTo(20,-25,24,-7);ctx.quadraticCurveTo(28,9,14,17);ctx.quadraticCurveTo(7,22,0,17);ctx.quadraticCurveTo(-7,22,-14,17);ctx.quadraticCurveTo(-28,9,-24,-7);ctx.quadraticCurveTo(-20,-25,0,-24);ctx.closePath();ctx.fill();ctx.stroke();
+    if(kind===2){
+      // Mancha negra asimétrica, propia de la perrita blanca y negra.
+      ctx.fillStyle='#252a32';ctx.beginPath();ctx.moveTo(1,-23);ctx.quadraticCurveTo(25,-28,24,-7);ctx.quadraticCurveTo(20,3,8,2);ctx.lineTo(3,-7);ctx.closePath();ctx.fill();
+      ctx.fillStyle='#fff';ctx.beginPath();ctx.ellipse(-8,1,11,8,-.15,0,Math.PI*2);ctx.fill();
+      ctx.fillStyle='#252a32';ctx.beginPath();ctx.ellipse(-7,-7,2.8,4,0,0,Math.PI*2);ctx.ellipse(10,-7,2.8,4,0,0,Math.PI*2);ctx.fill();
+      ctx.fillStyle='#252a32';ctx.beginPath();ctx.ellipse(0,8,4.2,3,0,0,Math.PI*2);ctx.fill();
+      ctx.strokeStyle='#252a32';ctx.lineWidth=1.2;ctx.beginPath();ctx.moveTo(0,11);ctx.quadraticCurveTo(-3,15,-7,13);ctx.moveTo(0,11);ctx.quadraticCurveTo(3,15,7,13);ctx.stroke();
+    }else{
+      // Rayas de frente y ojos almendrados para diferenciar a los dos gatos.
+      ctx.fillStyle=kind===0?'#697383':'#c87532';
+      ctx.beginPath();ctx.moveTo(-4,-22);ctx.quadraticCurveTo(-8,-17,-6,-14);ctx.lineTo(-1,-18);ctx.closePath();ctx.fill();
+      ctx.beginPath();ctx.moveTo(4,-22);ctx.quadraticCurveTo(8,-17,6,-14);ctx.lineTo(1,-18);ctx.closePath();ctx.fill();
+      ctx.fillStyle='#fff7e8';ctx.beginPath();ctx.ellipse(-9,-5,5,6,0,0,Math.PI*2);ctx.ellipse(9,-5,5,6,0,0,Math.PI*2);ctx.fill();
+      ctx.fillStyle=p.eye;ctx.beginPath();ctx.ellipse(-9,-4,2.1,4,0,0,Math.PI*2);ctx.ellipse(9,-4,2.1,4,0,0,Math.PI*2);ctx.fill();
+      ctx.fillStyle=kind===0?'#e5a6ad':'#8d4930';ctx.beginPath();ctx.moveTo(-4,5);ctx.quadraticCurveTo(0,2,4,5);ctx.quadraticCurveTo(0,10,-4,5);ctx.fill();
+      ctx.strokeStyle='#f7e9dc';ctx.lineWidth=1.1;ctx.beginPath();ctx.moveTo(0,9);ctx.quadraticCurveTo(-3,13,-7,11);ctx.moveTo(0,9);ctx.quadraticCurveTo(3,13,7,11);ctx.stroke();
+      ctx.strokeStyle=kind===0?'#b9c2d0':'#8d542d';ctx.lineWidth=1;
+      ctx.beginPath();ctx.moveTo(-15,7);ctx.lineTo(-25,5);ctx.moveTo(-15,11);ctx.lineTo(-24,14);ctx.moveTo(15,7);ctx.lineTo(25,5);ctx.moveTo(15,11);ctx.lineTo(24,14);ctx.stroke();
+    }
+    // Cabina inferior y dos motores: detalles tecnológicos sin tapar la cara.
+    ctx.fillStyle='#dffaff';ctx.globalAlpha=.9;ctx.beginPath();ctx.ellipse(0,25,9,4,0,0,Math.PI*2);ctx.fill();ctx.globalAlpha=1;
+    const flame=13+Math.sin(elapsed*28+kind)*5,fg=ctx.createLinearGradient(0,34,0,flame+42);fg.addColorStop(0,p.glow);fg.addColorStop(1,'#8c65ff00');ctx.fillStyle=fg;
+    ctx.beginPath();ctx.moveTo(-12,31);ctx.lineTo(-8,flame+40);ctx.lineTo(-3,32);ctx.closePath();ctx.fill();
+    ctx.beginPath();ctx.moveTo(3,32);ctx.lineTo(8,flame+40);ctx.lineTo(12,31);ctx.closePath();ctx.fill();
     ctx.restore();
   }
   if(combined){
-    // Formación de escuadrón: alas del gato negro y naranja, perrita al centro.
-    ctx.save();ctx.globalAlpha=.24+.09*Math.sin(elapsed*5);ctx.fillStyle='#b6a5ff';ctx.shadowColor='#b6a5ff';ctx.shadowBlur=30;
-    ctx.beginPath();ctx.moveTo(-72,2);ctx.quadraticCurveTo(-42,-34,0,-30);ctx.quadraticCurveTo(42,-34,72,2);ctx.lineTo(47,22);ctx.lineTo(0,29);ctx.lineTo(-47,22);ctx.closePath();ctx.fill();ctx.restore();
-    pod(-42,4,0,.88);pod(0,-7,2,1.08);pod(42,4,1,.88);
-    ctx.strokeStyle='#d5faff';ctx.globalAlpha=.85;ctx.lineWidth=2.5;ctx.beginPath();ctx.moveTo(-20,13);ctx.lineTo(0,24);ctx.lineTo(20,13);ctx.stroke();ctx.globalAlpha=1;
-    ctx.fillStyle='#fff1a8';ctx.shadowColor='#fff1a8';ctx.shadowBlur=16;ctx.beginPath();ctx.arc(0,-28,4+Math.sin(elapsed*8),0,Math.PI*2);ctx.fill();ctx.shadowBlur=0;
+    // Nave de escuadrón: las tres mascotas conservan sus rostros individuales.
+    ctx.save();ctx.globalAlpha=.22+.08*Math.sin(elapsed*5);ctx.fillStyle='#b6a5ff';ctx.shadowColor='#b6a5ff';ctx.shadowBlur=25;
+    ctx.beginPath();ctx.moveTo(-82,19);ctx.quadraticCurveTo(-48,-13,0,-8);ctx.quadraticCurveTo(48,-13,82,19);ctx.lineTo(54,39);ctx.lineTo(0,45);ctx.lineTo(-54,39);ctx.closePath();ctx.fill();ctx.restore();
+    pod(-47,4,0,.82);pod(0,-7,2,1.02);pod(47,4,1,.82);
+    ctx.strokeStyle='#d5faff';ctx.globalAlpha=.85;ctx.lineWidth=2.5;ctx.beginPath();ctx.moveTo(-24,28);ctx.lineTo(0,39);ctx.lineTo(24,28);ctx.stroke();ctx.globalAlpha=1;
+    ctx.fillStyle='#fff1a8';ctx.shadowColor='#fff1a8';ctx.shadowBlur=16;ctx.beginPath();ctx.arc(0,-34,4+Math.sin(elapsed*8),0,Math.PI*2);ctx.fill();ctx.shadowBlur=0;
   }else pod(0,0,Math.min(form,2),1);
   ctx.restore();
 }
