@@ -7920,5 +7920,327 @@ const CALENDARIO = [
       "significado": "Resumen de los puntos o momentos más importantes de un recorrido o proceso.",
       "ejemplo": "Una recapitulación permite reconocer lo vivido y decidir qué vale la pena conservar."
     }
+  },
+  {
+    "dia": 182,
+    "fecha": "2027-04-15",
+    "fechaTexto": "jue, 15 de abr",
+    "categoria": "La playlist de una mirada",
+    "icono": "🎶",
+    "tono": "coquetería sutil y música",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hay canciones que parecen describir una escena sin que nadie tenga que explicarla.",
+    "poema": [
+      "Elige una canción que te recuerde a una persona, un momento o una sensación. No tienes que dedicarla ni revelar a quién te recuerda: basta con explicar qué parte te gusta, qué imagen te produce o por qué la guardarías en una playlist. Si lo comparten, cada persona recomienda una canción y la otra intenta describir la escena que se imagina al escucharla.",
+      "Ponle nombre a esa pequeña playlist como si fuera la banda sonora de una película que todavía no existe."
+    ],
+    "detalle": "Ponle nombre a esa pequeña playlist como si fuera la banda sonora de una película que todavía no existe.",
+    "buenasNoches": "A veces una canción encuentra las palabras que uno no tenía a la mano.",
+    "cancionTitulo": "Algo Anda Mal",
+    "cancionArtista": "Clan Hueso Duro",
+    "youtubeId": "nFCFxtW8Fww",
+    "cancionUrl": "https://www.youtube.com/watch?v=nFCFxtW8Fww",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hay canciones que parecen describir una escena sin que nadie tenga que explicarla."
+      },
+      "mensajePrincipal": {
+        "titulo": "La playlist de una mirada",
+        "contenido": "Elige una canción que te recuerde a una persona, un momento o una sensación. No tienes que dedicarla ni revelar a quién te recuerda: basta con explicar qué parte te gusta, qué imagen te produce o por qué la guardarías en una playlist. Si lo comparten, cada persona recomienda una canción y la otra intenta describir la escena que se imagina al escucharla."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sutileza",
+        "contenido": "Cualidad de expresarse o actuar con delicadeza, sin ser demasiado evidente. Un gesto sutil puede decir mucho sin necesidad de grandes discursos."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una canción encuentra las palabras que uno no tenía a la mano."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sutileza",
+      "significado": "Cualidad de expresarse o actuar con delicadeza, sin ser demasiado evidente.",
+      "ejemplo": "Un gesto sutil puede decir mucho sin necesidad de grandes discursos."
+    }
+  },
+  {
+    "dia": 183,
+    "fecha": "2027-04-16",
+    "fechaTexto": "vie, 16 de abr",
+    "categoria": "El cumplido con fundamento",
+    "icono": "🌷",
+    "tono": "atención y coquetería",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto es decir algo bonito sin recurrir a frases genéricas.",
+    "poema": [
+      "Piensa en una cualidad que valores de alguien: su sentido del humor, la forma en que explica algo, su creatividad, su manera de resolver problemas o la energía que aporta a un plan. Si te nace, exprésala con un ejemplo concreto: «Me gusta que haces ___ porque ___». También puedes escribirlo para ti o para alguien de confianza. La clave es que sea sincero, respetuoso y sin esperar nada a cambio.",
+      "Un cumplido bien pensado puede quedarse dando vueltas en la cabeza, pero no tiene que convertirse en una obligación."
+    ],
+    "detalle": "Un cumplido bien pensado puede quedarse dando vueltas en la cabeza, pero no tiene que convertirse en una obligación.",
+    "buenasNoches": "Lo genuino suele sentirse más bonito que lo perfectamente ensayado.",
+    "cancionTitulo": "Qué Hay Pa' Hacer",
+    "cancionArtista": "Granuja",
+    "youtubeId": "M6CG-CU07n4",
+    "cancionUrl": "https://www.youtube.com/watch?v=M6CG-CU07n4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto es decir algo bonito sin recurrir a frases genéricas."
+      },
+      "mensajePrincipal": {
+        "titulo": "El cumplido con fundamento",
+        "contenido": "Piensa en una cualidad que valores de alguien: su sentido del humor, la forma en que explica algo, su creatividad, su manera de resolver problemas o la energía que aporta a un plan. Si te nace, exprésala con un ejemplo concreto: «Me gusta que haces ___ porque ___». También puedes escribirlo para ti o para alguien de confianza. La clave es que sea sincero, respetuoso y sin esperar nada a cambio."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra autenticidad",
+        "contenido": "Cualidad de ser genuino y fiel a lo que realmente se piensa o siente. Un cumplido auténtico se fija en algo real y no necesita exageraciones."
+      },
+      "buenasNoches": {
+        "contenido": "Lo genuino suele sentirse más bonito que lo perfectamente ensayado."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Autenticidad",
+      "significado": "Cualidad de ser genuino y fiel a lo que realmente se piensa o siente.",
+      "ejemplo": "Un cumplido auténtico se fija en algo real y no necesita exageraciones."
+    }
+  },
+  {
+    "dia": 184,
+    "fecha": "2027-04-17",
+    "fechaTexto": "sáb, 17 de abr",
+    "categoria": "Un plan para crear algo con las manos",
+    "icono": "🪡",
+    "tono": "experiencia creativa compartida",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la propuesta es hacer algo que al final se pueda tocar, guardar o regalar.",
+    "poema": [
+      "Elijan una actividad manual de una sesión: decorar una libreta, pintar una pieza pequeña, hacer un collage, personalizar una tote bag o crear una figura sencilla. Pongan un límite de tiempo y presupuesto para que sea un plan cómodo. Si prefieren no salir, pueden hacerlo con papel, revistas viejas, pegante y marcadores. No se trata de que quede perfecto, sino de probar una técnica y pasar un rato distinto.",
+      "Guarden una foto del resultado, incluso si queda torcido. Ese detalle suele hacerlo más memorable."
+    ],
+    "detalle": "Guarden una foto del resultado, incluso si queda torcido. Ese detalle suele hacerlo más memorable.",
+    "buenasNoches": "Las cosas hechas a mano tienen pequeñas marcas que las vuelven únicas.",
+    "cancionTitulo": "No Está en Venta",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "Se6Cd4sW3ks",
+    "cancionUrl": "https://www.youtube.com/watch?v=Se6Cd4sW3ks",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la propuesta es hacer algo que al final se pueda tocar, guardar o regalar."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un plan para crear algo con las manos",
+        "contenido": "Elijan una actividad manual de una sesión: decorar una libreta, pintar una pieza pequeña, hacer un collage, personalizar una tote bag o crear una figura sencilla. Pongan un límite de tiempo y presupuesto para que sea un plan cómodo. Si prefieren no salir, pueden hacerlo con papel, revistas viejas, pegante y marcadores. No se trata de que quede perfecto, sino de probar una técnica y pasar un rato distinto."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra proceso",
+        "contenido": "Conjunto de etapas que se siguen para llegar a un resultado. Disfrutar el proceso permite valorar lo que ocurre mientras creamos, no solo el resultado final."
+      },
+      "buenasNoches": {
+        "contenido": "Las cosas hechas a mano tienen pequeñas marcas que las vuelven únicas."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Proceso",
+      "significado": "Conjunto de etapas que se siguen para llegar a un resultado.",
+      "ejemplo": "Disfrutar el proceso permite valorar lo que ocurre mientras creamos, no solo el resultado final."
+    }
+  },
+  {
+    "dia": 185,
+    "fecha": "2027-04-18",
+    "fechaTexto": "dom, 18 de abr",
+    "categoria": "El debate de las decisiones imposibles",
+    "icono": "⚖️",
+    "tono": "juego y conversación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca defender una elección que no tiene respuesta perfecta.",
+    "poema": [
+      "Planteen tres dilemas divertidos: ¿tener siempre el plan perfecto o improvisar con buenos resultados?, ¿poder visitar cualquier lugar una sola vez o volver muchas veces a uno favorito?, ¿conocer todos los idiomas o tocar cualquier instrumento? Cada persona elige y tiene treinta segundos para defender su postura. Después puede cambiar de opinión si escucha un argumento convincente. Eviten preguntas demasiado personales o que pongan a alguien contra la pared.",
+      "Inventen un cuarto dilema absurdo y guárdenlo como pregunta de desempate para otra ocasión."
+    ],
+    "detalle": "Inventen un cuarto dilema absurdo y guárdenlo como pregunta de desempate para otra ocasión.",
+    "buenasNoches": "No siempre se trata de elegir bien; a veces lo interesante es entender por qué elegimos.",
+    "cancionTitulo": "Balada para No Dormir - Bonus Track",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "h1p0N9s5YJw",
+    "cancionUrl": "https://www.youtube.com/watch?v=h1p0N9s5YJw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca defender una elección que no tiene respuesta perfecta."
+      },
+      "mensajePrincipal": {
+        "titulo": "El debate de las decisiones imposibles",
+        "contenido": "Planteen tres dilemas divertidos: ¿tener siempre el plan perfecto o improvisar con buenos resultados?, ¿poder visitar cualquier lugar una sola vez o volver muchas veces a uno favorito?, ¿conocer todos los idiomas o tocar cualquier instrumento? Cada persona elige y tiene treinta segundos para defender su postura. Después puede cambiar de opinión si escucha un argumento convincente. Eviten preguntas demasiado personales o que pongan a alguien contra la pared."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra dilema",
+        "contenido": "Situación en la que hay que escoger entre dos opciones difíciles o igualmente atractivas. Un dilema interesante obliga a explicar qué valor pesa más al tomar una decisión."
+      },
+      "buenasNoches": {
+        "contenido": "No siempre se trata de elegir bien; a veces lo interesante es entender por qué elegimos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Dilema",
+      "significado": "Situación en la que hay que escoger entre dos opciones difíciles o igualmente atractivas.",
+      "ejemplo": "Un dilema interesante obliga a explicar qué valor pesa más al tomar una decisión."
+    }
+  },
+  {
+    "dia": 186,
+    "fecha": "2027-04-19",
+    "fechaTexto": "lun, 19 de abr",
+    "categoria": "La foto que parece una portada",
+    "icono": "📸",
+    "tono": "creatividad y mirada compartida",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a buscar una portada donde normalmente solo vemos un día cualquiera.",
+    "poema": [
+      "Toma una fotografía de un detalle cotidiano: sombras en la pared, una taza junto a una ventana, una esquina con colores interesantes o el reflejo en un charco. No incluyas rostros de otras personas sin permiso. Elige un título de máximo cinco palabras y una frase que acompañe la imagen. Si participan dos, cada quien toma una foto del mismo lugar desde un ángulo distinto y comparan cómo cambia la historia.",
+      "Puedes editarla en el lienzo y diseñar una portada ficticia de revista, álbum o película."
+    ],
+    "detalle": "Puedes editarla en el lienzo y diseñar una portada ficticia de revista, álbum o película.",
+    "buenasNoches": "Mirar con calma a veces revela una escena que siempre estuvo ahí.",
+    "cancionTitulo": "En Tono Sepia",
+    "cancionArtista": "No Rules Clan",
+    "youtubeId": "y6Uf9bi_Mtk",
+    "cancionUrl": "https://www.youtube.com/watch?v=y6Uf9bi_Mtk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a buscar una portada donde normalmente solo vemos un día cualquiera."
+      },
+      "mensajePrincipal": {
+        "titulo": "La foto que parece una portada",
+        "contenido": "Toma una fotografía de un detalle cotidiano: sombras en la pared, una taza junto a una ventana, una esquina con colores interesantes o el reflejo en un charco. No incluyas rostros de otras personas sin permiso. Elige un título de máximo cinco palabras y una frase que acompañe la imagen. Si participan dos, cada quien toma una foto del mismo lugar desde un ángulo distinto y comparan cómo cambia la historia."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra encuadre",
+        "contenido": "Porción de la escena que se incluye dentro de una fotografía o imagen. Un encuadre distinto puede convertir un lugar cotidiano en una imagen especial."
+      },
+      "buenasNoches": {
+        "contenido": "Mirar con calma a veces revela una escena que siempre estuvo ahí."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Encuadre",
+      "significado": "Porción de la escena que se incluye dentro de una fotografía o imagen.",
+      "ejemplo": "Un encuadre distinto puede convertir un lugar cotidiano en una imagen especial."
+    }
+  },
+  {
+    "dia": 187,
+    "fecha": "2027-04-20",
+    "fechaTexto": "mar, 20 de abr",
+    "categoria": "Una conversación sin personaje",
+    "icono": "🫶",
+    "tono": "confianza gradual",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "No hace falta tener una respuesta brillante para conversar de verdad.",
+    "poema": [
+      "Completa una de estas frases, solo hasta donde te sientas cómodo: «Algo que estoy aprendiendo a manejar es…», «Una cosa que me gustaría hacer con más frecuencia es…» o «Últimamente me ha dado alegría…». La otra persona escucha y puede hacer una pregunta amable, sin convertirlo en interrogatorio ni intentar resolverlo todo. También vale pasar si hoy no tienes ganas de compartir.",
+      "Agradece la confianza y deja que la conversación termine cuando se sienta natural."
+    ],
+    "detalle": "Agradece la confianza y deja que la conversación termine cuando se sienta natural.",
+    "buenasNoches": "Poder ser uno mismo, incluso en días desordenados, también es una forma de tranquilidad.",
+    "cancionTitulo": "Tararea",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "nmFdyBUAsfQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=nmFdyBUAsfQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "No hace falta tener una respuesta brillante para conversar de verdad."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una conversación sin personaje",
+        "contenido": "Completa una de estas frases, solo hasta donde te sientas cómodo: «Algo que estoy aprendiendo a manejar es…», «Una cosa que me gustaría hacer con más frecuencia es…» o «Últimamente me ha dado alegría…». La otra persona escucha y puede hacer una pregunta amable, sin convertirlo en interrogatorio ni intentar resolverlo todo. También vale pasar si hoy no tienes ganas de compartir."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra vulnerabilidad",
+        "contenido": "Disposición a reconocer y compartir algo propio sin fingir que todo está siempre bajo control. La vulnerabilidad también puede expresarse al admitir que algo nos cuesta o nos importa."
+      },
+      "buenasNoches": {
+        "contenido": "Poder ser uno mismo, incluso en días desordenados, también es una forma de tranquilidad."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Vulnerabilidad",
+      "significado": "Disposición a reconocer y compartir algo propio sin fingir que todo está siempre bajo control.",
+      "ejemplo": "La vulnerabilidad también puede expresarse al admitir que algo nos cuesta o nos importa."
+    }
+  },
+  {
+    "dia": 188,
+    "fecha": "2027-04-21",
+    "fechaTexto": "mié, 21 de abr",
+    "categoria": "El pequeño plan sorpresa, con permiso",
+    "icono": "🎁",
+    "tono": "detalle y complicidad",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la sorpresa empieza con una pregunta sencilla: ¿te provoca que inventemos un plan pequeño?",
+    "poema": [
+      "Si ambos tienen ganas, cada persona prepara una mini propuesta de máximo una hora: puede ser elegir una bebida nueva, caminar por un parque, compartir un postre seguro, visitar una librería o escuchar un álbum completo. Se muestran las dos ideas y escogen una entre ambos. La invitación debe dejar espacio para decir que no o cambiarla; si no coinciden los horarios, cada quien puede guardar su propuesta para otro día.",
+      "El detalle no es adivinar lo que la otra persona quiere, sino construir algo que les provoque a los dos."
+    ],
+    "detalle": "El detalle no es adivinar lo que la otra persona quiere, sino construir algo que les provoque a los dos.",
+    "buenasNoches": "Las mejores sorpresas también respetan el espacio y las ganas de cada quien.",
+    "cancionTitulo": "Discúlpame",
+    "cancionArtista": "Ali Aka Mind",
+    "youtubeId": "sqzdMYQKCdU",
+    "cancionUrl": "https://www.youtube.com/watch?v=sqzdMYQKCdU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la sorpresa empieza con una pregunta sencilla: ¿te provoca que inventemos un plan pequeño?"
+      },
+      "mensajePrincipal": {
+        "titulo": "El pequeño plan sorpresa, con permiso",
+        "contenido": "Si ambos tienen ganas, cada persona prepara una mini propuesta de máximo una hora: puede ser elegir una bebida nueva, caminar por un parque, compartir un postre seguro, visitar una librería o escuchar un álbum completo. Se muestran las dos ideas y escogen una entre ambos. La invitación debe dejar espacio para decir que no o cambiarla; si no coinciden los horarios, cada quien puede guardar su propuesta para otro día."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra reciprocidad",
+        "contenido": "Correspondencia mutua entre acciones, gestos o sentimientos. La reciprocidad permite que los detalles y las iniciativas nazcan de ambas partes, sin presión."
+      },
+      "buenasNoches": {
+        "contenido": "Las mejores sorpresas también respetan el espacio y las ganas de cada quien."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Reciprocidad",
+      "significado": "Correspondencia mutua entre acciones, gestos o sentimientos.",
+      "ejemplo": "La reciprocidad permite que los detalles y las iniciativas nazcan de ambas partes, sin presión."
+    }
   }
 ];
