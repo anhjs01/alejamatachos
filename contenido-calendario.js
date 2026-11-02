@@ -1681,7 +1681,7 @@ const CALENDARIO = [
     "dia": 36,
     "fecha": "2026-11-20",
     "fechaTexto": "vie, 20 de nov",
-    "categoria": "El laboratorio de bebidas del almuerzo",
+    "categoria": "La merienda de tres texturas",
     "icono": "🥤",
     "tono": "juego",
     "color": {
@@ -1703,11 +1703,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, bartender",
-        "contenido": "Hoy vamos a inventar una bebida para acompañar el almuerzo. La regla es sencilla: cada uno escoge un ingrediente sin decirle al otro y después descubrimos si nuestras elecciones combinan."
+        "contenido": "Hoy vamos a armar una merienda de tres texturas con lo que ya tengamos: algo crujiente, algo suave y algo fresco. La idea es jugar con combinaciones sin complicar el almuerzo."
       },
       "mensajePrincipal": {
-        "titulo": "Reto de la bebida a cuatro manos",
-        "contenido": "Compra una base para compartir: agua con gas, limonada o té frío sin azúcar; además, hielo, limón y fruta de temporada. Cada uno elige un ingrediente sorpresa: puede ser mora, fresa, uvas, durazno, pepino, hierbabuena o jengibre. Revelen las elecciones, mezclen primero una cantidad pequeña y ajusten el sabor. Pongan nombre a la bebida y escriban la receta para poder repetirla. Variante: preparen dos versiones y hagan una cata a ciegas. No hace falta alcohol para que sea especial; si ambos son adultos y quieren experimentar con una bebida alcohólica, háganlo en una ocasión aparte, con medida y sin conducir.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Para el almuerzo de oficina, preparen la base por la mañana y lleven hielo y fruta aparte; mezclen al servir."
+        "titulo": "La merienda de tres texturas",
+        "contenido": "RETO DE MERIENDA · 15–20 MINUTOS · EN CASA O PARA EL ALMUERZO\n\nElijan tres elementos que ya tengan y que aporten texturas distintas: algo crujiente, algo suave y algo fresco. Puede ser pan tostado o galletas sencillas, queso o yogur natural, y fruta o verduras lavadas.\n\n1. Corten o sirvan porciones pequeñas.\n2. Organicen los ingredientes en una tabla o recipiente, separando las texturas.\n3. Cada persona crea una combinación y le pone un nombre.\n4. Prueben solo las combinaciones que les apetezcan y elijan cuál llevarían a una pausa de almuerzo.\n\nPara la oficina, transporten los ingredientes que necesiten frío en un recipiente adecuado y armen la merienda al momento de comer. No hace falta comprar productos especiales ni preparar una gran cantidad."
       },
       "palabraNueva": {
         "titulo": "Palabra refrescante",
@@ -1715,7 +1715,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Espero que nuestra mezcla haya quedado rica. Y si salió extraña, también cuenta: acabamos de inventar una receta que probablemente nadie más tiene."
+        "contenido": "Una combinación sencilla también puede sorprender. Si encontramos una que nos guste, la guardamos para repetirla en una pausa de oficina o una salida."
       }
     },
     "palabraNueva": {
@@ -4181,7 +4181,7 @@ const CALENDARIO = [
     "dia": 88,
     "fecha": "2027-01-11",
     "fechaTexto": "lun, 11 de ene",
-    "categoria": "Una receta salada en una sola sartén",
+    "categoria": "Sopa rápida de lentejas con zanahoria y tomate",
     "icono": "🍝",
     "tono": "casero",
     "color": {
@@ -4204,11 +4204,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, cocina sencilla",
-        "contenido": "Hoy la cocina se queda práctica: una comida cálida, preparada en sartén y sin necesidad de horno."
+        "contenido": "Hoy cambiamos el arroz por una sopa de lentejas con zanahoria y tomate. Es una receta de olla, sencilla y sin horno, que también puede dejarse lista para el almuerzo de mañana."
       },
       "mensajePrincipal": {
-        "titulo": "Arroz cremoso con huevo y verduras",
-        "contenido": "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?\n\nTIEMPO ESTIMADO: 20–25 MINUTOS. Usa arroz ya cocido para convertirlo en una comida rápida; incorpora las verduras antes del huevo."
+        "titulo": "Sopa rápida de lentejas con zanahoria y tomate",
+        "contenido": "RECETA VEGETARIANA PARA DOS · 30–35 MINUTOS · SOLO OLLA\n\nIngredientes: ¾ de taza de lentejas lavadas, una zanahoria, un tomate, ¼ de cebolla, un diente de ajo, ½ cucharadita de comino, 3 tazas de agua o caldo, aceite, sal y pimienta.\n\nPreparación:\n1. Pica la cebolla, el ajo, el tomate y la zanahoria en cubos pequeños.\n2. Sofríe cebolla y ajo en una olla con un poco de aceite durante 2–3 minutos.\n3. Añade tomate, zanahoria y comino; cocina hasta que el tomate empiece a deshacerse.\n4. Incorpora las lentejas y el agua o caldo. Lleva a hervor y luego baja el fuego.\n5. Cocina tapado durante 20–25 minutos, revisando que las lentejas estén tiernas. Añade un poco más de agua si espesa demasiado.\n6. Ajusta sal y pimienta y sirve.\n\nPara llevarla al almuerzo de la oficina, deja que se enfríe de forma segura, refrigérala y transpórtala en un recipiente hermético. Recalienta bien antes de comer."
       },
       "palabraNueva": {
         "titulo": "La palabra de los sabores",
@@ -4216,7 +4216,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Algo rico sin hacer un gran lío",
-        "contenido": "Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo."
+        "contenido": "Una olla, ingredientes sencillos y algo caliente para compartir. Si la sopa queda espesa, se ajusta con un poco de agua; no hace falta que salga perfecta a la primera."
       }
     },
     "palabraNueva": {
@@ -5078,7 +5078,7 @@ const CALENDARIO = [
     "dia": 107,
     "fecha": "2027-01-30",
     "fechaTexto": "sáb, 30 de ene",
-    "categoria": "Lasaña de berenjena con carne y queso",
+    "categoria": "Tacos de pollo al limón con pico de gallo",
     "icono": "🍆",
     "tono": "amor",
     "color": {
@@ -5099,19 +5099,19 @@ const CALENDARIO = [
     "cancionUrl": "https://www.youtube.com/watch?v=Z66Bv_N55zQ",
     "cartas": {
       "buenosDias": {
-        "contenido": "Una alternativa deliciosa a la lasaña tradicional, con capas de berenjena, carne y queso fundido.",
+        "contenido": "Una receta distinta para cambiar de las pastas: tacos de pollo al limón con pico de gallo. Podemos decidirla la noche anterior y comprar lo que falte al salir del trabajo.",
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "RECETA PARA 2–3 PORCIONES · SIN HORNO · 40–45 MINUTOS\n\nIngredientes: una berenjena grande, 250 g de carne molida, 250 g de salsa de tomate, 150 g de mozzarella, 40 g de parmesano, media cebolla, un diente de ajo, aceite, orégano, sal y pimienta.\n\nPreparación:\n1. Corta la berenjena en láminas de medio centímetro. Dóralas por tandas en una sartén con un poco de aceite; retíralas cuando estén tiernas.\n2. En la misma sartén, sofríe cebolla y ajo. Añade la carne y cocínala completamente, deshaciendo los grumos.\n3. Incorpora la salsa de tomate, orégano, sal y pimienta. Cocina 8–10 minutos hasta que espese.\n4. En una sartén profunda o una olla ancha, arma capas de berenjena, salsa de carne y mozzarella. Repite y termina con parmesano.\n5. Tapa y cocina a fuego muy bajo 8–10 minutos, vigilando que no se pegue y que el queso se funda. Deja reposar antes de servir.\n\nNo necesitas horno: la tapa conserva el calor y ayuda a fundir el queso.\n\nTIEMPO ESTIMADO: 40–45 MINUTOS. Puedes dorar la berenjena mientras se cocina la salsa para ahorrar tiempo.",
-        "titulo": "Lasaña de berenjena con carne y queso"
+        "contenido": "RECETA PARA DOS · 25–30 MINUTOS · SOLO SARTÉN\n\nIngredientes: 250 g de pechuga de pollo, cuatro tortillas pequeñas, un tomate, ¼ de cebolla, medio limón, cilantro, una pizca de comino y paprika, aceite, sal y pimienta. Opcional: yogur natural para una salsa rápida.\n\nPreparación:\n1. Corta el pollo en tiras finas. Mézclalo con limón, comino, paprika, sal y pimienta.\n2. Calienta una sartén con un poco de aceite y cocina el pollo hasta que esté completamente hecho, removiendo para dorarlo por todos lados.\n3. Para el pico de gallo, corta tomate, cebolla y cilantro en trozos pequeños. Añade limón y una pizca de sal.\n4. Calienta las tortillas en una sartén seca.\n5. Reparte el pollo, añade el pico de gallo y, si quieren, una cucharada de yogur natural.\n\nSi será el almuerzo de mañana, acuerden la receta la noche anterior, revisen qué falta y compren al salir del trabajo. Transporten el pico de gallo separado para que las tortillas no se humedezcan.",
+        "titulo": "Tacos de pollo al limón con pico de gallo"
       },
       "palabraNueva": {
         "contenido": "GRATINAR\n\nDorar la superficie de una preparación mediante calor intenso.\n\nEjemplo: Dejó gratinar el queso hasta formar una capa dorada.",
         "titulo": "Gratinar"
       },
       "buenasNoches": {
-        "contenido": "La última capa no tiene que quedar perfectamente alineada para que la receta valga la pena. Lo importante es que cada parte haya encontrado su lugar.",
+        "contenido": "El limón, el tomate fresco y el pollo dorado hacen una combinación sencilla. Si queda algo preparado, guarda cada parte por separado para que mañana conserve mejor su textura.",
         "titulo": "Buenas noches"
       }
     },
