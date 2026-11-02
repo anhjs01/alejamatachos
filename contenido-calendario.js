@@ -9852,5 +9852,327 @@ const CALENDARIO = [
       "significado": "Reconocimiento y aprecio por algo recibido o vivido.",
       "ejemplo": "La gratitud puede expresarse sin esperar una respuesta ni una devolución."
     }
+  },
+  {
+    "dia": 224,
+    "fecha": "2027-05-27",
+    "fechaTexto": "jue, 27 de may",
+    "categoria": "La cápsula del tiempo de cinco minutos",
+    "icono": "⏱️",
+    "tono": "juego de memoria e imaginación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a guardar un pedacito de este día, sin necesitar una caja ni una foto.",
+    "poema": [
+      "Escriban tres cosas de este momento: qué están escuchando, qué tienen cerca y qué pensamiento les ronda la cabeza. Añadan una predicción pequeña sobre algo que podría pasar esta semana. Guarden el texto con la fecha y vuelvan a leerlo dentro de un mes para ver qué cambió y qué sigue igual.",
+      "Si hacen la actividad juntos, cada quien escribe su propia cápsula y comparte solo lo que quiera."
+    ],
+    "detalle": "Si hacen la actividad juntos, cada quien escribe su propia cápsula y comparte solo lo que quiera.",
+    "buenasNoches": "El presente parece común mientras ocurre; a veces el tiempo es quien nos muestra sus detalles.",
+    "cancionTitulo": "Los Genios de la Botella - Remix Kaztro",
+    "cancionArtista": "Alcolirykoz; Kaztro",
+    "youtubeId": "kfKJQaJ5O9w",
+    "cancionUrl": "https://www.youtube.com/watch?v=kfKJQaJ5O9w",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a guardar un pedacito de este día, sin necesitar una caja ni una foto."
+      },
+      "mensajePrincipal": {
+        "titulo": "La cápsula del tiempo de cinco minutos",
+        "contenido": "Escriban tres cosas de este momento: qué están escuchando, qué tienen cerca y qué pensamiento les ronda la cabeza. Añadan una predicción pequeña sobre algo que podría pasar esta semana. Guarden el texto con la fecha y vuelvan a leerlo dentro de un mes para ver qué cambió y qué sigue igual."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra efímero",
+        "contenido": "Que dura poco tiempo o desaparece pronto. Un instante efímero puede quedarse en la memoria mucho más tiempo."
+      },
+      "buenasNoches": {
+        "contenido": "El presente parece común mientras ocurre; a veces el tiempo es quien nos muestra sus detalles."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Efímero",
+      "significado": "Que dura poco tiempo o desaparece pronto.",
+      "ejemplo": "Un instante efímero puede quedarse en la memoria mucho más tiempo."
+    }
+  },
+  {
+    "dia": 225,
+    "fecha": "2027-05-28",
+    "fechaTexto": "vie, 28 de may",
+    "categoria": "El menú de una noche temática",
+    "icono": "🍿",
+    "tono": "plan casero y cine",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a diseñar una noche temática sin necesidad de gastar mucho.",
+    "poema": [
+      "Elijan un tema —misterio, magia, cine de los noventa, espacio o noche tropical— y armen una propuesta sencilla: una película o capítulo, una bebida sin alcohol y un detalle de ambiente usando cosas que ya tengan. Si incluyen comida, que sea fácil y segura, revisando etiquetas por maní y contaminación cruzada. No hace falta hacerla hoy ni convertirla en una obligación.",
+      "Pónganle nombre a la noche y escriban una invitación de dos líneas como si fuera un evento exclusivo."
+    ],
+    "detalle": "Pónganle nombre a la noche y escriban una invitación de dos líneas como si fuera un evento exclusivo.",
+    "buenasNoches": "Los planes memorables no siempre dependen del presupuesto, sino del cuidado en los detalles.",
+    "cancionTitulo": "Todo Bien Todo Bien",
+    "cancionArtista": "JHT",
+    "youtubeId": "YKP-wTi6zAI",
+    "cancionUrl": "https://www.youtube.com/watch?v=YKP-wTi6zAI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a diseñar una noche temática sin necesidad de gastar mucho."
+      },
+      "mensajePrincipal": {
+        "titulo": "El menú de una noche temática",
+        "contenido": "Elijan un tema —misterio, magia, cine de los noventa, espacio o noche tropical— y armen una propuesta sencilla: una película o capítulo, una bebida sin alcohol y un detalle de ambiente usando cosas que ya tengan. Si incluyen comida, que sea fácil y segura, revisando etiquetas por maní y contaminación cruzada. No hace falta hacerla hoy ni convertirla en una obligación."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra ambientación",
+        "contenido": "Conjunto de elementos que crean el ambiente de un lugar o actividad. Una buena ambientación puede transformar una noche sencilla en una experiencia distinta."
+      },
+      "buenasNoches": {
+        "contenido": "Los planes memorables no siempre dependen del presupuesto, sino del cuidado en los detalles."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Ambientación",
+      "significado": "Conjunto de elementos que crean el ambiente de un lugar o actividad.",
+      "ejemplo": "Una buena ambientación puede transformar una noche sencilla en una experiencia distinta."
+    }
+  },
+  {
+    "dia": 226,
+    "fecha": "2027-05-29",
+    "fechaTexto": "sáb, 29 de may",
+    "categoria": "El desafío de dibujar con la mano contraria",
+    "icono": "✍️",
+    "tono": "reto creativo y humor",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a comprobar qué tan bien nos defendemos cuando cambiamos de mano.",
+    "poema": [
+      "Con una hoja y un lápiz, dibujen un objeto cotidiano usando la mano que normalmente no utilizan. Tienen dos minutos y no pueden borrar. Después intenten escribir su nombre o dibujar una versión más detallada del mismo objeto. Si están a distancia, compartan una foto de los resultados y comparen las interpretaciones.",
+      "Pónganle un título artístico al dibujo y una calificación por creatividad, no por parecido."
+    ],
+    "detalle": "Pónganle un título artístico al dibujo y una calificación por creatividad, no por parecido.",
+    "buenasNoches": "No todo tiene que salir bien para ser divertido; a veces el intento es la mejor parte.",
+    "cancionTitulo": "Síndrome de Estocolmo",
+    "cancionArtista": "Zof Ziro; ZetaZeta; Gambeta",
+    "youtubeId": "cqBtc0KN6RM",
+    "cancionUrl": "https://www.youtube.com/watch?v=cqBtc0KN6RM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a comprobar qué tan bien nos defendemos cuando cambiamos de mano."
+      },
+      "mensajePrincipal": {
+        "titulo": "El desafío de dibujar con la mano contraria",
+        "contenido": "Con una hoja y un lápiz, dibujen un objeto cotidiano usando la mano que normalmente no utilizan. Tienen dos minutos y no pueden borrar. Después intenten escribir su nombre o dibujar una versión más detallada del mismo objeto. Si están a distancia, compartan una foto de los resultados y comparen las interpretaciones."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra destreza",
+        "contenido": "Habilidad para realizar una actividad con precisión o facilidad. La destreza mejora con práctica, pero también se puede disfrutar cuando uno no es experto."
+      },
+      "buenasNoches": {
+        "contenido": "No todo tiene que salir bien para ser divertido; a veces el intento es la mejor parte."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Destreza",
+      "significado": "Habilidad para realizar una actividad con precisión o facilidad.",
+      "ejemplo": "La destreza mejora con práctica, pero también se puede disfrutar cuando uno no es experto."
+    }
+  },
+  {
+    "dia": 227,
+    "fecha": "2027-05-30",
+    "fechaTexto": "dom, 30 de may",
+    "categoria": "El top de escenas que dan escalofríos",
+    "icono": "👻",
+    "tono": "cine y narración",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca hablar de esas escenas que nos dejaron mirando detrás de la puerta.",
+    "poema": [
+      "Cada quien elige una escena de terror, misterio o suspenso que recuerde —de una película, serie, anime o videojuego— y explica qué la hizo efectiva: el sonido, el silencio, la iluminación, el ritmo o lo que no mostraron. No hace falta volver a verla si no quieren; basta con contarla sin revelar más de lo necesario.",
+      "Armen un top tres de recursos que más miedo producen y decidan cuál funciona mejor sin mostrar al monstruo."
+    ],
+    "detalle": "Armen un top tres de recursos que más miedo producen y decidan cuál funciona mejor sin mostrar al monstruo.",
+    "buenasNoches": "A veces lo que la imaginación construye da más miedo que lo que aparece en pantalla.",
+    "cancionTitulo": "Punto Rojo",
+    "cancionArtista": "Granuja; Mañas Ru-Fino",
+    "youtubeId": "_LxBM6wpgLU",
+    "cancionUrl": "https://www.youtube.com/watch?v=_LxBM6wpgLU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca hablar de esas escenas que nos dejaron mirando detrás de la puerta."
+      },
+      "mensajePrincipal": {
+        "titulo": "El top de escenas que dan escalofríos",
+        "contenido": "Cada quien elige una escena de terror, misterio o suspenso que recuerde —de una película, serie, anime o videojuego— y explica qué la hizo efectiva: el sonido, el silencio, la iluminación, el ritmo o lo que no mostraron. No hace falta volver a verla si no quieren; basta con contarla sin revelar más de lo necesario."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra suspenso",
+        "contenido": "Expectativa o tensión que se mantiene ante algo que puede ocurrir. El suspenso funciona cuando la imaginación completa lo que todavía no vemos."
+      },
+      "buenasNoches": {
+        "contenido": "A veces lo que la imaginación construye da más miedo que lo que aparece en pantalla."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Suspenso",
+      "significado": "Expectativa o tensión que se mantiene ante algo que puede ocurrir.",
+      "ejemplo": "El suspenso funciona cuando la imaginación completa lo que todavía no vemos."
+    }
+  },
+  {
+    "dia": 228,
+    "fecha": "2027-05-31",
+    "fechaTexto": "lun, 31 de may",
+    "categoria": "Una conversación sobre límites sanos",
+    "icono": "🧩",
+    "tono": "autoconocimiento y respeto",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la invitación es pensar en algo que ayuda a cuidar nuestro tiempo y tranquilidad.",
+    "poema": [
+      "Completen en privado o compartiendo, si les nace, estas dos frases: «Me siento cómodo cuando…» y «Prefiero que me pregunten antes de…». Pueden hablar de horarios, planes, mensajes, espacio personal o cualquier situación cotidiana. Escuchen la respuesta sin discutirla ni intentar negociar el límite. No hay que contar nada que resulte demasiado personal.",
+      "Elijan una forma sencilla de comunicar un límite con amabilidad y claridad."
+    ],
+    "detalle": "Elijan una forma sencilla de comunicar un límite con amabilidad y claridad.",
+    "buenasNoches": "Respetar un límite no enfría una relación; ayuda a que cada persona pueda estar tranquila.",
+    "cancionTitulo": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+    "cancionArtista": "Wu-Tang Clan",
+    "youtubeId": "4yNQ7_7I5aE",
+    "cancionUrl": "https://www.youtube.com/watch?v=4yNQ7_7I5aE",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la invitación es pensar en algo que ayuda a cuidar nuestro tiempo y tranquilidad."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una conversación sobre límites sanos",
+        "contenido": "Completen en privado o compartiendo, si les nace, estas dos frases: «Me siento cómodo cuando…» y «Prefiero que me pregunten antes de…». Pueden hablar de horarios, planes, mensajes, espacio personal o cualquier situación cotidiana. Escuchen la respuesta sin discutirla ni intentar negociar el límite. No hay que contar nada que resulte demasiado personal."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra asertividad",
+        "contenido": "Capacidad de expresar ideas, necesidades y límites de manera clara y respetuosa. La asertividad permite decir sí o no sin atacar ni tener que dar explicaciones interminables."
+      },
+      "buenasNoches": {
+        "contenido": "Respetar un límite no enfría una relación; ayuda a que cada persona pueda estar tranquila."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Asertividad",
+      "significado": "Capacidad de expresar ideas, necesidades y límites de manera clara y respetuosa.",
+      "ejemplo": "La asertividad permite decir sí o no sin atacar ni tener que dar explicaciones interminables."
+    }
+  },
+  {
+    "dia": 229,
+    "fecha": "2027-06-01",
+    "fechaTexto": "mar, 1 de jun",
+    "categoria": "El bingo de los pequeños detalles",
+    "icono": "🎯",
+    "tono": "juego de observación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Arranca junio con un bingo de detalles que suelen pasar desapercibidos.",
+    "poema": [
+      "En una hoja hagan una cuadrícula de nueve casillas y escriban cosas que podrían encontrar hoy: algo amarillo, una palabra curiosa, una sombra bonita, un sonido de pájaro, un objeto antiguo, una forma de corazón, una textura interesante, algo que huela rico o un gesto amable. Durante el día marquen lo que encuentren, sin forzar situaciones ni tomar fotos de desconocidos.",
+      "Compartan cuál casilla fue la más difícil de completar y cuál les sorprendió encontrar."
+    ],
+    "detalle": "Compartan cuál casilla fue la más difícil de completar y cuál les sorprendió encontrar.",
+    "buenasNoches": "A veces el día cambia un poquito cuando uno sale a buscar detalles en lugar de esperar grandes acontecimientos.",
+    "cancionTitulo": "It Was A Good Day",
+    "cancionArtista": "Ice Cube",
+    "youtubeId": "h4UqMyldS7Q",
+    "cancionUrl": "https://www.youtube.com/watch?v=h4UqMyldS7Q",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Arranca junio con un bingo de detalles que suelen pasar desapercibidos."
+      },
+      "mensajePrincipal": {
+        "titulo": "El bingo de los pequeños detalles",
+        "contenido": "En una hoja hagan una cuadrícula de nueve casillas y escriban cosas que podrían encontrar hoy: algo amarillo, una palabra curiosa, una sombra bonita, un sonido de pájaro, un objeto antiguo, una forma de corazón, una textura interesante, algo que huela rico o un gesto amable. Durante el día marquen lo que encuentren, sin forzar situaciones ni tomar fotos de desconocidos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra atención plena",
+        "contenido": "Práctica de prestar atención al momento presente con curiosidad y sin juzgar. La atención plena puede empezar por notar algo que normalmente pasaría inadvertido."
+      },
+      "buenasNoches": {
+        "contenido": "A veces el día cambia un poquito cuando uno sale a buscar detalles en lugar de esperar grandes acontecimientos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Atención plena",
+      "significado": "Práctica de prestar atención al momento presente con curiosidad y sin juzgar.",
+      "ejemplo": "La atención plena puede empezar por notar algo que normalmente pasaría inadvertido."
+    }
+  },
+  {
+    "dia": 230,
+    "fecha": "2027-06-02",
+    "fechaTexto": "mié, 2 de jun",
+    "categoria": "La invitación a probar un género nuevo",
+    "icono": "🎼",
+    "tono": "música y curiosidad",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a salir un momento de nuestra zona musical conocida.",
+    "poema": [
+      "Cada quien recomienda una canción de un género que normalmente no escucha: jazz, salsa, bolero, electrónica, metal, música clásica, folclor o cualquier otro. La otra persona la escucha completa o un fragmento y comenta qué instrumento, ritmo o detalle le llamó la atención. No se trata de calificarla como buena o mala, sino de descubrir algo nuevo.",
+      "Creen una categoría llamada «No lo escuchaba, pero…» y guarden la recomendación que más les sorprendió."
+    ],
+    "detalle": "Creen una categoría llamada «No lo escuchaba, pero…» y guarden la recomendación que más les sorprendió.",
+    "buenasNoches": "Tener gustos propios no impide dejar una puerta abierta a sonidos distintos.",
+    "cancionTitulo": "Gangsta's Paradise",
+    "cancionArtista": "Coolio; L.V.",
+    "youtubeId": "SQCSxqScSVQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=SQCSxqScSVQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a salir un momento de nuestra zona musical conocida."
+      },
+      "mensajePrincipal": {
+        "titulo": "La invitación a probar un género nuevo",
+        "contenido": "Cada quien recomienda una canción de un género que normalmente no escucha: jazz, salsa, bolero, electrónica, metal, música clásica, folclor o cualquier otro. La otra persona la escucha completa o un fragmento y comenta qué instrumento, ritmo o detalle le llamó la atención. No se trata de calificarla como buena o mala, sino de descubrir algo nuevo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra  eclecticismo",
+        "contenido": "Apertura a disfrutar y combinar estilos, ideas o influencias diferentes. El eclecticismo permite descubrir algo valioso fuera de lo que solemos elegir."
+      },
+      "buenasNoches": {
+        "contenido": "Tener gustos propios no impide dejar una puerta abierta a sonidos distintos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": " eclecticismo",
+      "significado": "Apertura a disfrutar y combinar estilos, ideas o influencias diferentes.",
+      "ejemplo": "El eclecticismo permite descubrir algo valioso fuera de lo que solemos elegir."
+    }
   }
 ];
