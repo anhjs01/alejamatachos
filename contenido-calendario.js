@@ -14859,10 +14859,10 @@ const CALENDARIO = [
     ],
     "detalle": "Elige un objeto ganador y redacta una etiqueta de exposición de máximo veinte palabras.",
     "buenasNoches": "Lo extraordinario a veces no está en encontrar algo nuevo, sino en mirar de otra manera lo que ya tenemos.",
-    "cancionTitulo": "Uptown Funk",
-    "cancionArtista": "Mark Ronson ft. Bruno Mars",
-    "youtubeId": "YlUKcNNmywk",
-    "cancionUrl": "https://www.youtube.com/watch?v=YlUKcNNmywk",
+    "cancionTitulo": "They Reminisce Over You (T.R.O.Y.)",
+    "cancionArtista": "Pete Rock & C.L. Smooth",
+    "youtubeId": "qs0ou8b9GS8",
+    "cancionUrl": "https://www.youtube.com/watch?v=qs0ou8b9GS8",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -14885,7 +14885,8 @@ const CALENDARIO = [
       "palabra": "Mesura",
       "significado": "Moderación y equilibrio al actuar o expresar algo.",
       "ejemplo": "La ficha del objeto tenía humor, pero estaba escrita con mesura y precisión."
-    }
+    },
+    "inspiracionCancion": "Hip-hop nostálgico para acompañar el ejercicio de contar historias a partir de objetos cotidianos."
   },
   {
     "dia": 316,
@@ -15000,10 +15001,10 @@ const CALENDARIO = [
     ],
     "detalle": "Haz una versión de dos colores y otra de tres; decide cuál se ve más apetecible.",
     "buenasNoches": "Los pequeños gustos también merecen su momento de presentación.",
-    "cancionTitulo": "Rolling in the Deep",
-    "cancionArtista": "Adele",
-    "youtubeId": "hLQl3WQQoQ0",
-    "cancionUrl": "https://www.youtube.com/watch?v=hLQl3WQQoQ0",
+    "cancionTitulo": "Feel So Good",
+    "cancionArtista": "Mase",
+    "youtubeId": "rIvEiTrq9kk",
+    "cancionUrl": "https://www.youtube.com/watch?v=rIvEiTrq9kk",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15026,7 +15027,8 @@ const CALENDARIO = [
       "palabra": "Atemporal",
       "significado": "Que no está limitado a una época o moda determinada.",
       "ejemplo": "Una combinación sencilla puede tener un encanto atemporal."
-    }
+    },
+    "inspiracionCancion": "Una canción ligera y enérgica para acompañar una receta sencilla sin convertir la cocina en una tarea."
   },
   {
     "dia": 319,
@@ -15331,8 +15333,8 @@ const CALENDARIO = [
     "buenasNoches": "La creatividad también se prueba con lo que hay en la nevera y un poco de imaginación.",
     "cancionTitulo": "Wrecking Ball",
     "cancionArtista": "Miley Cyrus",
-    "youtubeId": "fLexgOxsZu0",
-    "cancionUrl": "https://www.youtube.com/watch?v=fLexgOxsZu0",
+    "youtubeId": "My2FRPA3Gf8",
+    "cancionUrl": "https://www.youtube.com/watch?v=My2FRPA3Gf8",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15355,7 +15357,8 @@ const CALENDARIO = [
       "palabra": "Esbozo",
       "significado": "Diseño o descripción inicial de una idea, todavía sin desarrollar por completo.",
       "ejemplo": "El primer esbozo del postre fue simple, pero ya tenía buena pinta."
-    }
+    },
+    "inspiracionCancion": "Una canción intensa para acompañar una idea sobre cambios y decisiones, sin asumir que todo tiene que resolverse de inmediato."
   },
   {
     "dia": 326,
@@ -15423,10 +15426,10 @@ const CALENDARIO = [
     ],
     "detalle": "Haz una versión monocromática para comprobar si el símbolo sigue siendo reconocible.",
     "buenasNoches": "No necesitas tener todo resuelto para reconocer qué cosas te están formando.",
-    "cancionTitulo": "Firework",
-    "cancionArtista": "Katy Perry",
-    "youtubeId": "KQ6zr6kCPj8",
-    "cancionUrl": "https://www.youtube.com/watch?v=KQ6zr6kCPj8",
+    "cancionTitulo": "Not Afraid",
+    "cancionArtista": "Eminem",
+    "youtubeId": "j5-yKhDd64s",
+    "cancionUrl": "https://www.youtube.com/watch?v=j5-yKhDd64s",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15449,7 +15452,8 @@ const CALENDARIO = [
       "palabra": "Impronta",
       "significado": "Huella o marca que algo deja en una persona o cosa.",
       "ejemplo": "Aquella experiencia dejó una impronta que todavía inspiraba sus decisiones."
-    }
+    },
+    "inspiracionCancion": "Una canción de confianza y determinación para un reto de identidad y expresión artística."
   },
   {
     "dia": 328,
@@ -15470,8 +15474,8 @@ const CALENDARIO = [
     ],
     "detalle": "Guarden la habilidad elegida como idea para una actividad futura, sin convertirla en obligación.",
     "buenasNoches": "Hay preguntas pequeñas que terminan mostrando rincones enormes de la imaginación.",
-    "cancionTitulo": "Counting Stars",
-    "cancionArtista": "OneRepublic",
+    "cancionTitulo": "Faded",
+    "cancionArtista": "Alan Walker",
     "youtubeId": "60ItHLz5WEA",
     "cancionUrl": "https://www.youtube.com/watch?v=60ItHLz5WEA",
     "cartas": {
@@ -15496,7 +15500,8 @@ const CALENDARIO = [
       "palabra": "Afluencia",
       "significado": "Llegada abundante o continua de personas, cosas o ideas.",
       "ejemplo": "La conversación tomó afluencia cuando cada respuesta despertó otra pregunta."
-    }
+    },
+    "inspiracionCancion": "Una atmósfera electrónica e introspectiva para acompañar una conversación cercana."
   },
   {
     "dia": 329,
@@ -15517,10 +15522,10 @@ const CALENDARIO = [
     ],
     "detalle": "Crea un diploma oficial para el talento más inútil y entrégalo con solemnidad.",
     "buenasNoches": "No todos los talentos tienen que impresionar; algunos solo tienen que hacernos reír.",
-    "cancionTitulo": "Take On Me",
-    "cancionArtista": "a-ha",
-    "youtubeId": "M7lc1UVf-VE",
-    "cancionUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE",
+    "cancionTitulo": "Let's Get It Started",
+    "cancionArtista": "The Black Eyed Peas",
+    "youtubeId": "IKqV7DB8Iwg",
+    "cancionUrl": "https://www.youtube.com/watch?v=IKqV7DB8Iwg",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15543,7 +15548,8 @@ const CALENDARIO = [
       "palabra": "Altruismo",
       "significado": "Actitud de procurar el bien de otras personas incluso sin buscar beneficio propio.",
       "ejemplo": "Su altruismo se notó cuando ayudó sin esperar reconocimiento."
-    }
+    },
+    "inspiracionCancion": "Un impulso enérgico para un reto de humor e imaginación."
   },
   {
     "dia": 330,
@@ -15564,10 +15570,10 @@ const CALENDARIO = [
     ],
     "detalle": "Ponle nombre a la gota y escribe una postal desde su parada favorita.",
     "buenasNoches": "Hasta una gota puede tener una historia enorme si seguimos su recorrido.",
-    "cancionTitulo": "Viva La Vida",
+    "cancionTitulo": "The Scientist",
     "cancionArtista": "Coldplay",
-    "youtubeId": "pRpeEdMmmQ0",
-    "cancionUrl": "https://www.youtube.com/watch?v=pRpeEdMmmQ0",
+    "youtubeId": "RB-RcX5DS5A",
+    "cancionUrl": "https://www.youtube.com/watch?v=RB-RcX5DS5A",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15590,7 +15596,8 @@ const CALENDARIO = [
       "palabra": "Beneplácito",
       "significado": "Aprobación o satisfacción ante algo que se considera positivo.",
       "ejemplo": "La propuesta recibió el beneplácito de todos después de escuchar sus razones."
-    }
+    },
+    "inspiracionCancion": "Una canción contemplativa que acompaña la curiosidad y el deseo de entender cómo funcionan las cosas."
   },
   {
     "dia": 331,
@@ -15658,10 +15665,10 @@ const CALENDARIO = [
     ],
     "detalle": "Haz una segunda versión que parezca un animal o una criatura inventada.",
     "buenasNoches": "La imaginación puede aparecer incluso en una pared vacía cuando cambia la luz.",
-    "cancionTitulo": "Clint Eastwood",
-    "cancionArtista": "Gorillaz",
-    "youtubeId": "aJOTlE1K90k",
-    "cancionUrl": "https://www.youtube.com/watch?v=aJOTlE1K90k",
+    "cancionTitulo": "Renace",
+    "cancionArtista": "Frank Takuma",
+    "youtubeId": "Yp3XIOGV6pU",
+    "cancionUrl": "https://www.youtube.com/watch?v=Yp3XIOGV6pU",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15684,7 +15691,8 @@ const CALENDARIO = [
       "palabra": "Denuedo",
       "significado": "Valor y decisión para afrontar una tarea difícil.",
       "ejemplo": "Con denuedo intentó una composición nueva hasta lograr una silueta interesante."
-    }
+    },
+    "inspiracionCancion": "Hip-hop en español para acompañar un reto de dibujo y expresión personal."
   },
   {
     "dia": 333,
@@ -15707,8 +15715,8 @@ const CALENDARIO = [
     "buenasNoches": "No todos los días piden grandes respuestas; algunos solo necesitan un poco de paciencia.",
     "cancionTitulo": "Unwritten",
     "cancionArtista": "Natasha Bedingfield",
-    "youtubeId": "5qap5aO4i9A",
-    "cancionUrl": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+    "youtubeId": "b7k0a5hYnSI",
+    "cancionUrl": "https://www.youtube.com/watch?v=b7k0a5hYnSI",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15731,7 +15739,8 @@ const CALENDARIO = [
       "palabra": "Fisonomía",
       "significado": "Aspecto exterior o conjunto de rasgos característicos de algo.",
       "ejemplo": "El manual adquirió una fisonomía propia al reunir consejos muy personales y concretos."
-    }
+    },
+    "inspiracionCancion": "Una canción luminosa para acompañar una actividad de autoconocimiento y nuevos comienzos."
   },
   {
     "dia": 334,
@@ -15754,8 +15763,8 @@ const CALENDARIO = [
     "buenasNoches": "Hasta el personaje que pasa desapercibido puede guardar la mejor parte del relato.",
     "cancionTitulo": "The Lazy Song",
     "cancionArtista": "Bruno Mars",
-    "youtubeId": "DkeiKbqa02g",
-    "cancionUrl": "https://www.youtube.com/watch?v=DkeiKbqa02g",
+    "youtubeId": "fLexgOxsZu0",
+    "cancionUrl": "https://www.youtube.com/watch?v=fLexgOxsZu0",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15778,7 +15787,8 @@ const CALENDARIO = [
       "palabra": "Heterogéneo",
       "significado": "Formado por elementos de distinta clase o naturaleza.",
       "ejemplo": "El grupo heterogéneo de personajes secundarios dio a la historia más matices."
-    }
+    },
+    "inspiracionCancion": "Un tono relajado y juguetón para una actividad de cine y narración."
   },
   {
     "dia": 335,
@@ -16128,10 +16138,10 @@ const CALENDARIO = [
     ],
     "detalle": "Evita los elogios genéricos: menciona el gesto exacto que hizo la diferencia.",
     "buenasNoches": "A veces unas pocas palabras precisas hacen visible algo bueno que pudo pasar inadvertido.",
-    "cancionTitulo": "Levitating",
-    "cancionArtista": "Dua Lipa",
-    "youtubeId": "VbfpW0pbvaU",
-    "cancionUrl": "https://www.youtube.com/watch?v=VbfpW0pbvaU",
+    "cancionTitulo": "Give It Up to Me",
+    "cancionArtista": "Sean Paul",
+    "youtubeId": "kdzGENHQ-rk",
+    "cancionUrl": "https://www.youtube.com/watch?v=kdzGENHQ-rk",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -16154,7 +16164,8 @@ const CALENDARIO = [
       "palabra": "Reparo",
       "significado": "Observación, objeción o cuidado que se expresa ante algo; también, protección o resguardo.",
       "ejemplo": "No tuvo reparo en agradecer aquel gesto concreto y oportuno."
-    }
+    },
+    "inspiracionCancion": "Ritmo ligero para acompañar un día de reconocimiento y afecto."
   },
   {
     "dia": 343,
@@ -16177,8 +16188,8 @@ const CALENDARIO = [
     "buenasNoches": "No todos los resultados inesperados son fracasos. Algunos terminan siendo una forma distinta de aprender.",
     "cancionTitulo": "The Nights",
     "cancionArtista": "Avicii",
-    "youtubeId": "L_jWHffIx5E",
-    "cancionUrl": "https://www.youtube.com/watch?v=L_jWHffIx5E",
+    "youtubeId": "UtF6Jej8yb4",
+    "cancionUrl": "https://www.youtube.com/watch?v=UtF6Jej8yb4",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -16201,7 +16212,8 @@ const CALENDARIO = [
       "palabra": "Zozobra",
       "significado": "Inquietud o angustia ante una situación incierta.",
       "ejemplo": "La zozobra desapareció cuando por fin supieron qué había ocurrido."
-    }
+    },
+    "inspiracionCancion": "Una canción sobre vivir experiencias memorables para acompañar el aprendizaje a partir de errores."
   },
   {
     "dia": 344,
@@ -16224,8 +16236,8 @@ const CALENDARIO = [
     "buenasNoches": "La vida también tiene escenas pequeñas que merecen una banda sonora épica.",
     "cancionTitulo": "Feel Good Inc.",
     "cancionArtista": "Gorillaz",
-    "youtubeId": "xvFZjo5PgG0",
-    "cancionUrl": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+    "youtubeId": "HyHNuVaZJ-k",
+    "cancionUrl": "https://www.youtube.com/watch?v=HyHNuVaZJ-k",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -16248,7 +16260,8 @@ const CALENDARIO = [
       "palabra": "Ataraxia",
       "significado": "Estado de serenidad y tranquilidad del ánimo.",
       "ejemplo": "Encontró un instante de ataraxia al desconectarse del ruido."
-    }
+    },
+    "inspiracionCancion": "Un ritmo alternativo y juguetón para una actividad narrativa."
   },
   {
     "dia": 345,
@@ -16410,10 +16423,10 @@ const CALENDARIO = [
     ],
     "detalle": "La recomendación debe venir acompañada de una razón concreta, no solo de «porque sí».",
     "buenasNoches": "Descubrir algo nuevo a veces empieza por aceptar una recomendación fuera de nuestro radar.",
-    "cancionTitulo": "Take On Me",
-    "cancionArtista": "a-ha",
-    "youtubeId": "YqeW9_5kURI",
-    "cancionUrl": "https://www.youtube.com/watch?v=YqeW9_5kURI",
+    "cancionTitulo": "I Like It (I Wanna Be Where You Are)",
+    "cancionArtista": "Grand Puba",
+    "youtubeId": "yn7KoADZlRk",
+    "cancionUrl": "https://www.youtube.com/watch?v=yn7KoADZlRk",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -16436,7 +16449,8 @@ const CALENDARIO = [
       "palabra": "Perenne",
       "significado": "Que permanece o dura a través del tiempo.",
       "ejemplo": "Una recomendación perenne sigue encontrando público con los años."
-    }
+    },
+    "inspiracionCancion": "Una selección de hip-hop para acompañar la curiosidad y el descubrimiento."
   },
   {
     "dia": 349,
