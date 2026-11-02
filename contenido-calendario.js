@@ -2692,169 +2692,337 @@ const CALENDARIO = [
     "dia": 57,
     "fecha": "2026-12-11",
     "fechaTexto": "vie, 11 de dic",
-    "categoria": "Un atardecer con tonos inesperados",
-    "icono": "🌄",
-    "tono": "ambiente",
+    "categoria": "El torneo de los talentos absurdos",
+    "icono": "🏆",
+    "tono": "juguetón",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Si el cielo se pinta bonito esta tarde, regálate un minuto para mirarlo. Tú que te fijas en los colores sabes que hay tonos que duran poco y aun así se quedan en la memoria.",
+    "buenosDias": "Hoy no gana quien sea mejor en todo; gana quien consiga hacernos reír más.",
     "poema": [
-      "Tú seguramente encontrarías el tono exacto para describirlo, mientras yo diría algo como «naranja rosado» y tú me mirarías con decepción artística.",
-      "Si hoy ves uno bonito, corazón, me gustaría saber cómo lo describirías. Me fío más de tu ojo para los colores que del mío."
+      "Preparen papelitos y escriban seis talentos absurdos: doblar una servilleta de la forma más elegante, inventar un anuncio para una cuchara, imitar el sonido de un objeto, dibujar un gato en diez segundos, vender una piedra como si fuera un artículo de lujo y crear un saludo secreto. Cada uno saca tres retos al azar y tiene treinta segundos para cumplirlos. El otro hace de jurado y entrega hasta tres puntos por creatividad, interpretación y capacidad de convencer. En la final, ambos deben inventar juntos un comercial de veinte segundos para un objeto que tengan cerca. No se permiten repetir ideas de la ronda anterior. El premio puede ser escoger la próxima canción, elegir el postre o recibir un cumplido personalizado. ¿Cuál de tus talentos más inesperados debería conocer el mundo?",
+      "Ingenio: Capacidad para inventar soluciones o ideas originales con rapidez. El ingenio convierte cualquier objeto cotidiano en parte de un juego."
     ],
-    "detalle": "Cuando el atardecer pinte el cielo de un color inesperado, ojalá te encuentre con un minuto libre para verlo. Tú que aprecias tanto los detalles mereces no pasar de largo frente a uno de esos.",
-    "buenasNoches": "Buenas noches, amor. Ojalá te hayas detenido un momento a mirar el cielo, aunque haya sido desde una ventana y con mil cosas por hacer.",
-    "cancionTitulo": "Apocalypse",
-    "cancionArtista": "Cigarettes After Sex",
-    "youtubeId": "sElE_BfQ67s",
-    "cancionUrl": "https://www.youtube.com/watch?v=sElE_BfQ67s"
+    "detalle": "Preparen papelitos y escriban seis talentos absurdos: doblar una servilleta de la forma más elegante, inventar un anuncio para una cuchara, imitar el sonido de un objeto, dibujar un gato en diez segundos, vender una piedra como si fuera un artículo de lujo y crear un saludo secreto. Cada uno saca tres retos al azar y tiene treinta segundos para cumplirlos. El otro hace de jurado y entrega hasta tres puntos por creatividad, interpretación y capacidad de convencer. En la final, ambos deben inventar juntos un comercial de veinte segundos para un objeto que tengan cerca. No se permiten repetir ideas de la ronda anterior. El premio puede ser escoger la próxima canción, elegir el postre o recibir un cumplido personalizado. ¿Cuál de tus talentos más inesperados debería conocer el mundo?",
+    "buenasNoches": "Me gusta cuando podemos hacer el ridículo sin preocuparnos demasiado. Es una forma bastante bonita de sentir confianza.",
+    "cancionTitulo": "Moment Of Your Life (feat. Coco Jones)",
+    "cancionArtista": "Brent Faiyaz; Coco Jones",
+    "youtubeId": "Jv17JsayCSI",
+    "cancionUrl": "https://www.youtube.com/watch?v=Jv17JsayCSI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, contrincante",
+        "contenido": "Hoy no gana quien sea mejor en todo; gana quien consiga hacernos reír más."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tres pruebas y una gran final",
+        "contenido": "Preparen papelitos y escriban seis talentos absurdos: doblar una servilleta de la forma más elegante, inventar un anuncio para una cuchara, imitar el sonido de un objeto, dibujar un gato en diez segundos, vender una piedra como si fuera un artículo de lujo y crear un saludo secreto. Cada uno saca tres retos al azar y tiene treinta segundos para cumplirlos. El otro hace de jurado y entrega hasta tres puntos por creatividad, interpretación y capacidad de convencer. En la final, ambos deben inventar juntos un comercial de veinte segundos para un objeto que tengan cerca. No se permiten repetir ideas de la ronda anterior. El premio puede ser escoger la próxima canción, elegir el postre o recibir un cumplido personalizado. ¿Cuál de tus talentos más inesperados debería conocer el mundo?"
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra para improvisar",
+        "contenido": "Ingenio: Capacidad para inventar soluciones o ideas originales con rapidez. El ingenio convierte cualquier objeto cotidiano en parte de un juego."
+      },
+      "buenasNoches": {
+        "titulo": "El marcador no importa tanto",
+        "contenido": "Me gusta cuando podemos hacer el ridículo sin preocuparnos demasiado. Es una forma bastante bonita de sentir confianza."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Ingenio",
+      "significado": "Capacidad para inventar soluciones o ideas originales con rapidez.",
+      "ejemplo": "El ingenio convierte cualquier objeto cotidiano en parte de un juego."
+    },
+    "inspiracionCancion": "Una canción para acompañar el ambiente de el torneo de los talentos absurdos."
   },
   {
     "dia": 58,
     "fecha": "2026-12-12",
     "fechaTexto": "sáb, 12 de dic",
-    "categoria": "La nostalgia bonita de un bolero",
-    "icono": "🎼",
-    "tono": "ambiente",
+    "categoria": "La banda sonora de nuestras versiones",
+    "icono": "🎧",
+    "tono": "profundo",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Hoy le toca al bolero: una melodía con espacio para respirar y, si aparece el saxofón, mejor. Hay canciones que coquetean sin levantar la voz.",
+    "buenosDias": "Hay canciones que parecen guardar una versión distinta de nosotros. Hoy vamos a encontrarlas.",
     "poema": [
-      "Me pregunto qué letra te haría sonreír de ladito, como cuando alguien dice algo bonito y tú intentas actuar como si no te hubiera gustado tanto.",
-      "Pon tu bolero favorito, mi vida. Y si el saxofón entra justo en el momento indicado, imagina que te estoy dedicando esa parte desde algún rincón, haciéndome el misterioso sin mucho éxito."
+      "Cada uno elige cinco canciones para cinco escenas: una mañana que quisiera repetir, un viaje que le gustaría hacer, una situación que siempre le hace reír, una canción para bailar y una que describa cómo se siente últimamente. Escuchen fragmentos y expliquen por qué eligieron cada una. La otra persona puede hacer una pregunta por canción, pero no puede cambiar la selección. Después creen una lista compartida con las dos canciones favoritas de cada uno y pónganle un nombre. Si alguna elección sorprende, déjenla sonar completa antes de juzgarla. No hace falta que coincidan en gustos: la idea es descubrir qué historias hay detrás de cada sonido. ¿Qué canción pondrías en una escena que todavía no hemos vivido?",
+      "Ecléctico: Que reúne elementos variados y de estilos diferentes. Una lista ecléctica puede pasar del bolero al R&B sin perder personalidad."
     ],
-    "detalle": "Si hoy un bolero te trae una nostalgia suave, no tienes que explicársela a nadie. Hay canciones que abren una ventanita por dentro y luego se quedan acompañando sin hacer ruido.",
-    "buenasNoches": "Descansa, mi vida. Si hoy una canción te movió algún recuerdo, no tienes que resolverlo esta noche. Déjalo acompañarte un momento y luego duerme.",
-    "cancionTitulo": "By Your Side",
-    "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4",
-    "cancionUrl": "https://www.youtube.com/watch?v=C8QJmI_V3j4"
+    "detalle": "Cada uno elige cinco canciones para cinco escenas: una mañana que quisiera repetir, un viaje que le gustaría hacer, una situación que siempre le hace reír, una canción para bailar y una que describa cómo se siente últimamente. Escuchen fragmentos y expliquen por qué eligieron cada una. La otra persona puede hacer una pregunta por canción, pero no puede cambiar la selección. Después creen una lista compartida con las dos canciones favoritas de cada uno y pónganle un nombre. Si alguna elección sorprende, déjenla sonar completa antes de juzgarla. No hace falta que coincidan en gustos: la idea es descubrir qué historias hay detrás de cada sonido. ¿Qué canción pondrías en una escena que todavía no hemos vivido?",
+    "buenasNoches": "Ojalá siempre tengamos canciones nuevas que recomendarnos y otras que, sin planearlo, terminen recordándonos una conversación.",
+    "cancionTitulo": "La Noche y Tú",
+    "cancionArtista": "Barbaro el Urbano Vargas",
+    "youtubeId": "XSN_8UblItk",
+    "cancionUrl": "https://www.youtube.com/watch?v=XSN_8UblItk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, hoy elegimos sonidos",
+        "contenido": "Hay canciones que parecen guardar una versión distinta de nosotros. Hoy vamos a encontrarlas."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una canción para cada escena",
+        "contenido": "Cada uno elige cinco canciones para cinco escenas: una mañana que quisiera repetir, un viaje que le gustaría hacer, una situación que siempre le hace reír, una canción para bailar y una que describa cómo se siente últimamente. Escuchen fragmentos y expliquen por qué eligieron cada una. La otra persona puede hacer una pregunta por canción, pero no puede cambiar la selección. Después creen una lista compartida con las dos canciones favoritas de cada uno y pónganle un nombre. Si alguna elección sorprende, déjenla sonar completa antes de juzgarla. No hace falta que coincidan en gustos: la idea es descubrir qué historias hay detrás de cada sonido. ¿Qué canción pondrías en una escena que todavía no hemos vivido?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de las mezclas",
+        "contenido": "Ecléctico: Que reúne elementos variados y de estilos diferentes. Una lista ecléctica puede pasar del bolero al R&B sin perder personalidad."
+      },
+      "buenasNoches": {
+        "titulo": "Que siga sonando",
+        "contenido": "Ojalá siempre tengamos canciones nuevas que recomendarnos y otras que, sin planearlo, terminen recordándonos una conversación."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Ecléctico",
+      "significado": "Que reúne elementos variados y de estilos diferentes.",
+      "ejemplo": "Una lista ecléctica puede pasar del bolero al R&B sin perder personalidad."
+    },
+    "inspiracionCancion": "Una canción para acompañar el ambiente de la banda sonora de nuestras versiones."
   },
   {
     "dia": 59,
     "fecha": "2026-12-13",
     "fechaTexto": "dom, 13 de dic",
-    "categoria": "Una canción que acompaña sin estorbar",
-    "icono": "🎛️",
-    "tono": "ambiente",
+    "categoria": "El reto de la mirada y la insinuación",
+    "icono": "😉",
+    "tono": "coqueto",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, corazón. Que hoy encuentres una canción que te acompañe sin exigirte nada, como esa compañía con la que puedes estar en silencio y seguir sintiéndote a gusto.",
+    "buenosDias": "Hay conversaciones que se vuelven más divertidas cuando una frase deja una pequeña pista.",
     "poema": [
-      "A veces uno necesita bajar el volumen de todo y dejar que una melodía ocupe el espacio. No para huir del día, sino para volver a él con la cabeza un poco más despejada.",
-      "Si hoy encuentras esa canción, guárdala. Y si te acuerdas de mí al escucharla, bueno… no voy a fingir que no me gustaría saberlo."
+      "Escriban por separado cinco comienzos de frase: «Me parece irresistible cuando…», «Una cita que me sorprendería sería…», «La forma más curiosa de llamar mi atención es…», «Si esta noche fuera una escena de película…» y «Algo que me da curiosidad preguntarte es…». Mézclenlos y saquen uno por turno. Cada persona completa la frase para sí misma y, si quiere, intenta adivinar la respuesta del otro. Después comparen y conversen. Pueden mantener las respuestas dulces, divertidas o un poco más atrevidas, siempre con libertad de pasar una pregunta o cambiarla. No hay puntos ni respuestas correctas: la gracia está en descubrir qué les causa curiosidad. ¿Qué gesto pequeño te parece especialmente coqueto?",
+      "Insinuación: Expresión indirecta que sugiere una idea sin decirla por completo. Una insinuación juguetona puede dejar espacio para que la imaginación complete la frase."
     ],
-    "detalle": "Elige música que te deje estar en paz contigo misma. No todos los días necesitan una banda sonora épica; algunos solo necesitan un ritmo amable y que nadie te pregunte cinco cosas a la vez.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá la música de mañana te encuentre de buen ánimo, pero si no, también puede acompañarte en los días más silenciosos.",
-    "cancionTitulo": "Lost & Found",
-    "cancionArtista": "Jorja Smith",
-    "youtubeId": "9xZ6P4Sinvw",
-    "cancionUrl": "https://www.youtube.com/watch?v=9xZ6P4Sinvw"
+    "detalle": "Escriban por separado cinco comienzos de frase: «Me parece irresistible cuando…», «Una cita que me sorprendería sería…», «La forma más curiosa de llamar mi atención es…», «Si esta noche fuera una escena de película…» y «Algo que me da curiosidad preguntarte es…». Mézclenlos y saquen uno por turno. Cada persona completa la frase para sí misma y, si quiere, intenta adivinar la respuesta del otro. Después comparen y conversen. Pueden mantener las respuestas dulces, divertidas o un poco más atrevidas, siempre con libertad de pasar una pregunta o cambiarla. No hay puntos ni respuestas correctas: la gracia está en descubrir qué les causa curiosidad. ¿Qué gesto pequeño te parece especialmente coqueto?",
+    "buenasNoches": "A veces no hace falta resolver todas las pistas. Me gusta cuando una conversación puede ser ligera, cómplice y dejar una sonrisa para después.",
+    "cancionTitulo": "Put Your Records On",
+    "cancionArtista": "Corinne Bailey Rae",
+    "youtubeId": "oWQl00LWEwE",
+    "cancionUrl": "https://www.youtube.com/watch?v=oWQl00LWEwE",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, ¿y si hoy jugamos un poco?",
+        "contenido": "Hay conversaciones que se vuelven más divertidas cuando una frase deja una pequeña pista."
+      },
+      "mensajePrincipal": {
+        "titulo": "Frases incompletas, respuestas inesperadas",
+        "contenido": "Escriban por separado cinco comienzos de frase: «Me parece irresistible cuando…», «Una cita que me sorprendería sería…», «La forma más curiosa de llamar mi atención es…», «Si esta noche fuera una escena de película…» y «Algo que me da curiosidad preguntarte es…». Mézclenlos y saquen uno por turno. Cada persona completa la frase para sí misma y, si quiere, intenta adivinar la respuesta del otro. Después comparen y conversen. Pueden mantener las respuestas dulces, divertidas o un poco más atrevidas, siempre con libertad de pasar una pregunta o cambiarla. No hay puntos ni respuestas correctas: la gracia está en descubrir qué les causa curiosidad. ¿Qué gesto pequeño te parece especialmente coqueto?"
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra entre pistas",
+        "contenido": "Insinuación: Expresión indirecta que sugiere una idea sin decirla por completo. Una insinuación juguetona puede dejar espacio para que la imaginación complete la frase."
+      },
+      "buenasNoches": {
+        "titulo": "Una sonrisa como respuesta",
+        "contenido": "A veces no hace falta resolver todas las pistas. Me gusta cuando una conversación puede ser ligera, cómplice y dejar una sonrisa para después."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Insinuación",
+      "significado": "Expresión indirecta que sugiere una idea sin decirla por completo.",
+      "ejemplo": "Una insinuación juguetona puede dejar espacio para que la imaginación complete la frase."
+    },
+    "inspiracionCancion": "Una canción para acompañar el ambiente de el reto de la mirada y la insinuación."
   },
   {
     "dia": 60,
     "fecha": "2026-12-14",
     "fechaTexto": "lun, 14 de dic",
-    "categoria": "Tu ropa, tu ritmo",
-    "icono": "🧢",
-    "tono": "filosofica",
+    "categoria": "Una cena cremosa en sartén",
+    "icono": "🍄",
+    "tono": "hogareño",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Buenos días, bonita. Ponte algo cómodo, sal con tu estilo y no pierdas tiempo tratando de parecer otra persona. Así, tal cual, ya tienes lo tuyo.",
+    "buenosDias": "Una receta para preparar juntos, repartir tareas y terminar con algo rico en la mesa.",
     "poema": [
-      "Me gusta la ropa amplia porque parece dar permiso para moverse sin pensar tanto en cómo se ve cada cosa. Y me gusta más cuando alguien la lleva con esa seguridad tranquila que hace que todo parezca suyo.",
-      "Que hoy te sientas cómoda contigo, mi vida. Y si te ves al espejo y piensas «me veo linda», por favor no discutas contigo misma."
+      "Ingredientes para dos: una taza de arroz, 200 g de champiñones, dos puñados de espinaca, media cebolla, un diente de ajo, dos cucharadas de mantequilla o aceite, media taza de leche, un cuarto de taza de queso rallado, dos tazas de agua o caldo, sal, pimienta y una pizca de paprika. Piquen cebolla y ajo; corten los champiñones en láminas. En una sartén amplia sofrían la cebolla con mantequilla durante tres minutos, agreguen ajo y champiñones y cocinen hasta que pierdan parte de su agua y se doren. Añadan el arroz y mezclen un minuto. Incorporen el caldo caliente poco a poco, revolviendo y dejando que se absorba antes de agregar más, hasta que el arroz esté tierno; puede tomar entre quince y veinte minutos según el tipo. Agreguen la leche, la espinaca y el queso; mezclen hasta que quede cremoso. Ajusten sal, pimienta y paprika. Si se seca antes de estar listo, añadan un poco más de agua caliente. Sirvan de inmediato. ¿Qué ingrediente le pondrías para darle un toque propio?",
+      "Sazón: Combinación de sabores y condimentos que caracteriza una preparación. Cada quien tiene su sazón, incluso cuando sigue la misma receta."
     ],
-    "detalle": "Si hoy te pones una prenda grande y cómoda, que sea porque te gusta y punto. No tienes que justificar tu uniforme favorito ante un comité imaginario de moda.",
-    "buenasNoches": "Que descanses, amor. Mañana puedes volver a elegir tu ropa favorita y seguir siendo tú, sin explicaciones ni permisos.",
-    "cancionTitulo": "good denim",
-    "cancionArtista": "jalen chords",
-    "youtubeId": "_2Lnj5N9lCM",
-    "cancionUrl": "https://www.youtube.com/watch?v=_2Lnj5N9lCM"
+    "detalle": "Ingredientes para dos: una taza de arroz, 200 g de champiñones, dos puñados de espinaca, media cebolla, un diente de ajo, dos cucharadas de mantequilla o aceite, media taza de leche, un cuarto de taza de queso rallado, dos tazas de agua o caldo, sal, pimienta y una pizca de paprika. Piquen cebolla y ajo; corten los champiñones en láminas. En una sartén amplia sofrían la cebolla con mantequilla durante tres minutos, agreguen ajo y champiñones y cocinen hasta que pierdan parte de su agua y se doren. Añadan el arroz y mezclen un minuto. Incorporen el caldo caliente poco a poco, revolviendo y dejando que se absorba antes de agregar más, hasta que el arroz esté tierno; puede tomar entre quince y veinte minutos según el tipo. Agreguen la leche, la espinaca y el queso; mezclen hasta que quede cremoso. Ajusten sal, pimienta y paprika. Si se seca antes de estar listo, añadan un poco más de agua caliente. Sirvan de inmediato. ¿Qué ingrediente le pondrías para darle un toque propio?",
+    "buenasNoches": "No siempre hace falta preparar algo complicado. A veces compartir la sartén, probar la salsa y ajustar el sabor ya es un buen plan.",
+    "cancionTitulo": "Stuck On You",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "UlIgAGotomM",
+    "cancionUrl": "https://www.youtube.com/watch?v=UlIgAGotomM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Hoy cocinamos sin complicarnos",
+        "contenido": "Una receta para preparar juntos, repartir tareas y terminar con algo rico en la mesa."
+      },
+      "mensajePrincipal": {
+        "titulo": "Arroz cremoso con champiñones y espinaca",
+        "contenido": "Ingredientes para dos: una taza de arroz, 200 g de champiñones, dos puñados de espinaca, media cebolla, un diente de ajo, dos cucharadas de mantequilla o aceite, media taza de leche, un cuarto de taza de queso rallado, dos tazas de agua o caldo, sal, pimienta y una pizca de paprika. Piquen cebolla y ajo; corten los champiñones en láminas. En una sartén amplia sofrían la cebolla con mantequilla durante tres minutos, agreguen ajo y champiñones y cocinen hasta que pierdan parte de su agua y se doren. Añadan el arroz y mezclen un minuto. Incorporen el caldo caliente poco a poco, revolviendo y dejando que se absorba antes de agregar más, hasta que el arroz esté tierno; puede tomar entre quince y veinte minutos según el tipo. Agreguen la leche, la espinaca y el queso; mezclen hasta que quede cremoso. Ajusten sal, pimienta y paprika. Si se seca antes de estar listo, añadan un poco más de agua caliente. Sirvan de inmediato. ¿Qué ingrediente le pondrías para darle un toque propio?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del sabor",
+        "contenido": "Sazón: Combinación de sabores y condimentos que caracteriza una preparación. Cada quien tiene su sazón, incluso cuando sigue la misma receta."
+      },
+      "buenasNoches": {
+        "titulo": "Que la cocina también sea recuerdo",
+        "contenido": "No siempre hace falta preparar algo complicado. A veces compartir la sartén, probar la salsa y ajustar el sabor ya es un buen plan."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sazón",
+      "significado": "Combinación de sabores y condimentos que caracteriza una preparación.",
+      "ejemplo": "Cada quien tiene su sazón, incluso cuando sigue la misma receta."
+    },
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una cena cremosa en sartén."
   },
   {
     "dia": 61,
     "fecha": "2026-12-15",
     "fechaTexto": "mar, 15 de dic",
-    "categoria": "El contraste que te gusta en la mora",
-    "icono": "🍧",
-    "tono": "amor",
+    "categoria": "Una cita de personajes inventados",
+    "icono": "🎭",
+    "tono": "juguetón",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, amor. Hoy va un recordatorio muy serio: la mora con cobertura amarga tiene su lugar y no necesita que nadie le cambie la receta.",
+    "buenosDias": "No hace falta saber teatro: solo aceptar por unos minutos una personalidad inventada.",
     "poema": [
-      "Me gustan esos gustos que parecen pequeños pero se quedan en la memoria. Recordarlos es una forma discreta de decir que una conversación no se perdió apenas terminó.",
-      "Ojalá hoy te consientas con algo que te guste de verdad, corazón. Y si aparece esa combinación, quiero saber si sigue mereciendo cinco estrellas."
+      "Cada uno inventa un personaje con nombre, ocupación improbable y una manía graciosa. Escriban tres situaciones en papel: se encuentran por primera vez en una cafetería, deben organizar un viaje sin ponerse de acuerdo o intentan comprar el objeto más inútil del mundo. Saquen una situación al azar y actúen durante dos minutos sin abandonar el personaje. Después cambien de papel e improvisen una segunda escena. Para la última ronda, cada uno añade una frase inesperada que el otro debe incorporar sin romper la historia. Si les cuesta empezar, usen una voz exageradamente formal o inventen una profesión absurda. Graben solo si ambos quieren; también pueden dejarlo como recuerdo privado. ¿Qué personaje crees que me quedaría peligrosamente bien?",
+      "Desparpajo: Espontaneidad y desenvoltura al hablar o actuar, sin demasiada timidez. Con un poco de desparpajo, una situación común puede convertirse en una escena divertida."
     ],
-    "detalle": "Que la combinación de mora y cubierta amarga siga siendo una de esas pequeñas cosas que te alegran. A veces conocer a alguien también es aprender esas preferencias diminutas que parecen insignificantes hasta que quieres sorprenderla.",
-    "buenasNoches": "Buenas noches, bonita. Me gusta que tengas gustos tan tuyos, hasta en esas combinaciones pequeñas que a otra persona quizá ni se le ocurrirían.",
-    "cancionTitulo": "I Want You Around",
-    "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "WdyPcNEA27M",
-    "cancionUrl": "https://www.youtube.com/watch?v=WdyPcNEA27M"
+    "detalle": "Cada uno inventa un personaje con nombre, ocupación improbable y una manía graciosa. Escriban tres situaciones en papel: se encuentran por primera vez en una cafetería, deben organizar un viaje sin ponerse de acuerdo o intentan comprar el objeto más inútil del mundo. Saquen una situación al azar y actúen durante dos minutos sin abandonar el personaje. Después cambien de papel e improvisen una segunda escena. Para la última ronda, cada uno añade una frase inesperada que el otro debe incorporar sin romper la historia. Si les cuesta empezar, usen una voz exageradamente formal o inventen una profesión absurda. Graben solo si ambos quieren; también pueden dejarlo como recuerdo privado. ¿Qué personaje crees que me quedaría peligrosamente bien?",
+    "buenasNoches": "Me gusta descubrir tus versiones inesperadas. Algunas personas tienen más de una personalidad divertida esperando a que alguien les dé pie.",
+    "cancionTitulo": "Will I See You Again?",
+    "cancionArtista": "Thee Sacred Souls",
+    "youtubeId": "IGgb10A_2c8",
+    "cancionUrl": "https://www.youtube.com/watch?v=IGgb10A_2c8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Hoy nos toca actuar",
+        "contenido": "No hace falta saber teatro: solo aceptar por unos minutos una personalidad inventada."
+      },
+      "mensajePrincipal": {
+        "titulo": "Dos personajes, una situación",
+        "contenido": "Cada uno inventa un personaje con nombre, ocupación improbable y una manía graciosa. Escriban tres situaciones en papel: se encuentran por primera vez en una cafetería, deben organizar un viaje sin ponerse de acuerdo o intentan comprar el objeto más inútil del mundo. Saquen una situación al azar y actúen durante dos minutos sin abandonar el personaje. Después cambien de papel e improvisen una segunda escena. Para la última ronda, cada uno añade una frase inesperada que el otro debe incorporar sin romper la historia. Si les cuesta empezar, usen una voz exageradamente formal o inventen una profesión absurda. Graben solo si ambos quieren; también pueden dejarlo como recuerdo privado. ¿Qué personaje crees que me quedaría peligrosamente bien?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de la espontaneidad",
+        "contenido": "Desparpajo: Espontaneidad y desenvoltura al hablar o actuar, sin demasiada timidez. Con un poco de desparpajo, una situación común puede convertirse en una escena divertida."
+      },
+      "buenasNoches": {
+        "titulo": "Aplausos para el elenco",
+        "contenido": "Me gusta descubrir tus versiones inesperadas. Algunas personas tienen más de una personalidad divertida esperando a que alguien les dé pie."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Desparpajo",
+      "significado": "Espontaneidad y desenvoltura al hablar o actuar, sin demasiada timidez.",
+      "ejemplo": "Con un poco de desparpajo, una situación común puede convertirse en una escena divertida."
+    },
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una cita de personajes inventados."
   },
   {
     "dia": 62,
     "fecha": "2026-12-16",
     "fechaTexto": "mié, 16 de dic",
-    "categoria": "Flores para alegrar un día cualquiera",
-    "icono": "🌱",
-    "tono": "amor",
+    "categoria": "Un baile para cambiar el ritmo",
+    "icono": "💃",
+    "tono": "sensual",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Buenos días, mi vida. Ojalá alguien te regale una flor porque sí, no porque lo diga una fecha ni porque haya que compensar algo.",
+    "buenosDias": "Una canción, un espacio cómodo y cero exigencias de hacerlo bien.",
     "poema": [
-      "Un tulipán o una margarita pueden durar poquito, pero el momento de recibirlos se queda más tiempo. Sobre todo si vienen con una nota escrita a mano, de esas que uno guarda aunque diga que no guarda esas cosas.",
-      "Si hoy no hay flores, te dejo esta en palabras, corazón: qué bonito sería verte sonreír al descubrir un detalle que no esperabas."
+      "Elijan tres canciones distintas: una que tenga ritmo lento, otra alegre y otra que los saque de la rutina. En la primera ronda, cada uno enseña al otro un movimiento sencillo. En la segunda, inventen una secuencia de cuatro pasos y repítanla juntos. En la tercera, bailen libremente durante el coro, sin corregirse ni competir. Si les gusta el reto, intercambien quién dirige cada canción. Pueden mantener distancia, acercarse o cambiar el tipo de baile según lo que resulte cómodo para ambos. Dejen agua cerca y despejen el espacio para no tropezar. Al terminar, cada uno elige el movimiento más divertido del otro y le pone un nombre. ¿Qué canción te gustaría que se convirtiera en nuestro baile improvisado?",
+      "Compás: Ritmo que organiza una secuencia musical o de movimiento. Encontrar el compás de una canción puede ser más divertido que intentar bailar perfecto."
     ],
-    "detalle": "Si hoy una flor aparece en tu día, aunque sea en una foto o en el camino, tómala como un recordatorio de que no todo lo bonito llega con una ocasión marcada en el calendario.",
-    "buenasNoches": "Que duermas rico, mi vida. Ojalá mañana te llegue una sorpresa sencilla, de esas que no cuestan mucho pero te sacan una sonrisa sincera.",
-    "cancionTitulo": "Kiss Of Life",
-    "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk",
-    "cancionUrl": "https://www.youtube.com/watch?v=MmOau-PMWJk"
+    "detalle": "Elijan tres canciones distintas: una que tenga ritmo lento, otra alegre y otra que los saque de la rutina. En la primera ronda, cada uno enseña al otro un movimiento sencillo. En la segunda, inventen una secuencia de cuatro pasos y repítanla juntos. En la tercera, bailen libremente durante el coro, sin corregirse ni competir. Si les gusta el reto, intercambien quién dirige cada canción. Pueden mantener distancia, acercarse o cambiar el tipo de baile según lo que resulte cómodo para ambos. Dejen agua cerca y despejen el espacio para no tropezar. Al terminar, cada uno elige el movimiento más divertido del otro y le pone un nombre. ¿Qué canción te gustaría que se convirtiera en nuestro baile improvisado?",
+    "buenasNoches": "Hay noches en las que una canción cambia el ambiente completo. Ojalá hoy nos quede un ritmo que podamos reconocer cuando vuelva a sonar.",
+    "cancionTitulo": "Déjame Entrar",
+    "cancionArtista": "Cultura Profética",
+    "youtubeId": "IAhVESdwvIU",
+    "cancionUrl": "https://www.youtube.com/watch?v=IAhVESdwvIU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Esta noche cambiamos de ritmo",
+        "contenido": "Una canción, un espacio cómodo y cero exigencias de hacerlo bien."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tres rondas de baile a nuestra manera",
+        "contenido": "Elijan tres canciones distintas: una que tenga ritmo lento, otra alegre y otra que los saque de la rutina. En la primera ronda, cada uno enseña al otro un movimiento sencillo. En la segunda, inventen una secuencia de cuatro pasos y repítanla juntos. En la tercera, bailen libremente durante el coro, sin corregirse ni competir. Si les gusta el reto, intercambien quién dirige cada canción. Pueden mantener distancia, acercarse o cambiar el tipo de baile según lo que resulte cómodo para ambos. Dejen agua cerca y despejen el espacio para no tropezar. Al terminar, cada uno elige el movimiento más divertido del otro y le pone un nombre. ¿Qué canción te gustaría que se convirtiera en nuestro baile improvisado?"
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra que se mueve",
+        "contenido": "Compás: Ritmo que organiza una secuencia musical o de movimiento. Encontrar el compás de una canción puede ser más divertido que intentar bailar perfecto."
+      },
+      "buenasNoches": {
+        "titulo": "Que la música cierre el día",
+        "contenido": "Hay noches en las que una canción cambia el ambiente completo. Ojalá hoy nos quede un ritmo que podamos reconocer cuando vuelva a sonar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Compás",
+      "significado": "Ritmo que organiza una secuencia musical o de movimiento.",
+      "ejemplo": "Encontrar el compás de una canción puede ser más divertido que intentar bailar perfecto."
+    },
+    "inspiracionCancion": "Una canción para acompañar el ambiente de un baile para cambiar el ritmo."
   },
   {
     "dia": 63,
     "fecha": "2026-12-17",
     "fechaTexto": "jue, 17 de dic",
-    "categoria": "Dejar espacio para lo que viene",
-    "icono": "📝",
-    "tono": "filosofica",
+    "categoria": "Una visita con mirada de exploradores",
+    "icono": "🧭",
+    "tono": "aventura",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "No llenes cada espacio libre por costumbre. Si aparece una pausa, puedes dejarla ser una pausa: mirar el cielo, escuchar una canción o simplemente no hacer nada por unos minutos.",
+    "buenosDias": "La idea es conocer un espacio diferente sin convertir la salida en una carrera ni en una lista de compras.",
     "poema": [
-      "No todo lo bueno llega con cita previa. A veces lo mejor de la tarde es lo que aparece cuando uno deja de llenar cada minuto con pendientes.",
-      "Ojalá hoy te sorprenda algo bonito, mi vida. Y si no, que al menos tengas un rato tranquilo que sea completamente tuyo."
+      "Elijan un mercado artesanal, feria cultural, librería grande o zona comercial pública que tenga horarios confirmados para el día que decidan ir. Acuerden transporte, presupuesto máximo y tiempo disponible. Durante el recorrido busquen seis cosas: una pieza hecha a mano, un objeto con una textura interesante, una portada que llame la atención, un sabor nuevo, una combinación de colores que quieran fotografiar y algo que les recuerde una conversación. Cada uno puede escoger una parada y explicar por qué le llamó la atención. No es necesario comprar; si algo les gusta, comparen precios y decidan juntos. Antes de salir revisen horarios, accesibilidad y clima, y tengan un punto de encuentro por si se separan. Al final, elijan una foto y escriban un título para el pequeño recorrido. ¿Qué tipo de lugar te gustaría explorar primero?",
+      "Exploración: Acción de recorrer o investigar algo para conocerlo mejor. La exploración empieza cuando dejamos de pasar de largo por los lugares conocidos."
     ],
-    "detalle": "Deja un poquito de espacio para cambiar de idea. No todo lo que viene necesita una respuesta inmediata, y no tienes que tener resuelto el siguiente capítulo para disfrutar este.",
-    "buenasNoches": "Buenas noches, corazón. No tienes que tener todos los planes resueltos; deja un poco de espacio para que la vida te sorprenda.",
-    "cancionTitulo": "Three Little Birds",
-    "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM",
-    "cancionUrl": "https://www.youtube.com/watch?v=HNBCVM4KbUM"
+    "detalle": "Elijan un mercado artesanal, feria cultural, librería grande o zona comercial pública que tenga horarios confirmados para el día que decidan ir. Acuerden transporte, presupuesto máximo y tiempo disponible. Durante el recorrido busquen seis cosas: una pieza hecha a mano, un objeto con una textura interesante, una portada que llame la atención, un sabor nuevo, una combinación de colores que quieran fotografiar y algo que les recuerde una conversación. Cada uno puede escoger una parada y explicar por qué le llamó la atención. No es necesario comprar; si algo les gusta, comparen precios y decidan juntos. Antes de salir revisen horarios, accesibilidad y clima, y tengan un punto de encuentro por si se separan. Al final, elijan una foto y escriban un título para el pequeño recorrido. ¿Qué tipo de lugar te gustaría explorar primero?",
+    "buenasNoches": "Quizá volvamos con una foto, una idea o simplemente una historia que contar. Cualquiera de esas cosas puede hacer que la salida haya valido la pena.",
+    "cancionTitulo": "Virtual Insanity - Remastered 2006",
+    "cancionArtista": "Jamiroquai",
+    "youtubeId": "4JkIs37a2JE",
+    "cancionUrl": "https://www.youtube.com/watch?v=4JkIs37a2JE",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, hoy salimos a descubrir",
+        "contenido": "La idea es conocer un espacio diferente sin convertir la salida en una carrera ni en una lista de compras."
+      },
+      "mensajePrincipal": {
+        "titulo": "La misión de las seis curiosidades",
+        "contenido": "Elijan un mercado artesanal, feria cultural, librería grande o zona comercial pública que tenga horarios confirmados para el día que decidan ir. Acuerden transporte, presupuesto máximo y tiempo disponible. Durante el recorrido busquen seis cosas: una pieza hecha a mano, un objeto con una textura interesante, una portada que llame la atención, un sabor nuevo, una combinación de colores que quieran fotografiar y algo que les recuerde una conversación. Cada uno puede escoger una parada y explicar por qué le llamó la atención. No es necesario comprar; si algo les gusta, comparen precios y decidan juntos. Antes de salir revisen horarios, accesibilidad y clima, y tengan un punto de encuentro por si se separan. Al final, elijan una foto y escriban un título para el pequeño recorrido. ¿Qué tipo de lugar te gustaría explorar primero?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del descubrimiento",
+        "contenido": "Exploración: Acción de recorrer o investigar algo para conocerlo mejor. La exploración empieza cuando dejamos de pasar de largo por los lugares conocidos."
+      },
+      "buenasNoches": {
+        "titulo": "Un mapa de pequeñas sorpresas",
+        "contenido": "Quizá volvamos con una foto, una idea o simplemente una historia que contar. Cualquiera de esas cosas puede hacer que la salida haya valido la pena."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Exploración",
+      "significado": "Acción de recorrer o investigar algo para conocerlo mejor.",
+      "ejemplo": "La exploración empieza cuando dejamos de pasar de largo por los lugares conocidos."
+    },
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una visita con mirada de exploradores."
   },
   {
     "dia": 64,
