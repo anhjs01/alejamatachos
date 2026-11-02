@@ -5988,5 +5988,327 @@ const CALENDARIO = [
       "significado": "Capacidad de continuar intentando algo a pesar de las dificultades.",
       "ejemplo": "La persistencia ayuda a mejorar cuando un reto exige varios intentos."
     }
+  },
+  {
+    "dia": 140,
+    "fecha": "2027-03-04",
+    "fechaTexto": "jue, 4 de mar",
+    "categoria": "La banda sonora de un día cualquiera",
+    "icono": "🎧",
+    "tono": "musical cotidiano",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a convertir una escena normal en una escena de película.",
+    "poema": [
+      "Elige una actividad cotidiana —preparar café, esperar transporte, ordenar el escritorio o caminar unas cuadras— y asígnale una canción como si fuera la banda sonora oficial. Después inventa el título de la película, el género y una frase de tráiler. Si lo hacen entre dos, cada quien musicaliza la misma escena y comparan qué historia terminó contando cada versión.",
+      "Guarda la canción y el título de la película en una pequeña lista. No busques que coincidan: lo divertido es descubrir lo distintas que pueden ser dos interpretaciones."
+    ],
+    "detalle": "Guarda la canción y el título de la película en una pequeña lista. No busques que coincidan: lo divertido es descubrir lo distintas que pueden ser dos interpretaciones.",
+    "buenasNoches": "Hasta un día común puede tener una banda sonora que lo vuelva memorable.",
+    "cancionTitulo": "I Know What You Want (feat. Flipmode Squad)",
+    "cancionArtista": "Busta Rhymes; Mariah Carey; Flipmode Squad",
+    "youtubeId": "WDaNJW_jEBo",
+    "cancionUrl": "https://www.youtube.com/watch?v=WDaNJW_jEBo",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a convertir una escena normal en una escena de película."
+      },
+      "mensajePrincipal": {
+        "titulo": "La banda sonora de un día cualquiera",
+        "contenido": "Elige una actividad cotidiana —preparar café, esperar transporte, ordenar el escritorio o caminar unas cuadras— y asígnale una canción como si fuera la banda sonora oficial. Después inventa el título de la película, el género y una frase de tráiler. Si lo hacen entre dos, cada quien musicaliza la misma escena y comparan qué historia terminó contando cada versión."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra contrapunto",
+        "contenido": "Relación de contraste o complemento entre dos ideas o elementos. Una canción puede ser el contrapunto perfecto de una escena cotidiana."
+      },
+      "buenasNoches": {
+        "contenido": "Hasta un día común puede tener una banda sonora que lo vuelva memorable."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Contrapunto",
+      "significado": "Relación de contraste o complemento entre dos ideas o elementos.",
+      "ejemplo": "Una canción puede ser el contrapunto perfecto de una escena cotidiana."
+    }
+  },
+  {
+    "dia": 141,
+    "fecha": "2027-03-05",
+    "fechaTexto": "vie, 5 de mar",
+    "categoria": "Tu técnica maldita personalizada",
+    "icono": "⚡",
+    "tono": "cultura pop",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca inventar una habilidad digna del universo de Jujutsu Kaisen.",
+    "poema": [
+      "Crea una técnica maldita original, pero con tres reglas: debe tener un nombre, una habilidad útil y una limitación que la haga difícil de usar. Puede ser algo absurdo o ingenioso, como controlar el sonido de los pasos pero solo cuando nadie está mirando. Después inventa su expansión de dominio en una sola frase. Si juegan dos, cada uno diseña la técnica del otro y su punto débil.",
+      "Descríbela como si fuera una ficha de personaje: nombre, efecto, límite y frase de activación. No hace falta que sea poderosa; que sea creativa."
+    ],
+    "detalle": "Descríbela como si fuera una ficha de personaje: nombre, efecto, límite y frase de activación. No hace falta que sea poderosa; que sea creativa.",
+    "buenasNoches": "Toda habilidad interesante tiene una condición que la vuelve especial.",
+    "cancionTitulo": "Shadowboxin'",
+    "cancionArtista": "GZA; Method Man",
+    "youtubeId": "-IZE7JSLJU0",
+    "cancionUrl": "https://www.youtube.com/watch?v=-IZE7JSLJU0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca inventar una habilidad digna del universo de Jujutsu Kaisen."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tu técnica maldita personalizada",
+        "contenido": "Crea una técnica maldita original, pero con tres reglas: debe tener un nombre, una habilidad útil y una limitación que la haga difícil de usar. Puede ser algo absurdo o ingenioso, como controlar el sonido de los pasos pero solo cuando nadie está mirando. Después inventa su expansión de dominio en una sola frase. Si juegan dos, cada uno diseña la técnica del otro y su punto débil."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra singularidad",
+        "contenido": "Cualidad que hace que algo sea único o diferente de lo demás. La singularidad de una técnica está en la regla especial que la hace funcionar."
+      },
+      "buenasNoches": {
+        "contenido": "Toda habilidad interesante tiene una condición que la vuelve especial."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Singularidad",
+      "significado": "Cualidad que hace que algo sea único o diferente de lo demás.",
+      "ejemplo": "La singularidad de una técnica está en la regla especial que la hace funcionar."
+    }
+  },
+  {
+    "dia": 142,
+    "fecha": "2027-03-06",
+    "fechaTexto": "sáb, 6 de mar",
+    "categoria": "La búsqueda de cinco detalles",
+    "icono": "🔎",
+    "tono": "observación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto es mirar el entorno como si fuera la primera vez.",
+    "poema": [
+      "En una caminata corta o desde un lugar donde puedas sentarte, encuentra cinco detalles que normalmente ignorarías: una forma curiosa en una pared, una combinación de colores, una sombra, un sonido y un objeto con historia. No fotografíes personas sin permiso ni te acerques a lugares inseguros. Al final elige el detalle más inesperado y explica por qué te llamó la atención.",
+      "Si lo hacen juntos, cada persona elige un detalle distinto y le inventa un nombre como si fuera una pequeña obra de arte."
+    ],
+    "detalle": "Si lo hacen juntos, cada persona elige un detalle distinto y le inventa un nombre como si fuera una pequeña obra de arte.",
+    "buenasNoches": "El mundo no siempre cambia; a veces cambia la atención con la que lo miramos.",
+    "cancionTitulo": "Hell on Earth (Front Lines)",
+    "cancionArtista": "Mobb Deep",
+    "youtubeId": "-lonWMzBKdU",
+    "cancionUrl": "https://www.youtube.com/watch?v=-lonWMzBKdU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto es mirar el entorno como si fuera la primera vez."
+      },
+      "mensajePrincipal": {
+        "titulo": "La búsqueda de cinco detalles",
+        "contenido": "En una caminata corta o desde un lugar donde puedas sentarte, encuentra cinco detalles que normalmente ignorarías: una forma curiosa en una pared, una combinación de colores, una sombra, un sonido y un objeto con historia. No fotografíes personas sin permiso ni te acerques a lugares inseguros. Al final elige el detalle más inesperado y explica por qué te llamó la atención."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra perspectiva",
+        "contenido": "Punto de vista desde el que se observa o interpreta algo. Cambiar de perspectiva permite notar detalles que antes pasaban inadvertidos."
+      },
+      "buenasNoches": {
+        "contenido": "El mundo no siempre cambia; a veces cambia la atención con la que lo miramos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Perspectiva",
+      "significado": "Punto de vista desde el que se observa o interpreta algo.",
+      "ejemplo": "Cambiar de perspectiva permite notar detalles que antes pasaban inadvertidos."
+    }
+  },
+  {
+    "dia": 143,
+    "fecha": "2027-03-07",
+    "fechaTexto": "dom, 7 de mar",
+    "categoria": "El caso de la coartada imposible",
+    "icono": "🕵️",
+    "tono": "juego de deducción",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Se abrió un caso absurdo y necesitamos resolverlo.",
+    "poema": [
+      "Una persona ficticia asegura que no pudo comerse la última porción de torta porque estaba ocupada en tres lugares a la vez. Inventen cuatro pistas: una verdadera, dos engañosas y una que parezca irrelevante. La otra persona tiene que interrogar y decidir qué ocurrió. Cambien de roles para una segunda ronda. Mantengan la historia divertida y asegúrense de que la solución pueda deducirse con las pistas.",
+      "Pongan un límite de cinco minutos por caso. Gana quien descubra la contradicción sin adivinar al azar."
+    ],
+    "detalle": "Pongan un límite de cinco minutos por caso. Gana quien descubra la contradicción sin adivinar al azar.",
+    "buenasNoches": "No siempre gana quien habla más; a veces gana quien conecta mejor los detalles.",
+    "cancionTitulo": "Real Muthaphuckkin' G's",
+    "cancionArtista": "Eazy-E",
+    "youtubeId": "trDFi_zSttQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=trDFi_zSttQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Se abrió un caso absurdo y necesitamos resolverlo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El caso de la coartada imposible",
+        "contenido": "Una persona ficticia asegura que no pudo comerse la última porción de torta porque estaba ocupada en tres lugares a la vez. Inventen cuatro pistas: una verdadera, dos engañosas y una que parezca irrelevante. La otra persona tiene que interrogar y decidir qué ocurrió. Cambien de roles para una segunda ronda. Mantengan la historia divertida y asegúrense de que la solución pueda deducirse con las pistas."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra coartada",
+        "contenido": "Explicación que alguien presenta para demostrar dónde estaba en cierto momento. Una buena coartada debe encajar con las pistas y los horarios."
+      },
+      "buenasNoches": {
+        "contenido": "No siempre gana quien habla más; a veces gana quien conecta mejor los detalles."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Coartada",
+      "significado": "Explicación que alguien presenta para demostrar dónde estaba en cierto momento.",
+      "ejemplo": "Una buena coartada debe encajar con las pistas y los horarios."
+    }
+  },
+  {
+    "dia": 144,
+    "fecha": "2027-03-08",
+    "fechaTexto": "lun, 8 de mar",
+    "categoria": "Una biblioteca de mundos posibles",
+    "icono": "📚",
+    "tono": "imaginativo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a cambiar una sola decisión de una historia conocida.",
+    "poema": [
+      "Piensa en Harry Potter, una película o una serie que conozcas bien. Escoge un momento pequeño y cambia una decisión: ¿qué habría pasado si el personaje hubiera dicho la verdad, tomado otro camino o confiado en alguien distinto? Escribe una versión alternativa de cinco líneas. No necesitas reescribir toda la historia; basta con explorar una consecuencia inesperada.",
+      "Si comparten el ejercicio, cada quien propone un giro distinto y eligen cuál sería más interesante de ver en pantalla. Eviten spoilers para quien no haya terminado la historia."
+    ],
+    "detalle": "Si comparten el ejercicio, cada quien propone un giro distinto y eligen cuál sería más interesante de ver en pantalla. Eviten spoilers para quien no haya terminado la historia.",
+    "buenasNoches": "A veces una sola decisión abre un mundo completamente distinto.",
+    "cancionTitulo": "Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage)",
+    "cancionArtista": "Craig Mack; Busta Rhymes; LL COOL J; Rampage; The Notorious B.I.G.",
+    "youtubeId": "PMbELEUfmIA",
+    "cancionUrl": "https://www.youtube.com/watch?v=PMbELEUfmIA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a cambiar una sola decisión de una historia conocida."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una biblioteca de mundos posibles",
+        "contenido": "Piensa en Harry Potter, una película o una serie que conozcas bien. Escoge un momento pequeño y cambia una decisión: ¿qué habría pasado si el personaje hubiera dicho la verdad, tomado otro camino o confiado en alguien distinto? Escribe una versión alternativa de cinco líneas. No necesitas reescribir toda la historia; basta con explorar una consecuencia inesperada."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra ucronía",
+        "contenido": "Relato que imagina cómo habría sido la historia si un hecho hubiera ocurrido de otra manera. Una ucronía cambia una decisión y explora sus consecuencias."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una sola decisión abre un mundo completamente distinto."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Ucronía",
+      "significado": "Relato que imagina cómo habría sido la historia si un hecho hubiera ocurrido de otra manera.",
+      "ejemplo": "Una ucronía cambia una decisión y explora sus consecuencias."
+    }
+  },
+  {
+    "dia": 145,
+    "fecha": "2027-03-09",
+    "fechaTexto": "mar, 9 de mar",
+    "categoria": "Una pausa fuera de la rutina",
+    "icono": "🌿",
+    "tono": "plan sencillo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Entre pendientes también cabe una pausa pequeña, sin convertirla en una gran producción.",
+    "poema": [
+      "Si les provoca y los horarios coinciden, propongan un plan sencillo de una tarde: tomar algo, caminar por una zona agradable o pasar por una librería y mirar títulos sin obligación de comprar. Pueden dejarlo para otro día si no se da. La idea es compartir un rato tranquilo, no llenar toda la agenda. Cada uno puede sugerir una parada y escoger la que resulte más cómoda para ambos.",
+      "Pongan una regla divertida: cada persona recomienda un libro, una bebida o una canción que la otra probablemente no elegiría por sí sola."
+    ],
+    "detalle": "Pongan una regla divertida: cada persona recomienda un libro, una bebida o una canción que la otra probablemente no elegiría por sí sola.",
+    "buenasNoches": "No todos los planes necesitan muchas horas; a veces basta con cambiar de escenario.",
+    "cancionTitulo": "Straight Outta Compton",
+    "cancionArtista": "N.W.A.",
+    "youtubeId": "TMZi25Pq3T8",
+    "cancionUrl": "https://www.youtube.com/watch?v=TMZi25Pq3T8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Entre pendientes también cabe una pausa pequeña, sin convertirla en una gran producción."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una pausa fuera de la rutina",
+        "contenido": "Si les provoca y los horarios coinciden, propongan un plan sencillo de una tarde: tomar algo, caminar por una zona agradable o pasar por una librería y mirar títulos sin obligación de comprar. Pueden dejarlo para otro día si no se da. La idea es compartir un rato tranquilo, no llenar toda la agenda. Cada uno puede sugerir una parada y escoger la que resulte más cómoda para ambos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra descompresión",
+        "contenido": "Acción de reducir la tensión o el cansancio después de una actividad intensa. Una pausa breve puede servir como descompresión en medio de una semana ocupada."
+      },
+      "buenasNoches": {
+        "contenido": "No todos los planes necesitan muchas horas; a veces basta con cambiar de escenario."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Descompresión",
+      "significado": "Acción de reducir la tensión o el cansancio después de una actividad intensa.",
+      "ejemplo": "Una pausa breve puede servir como descompresión en medio de una semana ocupada."
+    }
+  },
+  {
+    "dia": 146,
+    "fecha": "2027-03-10",
+    "fechaTexto": "mié, 10 de mar",
+    "categoria": "El cumplido que no parece cumplido",
+    "icono": "✨",
+    "tono": "coquetería sutil",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto es decir algo bonito sin recurrir al típico cumplido directo.",
+    "poema": [
+      "Escribe tres frases que destaquen algo de una persona sin describir su físico: una sobre su manera de contar historias, otra sobre su sentido del humor y otra sobre cómo cambia el ambiente cuando participa. Que suenen naturales y específicas, no exageradas. Puedes compartir una, guardarte otra y convertir la tercera en una frase anónima. La otra persona puede intentar adivinar cuál le corresponde, pero sin presión.",
+      "La clave es que sea genuino: un detalle observado vale más que una frase grandilocuente."
+    ],
+    "detalle": "La clave es que sea genuino: un detalle observado vale más que una frase grandilocuente.",
+    "buenasNoches": "Hay cosas bonitas que no necesitan anunciarse en voz alta para hacerse notar.",
+    "cancionTitulo": "Hail Mary",
+    "cancionArtista": "2Pac",
+    "youtubeId": "x9bPGZIBt7Y",
+    "cancionUrl": "https://www.youtube.com/watch?v=x9bPGZIBt7Y",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto es decir algo bonito sin recurrir al típico cumplido directo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El cumplido que no parece cumplido",
+        "contenido": "Escribe tres frases que destaquen algo de una persona sin describir su físico: una sobre su manera de contar historias, otra sobre su sentido del humor y otra sobre cómo cambia el ambiente cuando participa. Que suenen naturales y específicas, no exageradas. Puedes compartir una, guardarte otra y convertir la tercera en una frase anónima. La otra persona puede intentar adivinar cuál le corresponde, pero sin presión."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sutileza",
+        "contenido": "Cualidad de expresar algo de manera delicada, sin hacerlo demasiado evidente. La sutileza permite dejar una idea en el aire sin imponer una interpretación."
+      },
+      "buenasNoches": {
+        "contenido": "Hay cosas bonitas que no necesitan anunciarse en voz alta para hacerse notar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sutileza",
+      "significado": "Cualidad de expresar algo de manera delicada, sin hacerlo demasiado evidente.",
+      "ejemplo": "La sutileza permite dejar una idea en el aire sin imponer una interpretación."
+    }
   }
 ];
