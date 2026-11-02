@@ -9530,5 +9530,327 @@ const CALENDARIO = [
       "significado": "Tiempo futuro; aquello que está por venir.",
       "ejemplo": "Imaginar el porvenir no obliga a tener todo resuelto, solo permite abrir posibilidades."
     }
+  },
+  {
+    "dia": 217,
+    "fecha": "2027-05-20",
+    "fechaTexto": "jue, 20 de may",
+    "categoria": "La teoría de las coincidencias",
+    "icono": "🔎",
+    "tono": "curiosidad y conversación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a recordar esos encuentros inesperados que terminaron siendo interesantes.",
+    "poema": [
+      "Piensen en una coincidencia curiosa: descubrir una canción justo cuando la necesitaban, cruzarse con alguien sin planearlo, encontrar un libro por accidente o escuchar una frase que se quedó dando vueltas. Cada quien cuenta una, real o pequeña, y explica qué la hizo memorable. Si no se les ocurre ninguna, inventen una coincidencia que sería digna de una película.",
+      "Pónganle título a la coincidencia más curiosa, como si fuera el nombre de un cuento."
+    ],
+    "detalle": "Pónganle título a la coincidencia más curiosa, como si fuera el nombre de un cuento.",
+    "buenasNoches": "No todo lo bueno llega anunciado; algunas cosas aparecen cuando uno no las estaba buscando.",
+    "cancionTitulo": "El Silencio Es Mio",
+    "cancionArtista": "Métricas Frías; Doble Porción",
+    "youtubeId": "HngH70vOsJs",
+    "cancionUrl": "https://www.youtube.com/watch?v=HngH70vOsJs",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a recordar esos encuentros inesperados que terminaron siendo interesantes."
+      },
+      "mensajePrincipal": {
+        "titulo": "La teoría de las coincidencias",
+        "contenido": "Piensen en una coincidencia curiosa: descubrir una canción justo cuando la necesitaban, cruzarse con alguien sin planearlo, encontrar un libro por accidente o escuchar una frase que se quedó dando vueltas. Cada quien cuenta una, real o pequeña, y explica qué la hizo memorable. Si no se les ocurre ninguna, inventen una coincidencia que sería digna de una película."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra serendipia",
+        "contenido": "Hallazgo valioso o agradable que ocurre de manera inesperada. Una serendipia es encontrar algo interesante mientras buscabas otra cosa."
+      },
+      "buenasNoches": {
+        "contenido": "No todo lo bueno llega anunciado; algunas cosas aparecen cuando uno no las estaba buscando."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Serendipia",
+      "significado": "Hallazgo valioso o agradable que ocurre de manera inesperada.",
+      "ejemplo": "Una serendipia es encontrar algo interesante mientras buscabas otra cosa."
+    }
+  },
+  {
+    "dia": 218,
+    "fecha": "2027-05-21",
+    "fechaTexto": "vie, 21 de may",
+    "categoria": "El reto de la fotografía sin cámara",
+    "icono": "👁️",
+    "tono": "observación e imaginación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a tomar una fotografía usando solamente la imaginación.",
+    "poema": [
+      "Elijan un lugar que tengan cerca —una ventana, una mesa, una esquina de la calle o una planta— y descríbanlo como si fueran a fotografiarlo: qué quedaría dentro del encuadre, desde qué altura, qué luz buscarían y qué dejarían por fuera. La otra persona intenta imaginar la imagen antes de verla. Si quieren, después sí pueden tomar la foto y comparar.",
+      "Pónganle un título de máximo cinco palabras a la fotografía imaginaria."
+    ],
+    "detalle": "Pónganle un título de máximo cinco palabras a la fotografía imaginaria.",
+    "buenasNoches": "Mirar con intención puede ser tan creativo como tener una cámara en la mano.",
+    "cancionTitulo": "Fatality",
+    "cancionArtista": "Zof Ziro; ZetaZeta",
+    "youtubeId": "_14iDOtdS7M",
+    "cancionUrl": "https://www.youtube.com/watch?v=_14iDOtdS7M",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a tomar una fotografía usando solamente la imaginación."
+      },
+      "mensajePrincipal": {
+        "titulo": "El reto de la fotografía sin cámara",
+        "contenido": "Elijan un lugar que tengan cerca —una ventana, una mesa, una esquina de la calle o una planta— y descríbanlo como si fueran a fotografiarlo: qué quedaría dentro del encuadre, desde qué altura, qué luz buscarían y qué dejarían por fuera. La otra persona intenta imaginar la imagen antes de verla. Si quieren, después sí pueden tomar la foto y comparar."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra encuadre",
+        "contenido": "Porción de una escena que se elige incluir en una fotografía o imagen. Elegir un encuadre es decidir qué historia queremos contar con lo que vemos."
+      },
+      "buenasNoches": {
+        "contenido": "Mirar con intención puede ser tan creativo como tener una cámara en la mano."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Encuadre",
+      "significado": "Porción de una escena que se elige incluir en una fotografía o imagen.",
+      "ejemplo": "Elegir un encuadre es decidir qué historia queremos contar con lo que vemos."
+    }
+  },
+  {
+    "dia": 219,
+    "fecha": "2027-05-22",
+    "fechaTexto": "sáb, 22 de may",
+    "categoria": "Una tarde para jugar sin pantallas",
+    "icono": "🃏",
+    "tono": "juego presencial sencillo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la propuesta es rescatar un juego sencillo que no necesite celular ni consola.",
+    "poema": [
+      "Si coinciden en persona, jueguen una ronda de stop, batalla naval en papel o tres en línea con una regla adicional inventada por ustedes. Si están a distancia, pueden jugar por turnos dibujando en una hoja y enviando una foto de cada movimiento. Acuerden las reglas antes de empezar y jueguen al mejor de tres; el objetivo es pasarla bien, no convertirlo en campeonato mundial.",
+      "El ganador puede inventar una regla graciosa para la siguiente partida, siempre que ambos estén de acuerdo."
+    ],
+    "detalle": "El ganador puede inventar una regla graciosa para la siguiente partida, siempre que ambos estén de acuerdo.",
+    "buenasNoches": "A veces una hoja y un lápiz alcanzan para crear un buen rato.",
+    "cancionTitulo": "El Show Debe Continuar",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "yCYQY7sObG8",
+    "cancionUrl": "https://www.youtube.com/watch?v=yCYQY7sObG8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la propuesta es rescatar un juego sencillo que no necesite celular ni consola."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una tarde para jugar sin pantallas",
+        "contenido": "Si coinciden en persona, jueguen una ronda de stop, batalla naval en papel o tres en línea con una regla adicional inventada por ustedes. Si están a distancia, pueden jugar por turnos dibujando en una hoja y enviando una foto de cada movimiento. Acuerden las reglas antes de empezar y jueguen al mejor de tres; el objetivo es pasarla bien, no convertirlo en campeonato mundial."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra estrategia",
+        "contenido": "Conjunto de decisiones pensadas para alcanzar un objetivo. En un juego, una buena estrategia también necesita saber cuándo cambiar de plan."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una hoja y un lápiz alcanzan para crear un buen rato."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Estrategia",
+      "significado": "Conjunto de decisiones pensadas para alcanzar un objetivo.",
+      "ejemplo": "En un juego, una buena estrategia también necesita saber cuándo cambiar de plan."
+    }
+  },
+  {
+    "dia": 220,
+    "fecha": "2027-05-23",
+    "fechaTexto": "dom, 23 de may",
+    "categoria": "El inventario de sonidos favoritos",
+    "icono": "🎶",
+    "tono": "sensibilidad y recuerdos",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a hacer una colección de sonidos que nos gusta encontrar en el día.",
+    "poema": [
+      "Cada quien nombra cinco sonidos que disfruta: lluvia sobre el techo, una olla empezando a hervir, páginas al pasar, pájaros temprano, una cancha en la tarde, una risa conocida o el ruido de una ciudad despierta. Escojan uno y cuenten qué sensación les produce. No tienen que grabarlos; basta con describirlos con detalle.",
+      "Armen un top tres de sonidos que merecerían estar en una playlist ambiental."
+    ],
+    "detalle": "Armen un top tres de sonidos que merecerían estar en una playlist ambiental.",
+    "buenasNoches": "Hay sonidos pequeños que hacen que un lugar se sienta como casa.",
+    "cancionTitulo": "Comediantes de Velorio",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "eP7W_YwWN28",
+    "cancionUrl": "https://www.youtube.com/watch?v=eP7W_YwWN28",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a hacer una colección de sonidos que nos gusta encontrar en el día."
+      },
+      "mensajePrincipal": {
+        "titulo": "El inventario de sonidos favoritos",
+        "contenido": "Cada quien nombra cinco sonidos que disfruta: lluvia sobre el techo, una olla empezando a hervir, páginas al pasar, pájaros temprano, una cancha en la tarde, una risa conocida o el ruido de una ciudad despierta. Escojan uno y cuenten qué sensación les produce. No tienen que grabarlos; basta con describirlos con detalle."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra resonancia",
+        "contenido": "Efecto o sensación que un sonido, una idea o una experiencia deja en alguien. Hay sonidos que tienen resonancia porque nos conectan con un lugar o un recuerdo."
+      },
+      "buenasNoches": {
+        "contenido": "Hay sonidos pequeños que hacen que un lugar se sienta como casa."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Resonancia",
+      "significado": "Efecto o sensación que un sonido, una idea o una experiencia deja en alguien.",
+      "ejemplo": "Hay sonidos que tienen resonancia porque nos conectan con un lugar o un recuerdo."
+    }
+  },
+  {
+    "dia": 221,
+    "fecha": "2027-05-24",
+    "fechaTexto": "lun, 24 de may",
+    "categoria": "La pregunta que cambia una perspectiva",
+    "icono": "🧭",
+    "tono": "reflexión y escucha",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy tenemos una pregunta para mirar una situación desde otro ángulo.",
+    "poema": [
+      "Piensen en algo que antes veían de una manera y que con el tiempo entendieron distinto: una costumbre, una decisión, una etapa de la vida o una opinión. Si quieren compartirlo, cuenten qué cambió y qué les hizo reconsiderarlo. La otra persona escucha y puede preguntar qué matiz fue el más importante, sin intentar corregir la experiencia.",
+      "La frase para completar es: «Antes pensaba que…, ahora entiendo que…»."
+    ],
+    "detalle": "La frase para completar es: «Antes pensaba que…, ahora entiendo que…».",
+    "buenasNoches": "Cambiar de opinión con razones no es incoherencia; también puede ser crecimiento.",
+    "cancionTitulo": "La Danza del Miedo",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "kR-rKKZuLl8",
+    "cancionUrl": "https://www.youtube.com/watch?v=kR-rKKZuLl8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy tenemos una pregunta para mirar una situación desde otro ángulo."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pregunta que cambia una perspectiva",
+        "contenido": "Piensen en algo que antes veían de una manera y que con el tiempo entendieron distinto: una costumbre, una decisión, una etapa de la vida o una opinión. Si quieren compartirlo, cuenten qué cambió y qué les hizo reconsiderarlo. La otra persona escucha y puede preguntar qué matiz fue el más importante, sin intentar corregir la experiencia."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra matiz",
+        "contenido": "Rasgo pequeño que aporta una diferencia o un tono particular a una idea. Un matiz puede cambiar el sentido de una respuesta sin cambiar todas sus palabras."
+      },
+      "buenasNoches": {
+        "contenido": "Cambiar de opinión con razones no es incoherencia; también puede ser crecimiento."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Matiz",
+      "significado": "Rasgo pequeño que aporta una diferencia o un tono particular a una idea.",
+      "ejemplo": "Un matiz puede cambiar el sentido de una respuesta sin cambiar todas sus palabras."
+    }
+  },
+  {
+    "dia": 222,
+    "fecha": "2027-05-25",
+    "fechaTexto": "mar, 25 de may",
+    "categoria": "El laboratorio de nombres",
+    "icono": "🧪",
+    "tono": "juego creativo y lenguaje",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a inventar palabras para situaciones que nos pasan a todos.",
+    "poema": [
+      "Creen tres palabras nuevas: una para cuando abres la nevera y olvidas qué buscabas, otra para cuando una canción se queda pegada todo el día y una tercera para esa sensación de que el fin de semana pasó en veinte minutos. Definan cada palabra y úsenla en una oración. Pueden mezclar sílabas, sonidos o palabras existentes.",
+      "Elijan la palabra ganadora y diseñen una entrada de diccionario con pronunciación y ejemplo."
+    ],
+    "detalle": "Elijan la palabra ganadora y diseñen una entrada de diccionario con pronunciación y ejemplo.",
+    "buenasNoches": "El lenguaje también es un juego: siempre hay espacio para inventar una forma nueva de decir las cosas.",
+    "cancionTitulo": "Ultraresistente",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "K7SkeVKW7uA",
+    "cancionUrl": "https://www.youtube.com/watch?v=K7SkeVKW7uA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a inventar palabras para situaciones que nos pasan a todos."
+      },
+      "mensajePrincipal": {
+        "titulo": "El laboratorio de nombres",
+        "contenido": "Creen tres palabras nuevas: una para cuando abres la nevera y olvidas qué buscabas, otra para cuando una canción se queda pegada todo el día y una tercera para esa sensación de que el fin de semana pasó en veinte minutos. Definan cada palabra y úsenla en una oración. Pueden mezclar sílabas, sonidos o palabras existentes."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra neologismo",
+        "contenido": "Palabra nueva creada para nombrar algo que todavía no tiene un término propio. Un neologismo puede convertir una sensación difícil de explicar en una palabra divertida."
+      },
+      "buenasNoches": {
+        "contenido": "El lenguaje también es un juego: siempre hay espacio para inventar una forma nueva de decir las cosas."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Neologismo",
+      "significado": "Palabra nueva creada para nombrar algo que todavía no tiene un término propio.",
+      "ejemplo": "Un neologismo puede convertir una sensación difícil de explicar en una palabra divertida."
+    }
+  },
+  {
+    "dia": 223,
+    "fecha": "2027-05-26",
+    "fechaTexto": "mié, 26 de may",
+    "categoria": "El mensaje que no necesita respuesta",
+    "icono": "🕊️",
+    "tono": "detalle afectuoso y autonomía",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el detalle consiste en decir algo bonito sin convertirlo en una tarea para nadie.",
+    "poema": [
+      "Escriban un mensaje breve de agradecimiento por algo concreto: una conversación, una recomendación, una risa, una idea o un gesto cotidiano. Puede ser para alguien cercano, para ustedes mismos o incluso quedarse en privado. Si lo envían, que sea sin exigir respuesta; si lo reciben, no hace falta contestar de inmediato.",
+      "Guarden una frase que les gustaría recordar cuando tengan un día acelerado."
+    ],
+    "detalle": "Guarden una frase que les gustaría recordar cuando tengan un día acelerado.",
+    "buenasNoches": "Agradecer algo no crea una deuda; simplemente reconoce que tuvo valor.",
+    "cancionTitulo": "Ateo",
+    "cancionArtista": "Granuja",
+    "youtubeId": "wCeWcWCC0vA",
+    "cancionUrl": "https://www.youtube.com/watch?v=wCeWcWCC0vA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el detalle consiste en decir algo bonito sin convertirlo en una tarea para nadie."
+      },
+      "mensajePrincipal": {
+        "titulo": "El mensaje que no necesita respuesta",
+        "contenido": "Escriban un mensaje breve de agradecimiento por algo concreto: una conversación, una recomendación, una risa, una idea o un gesto cotidiano. Puede ser para alguien cercano, para ustedes mismos o incluso quedarse en privado. Si lo envían, que sea sin exigir respuesta; si lo reciben, no hace falta contestar de inmediato."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra gratitud",
+        "contenido": "Reconocimiento y aprecio por algo recibido o vivido. La gratitud puede expresarse sin esperar una respuesta ni una devolución."
+      },
+      "buenasNoches": {
+        "contenido": "Agradecer algo no crea una deuda; simplemente reconoce que tuvo valor."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Gratitud",
+      "significado": "Reconocimiento y aprecio por algo recibido o vivido.",
+      "ejemplo": "La gratitud puede expresarse sin esperar una respuesta ni una devolución."
+    }
   }
 ];
