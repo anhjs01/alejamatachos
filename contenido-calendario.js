@@ -11784,5 +11784,327 @@ const CALENDARIO = [
       "significado": "Hacer que algo sea más sencillo, claro o fácil de realizar.",
       "ejemplo": "Simplificar no es hacer menos por descuido, sino quitar pasos que no aportan."
     }
+  },
+  {
+    "dia": 266,
+    "fecha": "2027-07-08",
+    "fechaTexto": "jue, 8 de jul",
+    "categoria": "El archivo de sonidos hechos en casa",
+    "icono": "🎧",
+    "tono": "experimentación sonora",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a crear una pequeña colección de sonidos sin usar instrumentos.",
+    "poema": [
+      "Graba con el celular cinco sonidos de tu entorno: papel arrugándose, agua cayendo, pasos, una puerta, monedas o el roce de una tela. Evita grabar conversaciones ajenas o información privada. Luego escucha los audios sin mirar qué grabaste e intenta describir cada uno con tres palabras. Si quieres, ordénalos para crear una secuencia de diez segundos que parezca el inicio de una película.",
+      "Ponle un nombre a tu colección y guarda solo los sonidos que te guste conservar."
+    ],
+    "detalle": "Ponle un nombre a tu colección y guarda solo los sonidos que te guste conservar.",
+    "buenasNoches": "El mundo está lleno de sonidos pequeños que normalmente dejamos pasar.",
+    "cancionTitulo": "Suero Casero",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "_5Ypj8L7faU",
+    "cancionUrl": "https://www.youtube.com/watch?v=_5Ypj8L7faU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a crear una pequeña colección de sonidos sin usar instrumentos."
+      },
+      "mensajePrincipal": {
+        "titulo": "El archivo de sonidos hechos en casa",
+        "contenido": "Graba con el celular cinco sonidos de tu entorno: papel arrugándose, agua cayendo, pasos, una puerta, monedas o el roce de una tela. Evita grabar conversaciones ajenas o información privada. Luego escucha los audios sin mirar qué grabaste e intenta describir cada uno con tres palabras. Si quieres, ordénalos para crear una secuencia de diez segundos que parezca el inicio de una película."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra textura",
+        "contenido": "Cualidad de un sonido que permite distinguirlo por su sensación o carácter. Un sonido puede sentirse áspero, suave, metálico o cálido aunque no tenga una imagen."
+      },
+      "buenasNoches": {
+        "contenido": "El mundo está lleno de sonidos pequeños que normalmente dejamos pasar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Textura",
+      "significado": "Cualidad de un sonido que permite distinguirlo por su sensación o carácter.",
+      "ejemplo": "Un sonido puede sentirse áspero, suave, metálico o cálido aunque no tenga una imagen."
+    }
+  },
+  {
+    "dia": 267,
+    "fecha": "2027-07-09",
+    "fechaTexto": "vie, 9 de jul",
+    "categoria": "El desafío de las instrucciones a ciegas",
+    "icono": "🧩",
+    "tono": "comunicación y precisión",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto es explicar algo sencillo sin asumir que la otra persona sabe lo que tienes en mente.",
+    "poema": [
+      "Una persona elige una figura geométrica sencilla o un dibujo de máximo seis formas y lo mantiene oculto. Debe describirlo paso a paso para que otra persona lo dibuje sin hacer preguntas durante el primer minuto. Después comparen los resultados y permitan una ronda de preguntas para corregirlo. Cambien de roles. La gracia no es hacerlo perfecto, sino descubrir qué detalles faltaron en las instrucciones.",
+      "Al final, identifiquen una indicación que parecía clara pero podía entenderse de otra forma."
+    ],
+    "detalle": "Al final, identifiquen una indicación que parecía clara pero podía entenderse de otra forma.",
+    "buenasNoches": "Comunicarnos mejor también consiste en aprender a explicar con paciencia.",
+    "cancionTitulo": "Round 30",
+    "cancionArtista": "Pielroja; Alcolirykoz",
+    "youtubeId": "UpCpadNeY0M",
+    "cancionUrl": "https://www.youtube.com/watch?v=UpCpadNeY0M",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto es explicar algo sencillo sin asumir que la otra persona sabe lo que tienes en mente."
+      },
+      "mensajePrincipal": {
+        "titulo": "El desafío de las instrucciones a ciegas",
+        "contenido": "Una persona elige una figura geométrica sencilla o un dibujo de máximo seis formas y lo mantiene oculto. Debe describirlo paso a paso para que otra persona lo dibuje sin hacer preguntas durante el primer minuto. Después comparen los resultados y permitan una ronda de preguntas para corregirlo. Cambien de roles. La gracia no es hacerlo perfecto, sino descubrir qué detalles faltaron en las instrucciones."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra ambigüedad",
+        "contenido": "Posibilidad de interpretar una frase de más de una manera. Una instrucción ambigua puede producir resultados muy distintos a los que imaginábamos."
+      },
+      "buenasNoches": {
+        "contenido": "Comunicarnos mejor también consiste en aprender a explicar con paciencia."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Ambigüedad",
+      "significado": "Posibilidad de interpretar una frase de más de una manera.",
+      "ejemplo": "Una instrucción ambigua puede producir resultados muy distintos a los que imaginábamos."
+    }
+  },
+  {
+    "dia": 268,
+    "fecha": "2027-07-10",
+    "fechaTexto": "sáb, 10 de jul",
+    "categoria": "La pequeña expedición botánica",
+    "icono": "🌿",
+    "tono": "naturaleza y observación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la invitación es salir a observar la naturaleza sin necesidad de ir lejos.",
+    "poema": [
+      "En un parque, jardín o zona verde, busca tres tipos de hojas, dos formas distintas de semillas o frutos caídos y algún insecto que puedas observar sin tocarlo. Toma fotos de los detalles y trata de notar diferencias en bordes, nervaduras, colores y tamaños. No arranques plantas ni recojas animales; deja cada elemento donde está. Si no puedes salir, haz la expedición desde una ventana o con plantas cercanas.",
+      "Escoge una foto y escribe qué detalle no habías notado antes."
+    ],
+    "detalle": "Escoge una foto y escribe qué detalle no habías notado antes.",
+    "buenasNoches": "Mirar despacio transforma un lugar conocido en un sitio lleno de descubrimientos.",
+    "cancionTitulo": "Nothin'",
+    "cancionArtista": "N.O.R.E.",
+    "youtubeId": "sul16s0VSzs",
+    "cancionUrl": "https://www.youtube.com/watch?v=sul16s0VSzs",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la invitación es salir a observar la naturaleza sin necesidad de ir lejos."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pequeña expedición botánica",
+        "contenido": "En un parque, jardín o zona verde, busca tres tipos de hojas, dos formas distintas de semillas o frutos caídos y algún insecto que puedas observar sin tocarlo. Toma fotos de los detalles y trata de notar diferencias en bordes, nervaduras, colores y tamaños. No arranques plantas ni recojas animales; deja cada elemento donde está. Si no puedes salir, haz la expedición desde una ventana o con plantas cercanas."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra biodiversidad",
+        "contenido": "Variedad de seres vivos que habitan un lugar o ecosistema. Incluso un parque urbano puede reunir una sorprendente biodiversidad."
+      },
+      "buenasNoches": {
+        "contenido": "Mirar despacio transforma un lugar conocido en un sitio lleno de descubrimientos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Biodiversidad",
+      "significado": "Variedad de seres vivos que habitan un lugar o ecosistema.",
+      "ejemplo": "Incluso un parque urbano puede reunir una sorprendente biodiversidad."
+    }
+  },
+  {
+    "dia": 269,
+    "fecha": "2027-07-11",
+    "fechaTexto": "dom, 11 de jul",
+    "categoria": "El concurso de reseñas en una frase",
+    "icono": "✍️",
+    "tono": "cine, libros y opinión",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a recomendar algo sin escribir una reseña larguísima.",
+    "poema": [
+      "Elige una película, serie, libro, canción o videojuego que conozcas bien. Escribe una reseña de una sola frase que incluya qué lo hace especial y para quién podría funcionar, sin revelar giros importantes. Luego crea una segunda versión como si fuera el anuncio de una película dramática y una tercera como si fuera una crítica exageradamente exigente. Compara cuál despierta más curiosidad.",
+      "Si compartes tu frase, deja que la otra persona adivine la obra antes de decir el título."
+    ],
+    "detalle": "Si compartes tu frase, deja que la otra persona adivine la obra antes de decir el título.",
+    "buenasNoches": "A veces una sola frase basta para despertar las ganas de descubrir algo.",
+    "cancionTitulo": "La Salsa",
+    "cancionArtista": "McKlopedia; Rapsusklei; Zxmyr",
+    "youtubeId": "yonwHLj58Wc",
+    "cancionUrl": "https://www.youtube.com/watch?v=yonwHLj58Wc",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a recomendar algo sin escribir una reseña larguísima."
+      },
+      "mensajePrincipal": {
+        "titulo": "El concurso de reseñas en una frase",
+        "contenido": "Elige una película, serie, libro, canción o videojuego que conozcas bien. Escribe una reseña de una sola frase que incluya qué lo hace especial y para quién podría funcionar, sin revelar giros importantes. Luego crea una segunda versión como si fuera el anuncio de una película dramática y una tercera como si fuera una crítica exageradamente exigente. Compara cuál despierta más curiosidad."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra síntesis",
+        "contenido": "Expresión breve que reúne las ideas principales de algo. Una buena síntesis conserva lo esencial sin contar todos los detalles."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una sola frase basta para despertar las ganas de descubrir algo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Síntesis",
+      "significado": "Expresión breve que reúne las ideas principales de algo.",
+      "ejemplo": "Una buena síntesis conserva lo esencial sin contar todos los detalles."
+    }
+  },
+  {
+    "dia": 270,
+    "fecha": "2027-07-12",
+    "fechaTexto": "lun, 12 de jul",
+    "categoria": "El experimento de atención plena con colores",
+    "icono": "🎨",
+    "tono": "observación y pausa",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a hacer una pausa corta usando solamente los colores que nos rodean.",
+    "poema": [
+      "Durante cinco minutos, encuentra cinco tonos de un mismo color en tu entorno. No tienen que ser objetos grandes: puede ser una sombra, una etiqueta, una prenda o un reflejo. Ordénalos mentalmente del más claro al más oscuro y, si quieres, toma una foto que reúna varios. La idea es observar sin afán, no lograr una composición perfecta.",
+      "Quédate con el tono que más te gustó y ponle un nombre inventado."
+    ],
+    "detalle": "Quédate con el tono que más te gustó y ponle un nombre inventado.",
+    "buenasNoches": "Una pausa pequeña también puede cambiar el ritmo con el que termina el día.",
+    "cancionTitulo": "Coming Home (feat. Ms. Lauryn Hill)",
+    "cancionArtista": "Pusha T; Ms. Lauryn Hill",
+    "youtubeId": "9bx_r7H7eF8",
+    "cancionUrl": "https://www.youtube.com/watch?v=9bx_r7H7eF8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a hacer una pausa corta usando solamente los colores que nos rodean."
+      },
+      "mensajePrincipal": {
+        "titulo": "El experimento de atención plena con colores",
+        "contenido": "Durante cinco minutos, encuentra cinco tonos de un mismo color en tu entorno. No tienen que ser objetos grandes: puede ser una sombra, una etiqueta, una prenda o un reflejo. Ordénalos mentalmente del más claro al más oscuro y, si quieres, toma una foto que reúna varios. La idea es observar sin afán, no lograr una composición perfecta."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra atención",
+        "contenido": "Capacidad de concentrar la mente en un estímulo o tarea. Dirigir la atención a un detalle puede ayudarnos a hacer una pausa del ruido cotidiano."
+      },
+      "buenasNoches": {
+        "contenido": "Una pausa pequeña también puede cambiar el ritmo con el que termina el día."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Atención",
+      "significado": "Capacidad de concentrar la mente en un estímulo o tarea.",
+      "ejemplo": "Dirigir la atención a un detalle puede ayudarnos a hacer una pausa del ruido cotidiano."
+    }
+  },
+  {
+    "dia": 271,
+    "fecha": "2027-07-13",
+    "fechaTexto": "mar, 13 de jul",
+    "categoria": "El reto de reparar antes de reemplazar",
+    "icono": "🛠️",
+    "tono": "consumo consciente y soluciones",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a revisar si algo cotidiano necesita un poco de cuidado.",
+    "poema": [
+      "Elige un objeto no eléctrico y seguro que uses con frecuencia: una mochila, un estuche, un cuaderno o unos zapatos. Límpialo, organiza lo que guarda, revisa costuras o piezas sueltas y piensa si una reparación sencilla puede alargar su uso. No manipules baterías, cables dañados ni aparatos conectados; para eso es mejor acudir a alguien capacitado. Si no hay nada que reparar, deja listo un objeto para reutilizar o donar.",
+      "Anota qué pequeño cuidado hizo que ese objeto volviera a ser más útil."
+    ],
+    "detalle": "Anota qué pequeño cuidado hizo que ese objeto volviera a ser más útil.",
+    "buenasNoches": "Cuidar lo que ya tenemos también puede ser una forma de elegir con intención.",
+    "cancionTitulo": "Dele la Cara (Bendiciones)",
+    "cancionArtista": "Crudo Means Raw",
+    "youtubeId": "7v5r61PK_4c",
+    "cancionUrl": "https://www.youtube.com/watch?v=7v5r61PK_4c",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a revisar si algo cotidiano necesita un poco de cuidado."
+      },
+      "mensajePrincipal": {
+        "titulo": "El reto de reparar antes de reemplazar",
+        "contenido": "Elige un objeto no eléctrico y seguro que uses con frecuencia: una mochila, un estuche, un cuaderno o unos zapatos. Límpialo, organiza lo que guarda, revisa costuras o piezas sueltas y piensa si una reparación sencilla puede alargar su uso. No manipules baterías, cables dañados ni aparatos conectados; para eso es mejor acudir a alguien capacitado. Si no hay nada que reparar, deja listo un objeto para reutilizar o donar."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra mantenimiento",
+        "contenido": "Acciones que conservan algo en buen estado y prolongan su utilidad. Un mantenimiento sencillo puede evitar que un objeto se deteriore antes de tiempo."
+      },
+      "buenasNoches": {
+        "contenido": "Cuidar lo que ya tenemos también puede ser una forma de elegir con intención."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Mantenimiento",
+      "significado": "Acciones que conservan algo en buen estado y prolongan su utilidad.",
+      "ejemplo": "Un mantenimiento sencillo puede evitar que un objeto se deteriore antes de tiempo."
+    }
+  },
+  {
+    "dia": 272,
+    "fecha": "2027-07-14",
+    "fechaTexto": "mié, 14 de jul",
+    "categoria": "El laboratorio de finales alternativos",
+    "icono": "🎭",
+    "tono": "narrativa y creatividad",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a cambiar el final de una historia que ya conocemos.",
+    "poema": [
+      "Escoge un cuento, película o serie que recuerdes bien. Imagina que la historia termina cinco minutos antes de su desenlace original y escribe tres finales alternativos: uno optimista, uno inesperado y uno cómico. Cada final debe respetar la personalidad de los personajes, pero cambiar una decisión clave. Si prefieres, hazlo con una historia inventada para no depender de una obra conocida.",
+      "Elige el final que más te gustaría ver y explica qué detalle lo hace funcionar."
+    ],
+    "detalle": "Elige el final que más te gustaría ver y explica qué detalle lo hace funcionar.",
+    "buenasNoches": "Una historia puede quedarse con nosotros mucho tiempo cuando nos invita a imaginar qué habría pasado si algo cambiaba.",
+    "cancionTitulo": "El Estrén - Versión álbum",
+    "cancionArtista": "Crudo Means Raw",
+    "youtubeId": "xrQBpf_yfTc",
+    "cancionUrl": "https://www.youtube.com/watch?v=xrQBpf_yfTc",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a cambiar el final de una historia que ya conocemos."
+      },
+      "mensajePrincipal": {
+        "titulo": "El laboratorio de finales alternativos",
+        "contenido": "Escoge un cuento, película o serie que recuerdes bien. Imagina que la historia termina cinco minutos antes de su desenlace original y escribe tres finales alternativos: uno optimista, uno inesperado y uno cómico. Cada final debe respetar la personalidad de los personajes, pero cambiar una decisión clave. Si prefieres, hazlo con una historia inventada para no depender de una obra conocida."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra desenlace",
+        "contenido": "Parte final de una historia en la que se resuelve o transforma el conflicto. Un desenlace distinto puede cambiar por completo el sentido de una historia."
+      },
+      "buenasNoches": {
+        "contenido": "Una historia puede quedarse con nosotros mucho tiempo cuando nos invita a imaginar qué habría pasado si algo cambiaba."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Desenlace",
+      "significado": "Parte final de una historia en la que se resuelve o transforma el conflicto.",
+      "ejemplo": "Un desenlace distinto puede cambiar por completo el sentido de una historia."
+    }
   }
 ];
