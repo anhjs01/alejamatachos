@@ -542,6 +542,29 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
  }
 }
 
+
+/* ALEJA · cuatro cartas independientes y transiciones de lectura */
+.letter{max-height:min(88vh,900px);overflow-y:auto;overscroll-behavior:contain}
+.letter-card-stage{position:relative;margin:18px 0 12px;padding:clamp(18px,3.4vw,27px);min-height:210px;background:linear-gradient(145deg,#fffefa,#e8edf0);border:1px solid #c9d4d8;box-shadow:inset 0 0 0 5px #ffffff80,7px 8px 0 #0b121414;transform-origin:50% 12%;transition:opacity .18s,transform .24s}
+.letter-card-stage:before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--card-accent,#53dfff)}
+.letter-card-stage.is-changing{opacity:.35;transform:translateX(12px) rotate(.6deg) scale(.99)}
+.letter-card-kicker{color:#53656b!important;font-size:.62rem;letter-spacing:.14em}
+.letter-card-stage h3{margin:12px 0 13px;font-size:clamp(1.35rem,4vw,2rem);line-height:1.05;letter-spacing:-.045em}
+.letter-card-stage p{margin:0;white-space:pre-line;line-height:1.78;font-size:.94rem;color:#172327}
+.letter-card-controls{display:flex;align-items:center;justify-content:center;gap:12px;margin:10px 0 8px}
+.letter-card-controls>button{width:36px;height:34px;border:1px solid #0b12142b;background:transparent;color:#0b1214;font-size:1.05rem;transition:background .18s,transform .18s}
+.letter-card-controls>button:hover:not(:disabled){background:#0b1214;color:#fff;transform:translateY(-2px)}
+.letter-card-controls>button:disabled{opacity:.25;cursor:not-allowed}
+.letter-card-dots{display:flex;align-items:center;gap:7px}
+.letter-card-dots button{width:7px;height:7px;padding:0;border:0;border-radius:50%;background:#9aa8ac;transition:transform .2s,background .2s}
+.letter-card-dots button[aria-current="step"]{background:#087d98;transform:scale(1.55)}
+#letter-card-counter{font-size:.6rem;color:#53656b!important;min-width:34px;text-align:center}
+#keyword{display:inline-block;margin-top:8px;padding:8px 10px;border:1px dashed #0b12145c;letter-spacing:.09em}
+.letter-song-inspiration{margin:9px 0 0;color:#4b5c60;font-size:.78rem;line-height:1.6}
+@keyframes card-paper-in{0%{opacity:.35;transform:translateX(-10px) rotate(-.5deg)}100%{opacity:1;transform:translateX(0) rotate(0)}}
+@media(max-width:560px){.letter{max-height:90vh;padding:24px 18px}.letter-card-stage{min-height:190px;padding:18px 16px}.letter-card-stage p{font-size:.9rem}.letter-card-controls{gap:8px}}
+@media(prefers-reduced-motion:reduce){.letter-card-stage,.letter-card-controls>button,.letter-card-dots button{transition:none!important}.letter-card-stage.is-changing{transform:none}}
+
 </style>
 </head>
 <body>
@@ -620,7 +643,7 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 
 
 </main><footer><div><div class="footer-logo">ALEJA<span>✳</span></div><div class="mono" style="margin-top:7px">365 días · una sola historia</div></div><div class="mono">MÚSICA · ARTE · SORPRESAS · TÚ ♥</div><a href="#inicio" class="btn secondary">VOLVER ARRIBA ↑</a></footer>
-<div class="backdrop" id="backdrop" role="dialog" aria-modal="true" aria-labelledby="letter-title"><article class="letter"><button class="close" id="close" aria-label="Cerrar">×</button><div class="letter-navigation"><button type="button" id="day-prev" aria-label="Abrir día anterior">← ANTERIOR</button><div class="mono" id="day-label">PUERTA 001 / 365</div><button type="button" id="day-next" aria-label="Abrir día siguiente">SIGUIENTE →</button></div><h2 id="letter-title">UNA PEQUEÑA<br>SORPRESA.</h2><p id="letter-text">Esta puerta es el punto de entrada visual. Su contenido definitivo se incorporará desde los materiales originales revisados.</p><div class="mono" id="keyword">PALABRA CLAVE · COMIENZO</div>
+<div class="backdrop" id="backdrop" role="dialog" aria-modal="true" aria-labelledby="letter-title"><article class="letter"><button class="close" id="close" aria-label="Cerrar">×</button><div class="letter-navigation"><button type="button" id="day-prev" aria-label="Abrir día anterior">← ANTERIOR</button><div class="mono" id="day-label">PUERTA 001 / 365</div><button type="button" id="day-next" aria-label="Abrir día siguiente">SIGUIENTE →</button></div><h2 id="letter-title">UNA PEQUEÑA<br>SORPRESA.</h2><div class="letter-card-stage" id="letter-card-stage" aria-live="polite"><div class="letter-card-kicker mono" id="letter-card-kicker">PARA EMPEZAR EL DÍA</div><h3 id="letter-card-heading">Buenos días</h3><p id="letter-text">El contenido de esta carta aparecerá aquí.</p></div><div class="letter-card-controls"><button type="button" id="card-prev" aria-label="Carta anterior">←</button><div class="letter-card-dots" id="letter-card-dots"></div><span class="mono" id="letter-card-counter">1 / 4</span><button type="button" id="card-next" aria-label="Carta siguiente">→</button></div><div class="mono" id="keyword">PALABRA DEL DÍA</div><p class="letter-song-inspiration" id="letter-song-inspiration"></p>
 <button class="song-action" id="play-day-song" type="button">▶ ESCUCHAR CANCIÓN DEL DÍA</button><button class="btn" id="save">GUARDAR ESTE MOMENTO ✦</button></article></div><div class="toast" id="toast" role="status">Momento guardado ✦</div>
 <script src="./catalogo-canciones.js"></script>
 <script src="./reproductor.js"></script>
@@ -635,22 +658,52 @@ try{const savedOpened=JSON.parse(localStorage.getItem(openedStorageKey)||'[]');i
 window.AlejaDiasAbiertos=openedDays;
 let active=1,previousFocus=null;
 const shapes=['','s1','s2','s3','s4','s5','s6','s7','s8','s9','s10','s11','s12','s13','s14','s15','s16','s17','s18','s19','s20','s21','s22','s23','s24'];
+
 const safeText=(v)=>typeof v==='string'?v.trim():'';
 function entryFor(n){return Array.isArray(CALENDARIO)?CALENDARIO.find(d=>Number(d.dia)===n):null}
-function keywordFor(n){const d=entryFor(n);if(!d)return 'POR DESCUBRIR';return safeText(d.categoria)||safeText(d.tono)||'UN DETALLE'}
+function keywordFor(n){const d=entryFor(n);if(!d)return 'POR DESCUBRIR';return safeText(d.palabraNueva&&d.palabraNueva.palabra)||safeText(d.categoria)||'UN DETALLE'}
+const cardOrder=['buenosDias','mensajePrincipal','palabraNueva','buenasNoches'];
+const cardLabels={buenosDias:'PARA EMPEZAR EL DÍA',mensajePrincipal:'LA CARTA CENTRAL',palabraNueva:'UNA PALABRA NUEVA',buenasNoches:'PARA CERRAR EL DÍA'};
+let activeCards=[],activeCardIndex=0;
+const cardStage=document.querySelector('#letter-card-stage');
+function cardsFor(d){
+ if(d&&d.cartas)return cardOrder.map(key=>({key,...(d.cartas[key]||{titulo:cardLabels[key],contenido:'Esta carta está pendiente de completar.'})}));
+ const main=[...(Array.isArray(d&&d.poema)?d.poema:[]),safeText(d&&d.detalle)].filter(Boolean).join('\n\n');
+ return [
+  {key:'buenosDias',titulo:'Buenos días',contenido:safeText(d&&d.buenosDias)||'Esta carta está pendiente de reconstrucción.'},
+  {key:'mensajePrincipal',titulo:'Un pensamiento para hoy',contenido:main||'El mensaje principal de este día está pendiente de reconstrucción.'},
+  {key:'palabraNueva',titulo:'Palabra del día en revisión',contenido:'Esta sección todavía no tiene una palabra nueva verificada. Se completará durante la reconstrucción de este día.'},
+  {key:'buenasNoches',titulo:'Buenas noches',contenido:safeText(d&&d.buenasNoches)||'Esta carta está pendiente de reconstrucción.'}
+ ];
+}
+function renderCard(index,animate=true){
+ if(!activeCards.length)return;
+ activeCardIndex=Math.max(0,Math.min(index,activeCards.length-1));
+ const card=activeCards[activeCardIndex],stage=cardStage;
+ if(animate){stage.classList.add('is-changing')}
+ document.querySelector('#letter-card-kicker').textContent=cardLabels[card.key]||'UNA CARTA PARA TI';
+ document.querySelector('#letter-card-heading').textContent=safeText(card.titulo)||'Una sorpresa';
+ document.querySelector('#letter-text').textContent=safeText(card.contenido)||'Esta carta está pendiente de completar.';
+ document.querySelector('#letter-card-counter').textContent=(activeCardIndex+1)+' / 4';
+ document.querySelector('#card-prev').disabled=activeCardIndex===0;
+ document.querySelector('#card-next').disabled=activeCardIndex===activeCards.length-1;
+ const dots=document.querySelector('#letter-card-dots');dots.replaceChildren();
+ activeCards.forEach((item,i)=>{const dot=document.createElement('button');dot.type='button';dot.setAttribute('aria-label','Abrir carta '+(i+1)+': '+(cardLabels[item.key]||item.titulo));if(i===activeCardIndex)dot.setAttribute('aria-current','step');dot.addEventListener('click',()=>renderCard(i));dots.appendChild(dot)});
+ if(animate){stage.classList.remove('is-changing');stage.style.animation='none';void stage.offsetWidth;stage.style.animation='card-paper-in .28s ease both'}
+}
 for(let n=1;n<=365;n++){const wrap=document.createElement('div');wrap.className='door-wrap';const b=document.createElement('button');b.className='door '+shapes[(n*7+n%5)%shapes.length]+(n===1?' featured':'');b.type='button';b.innerHTML='<b>'+String(n).padStart(2,'0')+'</b>';b.setAttribute('aria-label','Abrir puerta '+n);b.style.setProperty('--tilt',(((n%5)-2)*1.2)+'deg');b.addEventListener('click',()=>openDoor(n));const label=document.createElement('span');label.className='door-keyword';label.setAttribute('aria-hidden','true');label.textContent='';wrap.append(b,label);grid.appendChild(wrap)}
 function openDoor(n){
  if(!backdrop.classList.contains('open'))previousFocus=document.activeElement;active=n;openedDays.add(n);window.AlejaDiasAbiertos=openedDays;try{localStorage.setItem(openedStorageKey,JSON.stringify([...openedDays].sort((a,b)=>a-b)))}catch(_){}window.dispatchEvent(new CustomEvent('aleja:dia-abierto',{detail:{dia:n}}));const d=entryFor(n);
  document.querySelector('#day-label').textContent='PUERTA '+String(n).padStart(3,'0')+' / 365'+(d&&d.fechaTexto?' · '+d.fechaTexto.toUpperCase():'');
  document.querySelector('#letter-title').textContent=d?(safeText(d.categoria)||'UN DETALLE PARA TI').toUpperCase():(n<=365?'ESTA PUERTA ESTÁ POR DESCUBRIR':'');
- const pieces=[];
- if(d){if(safeText(d.buenosDias))pieces.push('PARA EMPEZAR EL DÍA\n'+d.buenosDias);if(Array.isArray(d.poema))d.poema.forEach((p,i)=>{if(safeText(p))pieces.push((i===0?'UN PENSAMIENTO':'OTRA COSA PARA RECORDAR')+'\n'+p)});if(safeText(d.detalle))pieces.push('PEQUEÑO DETALLE\n'+d.detalle);if(safeText(d.buenasNoches))pieces.push('PARA CERRAR EL DÍA\n'+d.buenasNoches);if(safeText(d.cancionTitulo))pieces.push('CANCIÓN\n'+d.cancionTitulo+(d.cancionArtista?' — '+d.cancionArtista:''));}
- else pieces.push('El calendario disponible contiene 118 días con contenido escrito. Esta puerta todavía no tiene un mensaje verificado; la dejamos pendiente para no inventar recuerdos ni atribuirle a Aleja detalles que no estén confirmados.');
- document.querySelector('#letter-text').textContent=pieces.join('\n\n');
- document.querySelector('#keyword').textContent='PALABRA CLAVE · '+keywordFor(n).toLocaleUpperCase('es-CO');
+ activeCards=cardsFor(d);renderCard(0,false);
+ document.querySelector('#keyword').textContent='PALABRA DEL DÍA · '+(d&&d.palabraNueva?safeText(d.palabraNueva.palabra).toLocaleUpperCase('es-CO'):'EN RECONSTRUCCIÓN');
+ document.querySelector('#letter-song-inspiration').textContent=d&&safeText(d.inspiracionCancion)?'INSPIRACIÓN MUSICAL · '+safeText(d.inspiracionCancion):'';
  document.querySelector('#save').textContent=visited.has(n)?'MOMENTO GUARDADO ✓':'GUARDAR ESTE MOMENTO ✦';
  backdrop.classList.add('open');document.querySelector('#close').focus()
 }
+document.querySelector('#card-prev').addEventListener('click',()=>renderCard(activeCardIndex-1));
+document.querySelector('#card-next').addEventListener('click',()=>renderCard(activeCardIndex+1));
 function update(){document.querySelector('#count').textContent=visited.size+' / 365';document.querySelector('#fill').style.width=(visited.size/365*100)+'%';document.querySelectorAll('.door').forEach((b,i)=>{const n=i+1,done=visited.has(n),word=keywordFor(n);b.classList.toggle('done',done);b.title=done?word:'Abrir puerta '+n;const label=b.parentElement.querySelector('.door-keyword');label.textContent=done?word.toLocaleUpperCase('es-CO').slice(0,18):'';label.classList.toggle('visible',done);label.setAttribute('aria-hidden',done?'false':'true')})}
 function close(){backdrop.classList.remove('open');if(previousFocus&&typeof previousFocus.focus==='function'&&previousFocus.isConnected)previousFocus.focus()}
 function syncDayNavigation(){document.querySelector('#day-prev').disabled=active<=1;document.querySelector('#day-next').disabled=active>=365}
