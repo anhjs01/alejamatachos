@@ -3707,169 +3707,337 @@ const CALENDARIO = [
     "dia": 78,
     "fecha": "2027-01-01",
     "fechaTexto": "vie, 1 de ene",
-    "categoria": "Un año nuevo, a tu manera",
-    "icono": "🥳",
-    "tono": "amor",
+    "categoria": "Un taller de formas con arcilla",
+    "icono": "🪴",
+    "tono": "creativo",
     "color": {
-      "principal": "#d5a8e8",
-      "suave": "#f0dff8",
-      "oscuro": "#291633"
+      "principal": "#c9a4d9",
+      "suave": "#efdef5",
+      "oscuro": "#281532"
     },
-    "buenosDias": "Feliz año nuevo, Aleja. Ojalá este año te deje crear mucho, reírte con ganas, escuchar canciones hasta cansarte de ellas y sentirte querida sin tener que dejar de ser tú. Que lleguen cosas buenas, pero que también tengas calma para disfrutarlas.",
+    "buenosDias": "Hoy podemos dejar que las manos piensen un rato. No tiene que salir perfecto para convertirse en algo especial.",
     "poema": [
-      "Corazón, deseo que este año te traiga momentos que te emocionen de verdad: ideas que te den ganas de pintar hasta perder la noción de la hora, canciones que encuentren justo el ánimo que tienes y personas que te cuiden con la misma ternura con la que tú sabes cuidar a los tuyos.",
-      "Y ojalá no te falten razones para esa sonrisa tan genuina tuya. Que haya días tranquilos, otros llenos de historias para contar y muchos detalles pequeños que te hagan pensar: «qué bonito que esto me pasó». Feliz año, Aleja; que puedas vivirlo sin dejar de ser tú."
+      "Materiales: arcilla de secado al aire, una base protegida, un poco de agua y herramientas sencillas como un palito o una cuchara. Amasen una porción y elijan una pieza fácil: un platito decorativo para anillos, un colgante o una mini escultura abstracta. Formen la silueta, alisen las grietas con muy poca agua y añadan detalles con marcas o líneas. No hagan piezas para contacto con alimentos ni para calentar; sigan las instrucciones del material y déjenla secar el tiempo indicado. Si no tienen arcilla, guarden la idea para otro día sin necesidad de comprar materiales a la fuerza. Al final, cada uno inventa un nombre para la pieza del otro. ¿Qué objeto pequeño te gustaría crear?",
+      "Modelado: Técnica de dar forma a un material maleable con las manos o herramientas. El modelado permite transformar una porción de arcilla en una figura única."
     ],
-    "detalle": "Hoy no toca exigirte una versión nueva de ti como si fueras un proyecto pendiente. Come algo rico, abraza a tus mascotas si las tienes cerca, habla con tu gente y date permiso de comenzar el año a tu ritmo. Los propósitos pueden esperar hasta después del desayuno; ya sabes que esa negociación con el reloj tiene antecedentes.",
-    "buenasNoches": "Buenas noches, corazón, y feliz primer día del año. Ojalá hoy hayas tenido un momento bonito, una risa sincera o una conversación que te haya hecho sentir cerca de tu gente. Que este año te dé espacio para crear, descansar, querer y dejarte querer. No hace falta que el primer día sea perfecto para que el año tenga cosas buenas por delante.",
-    "cancionTitulo": "Freedom",
-    "cancionArtista": "Pharrell Williams",
-    "youtubeId": "LlY90lG_Fuw",
-    "cancionUrl": "https://www.youtube.com/watch?v=LlY90lG_Fuw"
+    "detalle": "Materiales: arcilla de secado al aire, una base protegida, un poco de agua y herramientas sencillas como un palito o una cuchara. Amasen una porción y elijan una pieza fácil: un platito decorativo para anillos, un colgante o una mini escultura abstracta. Formen la silueta, alisen las grietas con muy poca agua y añadan detalles con marcas o líneas. No hagan piezas para contacto con alimentos ni para calentar; sigan las instrucciones del material y déjenla secar el tiempo indicado. Si no tienen arcilla, guarden la idea para otro día sin necesidad de comprar materiales a la fuerza. Al final, cada uno inventa un nombre para la pieza del otro. ¿Qué objeto pequeño te gustaría crear?",
+    "buenasNoches": "Las cosas hechas a mano guardan algo de quien las creó: sus decisiones, sus pequeñas imperfecciones y el tiempo que les dedicó.",
+    "cancionTitulo": "good denim",
+    "cancionArtista": "jalen chords",
+    "youtubeId": "_2Lnj5N9lCM",
+    "cancionUrl": "https://www.youtube.com/watch?v=_2Lnj5N9lCM",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de un taller de formas con arcilla.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, manos creativas",
+        "contenido": "Hoy podemos dejar que las manos piensen un rato. No tiene que salir perfecto para convertirse en algo especial."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una pieza pequeña hecha a mano",
+        "contenido": "Materiales: arcilla de secado al aire, una base protegida, un poco de agua y herramientas sencillas como un palito o una cuchara. Amasen una porción y elijan una pieza fácil: un platito decorativo para anillos, un colgante o una mini escultura abstracta. Formen la silueta, alisen las grietas con muy poca agua y añadan detalles con marcas o líneas. No hagan piezas para contacto con alimentos ni para calentar; sigan las instrucciones del material y déjenla secar el tiempo indicado. Si no tienen arcilla, guarden la idea para otro día sin necesidad de comprar materiales a la fuerza. Al final, cada uno inventa un nombre para la pieza del otro. ¿Qué objeto pequeño te gustaría crear?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de las formas",
+        "contenido": "Modelado: Técnica de dar forma a un material maleable con las manos o herramientas. El modelado permite transformar una porción de arcilla en una figura única."
+      },
+      "buenasNoches": {
+        "titulo": "Las cosas hechas a mano guardan algo de quien las creó: sus decisiones, sus pequeñas imperfecciones y el tiempo que les dedicó.",
+        "contenido": "Hecho a mano, a su manera"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Modelado",
+      "significado": "Técnica de dar forma a un material maleable con las manos o herramientas.",
+      "ejemplo": "El modelado permite transformar una porción de arcilla en una figura única."
+    }
   },
   {
     "dia": 79,
     "fecha": "2027-01-02",
     "fechaTexto": "sáb, 2 de ene",
-    "categoria": "Templanza",
-    "icono": "🧭",
-    "tono": "filosofica",
+    "categoria": "El juego de las respuestas simultáneas",
+    "icono": "🔢",
+    "tono": "juguetón",
     "color": {
-      "principal": "#91a9c7",
-      "suave": "#e1eaf4",
-      "oscuro": "#17283c"
+      "principal": "#e6b875",
+      "suave": "#f8e8c8",
+      "oscuro": "#30200b"
     },
-    "buenosDias": "Buenos días. Hoy te regalo una palabra que parece tranquila, pero tiene mucha fuerza: templanza. No significa dejar de sentir, sino aprender a no entregar todas nuestras decisiones al primer impulso.",
+    "buenosDias": "Una pregunta, dos respuestas al mismo tiempo y una buena oportunidad para reírse cuando ninguno coincide.",
     "poema": [
-      "La templanza es conservar el equilibrio incluso cuando algo nos mueve por dentro. También es saber detenerse, respirar, cambiar de opinión y reconocer cuándo algo nos afecta.",
-      "Piensa en una situación reciente en la que reaccionaste muy rápido. Si pudieras volver a ese momento, ¿qué harías diferente? No para juzgarte, sino para descubrir cuánto has aprendido."
+      "Jueguen diez rondas. En cada una, alguien propone una categoría o una operación sencilla: «di un número del uno al cinco» o «¿cuánto es 7 + 4?». En las rondas de números, ambos muestran al mismo tiempo una cantidad con los dedos; si la consigna es sumar, cada uno elige un número y dicen el resultado a la vez. Si coinciden, ganan un punto; si no, cada quien explica su elección en una frase y siguen. Añadan dos rondas absurdas —un nombre de planeta inventado o un color que describa el lunes— para que no todo sea cálculo. No hay castigo por perder: quien gane elige el tema de la última ronda. ¿Crees que coincidiremos más de tres veces?",
+      "Sincronía: Coincidencia de tiempos o acciones entre dos o más personas. La sincronía de sus respuestas hizo que ambos dijeran el mismo número."
     ],
-    "detalle": "Para guardar: «No todo lo que siento necesita convertirse inmediatamente en una decisión».",
-    "buenasNoches": "Buenas noches. Ojalá hoy hayas encontrado aunque sea un instante de calma en medio de todo lo que pasa.",
-    "cancionTitulo": "ATLiens",
-    "cancionArtista": "Outkast",
-    "youtubeId": "ktc9hsSfUck",
-    "cancionUrl": "https://www.youtube.com/watch?v=ktc9hsSfUck"
+    "detalle": "Jueguen diez rondas. En cada una, alguien propone una categoría o una operación sencilla: «di un número del uno al cinco» o «¿cuánto es 7 + 4?». En las rondas de números, ambos muestran al mismo tiempo una cantidad con los dedos; si la consigna es sumar, cada uno elige un número y dicen el resultado a la vez. Si coinciden, ganan un punto; si no, cada quien explica su elección en una frase y siguen. Añadan dos rondas absurdas —un nombre de planeta inventado o un color que describa el lunes— para que no todo sea cálculo. No hay castigo por perder: quien gane elige el tema de la última ronda. ¿Crees que coincidiremos más de tres veces?",
+    "buenasNoches": "A veces coincidir es cuestión de suerte; otras veces, de conocerse un poquito. Y cuando no pasa, también hay algo que descubrir.",
+    "cancionTitulo": "Antonia",
+    "cancionArtista": "Gondwana",
+    "youtubeId": "exxkGyu3G1Q",
+    "cancionUrl": "https://www.youtube.com/watch?v=exxkGyu3G1Q",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de el juego de las respuestas simultáneas.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, preparados",
+        "contenido": "Una pregunta, dos respuestas al mismo tiempo y una buena oportunidad para reírse cuando ninguno coincide."
+      },
+      "mensajePrincipal": {
+        "titulo": "Cuenta atrás y números a la vez",
+        "contenido": "Jueguen diez rondas. En cada una, alguien propone una categoría o una operación sencilla: «di un número del uno al cinco» o «¿cuánto es 7 + 4?». En las rondas de números, ambos muestran al mismo tiempo una cantidad con los dedos; si la consigna es sumar, cada uno elige un número y dicen el resultado a la vez. Si coinciden, ganan un punto; si no, cada quien explica su elección en una frase y siguen. Añadan dos rondas absurdas —un nombre de planeta inventado o un color que describa el lunes— para que no todo sea cálculo. No hay castigo por perder: quien gane elige el tema de la última ronda. ¿Crees que coincidiremos más de tres veces?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de coincidir",
+        "contenido": "Sincronía: Coincidencia de tiempos o acciones entre dos o más personas. La sincronía de sus respuestas hizo que ambos dijeran el mismo número."
+      },
+      "buenasNoches": {
+        "titulo": "A veces coincidir es cuestión de suerte; otras veces, de conocerse un poquito. Y cuando no pasa, también hay algo que descubrir.",
+        "contenido": "¿Pensamos igual o nada que ver?"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sincronía",
+      "significado": "Coincidencia de tiempos o acciones entre dos o más personas.",
+      "ejemplo": "La sincronía de sus respuestas hizo que ambos dijeran el mismo número."
+    }
   },
   {
     "dia": 80,
     "fecha": "2027-01-03",
     "fechaTexto": "dom, 3 de ene",
-    "categoria": "El periódico de Hogwarts",
-    "icono": "📰",
-    "tono": "ambiente",
+    "categoria": "Una conversación con preguntas inesperadas",
+    "icono": "💬",
+    "tono": "íntimo",
     "color": {
-      "principal": "#9fc7d4",
-      "suave": "#e2f1f3",
-      "oscuro": "#17333b"
+      "principal": "#d99ab5",
+      "suave": "#f7dce8",
+      "oscuro": "#321523"
     },
-    "buenosDias": "Buenos días, estudiante. Ha aparecido una edición extraordinaria del periódico de Hogwarts. Alguien cambió las noticias y ahora cuenta acontecimientos que todavía no han sucedido.",
+    "buenosDias": "No hacen falta preguntas enormes para conocerse mejor. A veces una curiosa abre una conversación que no esperabas.",
     "poema": [
-      "En portada aparecen tres titulares: «El aula que aparece cuando alguien necesita encontrar algo»; «Un retrato responde preguntas que nadie le ha hecho»; «La biblioteca devuelve un libro que todavía no ha sido escrito».",
-      "Escoge un titular y escribe la noticia completa. Debe incluir una pista escondida para descubrir quién está detrás del misterio. Puedes ser periodista, investigadora o alguien involucrada por accidente."
+      "Escriban por separado cinco preguntas ligeras y dos un poco más personales, pero cómodas para ambos. Ideas: ¿qué pequeño lujo te alegra el día?, ¿qué canción pondrías a una escena de tu vida?, ¿qué habilidad absurda te gustaría dominar? Doblen los papeles y mézclenlos. Por turnos, cada uno saca una pregunta y ambos pueden responderla. Cualquiera puede pasar una pregunta sin tener que explicar por qué; no se insiste ni se convierte en interrogatorio. Para cerrar, cada persona inventa una pregunta que le habría gustado que apareciera y decide si quiere compartirla. ¿Qué pregunta te gustaría que alguien te hiciera más a menudo?",
+      "Apertura: Disposición a compartir ideas o escuchar experiencias con confianza y respeto. La apertura en una conversación también incluye poder decir «prefiero pasar»."
     ],
-    "detalle": "Diseña la portada, inventa el nombre del periódico y agrega una nota: «No todas las cosas extraordinarias ocurren por magia. Algunas empiezan cuando alguien se atreve a mirar dos veces». Actividad original inspirada en Harry Potter, sin spoilers.",
-    "buenasNoches": "Buenas noches. Que nunca se te quite esa curiosidad que convierte cualquier lugar en una posible aventura.",
-    "cancionTitulo": "Bills, Bills, Bills",
-    "cancionArtista": "Destiny's Child",
-    "youtubeId": "NiF6-0UTqtc",
-    "cancionUrl": "https://www.youtube.com/watch?v=NiF6-0UTqtc"
+    "detalle": "Escriban por separado cinco preguntas ligeras y dos un poco más personales, pero cómodas para ambos. Ideas: ¿qué pequeño lujo te alegra el día?, ¿qué canción pondrías a una escena de tu vida?, ¿qué habilidad absurda te gustaría dominar? Doblen los papeles y mézclenlos. Por turnos, cada uno saca una pregunta y ambos pueden responderla. Cualquiera puede pasar una pregunta sin tener que explicar por qué; no se insiste ni se convierte en interrogatorio. Para cerrar, cada persona inventa una pregunta que le habría gustado que apareciera y decide si quiere compartirla. ¿Qué pregunta te gustaría que alguien te hiciera más a menudo?",
+    "buenasNoches": "La confianza no se mide por cuánto cuenta alguien, sino por la libertad que siente para elegir qué compartir y cuándo hacerlo.",
+    "cancionTitulo": "Fui Silencio",
+    "cancionArtista": "Sofía Gabanna; Jazzmind",
+    "youtubeId": "KV2ECDqPyuY",
+    "cancionUrl": "https://www.youtube.com/watch?v=KV2ECDqPyuY",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una conversación con preguntas inesperadas.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, curiosidad tranquila",
+        "contenido": "No hacen falta preguntas enormes para conocerse mejor. A veces una curiosa abre una conversación que no esperabas."
+      },
+      "mensajePrincipal": {
+        "titulo": "La caja de las preguntas curiosas",
+        "contenido": "Escriban por separado cinco preguntas ligeras y dos un poco más personales, pero cómodas para ambos. Ideas: ¿qué pequeño lujo te alegra el día?, ¿qué canción pondrías a una escena de tu vida?, ¿qué habilidad absurda te gustaría dominar? Doblen los papeles y mézclenlos. Por turnos, cada uno saca una pregunta y ambos pueden responderla. Cualquiera puede pasar una pregunta sin tener que explicar por qué; no se insiste ni se convierte en interrogatorio. Para cerrar, cada persona inventa una pregunta que le habría gustado que apareciera y decide si quiere compartirla. ¿Qué pregunta te gustaría que alguien te hiciera más a menudo?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de conversar",
+        "contenido": "Apertura: Disposición a compartir ideas o escuchar experiencias con confianza y respeto. La apertura en una conversación también incluye poder decir «prefiero pasar»."
+      },
+      "buenasNoches": {
+        "titulo": "La confianza no se mide por cuánto cuenta alguien, sino por la libertad que siente para elegir qué compartir y cuándo hacerlo.",
+        "contenido": "Escuchar también es acercarse"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Apertura",
+      "significado": "Disposición a compartir ideas o escuchar experiencias con confianza y respeto.",
+      "ejemplo": "La apertura en una conversación también incluye poder decir «prefiero pasar»."
+    }
   },
   {
     "dia": 81,
     "fecha": "2027-01-04",
     "fechaTexto": "lun, 4 de ene",
-    "categoria": "La exposición de lo que todavía no existe",
-    "icono": "🎨",
-    "tono": "ambiente",
+    "categoria": "Una merienda fresca sin complicaciones",
+    "icono": "🍑",
+    "tono": "casero",
     "color": {
-      "principal": "#9fc7d4",
-      "suave": "#e2f1f3",
-      "oscuro": "#17333b"
+      "principal": "#e8a27d",
+      "suave": "#f9e0d1",
+      "oscuro": "#321b12"
     },
-    "buenosDias": "Hoy vas a organizar una pequeña exposición artística, pero ninguna obra puede representar algo que exista exactamente como lo conocemos.",
+    "buenosDias": "Hoy la cocina puede ser sencilla: algo fresco, rico y preparado sin encender el horno.",
     "poema": [
-      "Crea tres piezas: una escultura que represente la paciencia, una obra sobre un recuerdo que todavía no ha ocurrido y una pintura del sonido de una ciudad cuando todos duermen.",
-      "A cada pieza ponle un título y una ficha de museo: materiales, significado y qué debería sentir alguien al observarla. Puedes dibujar, pintar, modelar o describirla."
+      "Ingredientes para dos: 1 durazno maduro, 1 taza de yogur natural, 3 cucharadas de avena, 1 cucharadita de miel o panela disuelta (opcional), unas gotas de limón y canela al gusto. Lava el durazno, retira el hueso y córtalo en cubitos. Mezcla el yogur con unas gotas de limón y la canela. En una sartén seca, tuesta la avena a fuego bajo durante dos o tres minutos, removiendo para que no se queme; deja que se enfríe. En dos vasos alterna yogur, durazno y avena. Si quieres, añade un poco de miel o panela, sin necesidad de endulzar si la fruta está madura. Sirve enseguida para que la avena conserve algo de textura. Si no hay duraznos, pueden usar fresas o moras. ¿Lo prefieres con canela o sin ella?",
+      "Macerar: Dejar un alimento en contacto con otro ingrediente durante un tiempo para que absorba aromas o sabores. Unas gotas de limón pueden macerar suavemente la fruta y realzar su sabor."
     ],
-    "detalle": "No intentes que todo sea reconocible. Cuanto menos obvia sea la obra, mejor. Deja que cada pieza tenga su propio lenguaje visual.",
-    "buenasNoches": "Buenas noches. Hay ideas que todavía no existen porque están esperando que alguien les dé forma.",
-    "cancionTitulo": "Shoop",
-    "cancionArtista": "Salt-N-Pepa",
-    "youtubeId": "4vaN01VLYSQ",
-    "cancionUrl": "https://www.youtube.com/watch?v=4vaN01VLYSQ"
+    "detalle": "Ingredientes para dos: 1 durazno maduro, 1 taza de yogur natural, 3 cucharadas de avena, 1 cucharadita de miel o panela disuelta (opcional), unas gotas de limón y canela al gusto. Lava el durazno, retira el hueso y córtalo en cubitos. Mezcla el yogur con unas gotas de limón y la canela. En una sartén seca, tuesta la avena a fuego bajo durante dos o tres minutos, removiendo para que no se queme; deja que se enfríe. En dos vasos alterna yogur, durazno y avena. Si quieres, añade un poco de miel o panela, sin necesidad de endulzar si la fruta está madura. Sirve enseguida para que la avena conserve algo de textura. Si no hay duraznos, pueden usar fresas o moras. ¿Lo prefieres con canela o sin ella?",
+    "buenasNoches": "Compartir algo preparado con cuidado no necesita una ocasión especial. A veces la sencillez también se siente como un detalle.",
+    "cancionTitulo": "Tomorrow",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "zMC5-M15je0",
+    "cancionUrl": "https://www.youtube.com/watch?v=zMC5-M15je0",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una merienda fresca sin complicaciones.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, algo fresco",
+        "contenido": "Hoy la cocina puede ser sencilla: algo fresco, rico y preparado sin encender el horno."
+      },
+      "mensajePrincipal": {
+        "titulo": "Vasitos de durazno y yogur",
+        "contenido": "Ingredientes para dos: 1 durazno maduro, 1 taza de yogur natural, 3 cucharadas de avena, 1 cucharadita de miel o panela disuelta (opcional), unas gotas de limón y canela al gusto. Lava el durazno, retira el hueso y córtalo en cubitos. Mezcla el yogur con unas gotas de limón y la canela. En una sartén seca, tuesta la avena a fuego bajo durante dos o tres minutos, removiendo para que no se queme; deja que se enfríe. En dos vasos alterna yogur, durazno y avena. Si quieres, añade un poco de miel o panela, sin necesidad de endulzar si la fruta está madura. Sirve enseguida para que la avena conserve algo de textura. Si no hay duraznos, pueden usar fresas o moras. ¿Lo prefieres con canela o sin ella?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de los sabores",
+        "contenido": "Macerar: Dejar un alimento en contacto con otro ingrediente durante un tiempo para que absorba aromas o sabores. Unas gotas de limón pueden macerar suavemente la fruta y realzar su sabor."
+      },
+      "buenasNoches": {
+        "titulo": "Compartir algo preparado con cuidado no necesita una ocasión especial. A veces la sencillez también se siente como un detalle.",
+        "contenido": "Un sabor sencillo para terminar"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Macerar",
+      "significado": "Dejar un alimento en contacto con otro ingrediente durante un tiempo para que absorba aromas o sabores.",
+      "ejemplo": "Unas gotas de limón pueden macerar suavemente la fruta y realzar su sabor."
+    }
   },
   {
     "dia": 82,
     "fecha": "2027-01-05",
     "fechaTexto": "mar, 5 de ene",
-    "categoria": "La misión de las ventanas selladas",
-    "icono": "🪟",
-    "tono": "ambiente",
+    "categoria": "Una tarde de observar detalles",
+    "icono": "🔎",
+    "tono": "explorador",
     "color": {
-      "principal": "#9fc7d4",
-      "suave": "#e2f1f3",
-      "oscuro": "#17333b"
+      "principal": "#8ebfc4",
+      "suave": "#d9eff0",
+      "oscuro": "#10272b"
     },
-    "buenosDias": "En una ciudad aparentemente normal, varias personas han empezado a evitar ciertas ventanas. No saben explicar por qué; solo sienten que algo se vuelve más pesado al mirar a través de ellas.",
+    "buenosDias": "Si hoy sales un rato, prueba mirar el lugar como si fuera nuevo. Y si te quedas en casa, también puedes jugar a encontrar detalles que normalmente pasan inadvertidos.",
     "poema": [
-      "En una ventana aparece el nombre de alguien que nunca vivió allí. En otra, el reflejo muestra una habitación distinta. La última no refleja a quien se coloca delante, sino a la persona que más extraña.",
-      "La escuela detecta energía maldita en un edificio abandonado. Inventa qué alimenta la maldición y encuentra una manera de romperla."
+      "En una caminata corta por un lugar público seguro —o dentro de casa si prefieren— busquen siete detalles: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que suene suave, una combinación de colores y algo que les haga sonreír. Cada persona elige tres detalles y explica por qué los notó. No hace falta comprar nada ni entrar a sitios privados; si salen, revisen clima, horario y camino de regreso. Si el paseo no encaja ese día, la versión en casa funciona igual. Al final, elijan un detalle y descríbanlo con tres palabras. ¿Qué crees que notarías primero?",
+      "Matiz: Diferencia pequeña que modifica el carácter, el sentido o el aspecto de algo. El matiz azul de una sombra llamó su atención durante el paseo."
     ],
-    "detalle": "La solución no puede consistir en destruir todas las ventanas. Lo importante no es tener el ataque más poderoso, sino descubrir qué está pasando. Misión original inspirada en Jujutsu Kaisen, sin spoilers.",
-    "buenasNoches": "Buenas noches. A veces, para vencer algo, primero hay que entender por qué existe.",
-    "cancionTitulo": "Give It Up to Me",
-    "cancionArtista": "Sean Paul",
-    "youtubeId": "kdzGENHQ-rk",
-    "cancionUrl": "https://www.youtube.com/watch?v=kdzGENHQ-rk"
+    "detalle": "En una caminata corta por un lugar público seguro —o dentro de casa si prefieren— busquen siete detalles: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que suene suave, una combinación de colores y algo que les haga sonreír. Cada persona elige tres detalles y explica por qué los notó. No hace falta comprar nada ni entrar a sitios privados; si salen, revisen clima, horario y camino de regreso. Si el paseo no encaja ese día, la versión en casa funciona igual. Al final, elijan un detalle y descríbanlo con tres palabras. ¿Qué crees que notarías primero?",
+    "buenasNoches": "El mundo no siempre cambia cuando lo miramos distinto, pero nuestra experiencia sí puede cambiar bastante.",
+    "cancionTitulo": "Best Part (feat. H.E.R.)",
+    "cancionArtista": "Daniel Caesar; H.E.R.",
+    "youtubeId": "vBy7FaapGRo",
+    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una tarde de observar detalles.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, ojos atentos",
+        "contenido": "Si hoy sales un rato, prueba mirar el lugar como si fuera nuevo. Y si te quedas en casa, también puedes jugar a encontrar detalles que normalmente pasan inadvertidos."
+      },
+      "mensajePrincipal": {
+        "titulo": "La búsqueda de siete pequeños detalles",
+        "contenido": "En una caminata corta por un lugar público seguro —o dentro de casa si prefieren— busquen siete detalles: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que suene suave, una combinación de colores y algo que les haga sonreír. Cada persona elige tres detalles y explica por qué los notó. No hace falta comprar nada ni entrar a sitios privados; si salen, revisen clima, horario y camino de regreso. Si el paseo no encaja ese día, la versión en casa funciona igual. Al final, elijan un detalle y descríbanlo con tres palabras. ¿Qué crees que notarías primero?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de los detalles",
+        "contenido": "Matiz: Diferencia pequeña que modifica el carácter, el sentido o el aspecto de algo. El matiz azul de una sombra llamó su atención durante el paseo."
+      },
+      "buenasNoches": {
+        "titulo": "El mundo no siempre cambia cuando lo miramos distinto, pero nuestra experiencia sí puede cambiar bastante.",
+        "contenido": "Hay belleza en los detalles"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Matiz",
+      "significado": "Diferencia pequeña que modifica el carácter, el sentido o el aspecto de algo.",
+      "ejemplo": "El matiz azul de una sombra llamó su atención durante el paseo."
+    }
   },
   {
     "dia": 83,
     "fecha": "2027-01-06",
     "fechaTexto": "mié, 6 de ene",
-    "categoria": "Ñoquis dorados con salsa cremosa de tomate",
-    "icono": "🍝",
-    "tono": "amor",
+    "categoria": "El retrato escrito del otro",
+    "icono": "✍️",
+    "tono": "coqueto",
     "color": {
-      "principal": "#d99ab3",
-      "suave": "#f7e2ea",
-      "oscuro": "#351b29"
+      "principal": "#d4a1b9",
+      "suave": "#f4dce7",
+      "oscuro": "#301523"
     },
-    "buenosDias": "Hoy te dejo una receta para preparar sin afán: ñoquis doraditos por fuera, con salsa cremosa de tomate y parmesano.",
+    "buenosDias": "Un pequeño reto coqueto: describir al otro con palabras, sin hablar de su apariencia solamente y sin intentar sonar como una película.",
     "poema": [
-      "Ingredientes para dos: 400 g de ñoquis, 200 g de tomate triturado, 80 ml de crema, un ajo, media cebolla, una cucharada de mantequilla, 30 g de parmesano, aceite, sal, pimienta y albahaca.",
-      "Cocina los ñoquis en agua con sal y retíralos cuando floten. Sofríe cebolla y ajo; agrega tomate y cocina ocho minutos. Incorpora crema. Dora los ñoquis 3–4 minutos, mézclalos con la salsa y termina con parmesano y albahaca."
+      "Cada uno escribe cinco líneas sobre algo que aprecia de la otra persona: una forma de expresarse, una idea que le llamó la atención, un gesto amable, una manera de resolver algo o una cualidad que le hace reír. Eviten comentarios que incomoden; no hace falta incluir nada físico ni íntimo. Después intercambien los textos y lean solo lo que ambos quieran compartir. Quien recibe puede escoger una línea favorita y decir qué le hizo sentir, sin obligación de responder con un elogio equivalente. Si escribir no les gusta, pueden decirlo en voz alta o dibujar una pequeña metáfora. ¿Qué detalle de alguien puede gustarte aunque esa persona no se dé cuenta?",
+      "Admiración: Reconocimiento sincero de una cualidad, acción o capacidad que se valora en alguien. La admiración crece cuando se expresa con sinceridad y sin esperar nada a cambio."
     ],
-    "detalle": "Reserva algunos ñoquis dorados para ponerlos encima. Por la alergia al maní, revisa etiquetas y advertencias de trazas; evita contaminación cruzada en superficies, utensilios y aceites compartidos.",
-    "buenasNoches": "Buenas noches. Ojalá algún día esta receta forme parte de esas comidas que uno recuerda por lo bien que la pasó.",
-    "cancionTitulo": "I Know What You Want (feat. Flipmode Squad)",
-    "cancionArtista": "Busta Rhymes; Mariah Carey; Flipmode Squad",
-    "youtubeId": "WDaNJW_jEBo",
-    "cancionUrl": "https://www.youtube.com/watch?v=WDaNJW_jEBo"
+    "detalle": "Cada uno escribe cinco líneas sobre algo que aprecia de la otra persona: una forma de expresarse, una idea que le llamó la atención, un gesto amable, una manera de resolver algo o una cualidad que le hace reír. Eviten comentarios que incomoden; no hace falta incluir nada físico ni íntimo. Después intercambien los textos y lean solo lo que ambos quieran compartir. Quien recibe puede escoger una línea favorita y decir qué le hizo sentir, sin obligación de responder con un elogio equivalente. Si escribir no les gusta, pueden decirlo en voz alta o dibujar una pequeña metáfora. ¿Qué detalle de alguien puede gustarte aunque esa persona no se dé cuenta?",
+    "buenasNoches": "Un cumplido bonito no debería ser una deuda ni una prueba. Puede ser simplemente una forma honesta de decir: eso que haces tiene valor para mí.",
+    "cancionTitulo": "By Your Side",
+    "cancionArtista": "Sade",
+    "youtubeId": "C8QJmI_V3j4",
+    "cancionUrl": "https://www.youtube.com/watch?v=C8QJmI_V3j4",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de el retrato escrito del otro.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, un detalle bonito",
+        "contenido": "Un pequeño reto coqueto: describir al otro con palabras, sin hablar de su apariencia solamente y sin intentar sonar como una película."
+      },
+      "mensajePrincipal": {
+        "titulo": "Cinco líneas que sí suenen a ti",
+        "contenido": "Cada uno escribe cinco líneas sobre algo que aprecia de la otra persona: una forma de expresarse, una idea que le llamó la atención, un gesto amable, una manera de resolver algo o una cualidad que le hace reír. Eviten comentarios que incomoden; no hace falta incluir nada físico ni íntimo. Después intercambien los textos y lean solo lo que ambos quieran compartir. Quien recibe puede escoger una línea favorita y decir qué le hizo sentir, sin obligación de responder con un elogio equivalente. Si escribir no les gusta, pueden decirlo en voz alta o dibujar una pequeña metáfora. ¿Qué detalle de alguien puede gustarte aunque esa persona no se dé cuenta?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de apreciar",
+        "contenido": "Admiración: Reconocimiento sincero de una cualidad, acción o capacidad que se valora en alguien. La admiración crece cuando se expresa con sinceridad y sin esperar nada a cambio."
+      },
+      "buenasNoches": {
+        "titulo": "Un cumplido bonito no debería ser una deuda ni una prueba. Puede ser simplemente una forma honesta de decir: eso que haces tiene valor para mí.",
+        "contenido": "Un detalle que merece ser dicho"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Admiración",
+      "significado": "Reconocimiento sincero de una cualidad, acción o capacidad que se valora en alguien.",
+      "ejemplo": "La admiración crece cuando se expresa con sinceridad y sin esperar nada a cambio."
+    }
   },
   {
     "dia": 84,
     "fecha": "2027-01-07",
     "fechaTexto": "jue, 7 de ene",
-    "categoria": "El archivo de las versiones alternativas",
-    "icono": "🗂️",
-    "tono": "filosofica",
+    "categoria": "La banda sonora de un momento",
+    "icono": "🎧",
+    "tono": "musical",
     "color": {
-      "principal": "#91a9c7",
-      "suave": "#e1eaf4",
-      "oscuro": "#17283c"
+      "principal": "#9fa8dc",
+      "suave": "#e0e3f8",
+      "oscuro": "#171b35"
     },
-    "buenosDias": "Imagina un archivo donde se guardan todas las versiones de ti que pudieron aparecer si hubieras tomado decisiones diferentes.",
+    "buenosDias": "Hay momentos que parecen tener música propia. Hoy pueden elegir cuál sería la banda sonora de una escena inventada o de un recuerdo bonito.",
     "poema": [
-      "Hay una versión que aprendió algo inesperado, otra que se mudó a un lugar que nunca había considerado y otra que descubrió una habilidad que todavía no sabe que tiene.",
-      "Inventa tres versiones. Para cada una describe dónde vive, a qué dedica sus días, qué descubrió y qué rasgo tuyo conserva. No son vidas mejores ni peores: son caminos distintos."
+      "Cada uno propone tres escenas: una llegada inesperada, una tarde lluviosa y un final feliz, por ejemplo. Para cada escena, elijan una canción que encaje por ritmo, ambiente o recuerdo; no tiene que ser romántica. Escuchen un fragmento breve de cada elección y expliquen por qué funciona. Después intercambien una escena para que la otra persona elija la música. Si los gustos no coinciden, no hay que convencer a nadie: describan qué sensación querían crear. Para la última ronda, inventen una escena absurda y busquen una canción que la vuelva todavía más divertida. ¿Qué canción pondrías a un momento tranquilo al atardecer?",
+      "Atmósfera: Sensación o ambiente que se percibe en un lugar, obra o momento. La música suave creó una atmósfera cálida sin necesidad de decir mucho."
     ],
-    "detalle": "Escribe una frase que las tres versiones podrían decirte. Quizá descubras que, aunque imagines vidas diferentes, hay cosas de ti que siempre viajarían contigo.",
-    "buenasNoches": "Buenas noches. No tienes que convertirte en todas tus posibilidades. Algunas existen para recordarte que todavía puedes elegir.",
-    "cancionTitulo": "Straight Outta Compton",
-    "cancionArtista": "N.W.A.",
-    "youtubeId": "TMZi25Pq3T8",
-    "cancionUrl": "https://www.youtube.com/watch?v=TMZi25Pq3T8"
+    "detalle": "Cada uno propone tres escenas: una llegada inesperada, una tarde lluviosa y un final feliz, por ejemplo. Para cada escena, elijan una canción que encaje por ritmo, ambiente o recuerdo; no tiene que ser romántica. Escuchen un fragmento breve de cada elección y expliquen por qué funciona. Después intercambien una escena para que la otra persona elija la música. Si los gustos no coinciden, no hay que convencer a nadie: describan qué sensación querían crear. Para la última ronda, inventen una escena absurda y busquen una canción que la vuelva todavía más divertida. ¿Qué canción pondrías a un momento tranquilo al atardecer?",
+    "buenasNoches": "Ojalá siempre haya canciones que acompañen tus días sin pedirte que sientas algo específico. A veces basta con dejar que suenen.",
+    "cancionTitulo": "Kiss Of Life",
+    "cancionArtista": "Sade",
+    "youtubeId": "MmOau-PMWJk",
+    "cancionUrl": "https://www.youtube.com/watch?v=MmOau-PMWJk",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de la banda sonora de un momento.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, que suene la música",
+        "contenido": "Hay momentos que parecen tener música propia. Hoy pueden elegir cuál sería la banda sonora de una escena inventada o de un recuerdo bonito."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tres escenas, tres canciones",
+        "contenido": "Cada uno propone tres escenas: una llegada inesperada, una tarde lluviosa y un final feliz, por ejemplo. Para cada escena, elijan una canción que encaje por ritmo, ambiente o recuerdo; no tiene que ser romántica. Escuchen un fragmento breve de cada elección y expliquen por qué funciona. Después intercambien una escena para que la otra persona elija la música. Si los gustos no coinciden, no hay que convencer a nadie: describan qué sensación querían crear. Para la última ronda, inventen una escena absurda y busquen una canción que la vuelva todavía más divertida. ¿Qué canción pondrías a un momento tranquilo al atardecer?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del ambiente",
+        "contenido": "Atmósfera: Sensación o ambiente que se percibe en un lugar, obra o momento. La música suave creó una atmósfera cálida sin necesidad de decir mucho."
+      },
+      "buenasNoches": {
+        "titulo": "Ojalá siempre haya canciones que acompañen tus días sin pedirte que sientas algo específico. A veces basta con dejar que suenen.",
+        "contenido": "Que la música acompañe"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Atmósfera",
+      "significado": "Sensación o ambiente que se percibe en un lugar, obra o momento.",
+      "ejemplo": "La música suave creó una atmósfera cálida sin necesidad de decir mucho."
+    }
   },
   {
     "dia": 85,
