@@ -12802,7 +12802,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El reto de reparar antes de reemplazar",
-        "contenido": "Elige un objeto no eléctrico y seguro que uses con frecuencia: una mochila, un estuche, un cuaderno o unos zapatos. Límpialo, organiza lo que guarda, revisa costuras o piezas sueltas y piensa si una reparación sencilla puede alargar su uso. No manipules baterías, cables dañados ni aparatos conectados; para eso es mejor acudir a alguien capacitado. Si no hay nada que reparar, deja listo un objeto para reutilizar o donar."
+        "contenido": "Elige un objeto no eléctrico y seguro que uses con frecuencia: una mochila, un estuche, un cuaderno o unos zapatos. Límpialo, organiza lo que guarda, revisa costuras o piezas sueltas y piensa si una reparación sencilla puede alargar su uso. No manipules baterías, cables dañados ni aparatos conectados; para eso es mejor acudir a alguien capacitado. Si no hay nada que reparar, deja listo un objeto para reutilizar o donar.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Elige un objeto no eléctrico y una reparación sencilla; no manipules cables, baterías ni piezas peligrosas."
       },
       "palabraNueva": {
         "titulo": "La palabra mantenimiento",
@@ -12849,7 +12849,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El laboratorio de finales alternativos",
-        "contenido": "Escoge un cuento, película o serie que recuerdes bien. Imagina que la historia termina cinco minutos antes de su desenlace original y escribe tres finales alternativos: uno optimista, uno inesperado y uno cómico. Cada final debe respetar la personalidad de los personajes, pero cambiar una decisión clave. Si prefieres, hazlo con una historia inventada para no depender de una obra conocida."
+        "contenido": "Escoge un cuento, película o serie que recuerdes bien. Imagina que la historia termina cinco minutos antes de su desenlace original y escribe tres finales alternativos: uno optimista, uno inesperado y uno cómico. Cada final debe respetar la personalidad de los personajes, pero cambiar una decisión clave. Si prefieres, hazlo con una historia inventada para no depender de una obra conocida.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Escribe tres finales alternativos y elige el que mejor encaje con los personajes."
       },
       "palabraNueva": {
         "titulo": "La palabra desenlace",
@@ -12896,7 +12896,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El laboratorio de mapas imaginarios",
-        "contenido": "Inventa una isla, barrio o pequeño planeta. Dibuja un mapa con cinco lugares identificables: un sitio para descansar, uno peligroso pero curioso, uno donde se consigue algo extraño, un punto de encuentro y un lugar secreto. Añade una leyenda con tres símbolos y bautiza al menos dos caminos. No tiene que quedar bonito ni a escala: debe permitir que otra persona entienda cómo recorrerlo."
+        "contenido": "Inventa una isla, barrio o pequeño planeta. Dibuja un mapa con cinco lugares identificables: un sitio para descansar, uno peligroso pero curioso, uno donde se consigue algo extraño, un punto de encuentro y un lugar secreto. Añade una leyenda con tres símbolos y bautiza al menos dos caminos. No tiene que quedar bonito ni a escala: debe permitir que otra persona entienda cómo recorrerlo.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Cinco lugares, un camino principal y una regla especial para entrar a la zona secreta."
       },
       "palabraNueva": {
         "titulo": "La palabra cartografía",
@@ -12943,7 +12943,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El reto de la memoria por categorías",
-        "contenido": "Elijan una categoría concreta —comidas, ciudades, películas, animales o canciones— y una letra al azar. Tienen 45 segundos para escribir tantas respuestas válidas como puedan. En la segunda ronda cambien la regla: cada respuesta debe comenzar con la última letra de la anterior. No se vale repetir ni buscar en internet; si juegan en grupo, las respuestas duplicadas entre participantes no suman puntos."
+        "contenido": "Elijan una categoría concreta —comidas, ciudades, películas, animales o canciones— y una letra al azar. Tienen 45 segundos para escribir tantas respuestas válidas como puedan. En la segunda ronda cambien la regla: cada respuesta debe comenzar con la última letra de la anterior. No se vale repetir ni buscar en internet; si juegan en grupo, las respuestas duplicadas entre participantes no suman puntos.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Una categoría y una ronda de 45 segundos; si están tres en la oficina, hagan una ronda durante una pausa."
       },
       "palabraNueva": {
         "titulo": "La palabra asociación",
@@ -12986,11 +12986,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Este sábado la idea es hacer una salida corta con una parada para probar algo diferente."
+        "contenido": "Si más adelante coincide un sábado libre, podemos hacer una salida corta para probar algo nuevo. Hoy solo dejamos la idea abierta; primero importan el tiempo, las ganas y el presupuesto."
       },
       "mensajePrincipal": {
         "titulo": "La ruta de los sabores de una ciudad",
-        "contenido": "Elijan una zona caminable y recorran dos o tres cuadras que no suelan visitar. La misión es encontrar una bebida nueva o una preparación sencilla que despierte curiosidad, revisar qué ingredientes tiene y disfrutarla con calma en un lugar agradable. Pueden complementar con una caminata breve o mirar vitrinas y espacios culturales. Si se trata de alimentos o bebidas empacados, revisen etiquetas y posibles trazas de maní; ante dudas sobre ingredientes o contaminación cruzada, mejor no consumirlos."
+        "contenido": "IDEA DE SALIDA OPCIONAL · 1–2 HORAS · PRESUPUESTO FLEXIBLE\n\nPara un día que ambos tengan libre, elijan una zona pública, caminable y segura que no suelan recorrer. La misión sería descubrir una bebida o preparación sencilla que les despierte curiosidad y caminar dos o tres cuadras sin afán.\n\nAntes de decidir, revisen transporte, horarios, precio, ingredientes y ruta de regreso. También pueden llevar una bebida preparada en casa y convertirlo en un paseo de costo cero. No hay fecha fijada: se hace solo si a ambos les provoca.\n\nTIEMPO DE LA SALIDA: 1–2 HORAS si deciden hacerla. Es opcional y de bajo costo adaptable; revisen horarios, transporte y presupuesto antes de salir."
       },
       "palabraNueva": {
         "titulo": "La palabra degustación",
@@ -13037,7 +13037,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El desafío de traducir emociones a colores",
-        "contenido": "Elige una emoción —tranquilidad, entusiasmo, nostalgia, curiosidad o cualquier otra— y crea una paleta de cuatro colores que la represente. Puedes usar lápices, marcadores o una herramienta digital. Después asigna a cada color una función: fondo, acento, contraste y detalle. Muestra la composición sin decir qué emoción elegiste y deja que otra persona intente interpretarla."
+        "contenido": "Elige una emoción —tranquilidad, entusiasmo, nostalgia, curiosidad o cualquier otra— y crea una paleta de cuatro colores que la represente. Puedes usar lápices, marcadores o una herramienta digital. Después asigna a cada color una función: fondo, acento, contraste y detalle. Muestra la composición sin decir qué emoción elegiste y deja que otra persona intente interpretarla.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Cuatro colores, una emoción y un título para la paleta."
       },
       "palabraNueva": {
         "titulo": "La palabra paleta",
@@ -13084,7 +13084,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El menú de una pausa de oficina",
-        "contenido": "Pon una alarma para una pausa de cinco minutos. Levántate si puedes, cambia la postura, mueve hombros y muñecas suavemente, mira a un punto lejano durante unos segundos y toma agua. Después elige una tarea pequeña que puedas cerrar antes de volver a lo demás. Ajusta los movimientos a lo que te resulte cómodo y no fuerces ninguna articulación."
+        "contenido": "Pon una alarma para una pausa de cinco minutos. Levántate si puedes, cambia la postura, mueve hombros y muñecas suavemente, mira a un punto lejano durante unos segundos y toma agua. Después elige una tarea pequeña que puedas cerrar antes de volver a lo demás. Ajusta los movimientos a lo que te resulte cómodo y no fuerces ninguna articulación.\n\nDURACIÓN DE LA PAUSA: 5 MINUTOS. Haz solo movimientos cómodos y vuelve a tu tarea cuando termine el descanso; no reemplaza una pausa formal ni una indicación laboral."
       },
       "palabraNueva": {
         "titulo": "La palabra pausa activa",
@@ -13131,7 +13131,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La misión de fotografiar detalles invisibles",
-        "contenido": "Usa la cámara del celular para fotografiar tres detalles pequeños: la textura de una tela, las líneas de una hoja, las marcas de un objeto usado o las gotas sobre un vidrio. Acércate hasta donde la cámara enfoque con claridad, busca luz natural y prueba distintos ángulos. No necesitas lente especial. Luego muestra las fotos sin revelar qué objeto es y deja que alguien adivine."
+        "contenido": "Usa la cámara del celular para fotografiar tres detalles pequeños: la textura de una tela, las líneas de una hoja, las marcas de un objeto usado o las gotas sobre un vidrio. Acércate hasta donde la cámara enfoque con claridad, busca luz natural y prueba distintos ángulos. No necesitas lente especial. Luego muestra las fotos sin revelar qué objeto es y deja que alguien adivine.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tres fotos y una frase para cada detalle; no fotografíes documentos ni a personas sin permiso."
       },
       "palabraNueva": {
         "titulo": "La palabra macro",
@@ -13178,7 +13178,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El club de las decisiones pequeñas",
-        "contenido": "Piensa en una parte de tu rutina que suelas dejar en automático: cómo organizas tu descanso, qué haces en un rato libre, qué actividad pospones o cómo distribuyes una tarea. Elige un cambio pequeño que dependa de ti y pruébalo durante un día. Puede ser reservar veinte minutos para algo que disfrutes, pedir ayuda con una tarea o decir que no a un compromiso que no puedes asumir."
+        "contenido": "Piensa en una parte de tu rutina que suelas dejar en automático: cómo organizas tu descanso, qué haces en un rato libre, qué actividad pospones o cómo distribuyes una tarea. Elige un cambio pequeño que dependa de ti y pruébalo durante un día. Puede ser reservar veinte minutos para algo que disfrutes, pedir ayuda con una tarea o decir que no a un compromiso que no puedes asumir.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Elige una decisión pequeña que dependa de ti y define un primer paso realista."
       },
       "palabraNueva": {
         "titulo": "La palabra autonomía",
@@ -13225,7 +13225,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La ruleta de los cinco sentidos",
-        "contenido": "Elige cinco pequeñas misiones para el día: encontrar un sonido que te guste, descubrir una textura curiosa, notar un aroma agradable, probar un sabor distinto y observar un color que hoy parezca especialmente bonito. No hace falta hacerlas todas de una vez; puedes ir reuniendo tus hallazgos como si fueran objetos de una colección invisible."
+        "contenido": "Elige cinco pequeñas misiones para el día: encontrar un sonido que te guste, descubrir una textura curiosa, notar un aroma agradable, probar un sabor distinto y observar un color que hoy parezca especialmente bonito. No hace falta hacerlas todas de una vez; puedes ir reuniendo tus hallazgos como si fueran objetos de una colección invisible.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS repartidos durante el día. No hace falta probar alimentos o aromas desconocidos; basta observar lo que ya conoces."
       },
       "palabraNueva": {
         "titulo": "La palabra serendipia",
@@ -13272,7 +13272,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El cumplido con pruebas",
-        "contenido": "El reto consiste en dar un cumplido que venga acompañado de una prueba. En vez de decir solamente «qué genial», menciona el detalle concreto: una idea que resolvió bien, una combinación de colores, una forma de explicar algo, una ocurrencia o la manera de tratar a alguien. La gracia está en demostrar que sí estabas prestando atención."
+        "contenido": "El reto consiste en dar un cumplido que venga acompañado de una prueba. En vez de decir solamente «qué genial», menciona el detalle concreto: una idea que resolvió bien, una combinación de colores, una forma de explicar algo, una ocurrencia o la manera de tratar a alguien. La gracia está en demostrar que sí estabas prestando atención.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Elige un cumplido y acompáñalo con una situación concreta, sin esperar una respuesta."
       },
       "palabraNueva": {
         "titulo": "La palabra perspicacia",
@@ -13319,7 +13319,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La cocina improvisada: arepas con personalidad",
-        "contenido": "Prepara una arepa en sartén y conviértela en una mini creación. Puedes usar queso, tomate, aguacate, maíz, champiñones salteados o los ingredientes sencillos que tengas disponibles. Haz una versión clásica y otra con una combinación inesperada, pero que sí te provoque probar. Cocina con cuidado y revisa que los ingredientes estén en buen estado."
+        "contenido": "Prepara una arepa en sartén y conviértela en una mini creación. Puedes usar queso, tomate, aguacate, maíz, champiñones salteados o los ingredientes sencillos que tengas disponibles. Haz una versión clásica y otra con una combinación inesperada, pero que sí te provoque probar. Cocina con cuidado y revisa que los ingredientes estén en buen estado.\n\nTIEMPO DE PREPARACIÓN: 15–20 MINUTOS. Prepara la arepa en sartén y deja los ingredientes listos en recipientes separados para el almuerzo."
       },
       "palabraNueva": {
         "titulo": "La palabra improvisar",
@@ -13366,7 +13366,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El casting de una serie que no existe",
-        "contenido": "Imaginen una serie con un título absurdo y una premisa inesperada: una panadería que solo abre de noche, un edificio donde cada vecino tiene una misión secreta o un detective que resuelve misterios usando únicamente notas de voz. Después inventen tres personajes, el problema del primer capítulo y una escena que obligue a ver el siguiente episodio."
+        "contenido": "Imaginen una serie con un título absurdo y una premisa inesperada: una panadería que solo abre de noche, un edificio donde cada vecino tiene una misión secreta o un detective que resuelve misterios usando únicamente notas de voz. Después inventen tres personajes, el problema del primer capítulo y una escena que obligue a ver el siguiente episodio.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Título, premisa, tres personajes y una escena del primer episodio."
       },
       "palabraNueva": {
         "titulo": "La palabra premisa",
@@ -13387,7 +13387,7 @@ const CALENDARIO = [
     "dia": 284,
     "fecha": "2027-07-26",
     "fechaTexto": "lun, 26 de jul",
-    "categoria": "Una salida con tres pequeñas misiones",
+    "categoria": "El diseño de una salida con tres pequeñas misiones",
     "icono": "🧭",
     "tono": "plan compartido y cercano",
     "color": {
@@ -13409,11 +13409,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Si hoy o en los próximos días hay tiempo, podemos cambiar de escenario con un plan sencillo y sin convertirlo en una expedición."
+        "contenido": "Hoy no toca organizar una salida de inmediato: vamos a diseñar un recorrido para algún día libre, con tres misiones pequeñas y una alternativa gratuita."
       },
       "mensajePrincipal": {
-        "titulo": "Una salida con tres pequeñas misiones",
-        "contenido": "La propuesta es una salida corta de medio día: elegir una zona agradable para caminar, encontrar un lugar donde sentarse a conversar y cerrar con algo rico o una bebida. Durante el recorrido hay tres misiones opcionales: descubrir una fachada bonita, encontrar un rincón tranquilo y elegir algo que normalmente no pedirías."
+        "titulo": "El diseño de una salida con tres pequeñas misiones",
+        "contenido": "DISEÑO DE PLAN FUTURO · 10–15 MINUTOS · SIN RESERVAS\n\nHoy no vamos a salir. Diseñen una propuesta de medio día para cuando coincidan el tiempo y las ganas: una zona agradable para caminar, un lugar tranquilo donde sentarse y una última parada opcional para tomar algo.\n\nCada uno propone una misión sencilla para el recorrido. Después revisen presupuesto, transporte, horarios, seguridad y hora de regreso. Si no encaja económicamente, cambien la bebida por algo llevado desde casa o conviertan el plan en una caminata corta y gratuita. La idea queda guardada, no comprometida.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS para diseñar el recorrido. No hay fecha, destino ni gasto decidido."
       },
       "palabraNueva": {
         "titulo": "La palabra itinerario",
@@ -13460,7 +13460,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El examen de la academia imposible",
-        "contenido": "Primera ronda: si pudieras elegir una técnica maldita de Jujutsu Kaisen, ¿cuál sería y qué limitación le pondrías para que no fuera invencible? Segunda ronda: si estudiaras en Hogwarts, ¿qué asignatura se te daría mejor y cuál intentarías evitar? Tercera ronda: inventa un objeto mágico que resuelva un problema cotidiano, pero que tenga un efecto secundario ridículo."
+        "contenido": "Primera ronda: si pudieras elegir una técnica maldita de Jujutsu Kaisen, ¿cuál sería y qué limitación le pondrías para que no fuera invencible? Segunda ronda: si estudiaras en Hogwarts, ¿qué asignatura se te daría mejor y cuál intentarías evitar? Tercera ronda: inventa un objeto mágico que resuelva un problema cotidiano, pero que tenga un efecto secundario ridículo.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Dos rondas de preguntas y una prueba final; actividad original de fans, sin spoilers."
       },
       "palabraNueva": {
         "titulo": "La palabra hipotético",
@@ -13507,7 +13507,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La playlist de tres versiones de ti",
-        "contenido": "Arma una mini playlist de tres canciones: una para tu versión de un lunes con energía, otra para cuando necesitas bajar el ritmo y una tercera para cuando te sientes imparable. No importa si son géneros completamente distintos; cada elección debe representar una faceta diferente."
+        "contenido": "Arma una mini playlist de tres canciones: una para tu versión de un lunes con energía, otra para cuando necesitas bajar el ritmo y una tercera para cuando te sientes imparable. No importa si son géneros completamente distintos; cada elección debe representar una faceta diferente.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tres canciones y una frase que explique qué versión de ti acompaña cada una."
       },
       "palabraNueva": {
         "titulo": "La palabra versatilidad",
@@ -13554,7 +13554,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El mapa de un lugar que no existe",
-        "contenido": "En una hoja, crea el mapa de un lugar imaginario. Ponle nombre a tres zonas, inventa un camino que conecte todo y agrega un sitio secreto al que solo se pueda entrar cumpliendo una condición divertida. Puede ser una isla, un barrio, un bosque o una ciudad diminuta. No necesitas dibujar bien: usa símbolos, manchas de color y nombres curiosos."
+        "contenido": "En una hoja, crea el mapa de un lugar imaginario. Ponle nombre a tres zonas, inventa un camino que conecte todo y agrega un sitio secreto al que solo se pueda entrar cumpliendo una condición divertida. Puede ser una isla, un barrio, un bosque o una ciudad diminuta. No necesitas dibujar bien: usa símbolos, manchas de color y nombres curiosos.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Tres zonas, un camino y un secreto; dibuja una leyenda sencilla para el mapa."
       },
       "palabraNueva": {
         "titulo": "La palabra topografía",
@@ -13601,7 +13601,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El museo de los pequeños detalles",
-        "contenido": "Escoge un objeto común que tengas cerca: una taza, una llave, una libreta, una prenda o algo que uses mucho. Obsérvalo y escribe una ficha de exposición con un título, una descripción y una razón por la que merece estar ahí. La historia puede ser real, sentimental o completamente inventada, pero intenta encontrar un detalle que normalmente no notarías."
+        "contenido": "Escoge un objeto común que tengas cerca: una taza, una llave, una libreta, una prenda o algo que uses mucho. Obsérvalo y escribe una ficha de exposición con un título, una descripción y una razón por la que merece estar ahí. La historia puede ser real, sentimental o completamente inventada, pero intenta encontrar un detalle que normalmente no notarías.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Una pieza, un título y una ficha de exposición de tres líneas."
       },
       "palabraNueva": {
         "titulo": "La palabra peculiaridad",
@@ -13648,7 +13648,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una carta para abrir en otro momento",
-        "contenido": "Escribe una carta breve para abrir dentro de un mes. Incluye algo que quieras recordar de esta etapa, una cosa que te gustaría haber intentado y una pregunta que todavía no tenga respuesta. No tiene que ser solemne ni hablar de grandes metas; también pueden aparecer una canción, una costumbre, una preocupación pequeña o una tontería que te haya hecho reír."
+        "contenido": "Escribe una carta breve para abrir dentro de un mes. Incluye algo que quieras recordar de esta etapa, una cosa que te gustaría haber intentado y una pregunta que todavía no tenga respuesta. No tiene que ser solemne ni hablar de grandes metas; también pueden aparecer una canción, una costumbre, una preocupación pequeña o una tontería que te haya hecho reír.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Guarda la carta con la fecha de apertura; no es necesario compartirla antes."
       },
       "palabraNueva": {
         "titulo": "La palabra epístola",
@@ -13695,7 +13695,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El doblaje de una escena cotidiana",
-        "contenido": "Elijan una acción sencilla —preparar una bebida, buscar las llaves o acomodar unos cojines— y represéntenla sin hablar. La otra persona debe ponerle voz en directo como si fuera una película de suspenso, una telenovela o un documental de naturaleza. Después intercambien los papeles y cambien de género."
+        "contenido": "Elijan una acción sencilla —preparar una bebida, buscar las llaves o acomodar unos cojines— y represéntenla sin hablar. La otra persona debe ponerle voz en directo como si fuera una película de suspenso, una telenovela o un documental de naturaleza. Después intercambien los papeles y cambien de género.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Una acción, dos voces y una segunda versión más dramática o cómica."
       },
       "palabraNueva": {
         "titulo": "La palabra foley",
@@ -13742,7 +13742,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La torre que no debería mantenerse en pie",
-        "contenido": "Reúnan diez objetos seguros y livianos —vasos de papel, bloques, cajas pequeñas o piezas de construcción— y construyan una torre sin pegar ni sujetar las piezas. Tienen cinco minutos y pueden turnarse para colocar una sola pieza por turno. Si la torre cae, cambien la estrategia y vuelvan a intentarlo."
+        "contenido": "Reúnan diez objetos seguros y livianos —vasos de papel, bloques, cajas pequeñas o piezas de construcción— y construyan una torre sin pegar ni sujetar las piezas. Tienen cinco minutos y pueden turnarse para colocar una sola pieza por turno. Si la torre cae, cambien la estrategia y vuelvan a intentarlo.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres intentos con una sola regla modificada cada vez; usen materiales livianos y una superficie despejada."
       },
       "palabraNueva": {
         "titulo": "La palabra estabilidad",
@@ -13789,7 +13789,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Un brindis de colores sin ocasión especial",
-        "contenido": "Prepara una bebida fría en un vaso transparente: mezcla agua con gas o agua fría con zumo de limón o naranja, agrega hielo y unas hojas de hierbabuena. Si quieres darle color, añade unas rodajas de fruta o un poco de pulpa de mora. Prueba el sabor antes de endulzar y ajusta a tu gusto. No requiere horno ni ingredientes complicados; revisa siempre las etiquetas y evita cualquier ingrediente que pueda contener maní o trazas si hay riesgo de alergia."
+        "contenido": "Prepara una bebida fría en un vaso transparente: mezcla agua con gas o agua fría con zumo de limón o naranja, agrega hielo y unas hojas de hierbabuena. Si quieres darle color, añade unas rodajas de fruta o un poco de pulpa de mora. Prueba el sabor antes de endulzar y ajusta a tu gusto. No requiere horno ni ingredientes complicados; revisa siempre las etiquetas y evita cualquier ingrediente que pueda contener maní o trazas si hay riesgo de alergia.\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS. Es una bebida sin alcohol; puedes prepararla por la mañana, llevarla fría al almuerzo o añadir hielo antes de una salida."
       },
       "palabraNueva": {
         "titulo": "La palabra burbujeo",
@@ -13836,7 +13836,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El radar de las miradas cómplices",
-        "contenido": "Si coinciden en persona, jueguen a mantener una conversación normal mientras intentan descubrir tres momentos en los que el otro sonríe sin darse cuenta. No se trata de incomodar ni de sostener la mirada a la fuerza: si alguno se siente raro, cambien de reto. Si están a distancia, pueden hacerlo con una videollamada o convertirlo en una pregunta: ¿qué gesto pequeño te delata cuando alguien te cae especialmente bien?"
+        "contenido": "Si coinciden en persona, jueguen a mantener una conversación normal mientras intentan descubrir tres momentos en los que el otro sonríe sin darse cuenta. No se trata de incomodar ni de sostener la mirada a la fuerza: si alguno se siente raro, cambien de reto. Si están a distancia, pueden hacerlo con una videollamada o convertirlo en una pregunta: ¿qué gesto pequeño te delata cuando alguien te cae especialmente bien?\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Si ambos están cómodos, jueguen una ronda breve; no conviertan las miradas en una obligación ni incomoden a nadie."
       },
       "palabraNueva": {
         "titulo": "La palabra magnetismo",
@@ -13883,7 +13883,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El alfabeto de las cosas favoritas",
-        "contenido": "Escribe tu nombre en vertical y, junto a cada letra, anota algo que te guste: una comida, un sonido, una película, un lugar, un color o una pequeña costumbre. Si una letra se complica, inventa una respuesta absurda. Después elige tres palabras y conviértelas en un pequeño diseño usando tamaños, trazos y estilos distintos."
+        "contenido": "Escribe tu nombre en vertical y, junto a cada letra, anota algo que te guste: una comida, un sonido, una película, un lugar, un color o una pequeña costumbre. Si una letra se complica, inventa una respuesta absurda. Después elige tres palabras y conviértelas en un pequeño diseño usando tamaños, trazos y estilos distintos.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una palabra por letra; si el nombre es largo, elijan solo cinco letras."
       },
       "palabraNueva": {
         "titulo": "La palabra filigrana",
@@ -13930,7 +13930,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El detective de las pistas invisibles",
-        "contenido": "Una persona elige un objeto que tenga cerca y escribe cinco pistas sobre él sin mencionar su nombre, su color ni para qué sirve. La otra persona puede hacer hasta siete preguntas que solo se respondan con sí o no. Si no lo adivina, recibe una pista extra; después cambian de turno."
+        "contenido": "Una persona elige un objeto que tenga cerca y escribe cinco pistas sobre él sin mencionar su nombre, su color ni para qué sirve. La otra persona puede hacer hasta siete preguntas que solo se respondan con sí o no. Si no lo adivina, recibe una pista extra; después cambian de turno.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco pistas y hasta seis preguntas; cambien de rol después de adivinar."
       },
       "palabraNueva": {
         "titulo": "La palabra anacronismo",
@@ -13977,7 +13977,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La receta que cabe en una pausa",
-        "contenido": "Prepara un vasito de yogur con fruta: coloca una capa de yogur natural, agrega trozos de banano o fresas, suma avena o cereal crujiente y termina con un poco de canela o miel si te gusta. Repite las capas en un vaso transparente para que se vean. Puedes cambiar las frutas según lo que tengas; revisa los ingredientes y las advertencias de posibles trazas si hay alergias alimentarias."
+        "contenido": "Prepara un vasito de yogur con fruta: coloca una capa de yogur natural, agrega trozos de banano o fresas, suma avena o cereal crujiente y termina con un poco de canela o miel si te gusta. Repite las capas en un vaso transparente para que se vean. Puedes cambiar las frutas según lo que tengas; revisa los ingredientes y las advertencias de posibles trazas si hay alergias alimentarias.\n\nTIEMPO DE PREPARACIÓN: 5–10 MINUTOS. Para una pausa de oficina, lleva la fruta lavada y el yogur frío; arma el vaso justo antes de comer."
       },
       "palabraNueva": {
         "titulo": "La palabra umbral",
@@ -14024,7 +14024,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El debate de las opiniones imposibles",
-        "contenido": "Elijan una pregunta absurda: ¿las empanadas deberían comerse con cubiertos?, ¿los lunes necesitan un botón de pausa?, ¿qué animal sería el peor compañero de oficina? Cada persona tiene un minuto para defender una postura y treinta segundos para responder al argumento contrario. La regla es buscar razones creativas, no ganar a toda costa."
+        "contenido": "Elijan una pregunta absurda: ¿las empanadas deberían comerse con cubiertos?, ¿los lunes necesitan un botón de pausa?, ¿qué animal sería el peor compañero de oficina? Cada persona tiene un minuto para defender una postura y treinta segundos para responder al argumento contrario. La regla es buscar razones creativas, no ganar a toda costa.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Un minuto para defender cada postura y una ronda para cambiar de opinión."
       },
       "palabraNueva": {
         "titulo": "La palabra aliteración",
@@ -14071,7 +14071,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El gesto amable sin anuncio",
-        "contenido": "Piensa en una persona de tu entorno y haz un gesto concreto que pueda aliviarle el día: enviarle una nota de ánimo, ayudar con una tarea pequeña, agradecer algo específico o preguntarle cómo sigue un asunto que te contó. Que sea sincero y respetuoso, sin esperar una respuesta inmediata ni publicar el gesto para recibir reconocimiento."
+        "contenido": "Piensa en una persona de tu entorno y haz un gesto concreto que pueda aliviarle el día: enviarle una nota de ánimo, ayudar con una tarea pequeña, agradecer algo específico o preguntarle cómo sigue un asunto que te contó. Que sea sincero y respetuoso, sin esperar una respuesta inmediata ni publicar el gesto para recibir reconocimiento.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS para elegir el gesto; hazlo cuando resulte natural y sin esperar nada a cambio."
       },
       "palabraNueva": {
         "titulo": "La palabra camaradería",
@@ -14118,7 +14118,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La fotografía de una historia diminuta",
-        "contenido": "Elige un rincón de tu casa o un objeto cotidiano y toma tres fotografías: una desde muy cerca, otra desde un ángulo bajo y otra usando una sombra o reflejo. No muevas el objeto si no quieres; cambia tú de posición y busca una composición diferente. Después escoge la imagen que mejor transmita una sensación y ponle un título de máximo cinco palabras."
+        "contenido": "Elige un rincón de tu casa o un objeto cotidiano y toma tres fotografías: una desde muy cerca, otra desde un ángulo bajo y otra usando una sombra o reflejo. No muevas el objeto si no quieres; cambia tú de posición y busca una composición diferente. Después escoge la imagen que mejor transmita una sensación y ponle un título de máximo cinco palabras.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres encuadres del mismo rincón y una selección final; no publiques imágenes privadas."
       },
       "palabraNueva": {
         "titulo": "La palabra reminiscencia",
@@ -14165,7 +14165,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una pregunta que cambia el ambiente",
-        "contenido": "Pregúntale a alguien: «¿Qué detalle pequeño puede hacer que una persona te parezca interesante sin que ella se dé cuenta?». Cada uno responde con dos ejemplos concretos: puede ser la forma de reír, cómo escucha, una manía simpática o la manera de explicar algo que le apasiona. Después pueden elegir cuál de esos detalles les parece más inesperado."
+        "contenido": "Pregúntale a alguien: «¿Qué detalle pequeño puede hacer que una persona te parezca interesante sin que ella se dé cuenta?». Cada uno responde con dos ejemplos concretos: puede ser la forma de reír, cómo escucha, una manía simpática o la manera de explicar algo que le apasiona. Después pueden elegir cuál de esos detalles les parece más inesperado.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Dos ejemplos por persona y una pregunta de seguimiento si ambos quieren."
       },
       "palabraNueva": {
         "titulo": "La palabra azaroso",
@@ -14212,7 +14212,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Origami: una flor de papel en tres niveles",
-        "contenido": "RETO DE ORIGAMI · 20–30 MINUTOS · UNA HOJA CUADRADA Y PAPEL VERDE OPCIONAL\n\nMateriales: una hoja cuadrada de 15 × 15 cm para la flor, otra hoja verde para el tallo si tienen, y una superficie plana.\n\nNIVEL 1 · TULIPÁN (10 MINUTOS)\n1. Coloca la hoja con el color hacia abajo y dóblala en diagonal para formar un triángulo.\n2. Pon el lado largo abajo y la punta del triángulo hacia arriba.\n3. Lleva la esquina inferior izquierda hacia arriba, pero déjala un poco separada de la punta superior.\n4. Repite con la esquina derecha. Se formarán dos pétalos; ajusta la inclinación para que queden equilibrados.\n5. Dobla ligeramente hacia atrás las puntas laterales para suavizar la silueta y voltea la figura.\n\nNIVEL 2 · TALLO Y HOJA (5–10 MINUTOS)\n1. Con papel verde, dobla una esquina hacia la opuesta para marcar una diagonal y vuelve a abrir.\n2. Lleva los dos bordes largos hacia la línea central.\n3. Dobla la pieza por la mitad a lo largo y estrecha un extremo para formar el tallo.\n4. Haz un pliegue lateral pequeño para que aparezca una hoja.\n\nNIVEL 3 · COMPOSICIÓN (5–10 MINUTOS)\nHaz una segunda flor de otro tamaño o color y crea una tarjeta con el nombre de tu especie inventada. Si no tienes papel verde, dibuja el tallo: la flor sigue siendo el reto principal.\n\nRETO EN PAREJA: cada persona crea una flor distinta y luego inventan el nombre de una especie que solo florece en una situación inesperada.\n\nTIEMPO TOTAL: 20–30 MINUTOS. El nivel 1 puede hacerse solo; los niveles 2 y 3 completan la composición."
+        "contenido": "RETO DE ORIGAMI · 20–30 MINUTOS · UNA HOJA CUADRADA Y PAPEL VERDE OPCIONAL\n\nMateriales: una hoja cuadrada de 15 × 15 cm para la flor, otra hoja verde para el tallo si tienen, y una superficie plana.\n\nNIVEL 1 · TULIPÁN (10 MINUTOS)\n1. Coloca la hoja con el color hacia abajo y dóblala en diagonal para formar un triángulo.\n2. Pon el lado largo abajo y la punta del triángulo hacia arriba.\n3. Lleva la esquina inferior izquierda hacia arriba, pero déjala un poco separada de la punta superior.\n4. Repite con la esquina derecha. Se formarán dos pétalos; ajusta la inclinación para que queden equilibrados.\n5. Dobla ligeramente hacia atrás las puntas laterales para suavizar la silueta y voltea la figura.\n\nNIVEL 2 · TALLO Y HOJA (5–10 MINUTOS)\n1. Con papel verde, dobla una esquina hacia la opuesta para marcar una diagonal y vuelve a abrir.\n2. Lleva los dos bordes largos hacia la línea central.\n3. Dobla la pieza por la mitad a lo largo y estrecha un extremo para formar el tallo.\n4. Haz un pliegue lateral pequeño para que aparezca una hoja.\n\nNIVEL 3 · COMPOSICIÓN (5–10 MINUTOS)\nHaz una segunda flor de otro tamaño o color y crea una tarjeta con el nombre de tu especie inventada. Si no tienes papel verde, dibuja el tallo: la flor sigue siendo el reto principal.\n\nRETO EN PAREJA: cada persona crea una flor distinta y luego inventan el nombre de una especie que solo florece en una situación inesperada.\n\nTIEMPO TOTAL: 20–30 MINUTOS. El nivel 1 puede hacerse solo; los niveles 2 y 3 completan la composición.\n\nTIEMPO TOTAL: 20–30 MINUTOS. El nivel 1 puede hacerse solo; los niveles 2 y 3 completan la composición."
       },
       "palabraNueva": {
         "titulo": "La palabra atisbo",
@@ -14259,7 +14259,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El anuncio de un objeto ordinario",
-        "contenido": "Elige un objeto cercano y crea un anuncio de treinta segundos para convencer a alguien de que es extraordinario. Debes incluir un nombre comercial, una ventaja exagerada y un eslogan. La gracia está en usar argumentos creativos sin burlarte de nadie; puedes grabarlo como un comercial de televisión o presentarlo en vivo."
+        "contenido": "Elige un objeto cercano y crea un anuncio de treinta segundos para convencer a alguien de que es extraordinario. Debes incluir un nombre comercial, una ventaja exagerada y un eslogan. La gracia está en usar argumentos creativos sin burlarte de nadie; puedes grabarlo como un comercial de televisión o presentarlo en vivo.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Nombre comercial, ventaja exagerada y anuncio de 30 segundos; versión de oficina de 5 minutos con un objeto del escritorio."
       },
       "palabraNueva": {
         "titulo": "La palabra paradoja",
@@ -14306,7 +14306,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La escena alternativa",
-        "contenido": "Piensa en una película o serie que conozcas y elige una escena breve. Reescribe lo que ocurre cambiando una sola decisión del personaje: ¿qué pasaría si dijera que no, llegara cinco minutos antes o eligiera otro camino? Cuenta la nueva versión en cinco frases y dale un título distinto."
+        "contenido": "Piensa en una película o serie que conozcas y elige una escena breve. Reescribe lo que ocurre cambiando una sola decisión del personaje: ¿qué pasaría si dijera que no, llegara cinco minutos antes o eligiera otro camino? Cuenta la nueva versión en cinco frases y dale un título distinto.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cambia una decisión y escribe tres consecuencias; evita revelar giros de la trama a quien no la conozca."
       },
       "palabraNueva": {
         "titulo": "La palabra convergencia",
@@ -14353,7 +14353,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El retrato con la mano equivocada",
-        "contenido": "Dibuja un retrato sencillo usando la mano que normalmente no utilizas. Tienes tres minutos y no puedes borrar. Puedes dibujarte, retratar a alguien conocido o inventar un personaje. Cuando termines, añade un detalle que no estaba en el modelo: un sombrero imposible, una ceja dramática o un accesorio inesperado."
+        "contenido": "Dibuja un retrato sencillo usando la mano que normalmente no utilizas. Tienes tres minutos y no puedes borrar. Puedes dibujarte, retratar a alguien conocido o inventar un personaje. Cuando termines, añade un detalle que no estaba en el modelo: un sombrero imposible, una ceja dramática o un accesorio inesperado.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Tres minutos para el retrato y el resto para añadir un título; no se busca parecido perfecto."
       },
       "palabraNueva": {
         "titulo": "La palabra templanza",
@@ -14400,7 +14400,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La palabra prohibida",
-        "contenido": "Elijan una palabra cotidiana —por ejemplo, «sí», «no», «bueno» o «yo»— y conversen durante dos minutos sin decirla. Quien la pronuncie pierde un punto; si alguien se queda sin respuesta, puede pedir cinco segundos para pensar. Cambien la palabra prohibida en cada ronda y aumenten poco a poco la dificultad."
+        "contenido": "Elijan una palabra cotidiana —por ejemplo, «sí», «no», «bueno» o «yo»— y conversen durante dos minutos sin decirla. Quien la pronuncie pierde un punto; si alguien se queda sin respuesta, puede pedir cinco segundos para pensar. Cambien la palabra prohibida en cada ronda y aumenten poco a poco la dificultad.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Dos minutos por ronda y una palabra prohibida; si el juego se vuelve incómodo, cambien la palabra."
       },
       "palabraNueva": {
         "titulo": "La palabra fugacidad",
@@ -14447,7 +14447,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La colección de cinco cosas azules",
-        "contenido": "Busca cinco objetos azules de tu entorno y colócalos juntos de una manera que se vea intencional. Juega con tamaños, texturas y distancias: no tienen que ser objetos decorativos, pueden ser cosas de uso diario. Toma una fotografía desde arriba y otra desde un ángulo lateral; después decide cuál composición funciona mejor."
+        "contenido": "Busca cinco objetos azules de tu entorno y colócalos juntos de una manera que se vea intencional. Juega con tamaños, texturas y distancias: no tienen que ser objetos decorativos, pueden ser cosas de uso diario. Toma una fotografía desde arriba y otra desde un ángulo lateral; después decide cuál composición funciona mejor.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco objetos, una composición y una foto; no hace falta comprar ni mover objetos pesados."
       },
       "palabraNueva": {
         "titulo": "La palabra nimiedad",
@@ -14494,7 +14494,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El detalle que suma puntos",
-        "contenido": "Cada uno menciona una costumbre, habilidad o detalle pequeño que le parece atractivo en otra persona: puede ser cómo se concentra, cómo trata a los demás, su sentido del humor o la forma en que habla de algo que le apasiona. Después, si hay confianza, pueden decir cuál de esos detalles han notado en el otro. La idea es compartir, no poner nota ni exigir cumplidos."
+        "contenido": "Cada uno menciona una costumbre, habilidad o detalle pequeño que le parece atractivo en otra persona: puede ser cómo se concentra, cómo trata a los demás, su sentido del humor o la forma en que habla de algo que le apasiona. Después, si hay confianza, pueden decir cuál de esos detalles han notado en el otro. La idea es compartir, no poner nota ni exigir cumplidos.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Un detalle concreto por persona; el coqueteo debe ser cómodo para quien lo recibe."
       },
       "palabraNueva": {
         "titulo": "La palabra parsimonia",
@@ -14541,7 +14541,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El mensaje escondido en un acróstico",
-        "contenido": "Elige una palabra de cinco a ocho letras y escribe una frase breve por cada letra, de modo que al leer las primeras letras en vertical aparezca un mensaje. Puede ser una frase graciosa, una invitación imaginaria o una idea que quieras recordar. Si una letra se complica, inventa una respuesta absurda."
+        "contenido": "Elige una palabra de cinco a ocho letras y escribe una frase breve por cada letra, de modo que al leer las primeras letras en vertical aparezca un mensaje. Puede ser una frase graciosa, una invitación imaginaria o una idea que quieras recordar. Si una letra se complica, inventa una respuesta absurda.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una palabra de cinco a ocho letras y una línea por letra."
       },
       "palabraNueva": {
         "titulo": "La palabra acróstico",
@@ -14588,7 +14588,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El avión de papel con destino secreto",
-        "contenido": "Construye un avión de papel y marca una línea de lanzamiento. Haz tres pruebas cambiando solo una cosa cada vez: el ángulo de las alas, la inclinación de la punta o la fuerza del lanzamiento. Mide aproximadamente la distancia y observa qué diseño vuela más recto. Si no tienes espacio, prueba a hacerlo recorrer una mesa sin salirse de los bordes."
+        "contenido": "Construye un avión de papel y marca una línea de lanzamiento. Haz tres pruebas cambiando solo una cosa cada vez: el ángulo de las alas, la inclinación de la punta o la fuerza del lanzamiento. Mide aproximadamente la distancia y observa qué diseño vuela más recto. Si no tienes espacio, prueba a hacerlo recorrer una mesa sin salirse de los bordes.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres lanzamientos en un espacio despejado; no apuntes a personas, animales ni objetos frágiles."
       },
       "palabraNueva": {
         "titulo": "La palabra aplomo",
@@ -14635,7 +14635,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La banda sonora de un minuto",
-        "contenido": "Durante un minuto, presta atención a los sonidos que te rodean sin poner música: pasos, viento, voces lejanas, agua, aparatos o silencio. Anota cinco sonidos y ordénalos como si fueran la banda sonora de una escena. Después ponle un título y decide qué género tendría: misterio, comedia, aventura o documental."
+        "contenido": "Durante un minuto, presta atención a los sonidos que te rodean sin poner música: pasos, viento, voces lejanas, agua, aparatos o silencio. Anota cinco sonidos y ordénalos como si fueran la banda sonora de una escena. Después ponle un título y decide qué género tendría: misterio, comedia, aventura o documental.\n\nTIEMPO SUGERIDO: 5 MINUTOS. Escucha desde un lugar seguro y anota cinco sonidos sin grabar conversaciones privadas."
       },
       "palabraNueva": {
         "titulo": "La palabra resquicio",
@@ -14682,7 +14682,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La historia contada al revés",
-        "contenido": "Inventa una historia de cuatro frases. La primera debe contar cómo termina todo; las siguientes explican qué ocurrió justo antes, hasta llegar al comienzo. Puede tratarse de una aventura absurda, una confusión en la cocina o un misterio sin importancia. La única regla es que cada frase aporte una pista que haga más comprensible la anterior."
+        "contenido": "Inventa una historia de cuatro frases. La primera debe contar cómo termina todo; las siguientes explican qué ocurrió justo antes, hasta llegar al comienzo. Puede tratarse de una aventura absurda, una confusión en la cocina o un misterio sin importancia. La única regla es que cada frase aporte una pista que haga más comprensible la anterior.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cuatro frases, empezando por el final y retrocediendo hasta el inicio."
       },
       "palabraNueva": {
         "titulo": "La palabra quimera",
@@ -14729,7 +14729,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El menú de una cafetería imaginaria",
-        "contenido": "Crea una carta con tres bebidas y dos acompañamientos. Cada producto debe tener un nombre original, una descripción de una línea y un precio ficticio. Puedes inspirarte en colores, estados de ánimo, estaciones del año o personajes inventados. No hace falta preparar nada: el reto está en que el menú tenga una identidad visual coherente."
+        "contenido": "Crea una carta con tres bebidas y dos acompañamientos. Cada producto debe tener un nombre original, una descripción de una línea y un precio ficticio. Puedes inspirarte en colores, estados de ánimo, estaciones del año o personajes inventados. No hace falta preparar nada: el reto está en que el menú tenga una identidad visual coherente.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Tres bebidas y dos acompañamientos; añade precios ficticios y una identidad visual sencilla."
       },
       "palabraNueva": {
         "titulo": "La palabra acierto",
@@ -14776,7 +14776,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El reto de las tres versiones",
-        "contenido": "Elige una situación sencilla —llegar tarde, perder un objeto o recibir una noticia inesperada— y cuéntala desde tres puntos de vista: el de quien la vivió, el de alguien que la observó y el de un objeto que estaba presente. Cada versión debe tener un tono diferente: dramático, cómico y misterioso."
+        "contenido": "Elige una situación sencilla —llegar tarde, perder un objeto o recibir una noticia inesperada— y cuéntala desde tres puntos de vista: el de quien la vivió, el de alguien que la observó y el de un objeto que estaba presente. Cada versión debe tener un tono diferente: dramático, cómico y misterioso.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una situación, tres narradores y una frase que cambie el sentido de cada versión."
       },
       "palabraNueva": {
         "titulo": "La palabra divergencia",
@@ -14823,7 +14823,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La pausa que se convierte en plan",
-        "contenido": "Piensa en una pausa de una hora que te gustaría compartir algún día: puede ser tomar algo, caminar sin prisa, visitar una exposición pequeña, dibujar en una mesa o sentarse a escuchar música. Describe el plan con tres detalles: qué ambiente tendría, qué llevarías y qué haría que valiera la pena. No hace falta fijar fecha ni convertirlo en compromiso."
+        "contenido": "Piensa en una pausa de una hora que te gustaría compartir algún día: puede ser tomar algo, caminar sin prisa, visitar una exposición pequeña, dibujar en una mesa o sentarse a escuchar música. Describe el plan con tres detalles: qué ambiente tendría, qué llevarías y qué haría que valiera la pena. No hace falta fijar fecha ni convertirlo en compromiso.\n\nTIEMPO DE DISEÑO: 10–15 MINUTOS. La pausa de una hora queda como posibilidad futura; no se fija fecha ni gasto."
       },
       "palabraNueva": {
         "titulo": "La palabra tregua",
@@ -14870,7 +14870,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El museo de los objetos cotidianos",
-        "contenido": "Escoge tres objetos comunes que tengas cerca: una llave, un vaso, un recibo, una piedra o cualquier cosa sencilla. Dales un nombre artístico y escribe una pequeña ficha de museo para cada uno: año de creación imaginario, material, función secreta y por qué merece estar expuesto. No vale describirlos solo por lo que son; inventa una historia para cada pieza."
+        "contenido": "Escoge tres objetos comunes que tengas cerca: una llave, un vaso, un recibo, una piedra o cualquier cosa sencilla. Dales un nombre artístico y escribe una pequeña ficha de museo para cada uno: año de creación imaginario, material, función secreta y por qué merece estar expuesto. No vale describirlos solo por lo que son; inventa una historia para cada pieza.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres objetos y una ficha de museo por cada uno; pueden hacerlo en una mesa de casa o en la oficina."
       },
       "palabraNueva": {
         "titulo": "La palabra mesura",
@@ -14917,7 +14917,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El doblaje de una escena muda",
-        "contenido": "Busca un video corto sin diálogo —puede ser una escena propia, una animación o un clip que ya tengas— y crea un doblaje completamente distinto de lo que sucede. También puedes hacerlo mirando una escena con el sonido apagado: inventa qué están diciendo los personajes y cambia el género de la situación, de drama a comedia o de aventura a telenovela."
+        "contenido": "Busca un video corto sin diálogo —puede ser una escena propia, una animación o un clip que ya tengas— y crea un doblaje completamente distinto de lo que sucede. También puedes hacerlo mirando una escena con el sonido apagado: inventa qué están diciendo los personajes y cambia el género de la situación, de drama a comedia o de aventura a telenovela.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Un clip corto, dos versiones de doblaje y una ronda final para cambiar el género."
       },
       "palabraNueva": {
         "titulo": "La palabra tenacidad",
@@ -14964,7 +14964,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El experimento de la torre estable",
-        "contenido": "Con materiales seguros que tengas a mano —vasos plásticos, bloques, cartas o cajas pequeñas— construye una torre. Antes de empezar, decide una regla: usar una sola mano, no apoyar los codos o trabajar en silencio. Haz una primera versión, observa dónde pierde estabilidad y modifica la base o la distribución del peso."
+        "contenido": "Con materiales seguros que tengas a mano —vasos plásticos, bloques, cartas o cajas pequeñas— construye una torre. Antes de empezar, decide una regla: usar una sola mano, no apoyar los codos o trabajar en silencio. Haz una primera versión, observa dónde pierde estabilidad y modifica la base o la distribución del peso.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres intentos y una sola regla por construcción; utilicen piezas ligeras y no suban a muebles."
       },
       "palabraNueva": {
         "titulo": "La palabra inercia",
@@ -15011,7 +15011,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La receta de la merienda por capas",
-        "contenido": "Arma una merienda fría en un vaso transparente con capas de yogur, fruta picada y cereal o granola. Puedes añadir canela, miel o un poco de mermelada. Si prefieres una opción salada, alterna queso fresco, tomate y galletas saladas en un plato. No necesitas horno ni técnicas complicadas: la idea es jugar con las texturas y los colores."
+        "contenido": "Arma una merienda fría en un vaso transparente con capas de yogur, fruta picada y cereal o granola. Puedes añadir canela, miel o un poco de mermelada. Si prefieres una opción salada, alterna queso fresco, tomate y galletas saladas en un plato. No necesitas horno ni técnicas complicadas: la idea es jugar con las texturas y los colores.\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS. Mantén refrigerados los ingredientes que lo necesiten y arma solo las porciones que vayan a consumir."
       },
       "palabraNueva": {
         "titulo": "La palabra atemporal",
@@ -15058,7 +15058,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El titular que nadie esperaba",
-        "contenido": "Elige algo que haya ocurrido hoy: se acabó el café, apareció una media perdida, llovió cinco minutos o alguien encontró una moneda. Escribe tres titulares para el mismo hecho: uno solemne, uno exageradamente dramático y uno absurdo. Después añade una bajada de máximo dos líneas que explique la noticia como si fuera portada."
+        "contenido": "Elige algo que haya ocurrido hoy: se acabó el café, apareció una media perdida, llovió cinco minutos o alguien encontró una moneda. Escribe tres titulares para el mismo hecho: uno solemne, uno exageradamente dramático y uno absurdo. Después añade una bajada de máximo dos líneas que explique la noticia como si fuera portada.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tres titulares para el mismo hecho y una noticia principal de 20 segundos."
       },
       "palabraNueva": {
         "titulo": "La palabra nítido",
@@ -15105,7 +15105,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La cápsula del tiempo de cinco minutos",
-        "contenido": "Escribe un mensaje breve para tu yo de dentro de doce meses. Incluye algo que esperas haber aprendido, una costumbre que te gustaría conservar y una pregunta cuya respuesta todavía no conoces. No hace falta hacer promesas grandes: basta con dejar una fotografía honesta de este momento."
+        "contenido": "Escribe un mensaje breve para tu yo de dentro de doce meses. Incluye algo que esperas haber aprendido, una costumbre que te gustaría conservar y una pregunta cuya respuesta todavía no conoces. No hace falta hacer promesas grandes: basta con dejar una fotografía honesta de este momento.\n\nTIEMPO SUGERIDO: 5 MINUTOS. Escribe la nota, ponle fecha y guárdala para abrirla dentro de un año."
       },
       "palabraNueva": {
         "titulo": "La palabra auspicio",
@@ -15152,7 +15152,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El cumplido con evidencia",
-        "contenido": "Piensa en una cualidad de alguien que te agrade: su creatividad, paciencia, sentido del humor, forma de escuchar o manera de resolver problemas. En vez de dejarlo en un simple «eres genial», menciona una situación específica en la que esa cualidad se notó. La clave es que el cumplido sea sincero y no una frase automática."
+        "contenido": "Piensa en una cualidad de alguien que te agrade: su creatividad, paciencia, sentido del humor, forma de escuchar o manera de resolver problemas. En vez de dejarlo en un simple «eres genial», menciona una situación específica en la que esa cualidad se notó. La clave es que el cumplido sea sincero y no una frase automática.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Un cumplido y una evidencia real; no tiene que ser enviado si prefieres conservarlo."
       },
       "palabraNueva": {
         "titulo": "La palabra lumbre",
@@ -15199,7 +15199,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El juego de mesa inventado",
-        "contenido": "Diseña un juego de mesa que pueda explicarse en menos de un minuto. Necesita un objetivo, una regla especial y una forma de ganar. Dibuja un tablero sencillo en una hoja y usa monedas, botones o papelitos como fichas. Para hacerlo más interesante, añade una casilla que cambie las reglas durante un turno."
+        "contenido": "Diseña un juego de mesa que pueda explicarse en menos de un minuto. Necesita un objetivo, una regla especial y una forma de ganar. Dibuja un tablero sencillo en una hoja y usa monedas, botones o papelitos como fichas. Para hacerlo más interesante, añade una casilla que cambie las reglas durante un turno.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Cinco minutos para definir objetivo y reglas, diez para dibujar el tablero y el resto para una partida de prueba."
       },
       "palabraNueva": {
         "titulo": "La palabra austeridad",
@@ -15246,7 +15246,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La búsqueda de cinco encuadres",
-        "contenido": "Busca cinco encuadres diferentes sin salir de donde estás: una simetría, una sombra, una textura, una línea que conduzca la mirada y un detalle diminuto. Puedes fotografiarlos o dibujarlos rápidamente. No importa que el objeto sea común; intenta que cada encuadre lo haga parecer una imagen distinta."
+        "contenido": "Busca cinco encuadres diferentes sin salir de donde estás: una simetría, una sombra, una textura, una línea que conduzca la mirada y un detalle diminuto. Puedes fotografiarlos o dibujarlos rápidamente. No importa que el objeto sea común; intenta que cada encuadre lo haga parecer una imagen distinta.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco encuadres desde el mismo lugar y una selección final."
       },
       "palabraNueva": {
         "titulo": "La palabra albor",
@@ -15293,7 +15293,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El debate de una tontería importante",
-        "contenido": "Escoge un tema inofensivo: ¿la pizza se come mejor doblada?, ¿los lunes deberían tener otro nombre?, ¿qué animal sería el peor compañero de oficina? Defiende una postura durante un minuto con tres argumentos, aunque no estés de acuerdo con ella. Después cambia de bando y defiende exactamente lo contrario."
+        "contenido": "Escoge un tema inofensivo: ¿la pizza se come mejor doblada?, ¿los lunes deberían tener otro nombre?, ¿qué animal sería el peor compañero de oficina? Defiende una postura durante un minuto con tres argumentos, aunque no estés de acuerdo con ella. Después cambia de bando y defiende exactamente lo contrario.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una idea por persona y un minuto para defenderla; mantengan el debate ligero."
       },
       "palabraNueva": {
         "titulo": "La palabra latente",
@@ -15340,7 +15340,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El postre frío de tres ingredientes",
-        "contenido": "Prepara un postre frío mezclando yogur natural con fruta picada y un toque de miel o mermelada. Si prefieres algo más firme, congela la mezcla en moldes pequeños o en una cubetera hasta que tome consistencia. También puedes hacer una versión con banano machacado y cacao. No necesitas horno; ajusta las cantidades a lo que tengas disponible."
+        "contenido": "Prepara un postre frío mezclando yogur natural con fruta picada y un toque de miel o mermelada. Si prefieres algo más firme, congela la mezcla en moldes pequeños o en una cubetera hasta que tome consistencia. También puedes hacer una versión con banano machacado y cacao. No necesitas horno; ajusta las cantidades a lo que tengas disponible.\n\nTIEMPO DE PREPARACIÓN: 5–10 MINUTOS; ENFRIADO OPCIONAL: 20–30 MINUTOS. Si lo congelan, utilicen recipientes adecuados y no los llenen hasta el borde."
       },
       "palabraNueva": {
         "titulo": "La palabra esbozo",
@@ -15387,7 +15387,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Adivina el sonido imposible",
-        "contenido": "Graba cinco sonidos cortos usando objetos cotidianos: papel arrugado, llaves, agua, una cremallera o un lápiz golpeando suavemente una superficie. Reprodúcelos sin mostrar la fuente y trata de adivinar qué los produjo. Si estás solo, mezcla los audios y deja pasar un rato antes de escucharlos de nuevo para que no recuerdes el orden."
+        "contenido": "Graba cinco sonidos cortos usando objetos cotidianos: papel arrugado, llaves, agua, una cremallera o un lápiz golpeando suavemente una superficie. Reprodúcelos sin mostrar la fuente y trata de adivinar qué los produjo. Si estás solo, mezcla los audios y deja pasar un rato antes de escucharlos de nuevo para que no recuerdes el orden.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cinco sonidos, reproducción aleatoria y una ronda para explicar qué objeto los produjo."
       },
       "palabraNueva": {
         "titulo": "La palabra lucidez",
@@ -15434,7 +15434,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Un emblema para esta etapa",
-        "contenido": "Diseña un emblema combinando tres elementos: una forma geométrica, un objeto y un color. Cada uno debe representar algo distinto: lo que estás aprendiendo, algo que quieres cuidar y una meta que te gustaría explorar. Añade un lema de máximo seis palabras y procura que el símbolo se entienda incluso en tamaño pequeño."
+        "contenido": "Diseña un emblema combinando tres elementos: una forma geométrica, un objeto y un color. Cada uno debe representar algo distinto: lo que estás aprendiendo, algo que quieres cuidar y una meta que te gustaría explorar. Añade un lema de máximo seis palabras y procura que el símbolo se entienda incluso en tamaño pequeño.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Tres elementos, una composición y una frase que explique el símbolo."
       },
       "palabraNueva": {
         "titulo": "La palabra impronta",
@@ -15481,7 +15481,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La pregunta que abre una puerta",
-        "contenido": "Propón esta pregunta: si pudieras aprender una habilidad nueva en una sola tarde, ¿cuál elegirías y para qué la usarías? Después de responder, cada persona puede hacer una pregunta de seguimiento que no sea de sí o no. La idea es descubrir razones, recuerdos o curiosidades que normalmente no aparecen en una charla rápida."
+        "contenido": "Propón esta pregunta: si pudieras aprender una habilidad nueva en una sola tarde, ¿cuál elegirías y para qué la usarías? Después de responder, cada persona puede hacer una pregunta de seguimiento que no sea de sí o no. La idea es descubrir razones, recuerdos o curiosidades que normalmente no aparecen en una charla rápida.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Una pregunta, una respuesta y una repregunta opcional."
       },
       "palabraNueva": {
         "titulo": "La palabra afluencia",
@@ -15528,7 +15528,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El inventario de habilidades absurdas",
-        "contenido": "Inventa tres habilidades completamente inútiles pero muy específicas: saber distinguir cucharas por su sonido, encontrar siempre el lado frío de la almohada o recordar el orden de los comerciales de una pausa. Ponles nombre, nivel de dificultad y una situación en la que podrían ser sorprendentemente útiles."
+        "contenido": "Inventa tres habilidades completamente inútiles pero muy específicas: saber distinguir cucharas por su sonido, encontrar siempre el lado frío de la almohada o recordar el orden de los comerciales de una pausa. Ponles nombre, nivel de dificultad y una situación en la que podrían ser sorprendentemente útiles.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tres talentos absurdos y un ejemplo de cómo los usarías."
       },
       "palabraNueva": {
         "titulo": "La palabra altruismo",
@@ -15575,7 +15575,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La ruta de una gota de agua",
-        "contenido": "Dibuja el recorrido de una gota de agua desde que cae una nube hasta que llega a un vaso, una planta o el mar. Incluye al menos cuatro etapas: lluvia, escorrentía o río, evaporación y formación de nubes. Añade una parte imaginaria en la que la gota cuenta qué lugares ha visitado."
+        "contenido": "Dibuja el recorrido de una gota de agua desde que cae una nube hasta que llega a un vaso, una planta o el mar. Incluye al menos cuatro etapas: lluvia, escorrentía o río, evaporación y formación de nubes. Añade una parte imaginaria en la que la gota cuenta qué lugares ha visitado.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cuatro etapas del recorrido y una ilustración final; usa fuentes sencillas si necesitas comprobar datos."
       },
       "palabraNueva": {
         "titulo": "La palabra beneplácito",
@@ -15622,7 +15622,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El desafío de la receta a ciegas",
-        "contenido": "Prepara tres pequeñas muestras de alimentos seguros y conocidos, sin mezclarlos: por ejemplo, trozos de fruta, una galleta simple y yogur. Con los ojos cerrados o mirando hacia otro lado, prueba una muestra a la vez e intenta describir su textura, temperatura y sabor antes de adivinar qué es. No uses ingredientes desconocidos ni nada que pueda causar una reacción; también puedes hacer el reto solo con olores si prefieres."
+        "contenido": "Prepara tres pequeñas muestras de alimentos seguros y conocidos, sin mezclarlos: por ejemplo, trozos de fruta, una galleta simple y yogur. Con los ojos cerrados o mirando hacia otro lado, prueba una muestra a la vez e intenta describir su textura, temperatura y sabor antes de adivinar qué es. No uses ingredientes desconocidos ni nada que pueda causar una reacción; también puedes hacer el reto solo con olores si prefieres.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Utiliza solo alimentos conocidos y seguros, revisa ingredientes y permite que cualquiera pase una muestra."
       },
       "palabraNueva": {
         "titulo": "La palabra cautela",
@@ -15669,7 +15669,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La galería de sombras",
-        "contenido": "Con una lámpara o la luz de una ventana, coloca objetos entre la fuente de luz y una pared para crear sombras. Prueba con tres distancias distintas y observa cómo cambian el tamaño y la forma. Combina dos objetos para crear una silueta nueva y dibuja su contorno en una hoja."
+        "contenido": "Con una lámpara o la luz de una ventana, coloca objetos entre la fuente de luz y una pared para crear sombras. Prueba con tres distancias distintas y observa cómo cambian el tamaño y la forma. Combina dos objetos para crear una silueta nueva y dibuja su contorno en una hoja.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres objetos y tres distancias; evita acercar la lámpara a telas o papel caliente."
       },
       "palabraNueva": {
         "titulo": "La palabra denuedo",
@@ -15716,7 +15716,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El manual para un día complicado",
-        "contenido": "Crea un manual de cinco pasos para acompañarte en un día difícil. Incluye una acción pequeña para ordenar el entorno, algo sencillo para comer o beber, una pausa sin pantalla, una persona o actividad a la que puedas acudir y una frase que te ayude a bajar la exigencia. Que sean indicaciones realistas, no una lista de obligaciones."
+        "contenido": "Crea un manual de cinco pasos para acompañarte en un día difícil. Incluye una acción pequeña para ordenar el entorno, algo sencillo para comer o beber, una pausa sin pantalla, una persona o actividad a la que puedas acudir y una frase que te ayude a bajar la exigencia. Que sean indicaciones realistas, no una lista de obligaciones.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cinco pasos amables y realistas; la guía es personal, no una obligación para otra persona."
       },
       "palabraNueva": {
         "titulo": "La palabra fisonomía",
@@ -15763,7 +15763,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La entrevista al personaje secundario",
-        "contenido": "Piensa en una película, serie o libro que conozcas y elige un personaje secundario. Escribe cinco preguntas que un entrevistador le haría después de los acontecimientos principales. Luego responde como si fueras ese personaje: ¿qué vio que los protagonistas no notaron?, ¿qué piensa del final?, ¿qué haría ahora?, ¿qué secreto cotidiano guarda? y ¿qué consejo daría?"
+        "contenido": "Piensa en una película, serie o libro que conozcas y elige un personaje secundario. Escribe cinco preguntas que un entrevistador le haría después de los acontecimientos principales. Luego responde como si fueras ese personaje: ¿qué vio que los protagonistas no notaron?, ¿qué piensa del final?, ¿qué haría ahora?, ¿qué secreto cotidiano guarda? y ¿qué consejo daría?\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Cinco preguntas y respuestas en personaje; no incluyas spoilers de historias que la otra persona no haya visto."
       },
       "palabraNueva": {
         "titulo": "La palabra heterogéneo",
@@ -15810,7 +15810,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una promesa pequeña y cumplible",
-        "contenido": "Elige una acción sencilla que puedas cumplir esta semana: terminar algo pendiente, reservar diez minutos para una actividad que disfrutas, enviar un mensaje que has pospuesto o descansar sin sentir culpa. Escríbela de forma concreta, con un momento aproximado y un primer paso fácil. Evita compromisos que dependan de controlar lo que otra persona haga.\n\nSi compartes el ejercicio, pueden contarse qué acción eligieron y preguntarse después cómo les fue, sin convertirlo en competencia. La confianza también crece cuando uno aprende a cumplir lo que se promete a sí mismo.\n\nEscribe la promesa en una nota breve y deja espacio para marcarla cuando la cumplas."
+        "contenido": "Elige una acción sencilla que puedas cumplir esta semana: terminar algo pendiente, reservar diez minutos para una actividad que disfrutas, enviar un mensaje que has pospuesto o descansar sin sentir culpa. Escríbela de forma concreta, con un momento aproximado y un primer paso fácil. Evita compromisos que dependan de controlar lo que otra persona haga.\n\nSi compartes el ejercicio, pueden contarse qué acción eligieron y preguntarse después cómo les fue, sin convertirlo en competencia. La confianza también crece cuando uno aprende a cumplir lo que se promete a sí mismo.\n\nEscribe la promesa en una nota breve y deja espacio para marcarla cuando la cumplas.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS para elegir el primer paso. La promesa debe depender de ti y poder cumplirse sin exigir nada a otra persona."
       },
       "palabraNueva": {
         "titulo": "La palabra inédito",
@@ -15857,7 +15857,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El concurso de soluciones imposibles",
-        "contenido": "Inventa tres problemas absurdos: ¿cómo guardar un arcoíris en un cajón?, ¿cómo convencer a una tostadora de que cante?, ¿cómo organizar una carrera entre caracoles impacientes? Para cada uno, escribe una solución en tres pasos y ponle un nombre como si fuera un invento patentado."
+        "contenido": "Inventa tres problemas absurdos: ¿cómo guardar un arcoíris en un cajón?, ¿cómo convencer a una tostadora de que cante?, ¿cómo organizar una carrera entre caracoles impacientes? Para cada uno, escribe una solución en tres pasos y ponle un nombre como si fuera un invento patentado.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres problemas, tres soluciones y una explicación de 30 segundos por idea."
       },
       "palabraNueva": {
         "titulo": "La palabra júbilo",
@@ -15904,7 +15904,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La lista de cosas que merecen pausa",
-        "contenido": "Anota cinco momentos cotidianos que te gustaría disfrutar sin hacer otra cosa al mismo tiempo: tomar una bebida caliente, mirar cómo cambia la luz, escuchar una canción completa, conversar sin revisar el teléfono o caminar un rato. Escoge uno y reserva diez minutos para vivirlo con atención."
+        "contenido": "Anota cinco momentos cotidianos que te gustaría disfrutar sin hacer otra cosa al mismo tiempo: tomar una bebida caliente, mirar cómo cambia la luz, escuchar una canción completa, conversar sin revisar el teléfono o caminar un rato. Escoge uno y reserva diez minutos para vivirlo con atención.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Elige cinco momentos cotidianos y escoge uno que puedas disfrutar con más atención."
       },
       "palabraNueva": {
         "titulo": "La palabra levedad",
@@ -15951,7 +15951,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El objeto con una segunda vida",
-        "contenido": "Busca un envase limpio, una caja pequeña, un frasco o un trozo de cartón que normalmente desecharías. Imagina dos usos nuevos y escoge uno que puedas hacer de forma segura con materiales disponibles: un organizador, un portalápices, una maceta decorativa o un soporte sencillo. No hace falta comprar nada."
+        "contenido": "Busca un envase limpio, una caja pequeña, un frasco o un trozo de cartón que normalmente desecharías. Imagina dos usos nuevos y escoge uno que puedas hacer de forma segura con materiales disponibles: un organizador, un portalápices, una maceta decorativa o un soporte sencillo. No hace falta comprar nada.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Elige un objeto limpio y seguro, diseña dos usos y prueba uno sin herramientas peligrosas."
       },
       "palabraNueva": {
         "titulo": "La palabra maña",
@@ -15998,7 +15998,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El mapa de un lugar inventado",
-        "contenido": "Crea un mapa sencillo de una isla, barrio o ciudad imaginaria. Incluye cinco lugares con nombres propios, una zona misteriosa, un sitio para descansar y una regla curiosa que deban cumplir quienes lleguen. Puedes dibujar caminos, puentes, ríos o estaciones, pero procura que cada rincón tenga una razón para existir."
+        "contenido": "Crea un mapa sencillo de una isla, barrio o ciudad imaginaria. Incluye cinco lugares con nombres propios, una zona misteriosa, un sitio para descansar y una regla curiosa que deban cumplir quienes lleguen. Puedes dibujar caminos, puentes, ríos o estaciones, pero procura que cada rincón tenga una razón para existir.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Cinco lugares, una zona misteriosa y una regla para recorrer el mapa."
       },
       "palabraNueva": {
         "titulo": "La palabra ocaso",
@@ -16045,7 +16045,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La pregunta que no admite respuesta rápida",
-        "contenido": "Elige una de estas preguntas: ¿qué idea cambiaste con el tiempo?, ¿qué actividad te gustaría recuperar?, ¿qué detalle sencillo te hace sentir en casa? Tómate unos minutos para responder sin buscar una frase perfecta. Si te cuesta, empieza con un recuerdo concreto y deja que la respuesta aparezca desde ahí."
+        "contenido": "Elige una de estas preguntas: ¿qué idea cambiaste con el tiempo?, ¿qué actividad te gustaría recuperar?, ¿qué detalle sencillo te hace sentir en casa? Tómate unos minutos para responder sin buscar una frase perfecta. Si te cuesta, empieza con un recuerdo concreto y deja que la respuesta aparezca desde ahí.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tómate un momento para pensar; no hay que responder rápido ni compartir algo íntimo."
       },
       "palabraNueva": {
         "titulo": "La palabra prudencia",
@@ -16092,7 +16092,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La misión de los cinco sentidos",
-        "contenido": "Elige un lugar tranquilo y anota una cosa que puedas percibir con cada sentido: un sonido, una textura, un olor, un sabor si tienes algo seguro a mano y un detalle visual. No necesitas probar nada nuevo ni tocar objetos desconocidos; basta con observar lo que ya está a tu alcance. Después convierte tus cinco apuntes en una descripción breve."
+        "contenido": "Elige un lugar tranquilo y anota una cosa que puedas percibir con cada sentido: un sonido, una textura, un olor, un sabor si tienes algo seguro a mano y un detalle visual. No necesitas probar nada nuevo ni tocar objetos desconocidos; basta con observar lo que ya está a tu alcance. Después convierte tus cinco apuntes en una descripción breve.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Describe lo que ya tienes cerca; no pruebes ni huelas sustancias desconocidas."
       },
       "palabraNueva": {
         "titulo": "La palabra quórum",
@@ -16139,7 +16139,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El agradecimiento con nombre propio",
-        "contenido": "Piensa en alguien que haya hecho algo valioso por ti, incluso si fue pequeño: explicar algo con paciencia, compartir una idea, hacerte reír o estar presente en un momento oportuno. Escribe tres líneas: qué hizo, qué efecto tuvo en ti y por qué lo recuerdas. Si te nace, envíaselas; si no, puedes guardarlas como recordatorio."
+        "contenido": "Piensa en alguien que haya hecho algo valioso por ti, incluso si fue pequeño: explicar algo con paciencia, compartir una idea, hacerte reír o estar presente en un momento oportuno. Escribe tres líneas: qué hizo, qué efecto tuvo en ti y por qué lo recuerdas. Si te nace, envíaselas; si no, puedes guardarlas como recordatorio.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Escribe qué hizo la persona, qué efecto tuvo y por qué lo recuerdas."
       },
       "palabraNueva": {
         "titulo": "La palabra reparo",
@@ -16186,7 +16186,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El museo de los errores útiles",
-        "contenido": "Piensa en un error pequeño que hayas cometido alguna vez: una receta que quedó rara, una manualidad torcida, una palabra mal dicha o una decisión que te obligó a improvisar. Conviértelo en una pieza de museo: ponle título, fecha aproximada y una descripción solemne como si fuera una obra importantísima. Si alguien se suma, cada uno presenta su pieza sin burlarse del otro. El público debe encontrar algo útil, curioso o divertido que haya nacido de aquel tropiezo."
+        "contenido": "Piensa en un error pequeño que hayas cometido alguna vez: una receta que quedó rara, una manualidad torcida, una palabra mal dicha o una decisión que te obligó a improvisar. Conviértelo en una pieza de museo: ponle título, fecha aproximada y una descripción solemne como si fuera una obra importantísima. Si alguien se suma, cada uno presenta su pieza sin burlarse del otro. El público debe encontrar algo útil, curioso o divertido que haya nacido de aquel tropiezo.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una pieza de museo por error, con título y una lección o detalle curioso."
       },
       "palabraNueva": {
         "titulo": "La palabra zozobra",
@@ -16233,7 +16233,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El tráiler de una vida cotidiana",
-        "contenido": "Elige una actividad corriente —preparar café, ordenar el escritorio, salir a comprar algo o buscar las llaves— y conviértela en el argumento de un tráiler de película. Escribe una voz en off dramática, un título impactante y tres escenas de máximo cinco segundos. Puedes grabarlo con el móvil o simplemente interpretarlo. Si lo hacen entre dos, uno narra como presentador de cine y el otro representa la escena con toda la seriedad posible."
+        "contenido": "Elige una actividad corriente —preparar café, ordenar el escritorio, salir a comprar algo o buscar las llaves— y conviértela en el argumento de un tráiler de película. Escribe una voz en off dramática, un título impactante y tres escenas de máximo cinco segundos. Puedes grabarlo con el móvil o simplemente interpretarlo. Si lo hacen entre dos, uno narra como presentador de cine y el otro representa la escena con toda la seriedad posible.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Una voz en off, tres escenas de cinco segundos y un título; se puede representar sin grabar."
       },
       "palabraNueva": {
         "titulo": "La palabra ataraxia",
@@ -16280,7 +16280,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La cocina de las combinaciones inesperadas",
-        "contenido": "Busca ingredientes habituales y seguros que ya conozcas. Piensa en una combinación sencilla para una merienda o bebida sin horno: fruta con yogur, avena fría, una tostada con una mezcla distinta o una limonada con hierbas aptas para consumo. Antes de mezclar, revisa que todo sea adecuado para quienes vayan a probarlo. Ponle un nombre original a la preparación y escribe la receta en cuatro pasos. Si alguien participa, que invente el nombre mientras tú explicas por qué elegiste esos ingredientes."
+        "contenido": "Busca ingredientes habituales y seguros que ya conozcas. Piensa en una combinación sencilla para una merienda o bebida sin horno: fruta con yogur, avena fría, una tostada con una mezcla distinta o una limonada con hierbas aptas para consumo. Antes de mezclar, revisa que todo sea adecuado para quienes vayan a probarlo. Ponle un nombre original a la preparación y escribe la receta en cuatro pasos. Si alguien participa, que invente el nombre mientras tú explicas por qué elegiste esos ingredientes.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Una combinación sencilla, cuatro pasos y un nombre original; usa solo ingredientes conocidos."
       },
       "palabraNueva": {
         "titulo": "La palabra crisol",
@@ -16327,7 +16327,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El doblaje de una escena sin sonido",
-        "contenido": "Busca una escena breve de una película, serie o vídeo que puedas reproducir sin sonido. Observa los gestos y crea un diálogo completamente distinto al original. Puede ser una discusión entre dos objetos, una negociación ridícula o una conversación muy formal sobre algo insignificante. Graba el doblaje o interprétalo en directo. Si alguien te acompaña, repartan los personajes y hagan una segunda versión cambiando el género: de drama a comedia, o de aventura a documental."
+        "contenido": "Busca una escena breve de una película, serie o vídeo que puedas reproducir sin sonido. Observa los gestos y crea un diálogo completamente distinto al original. Puede ser una discusión entre dos objetos, una negociación ridícula o una conversación muy formal sobre algo insignificante. Graba el doblaje o interprétalo en directo. Si alguien te acompaña, repartan los personajes y hagan una segunda versión cambiando el género: de drama a comedia, o de aventura a documental.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una escena corta, un diálogo nuevo y una segunda versión de comedia o drama."
       },
       "palabraNueva": {
         "titulo": "La palabra finta",
@@ -16374,7 +16374,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La colección de sonidos favoritos",
-        "contenido": "Anota cinco sonidos que te guste escuchar o que te despierten algún recuerdo: lluvia contra una ventana, una calle al amanecer, páginas al pasar, una carcajada, el sonido de una cafetera o el ambiente de un lugar conocido. Para cada uno escribe qué sensación te deja. Si quieres, busca grabaciones de esos sonidos y arma una lista breve. Si compartes la actividad, intercambien sus selecciones y traten de adivinar qué recuerdo o ambiente representa cada sonido."
+        "contenido": "Anota cinco sonidos que te guste escuchar o que te despierten algún recuerdo: lluvia contra una ventana, una calle al amanecer, páginas al pasar, una carcajada, el sonido de una cafetera o el ambiente de un lugar conocido. Para cada uno escribe qué sensación te deja. Si quieres, busca grabaciones de esos sonidos y arma una lista breve. Si compartes la actividad, intercambien sus selecciones y traten de adivinar qué recuerdo o ambiente representa cada sonido.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco sonidos y una frase sobre el recuerdo o sensación que despierta cada uno."
       },
       "palabraNueva": {
         "titulo": "La palabra bisoño",
@@ -16421,7 +16421,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El intercambio de recomendaciones improbables",
-        "contenido": "Elige una recomendación poco obvia: una película que casi nadie menciona, una canción de un género que no sueles escuchar, un canal curioso, un libro breve o una actividad que parezca rara pero valga la pena. Explica en tres pistas por qué podría gustarle a otra persona, sin revelar el nombre al principio. Si participan dos, cada uno prepara una recomendación sorpresa para el otro. La otra persona puede hacer hasta tres preguntas antes de aceptar el reto de probarla o verla."
+        "contenido": "Elige una recomendación poco obvia: una película que casi nadie menciona, una canción de un género que no sueles escuchar, un canal curioso, un libro breve o una actividad que parezca rara pero valga la pena. Explica en tres pistas por qué podría gustarle a otra persona, sin revelar el nombre al principio. Si participan dos, cada uno prepara una recomendación sorpresa para el otro. La otra persona puede hacer hasta tres preguntas antes de aceptar el reto de probarla o verla.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres pistas y hasta tres preguntas antes de revelar la recomendación."
       },
       "palabraNueva": {
         "titulo": "La palabra perenne",
@@ -16468,7 +16468,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El retrato escrito de un día perfecto",
-        "contenido": "Describe un día ideal sin hablar de grandes lujos ni de una agenda imposible. Incluye cómo empieza, qué ritmo tiene, qué comida aparece, qué lugar visitas y qué pequeño detalle lo vuelve memorable. No hace falta que sea realista: puede mezclar una mañana tranquila con una aventura inesperada. Si quieres compartirlo, intercambien sus descripciones y encuentren un detalle que sí podrían llevar a la vida real durante las próximas semanas. No se trata de copiar el día completo, sino de rescatar una idea que les haga ilusión."
+        "contenido": "Describe un día ideal sin hablar de grandes lujos ni de una agenda imposible. Incluye cómo empieza, qué ritmo tiene, qué comida aparece, qué lugar visitas y qué pequeño detalle lo vuelve memorable. No hace falta que sea realista: puede mezclar una mañana tranquila con una aventura inesperada. Si quieres compartirlo, intercambien sus descripciones y encuentren un detalle que sí podrían llevar a la vida real durante las próximas semanas. No se trata de copiar el día completo, sino de rescatar una idea que les haga ilusión.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Describe el día ideal y rescata una sola idea posible, sin convertirlo en una agenda obligatoria."
       },
       "palabraNueva": {
         "titulo": "La palabra aledaño",
@@ -16519,7 +16519,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La lista de las cosas que sí valieron la pena",
-        "contenido": "Escribe cinco momentos recientes que te hayan dejado algo bueno: una conversación, una idea, una tarde tranquila, una canción o algo que te atreviste a probar. Anota qué los hizo especiales y qué parte de ti apareció allí."
+        "contenido": "Escribe cinco momentos recientes que te hayan dejado algo bueno: una conversación, una idea, una tarde tranquila, una canción o algo que te atreviste a probar. Anota qué los hizo especiales y qué parte de ti apareció allí.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco momentos y una razón concreta para conservar cada uno."
       },
       "palabraNueva": {
         "titulo": "La palabra retrospectiva",
@@ -16566,7 +16566,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El retrato hablado de alguien que aún estás descubriendo",
-        "contenido": "Completen tres frases: «Algo que casi nadie nota de mí…», «Una cosa que me gustaría aprender…» y «Un plan sencillo que siempre me alegra…». La otra persona escucha y puede hacer una pregunta. No hay obligación de compartir algo íntimo."
+        "contenido": "Completen tres frases: «Algo que casi nadie nota de mí…», «Una cosa que me gustaría aprender…» y «Un plan sencillo que siempre me alegra…». La otra persona escucha y puede hacer una pregunta. No hay obligación de compartir algo íntimo.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tres frases por persona y una pregunta opcional; cualquiera puede pasar."
       },
       "palabraNueva": {
         "titulo": "La palabra reciprocidad",
@@ -16613,7 +16613,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El álbum de los detalles que nos rodean",
-        "contenido": "Elige cuatro fotografías de tu entorno: una de algo que te hizo reír, otra de una textura, otra de un objeto que tenga historia y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al mirarlo. Si compartes el ejercicio, intercambien las fotos y traten de adivinar qué llamó la atención de la otra persona."
+        "contenido": "Elige cuatro fotografías de tu entorno: una de algo que te hizo reír, otra de una textura, otra de un objeto que tenga historia y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al mirarlo. Si compartes el ejercicio, intercambien las fotos y traten de adivinar qué llamó la atención de la otra persona.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cuatro fotografías, cuatro frases y una selección para guardar."
       },
       "palabraNueva": {
         "titulo": "La palabra derrotero",
@@ -16660,7 +16660,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La carta que no necesita enviarse",
-        "contenido": "Escribe una carta breve dirigida a tu yo de dentro de un año. Cuéntale qué te ilusiona ahora, qué te gustaría cuidar, qué hábito quieres conservar y qué cosa ya no quieres exigirte tanto. Deja una pregunta para que la responda al volver a leerla."
+        "contenido": "Escribe una carta breve dirigida a tu yo de dentro de un año. Cuéntale qué te ilusiona ahora, qué te gustaría cuidar, qué hábito quieres conservar y qué cosa ya no quieres exigirte tanto. Deja una pregunta para que la responda al volver a leerla.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Escribe la carta y guarda una pregunta para responder dentro de un año."
       },
       "palabraNueva": {
         "titulo": "La palabra prospectiva",
@@ -16707,7 +16707,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El torneo de técnicas malditas inventadas",
-        "contenido": "Inventen una técnica maldita inspirada en Jujutsu Kaisen. Debe tener nombre, efecto, alcance y una limitación. Después creen una expansión de dominio con una regla inesperada. La otra persona propone una situación y ustedes explican cómo funcionaría sin volverla invencible. Actividad original de fans, sin spoilers."
+        "contenido": "Inventen una técnica maldita inspirada en Jujutsu Kaisen. Debe tener nombre, efecto, alcance y una limitación. Después creen una expansión de dominio con una regla inesperada. La otra persona propone una situación y ustedes explican cómo funcionaría sin volverla invencible. Actividad original de fans, sin spoilers.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Nombre, efecto, alcance, limitación y una situación de prueba; actividad original de fans, sin spoilers."
       },
       "palabraNueva": {
         "titulo": "La palabra condición",
@@ -16754,7 +16754,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Un desayuno que parece de cafetería",
-        "contenido": "Preparen tostadas francesas en sartén con pan, huevo, leche y canela, acompañadas de fruta; o una versión salada con queso y tomate. Remojen el pan brevemente y cocínenlo hasta dorar ambos lados. Revisen etiquetas para descartar maní y trazas relevantes; eviten contaminación cruzada en utensilios, superficies y aceite."
+        "contenido": "Preparen tostadas francesas en sartén con pan, huevo, leche y canela, acompañadas de fruta; o una versión salada con queso y tomate. Remojen el pan brevemente y cocínenlo hasta dorar ambos lados. Revisen etiquetas para descartar maní y trazas relevantes; eviten contaminación cruzada en utensilios, superficies y aceite.\n\nTIEMPO ESTIMADO: 15–20 MINUTOS. Cocina las tostadas en sartén por ambos lados y prepara la fruta mientras se doran."
       },
       "palabraNueva": {
         "titulo": "La palabra dorado",
@@ -16801,7 +16801,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El expediente secreto de Hogwarts",
-        "contenido": "Inventen un objeto que guarda recuerdos sin tener páginas, una puerta que aparece cuando alguien necesita encontrar algo y una criatura pequeña que esconde un secreto enorme. Construyan el expediente: quién lo dejó, qué protege y qué ocurriría si alguien lo abre demasiado pronto. Actividad original inspirada en Harry Potter, sin spoilers."
+        "contenido": "Inventen un objeto que guarda recuerdos sin tener páginas, una puerta que aparece cuando alguien necesita encontrar algo y una criatura pequeña que esconde un secreto enorme. Construyan el expediente: quién lo dejó, qué protege y qué ocurriría si alguien lo abre demasiado pronto. Actividad original inspirada en Harry Potter, sin spoilers.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Diseñen tres objetos, una puerta y una criatura; cada elemento debe guardar una pista."
       },
       "palabraNueva": {
         "titulo": "La palabra enigma",
@@ -16848,7 +16848,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El mapa de los lugares que todavía queremos conocer",
-        "contenido": "Hagan un mapa con cuatro tipos de lugares que les gustaría conocer algún día: un mirador para ver el atardecer, un lago para pasar unas horas, un sitio tranquilo para pintar y un lugar al aire libre para un picnic. Escriban qué harían allí y qué necesitarían llevar. No pongan fechas ni nombres concretos: es un mapa de posibilidades."
+        "contenido": "Hagan un mapa con cuatro tipos de lugares que les gustaría conocer algún día: un mirador para ver el atardecer, un lago para pasar unas horas, un sitio tranquilo para pintar y un lugar al aire libre para un picnic. Escriban qué harían allí y qué necesitarían llevar. No pongan fechas ni nombres concretos: es un mapa de posibilidades.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cuatro tipos de lugar, una actividad posible y un presupuesto orientativo; no elijan fecha."
       },
       "palabraNueva": {
         "titulo": "La palabra cartografía",
@@ -16895,7 +16895,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El concurso de indirectas con elegancia",
-        "contenido": "Escriban tres indirectas: una sutil, una descaradamente divertida y una que parezca una observación inocente hasta que se piensa dos veces. La otra persona las clasifica y explica cuál le pareció más ingeniosa. El juego debe ser cómodo para ambos; si una frase no cae bien, se cambia."
+        "contenido": "Escriban tres indirectas: una sutil, una descaradamente divertida y una que parezca una observación inocente hasta que se piensa dos veces. La otra persona las clasifica y explica cuál le pareció más ingeniosa. El juego debe ser cómodo para ambos; si una frase no cae bien, se cambia.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres indirectas por persona; si una no resulta cómoda, se cambia sin insistir."
       },
       "palabraNueva": {
         "titulo": "La palabra sutileza",
@@ -16942,7 +16942,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La noche de preguntas para conocerse mejor",
-        "contenido": "Elijan una pregunta ligera, una curiosa y una más personal: «¿qué comida podrías repetir una semana?», «¿qué habilidad aprenderías si tuvieras un mes libre?» y «¿qué gesto te hace sentir tenido en cuenta?». Cada persona puede pasar una pregunta o responder solo hasta donde le nazca."
+        "contenido": "Elijan una pregunta ligera, una curiosa y una más personal: «¿qué comida podrías repetir una semana?», «¿qué habilidad aprenderías si tuvieras un mes libre?» y «¿qué gesto te hace sentir tenido en cuenta?». Cada persona puede pasar una pregunta o responder solo hasta donde le nazca.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Una pregunta ligera, una curiosa y una personal opcional; cualquiera puede pasar."
       },
       "palabraNueva": {
         "titulo": "La palabra confidencia",
@@ -16989,7 +16989,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El diseño de una escapada de dos días",
-        "contenido": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Diseñen dos jornadas flexibles: el primer día, llegar con luz, caminar un poco y preparar una cena fácil; el segundo, desayunar sin afán, hacer una actividad corta y regresar. Anoten presupuesto aproximado, transporte, clima, seguridad, comida adecuada y qué necesitarían llevar. No elijan destino ni fecha todavía; el plan solo se concreta si a ambos les entusiasma y les resulta viable."
+        "contenido": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Diseñen dos jornadas flexibles: el primer día, llegar con luz, caminar un poco y preparar una cena fácil; el segundo, desayunar sin afán, hacer una actividad corta y regresar. Anoten presupuesto aproximado, transporte, clima, seguridad, comida adecuada y qué necesitarían llevar. No elijan destino ni fecha todavía; el plan solo se concreta si a ambos les entusiasma y les resulta viable.\n\nTIEMPO DE DISEÑO: 20–30 MINUTOS. No reserven todavía; comparen costo total, transporte, clima, seguridad y una versión de una sola jornada."
       },
       "palabraNueva": {
         "titulo": "La palabra escapada",
@@ -17036,7 +17036,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El álbum de las pequeñas pruebas",
-        "contenido": "Elige cuatro fotografías: una de algo que te hizo reír, otra de un lugar, otra de una creación y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al verla. También puedes hacer dibujos u objetos que representen cada momento."
+        "contenido": "Elige cuatro fotografías: una de algo que te hizo reír, otra de un lugar, otra de una creación y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al verla. También puedes hacer dibujos u objetos que representen cada momento.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cuatro fotografías y una frase de recuerdo para cada una."
       },
       "palabraNueva": {
         "titulo": "La palabra evocación",
@@ -17083,7 +17083,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La receta de una tarde perfecta",
-        "contenido": "Preparen una limonada de hierbabuena con agua fría, zumo de limón, azúcar o miel si la consumen, hierbabuena y hielo. Acompañen con fruta o palomitas hechas en olla con aceite limpio. Revisen etiquetas para descartar maní y trazas relevantes; eviten utensilios o aceites compartidos con frutos secos. Elijan una película o música."
+        "contenido": "Preparen una limonada de hierbabuena con agua fría, zumo de limón, azúcar o miel si la consumen, hierbabuena y hielo. Acompañen con fruta o palomitas hechas en olla con aceite limpio. Revisen etiquetas para descartar maní y trazas relevantes; eviten utensilios o aceites compartidos con frutos secos. Elijan una película o música.\n\nTIEMPO DE PREPARACIÓN: 15–20 MINUTOS. La limonada se prepara en minutos; el resto es organizar la merienda y elegir la película o música."
       },
       "palabraNueva": {
         "titulo": "La palabra ritual",
@@ -17130,7 +17130,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El manifiesto de lo que mereces",
-        "contenido": "Escribe cinco frases que empiecen con «Merezco…»: descanso, respeto, oportunidades, alegría, límites, creatividad o tranquilidad. Después elige una y conviértela en una acción pequeña que puedas hacer por ti esta semana. No hay que comparar experiencias ni demostrar nada."
+        "contenido": "Escribe cinco frases que empiecen con «Merezco…»: descanso, respeto, oportunidades, alegría, límites, creatividad o tranquilidad. Después elige una y conviértela en una acción pequeña que puedas hacer por ti esta semana. No hay que comparar experiencias ni demostrar nada.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco frases y una acción pequeña para esta semana, elegida libremente."
       },
       "palabraNueva": {
         "titulo": "La palabra dignidad",
@@ -17177,7 +17177,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La última página antes del nuevo capítulo",
-        "contenido": "Escribe el título de un capítulo que resuma este año y tres escenas que no quieras olvidar. Añade una escena que todavía no ha ocurrido y que te gustaría vivir, sin fijar una fecha ni convertirla en promesa. Piensa en algo que aprendiste sobre ti y en una cosa que quieres seguir explorando."
+        "contenido": "Escribe el título de un capítulo que resuma este año y tres escenas que no quieras olvidar. Añade una escena que todavía no ha ocurrido y que te gustaría vivir, sin fijar una fecha ni convertirla en promesa. Piensa en algo que aprendiste sobre ti y en una cosa que quieres seguir explorando.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres escenas, un aprendizaje y una posibilidad futura sin convertirla en promesa."
       },
       "palabraNueva": {
         "titulo": "La palabra epílogo",
@@ -17224,7 +17224,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El comienzo que elegimos celebrar",
-        "contenido": "Si ambos lo desean, la propuesta especial es una escapada de hasta tres días y dos noches, planeada con tiempo. Elijan juntos una experiencia de naturaleza y descanso: una cabaña cerca de un lago, una zona de montaña, camping organizado o un lugar donde combinar paseo y creatividad. Día uno: viajar sin apuro y caminar un poco. Día dos: disfrutar la actividad principal, pintar, conocer el entorno o descansar. Día tres: desayunar con calma y regresar. No hay destino ni fecha fijados; revisen presupuesto, transporte, clima, seguridad, comida adecuada y disponibilidad. Si tres días no encajan, conviértanlo en dos o en una salida de una jornada."
+        "contenido": "Si ambos lo desean, la propuesta especial es una escapada de hasta tres días y dos noches, planeada con tiempo. Elijan juntos una experiencia de naturaleza y descanso: una cabaña cerca de un lago, una zona de montaña, camping organizado o un lugar donde combinar paseo y creatividad. Día uno: viajar sin apuro y caminar un poco. Día dos: disfrutar la actividad principal, pintar, conocer el entorno o descansar. Día tres: desayunar con calma y regresar. No hay destino ni fecha fijados; revisen presupuesto, transporte, clima, seguridad, comida adecuada y disponibilidad. Si tres días no encajan, conviértanlo en dos o en una salida de una jornada.\n\nTIEMPO DE DISEÑO: 20–30 MINUTOS. La escapada de hasta tres días es solo una idea para el final; solo se concreta si ambos la desean y el presupuesto, el transporte y las fechas lo permiten."
       },
       "palabraNueva": {
         "titulo": "La palabra continuidad",
