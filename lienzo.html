@@ -1003,7 +1003,7 @@ function exportDesign(){
  const format=$('export-format').value;
  const filename=(doc.name||'aleja-diseno').replace(/[^\w\-]+/g,'-');
  if(format==='json'){
-  try{download(new Blob([serialize()],{type:'application/json'}),filename+'.json');projectExported=true;$('clear-storage').hidden=false;updateStorageStatus();closeModal('export-modal');tell('Proyecto editable exportado. Ya puedes liberar el almacenamiento guardado desde el indicador superior.')}
+  try{download(new Blob([serialize()],{type:'application/json'}),filename+'.json');projectExported=true;$('clear-storage').hidden=false;updateStorageStatus();tell('Proyecto editable exportado. Comprueba que el archivo JSON se haya descargado; después puedes pulsar “Liberar almacenamiento” aquí o en la barra del lienzo.')}
   catch(e){console.error(e);tell('No se pudo preparar el proyecto JSON.')}
   return
  }
