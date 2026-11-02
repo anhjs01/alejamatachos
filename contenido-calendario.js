@@ -35,11 +35,11 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La teoría de los cinco segundos",
-        "contenido": "Dicen que hay que esperar cinco segundos antes de hacer algo impulsivo. Yo propongo una versión más interesante: cinco segundos para mirarte, cinco para acercarme y cinco para preguntarte si puedo darte un beso. Si dices que sí, perfecto; si te ríes, vuelvo a empezar el experimento.\\n\\nNo es una teoría científica, pero tiene una metodología bastante agradable. Y, por si acaso, no pienso publicar los resultados sin tu autorización."
+        "contenido": "Dicen que hay que esperar cinco segundos antes de hacer algo impulsivo. Yo propongo una versión más interesante: cinco segundos para mirarte, cinco para acercarme y cinco para preguntarte si puedo darte un beso. Si dices que sí, perfecto; si te ríes, vuelvo a empezar el experimento.\n\nNo es una teoría científica, pero tiene una metodología bastante agradable. Y, por si acaso, no pienso publicar los resultados sin tu autorización."
       },
       "palabraNueva": {
         "titulo": "Una palabra para guardar",
-        "contenido": "FULGOR\\n\\nBrillo intenso y momentáneo. Puede ser la luz de algo, pero también ese instante en que una emoción se nota antes de que alcances a disimularla.\\n\\nEjemplo: «La habitación estaba a oscuras, pero tu llegada tuvo el fulgor de una ventana encendida»."
+        "contenido": "FULGOR\n\nBrillo intenso y momentáneo. Puede ser la luz de algo, pero también ese instante en que una emoción se nota antes de que alcances a disimularla.\n\nEjemplo: «La habitación estaba a oscuras, pero tu llegada tuvo el fulgor de una ventana encendida»."
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
@@ -83,11 +83,11 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El taller de los tres personajes",
-        "contenido": "PLAN PARA HACER JUNTOS\\n\\nMateriales: plastilina de varios colores, una base de cartón o papel grueso, palillos cortos para unir piezas (con cuidado), marcadores y una hoja para ponerles nombre.\\n\\n1. Cada uno crea un personaje sin mostrarlo hasta terminar.\\n2. El tercero se construye entre los dos: uno hace el cuerpo y el otro la cabeza; después intercambian.\\n3. Inventen para cada personaje un nombre, un talento inútil y un miedo ridículo.\\n4. Pónganlos juntos en una escena y dibujen el fondo con marcadores.\\n\\nRegla: no se permite destruir una figura; solo se puede mejorar con una idea del otro. Al final elijan cuál tendría su propia serie."
+        "contenido": "PLAN PARA HACER JUNTOS\n\nMateriales: plastilina de varios colores, una base de cartón o papel grueso, palillos cortos para unir piezas (con cuidado), marcadores y una hoja para ponerles nombre.\n\n1. Cada uno crea un personaje sin mostrarlo hasta terminar.\n2. El tercero se construye entre los dos: uno hace el cuerpo y el otro la cabeza; después intercambian.\n3. Inventen para cada personaje un nombre, un talento inútil y un miedo ridículo.\n4. Pónganlos juntos en una escena y dibujen el fondo con marcadores.\n\nRegla: no se permite destruir una figura; solo se puede mejorar con una idea del otro. Al final elijan cuál tendría su propia serie."
       },
       "palabraNueva": {
         "titulo": "La palabra del taller",
-        "contenido": "QUIMÉRICO\\n\\nAlgo que parece imaginado o casi imposible.\\n\\nEjemplo: «El plan de abrir un museo para nuestros tres personajes quiméricos es absurdo… así que deberíamos hacerlo»."
+        "contenido": "QUIMÉRICO\n\nAlgo que parece imaginado o casi imposible.\n\nEjemplo: «El plan de abrir un museo para nuestros tres personajes quiméricos es absurdo… así que deberíamos hacerlo»."
       },
       "buenasNoches": {
         "titulo": "Que descansen los artistas",
@@ -131,11 +131,11 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Función privada: The One I Love",
-        "contenido": "PELÍCULA PARA VER JUNTOS\\n\\nThe One I Love (2014), dirigida por Charlie McDowell. Una pareja se retira a una casa para intentar recomponer su relación, pero el lugar empieza a introducir situaciones extrañas. Es una mezcla de drama romántico, misterio y ciencia ficción íntima.\\n\\nPropuesta: véanla sin leer más sobre la trama para no arruinar las sorpresas. Antes de empezar, cada uno diga qué cree que necesita una relación cuando algo deja de funcionar. Al terminar, comparen sus teorías y elijan la escena que más preguntas les dejó. No hace falta estar de acuerdo."
+        "contenido": "PELÍCULA PARA VER JUNTOS\n\nThe One I Love (2014), dirigida por Charlie McDowell. Una pareja se retira a una casa para intentar recomponer su relación, pero el lugar empieza a introducir situaciones extrañas. Es una mezcla de drama romántico, misterio y ciencia ficción íntima.\n\nPropuesta: véanla sin leer más sobre la trama para no arruinar las sorpresas. Antes de empezar, cada uno diga qué cree que necesita una relación cuando algo deja de funcionar. Al terminar, comparen sus teorías y elijan la escena que más preguntas les dejó. No hace falta estar de acuerdo."
       },
       "palabraNueva": {
         "titulo": "Una palabra para la sobremesa",
-        "contenido": "AMBIVALENCIA\\n\\nCuando dos sentimientos contrarios conviven al mismo tiempo.\\n\\nEjemplo: «Sentí ambivalencia: quería descubrir el secreto de la película, pero tampoco quería que terminara»."
+        "contenido": "AMBIVALENCIA\n\nCuando dos sentimientos contrarios conviven al mismo tiempo.\n\nEjemplo: «Sentí ambivalencia: quería descubrir el secreto de la película, pero tampoco quería que terminara»."
       },
       "buenasNoches": {
         "titulo": "Después de los créditos",
@@ -179,11 +179,11 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tiras de res con papas doradas y salsa cremosa",
-        "contenido": "RECETA PARA DOS · SIN HORNO\\n\\nIngredientes: 300 g de carne de res en tiras; 2 papas medianas; ½ cebolla; 1 diente de ajo; 100 ml de crema de leche; ½ cucharadita de mostaza; 1 cucharadita de paprika; 1 cucharada de aceite; sal y pimienta; perejil o cilantro opcional.\\n\\nPreparación:\\n1. Laven las papas y córtenlas en cubos pequeños. Hiérvanlas 7–9 minutos en agua con sal; escúrranlas y déjenlas secar un momento.\\n2. Calienten una sartén con la mitad del aceite. Doren las papas a fuego medio, moviéndolas de vez en cuando, hasta que estén crujientes y cocidas. Retiren y reserven.\\n3. Sazonen la carne con sal, pimienta y paprika. En la misma sartén bien caliente, dórenla en dos tandas para no amontonarla. Retiren.\\n4. Añadan el resto del aceite, la cebolla y el ajo; cocinen 2 minutos. Agreguen crema y mostaza, mezclen y devuelvan la carne para terminar la cocción.\\n5. Sirvan con las papas y hierbas frescas.\\n\\nREPARTO: quien dirige la cena prepara la carne; la otra persona se encarga de las papas y pone la mesa. A mitad de camino intercambian tareas. Compren la carne el mismo día y mantengan separados los utensilios de crudos y cocidos."
+        "contenido": "RECETA PARA DOS · SIN HORNO\n\nIngredientes: 300 g de carne de res en tiras; 2 papas medianas; ½ cebolla; 1 diente de ajo; 100 ml de crema de leche; ½ cucharadita de mostaza; 1 cucharadita de paprika; 1 cucharada de aceite; sal y pimienta; perejil o cilantro opcional.\n\nPreparación:\n1. Laven las papas y córtenlas en cubos pequeños. Hiérvanlas 7–9 minutos en agua con sal; escúrranlas y déjenlas secar un momento.\n2. Calienten una sartén con la mitad del aceite. Doren las papas a fuego medio, moviéndolas de vez en cuando, hasta que estén crujientes y cocidas. Retiren y reserven.\n3. Sazonen la carne con sal, pimienta y paprika. En la misma sartén bien caliente, dórenla en dos tandas para no amontonarla. Retiren.\n4. Añadan el resto del aceite, la cebolla y el ajo; cocinen 2 minutos. Agreguen crema y mostaza, mezclen y devuelvan la carne para terminar la cocción.\n5. Sirvan con las papas y hierbas frescas.\n\nREPARTO: quien dirige la cena prepara la carne; la otra persona se encarga de las papas y pone la mesa. A mitad de camino intercambian tareas. Compren la carne el mismo día y mantengan separados los utensilios de crudos y cocidos."
       },
       "palabraNueva": {
         "titulo": "Una palabra de cocina",
-        "contenido": "DORAR\\n\\nDar color tostado a la superficie con calor. Para lograrlo, la sartén debe estar caliente y la carne no debe quedar amontonada.\\n\\nEjemplo: «Dora la carne por tandas para que conserve mejor su textura»."
+        "contenido": "DORAR\n\nDar color tostado a la superficie con calor. Para lograrlo, la sartén debe estar caliente y la carne no debe quedar amontonada.\n\nEjemplo: «Dora la carne por tandas para que conserve mejor su textura»."
       },
       "buenasNoches": {
         "titulo": "La última cucharada",
@@ -227,11 +227,11 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Reto: un paisaje por turnos",
-        "contenido": "PLAN PARA DOS · 20 A 30 MINUTOS\\n\\nMateriales: una hoja grande, marcadores de varios colores y un temporizador.\\n\\nRonda 1: una persona dibuja el horizonte y el cielo durante dos minutos.\\nRonda 2: la otra añade un árbol, una casa o una montaña sin borrar nada.\\nRonda 3: alternen cada minuto para sumar un río, un camino, animales, una bebida gigante o cualquier elemento absurdo.\\nRonda 4: cada uno elige un detalle secreto para esconder en el paisaje y el otro debe encontrarlo.\\n\\nRegla especial: no se puede decir «eso está mal». Solo se puede añadir algo que haga funcionar la idea. Pónganle título al paisaje y firmen los dos."
+        "contenido": "PLAN PARA DOS · 20 A 30 MINUTOS\n\nMateriales: una hoja grande, marcadores de varios colores y un temporizador.\n\nRonda 1: una persona dibuja el horizonte y el cielo durante dos minutos.\nRonda 2: la otra añade un árbol, una casa o una montaña sin borrar nada.\nRonda 3: alternen cada minuto para sumar un río, un camino, animales, una bebida gigante o cualquier elemento absurdo.\nRonda 4: cada uno elige un detalle secreto para esconder en el paisaje y el otro debe encontrarlo.\n\nRegla especial: no se puede decir «eso está mal». Solo se puede añadir algo que haga funcionar la idea. Pónganle título al paisaje y firmen los dos."
       },
       "palabraNueva": {
         "titulo": "La palabra que cambia el dibujo",
-        "contenido": "PERSPECTIVA\\n\\nEs el punto de vista desde el que miramos algo; en arte también permite crear sensación de distancia y profundidad.\\n\\nEjemplo: «Desde tu perspectiva, el árbol parece enorme; desde la mía, parece que está saludando»."
+        "contenido": "PERSPECTIVA\n\nEs el punto de vista desde el que miramos algo; en arte también permite crear sensación de distancia y profundidad.\n\nEjemplo: «Desde tu perspectiva, el árbol parece enorme; desde la mía, parece que está saludando»."
       },
       "buenasNoches": {
         "titulo": "Museo doméstico",
@@ -275,11 +275,11 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Carta breve para leer despacio",
-        "contenido": "Hay algo que me gusta de los días normales contigo: no necesitan una fotografía perfecta para quedarse conmigo. A veces basta una conversación mientras hacemos cualquier cosa, una mirada que dura un segundo más o esa risa que aparece cuando ninguno de los dos estaba intentando ser gracioso.\\n\\nMe gusta la idea de seguir acumulando momentos así. Sin convertir cada uno en una promesa enorme; simplemente estando, prestando atención y eligiéndonos en las cosas pequeñas. Y si algún día no encontramos palabras, también podemos quedarnos cerca en silencio."
+        "contenido": "Hay algo que me gusta de los días normales contigo: no necesitan una fotografía perfecta para quedarse conmigo. A veces basta una conversación mientras hacemos cualquier cosa, una mirada que dura un segundo más o esa risa que aparece cuando ninguno de los dos estaba intentando ser gracioso.\n\nMe gusta la idea de seguir acumulando momentos así. Sin convertir cada uno en una promesa enorme; simplemente estando, prestando atención y eligiéndonos en las cosas pequeñas. Y si algún día no encontramos palabras, también podemos quedarnos cerca en silencio."
       },
       "palabraNueva": {
         "titulo": "Una palabra para el bolsillo",
-        "contenido": "SOLAZ\\n\\nConsuelo, descanso o placer que encontramos en algo o en alguien.\\n\\nEjemplo: «Leer tu carta fue un solaz en medio de una semana agotadora»."
+        "contenido": "SOLAZ\n\nConsuelo, descanso o placer que encontramos en algo o en alguien.\n\nEjemplo: «Leer tu carta fue un solaz en medio de una semana agotadora»."
       },
       "buenasNoches": {
         "titulo": "Hasta mañana",
@@ -323,11 +323,11 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Cóctel de mora, limón y ginebra (o versión sin alcohol)",
-        "contenido": "RECETA PARA DOS · SIN HORNO\\n\\nIngredientes: 80 g de moras; 60 ml de jugo de limón; 40 ml de jarabe simple (partes iguales de azúcar y agua, calentadas hasta disolver y enfriadas); 90 ml de ginebra; 180 ml de agua con gas; hielo. Para la versión sin alcohol, omitan la ginebra y agreguen 90 ml adicionales de agua con gas o tónica sin alcohol.\\n\\nPreparación:\\n1. Machaquen las moras con el jugo de limón y el jarabe.\\n2. Repartan la mezcla en dos vasos con bastante hielo.\\n3. Añadan 45 ml de ginebra a cada vaso (solo en la versión con alcohol).\\n4. Completen con agua con gas y mezclen suavemente.\\n5. Prueben y ajusten limón o jarabe. Decoren con una mora.\\n\\nReto de pareja: cada uno inventa un nombre para la bebida y diseña una mini etiqueta en papel. Si usan alcohol, midan las porciones, no conduzcan después y pueden elegir la versión sin alcohol sin cambiar el juego."
+        "contenido": "RECETA PARA DOS · SIN HORNO\n\nIngredientes: 80 g de moras; 60 ml de jugo de limón; 40 ml de jarabe simple (partes iguales de azúcar y agua, calentadas hasta disolver y enfriadas); 90 ml de ginebra; 180 ml de agua con gas; hielo. Para la versión sin alcohol, omitan la ginebra y agreguen 90 ml adicionales de agua con gas o tónica sin alcohol.\n\nPreparación:\n1. Machaquen las moras con el jugo de limón y el jarabe.\n2. Repartan la mezcla en dos vasos con bastante hielo.\n3. Añadan 45 ml de ginebra a cada vaso (solo en la versión con alcohol).\n4. Completen con agua con gas y mezclen suavemente.\n5. Prueben y ajusten limón o jarabe. Decoren con una mora.\n\nReto de pareja: cada uno inventa un nombre para la bebida y diseña una mini etiqueta en papel. Si usan alcohol, midan las porciones, no conduzcan después y pueden elegir la versión sin alcohol sin cambiar el juego."
       },
       "palabraNueva": {
         "titulo": "La palabra burbujeante",
-        "contenido": "EFERVESCENCIA\\n\\nEs el movimiento de burbujas que se forman y suben en un líquido; también describe una energía contagiosa.\\n\\nEjemplo: «La efervescencia de la bebida combinaba con nuestras ganas de celebrar cualquier cosa»."
+        "contenido": "EFERVESCENCIA\n\nEs el movimiento de burbujas que se forman y suben en un líquido; también describe una energía contagiosa.\n\nEjemplo: «La efervescencia de la bebida combinaba con nuestras ganas de celebrar cualquier cosa»."
       },
       "buenasNoches": {
         "titulo": "Cierre del bar",
@@ -641,7 +641,7 @@ const CALENDARIO = [
       "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: [buscar tutorial de luces y sombras para flores](https://www.youtube.com/results?search_query=acrilico+luces+y+sombras+flor+de+loto+principiantes). Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel.",
       "Estilizar: transformar una forma hasta hacerla tuya. La meta final no es copiar el tutorial, sino encontrar tu propia manera de dibujar la flor."
     ],
-    "detalle": "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: [buscar tutorial de luces y sombras para flores](https://www.youtube.com/results?search_query=acrilico+luces+y+sombras+flor+de+loto+principiantes). Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel.",
+    "detalle": "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: Abre YouTube y busca: acrílico luces y sombras flor de loto principiantes.. Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel.",
     "buenasNoches": "Tres niveles, tres resultados y una misma flor. Me gusta que una actividad sencilla pueda convertirse en algo que vamos construyendo poco a poco. Guarda tus avances: aquí empieza tu pequeña colección.",
     "cancionTitulo": "Redbone",
     "cancionArtista": "Childish Gambino",
@@ -654,7 +654,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tu ruta de progreso",
-        "contenido": "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: [buscar tutorial de luces y sombras para flores](https://www.youtube.com/results?search_query=acrilico+luces+y+sombras+flor+de+loto+principiantes). Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel."
+        "contenido": "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: Abre YouTube y busca: acrílico luces y sombras flor de loto principiantes.. Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel."
       },
       "palabraNueva": {
         "titulo": "Palabra de progreso",
@@ -1012,169 +1012,337 @@ const CALENDARIO = [
     "dia": 22,
     "fecha": "2026-11-06",
     "fechaTexto": "vie, 6 de nov",
-    "categoria": "El cariño que no se queda a medias",
-    "icono": "🧭",
-    "tono": "filosofica",
+    "categoria": "Una noche de copas, música y complicidad",
+    "icono": "🍸",
+    "tono": "amor",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Una cosa sí te deseo: un cariño tranquilo y claro, de esos que no te ponen a descifrar mensajes ni a preguntarte si molestaste por sentir algo.",
+    "buenosDias": "Te propongo una noche de copas para cuando tengamos una noche libre: música, luz bajita, algo para picar y dos bebidas preparadas con cariño. Si tomamos alcohol, que sea con moderación, solo si ambos tenemos edad legal para hacerlo y sin conducir después. También habrá una versión sin alcohol igual de especial.",
     "poema": [
-      "No todo lo bonito tiene que llegar con fuegos artificiales. A veces se nota en alguien que pregunta cómo estás y espera la respuesta, que recuerda lo que le contaste y que no desaparece cuando la conversación deja de ser divertida.",
-      "Tú mereces esa clase de atención, Aleja. Y mientras llega cada cosa a su ritmo, no olvides que tus sentimientos no son un problema que tengas que esconder."
+      "Compra para dos: 2 limones, 1 naranja, agua con gas, hielo, hierbabuena, jarabe simple (azúcar disuelta en igual cantidad de agua y enfriada), 120 ml de ginebra o ron claro para la versión alcohólica, y frutos rojos o moras. Para cada copa: machaca suavemente 3 moras con 15 ml de limón y 15 ml de jarabe; añade 60 ml de ginebra o ron, hielo y completa con agua con gas. Versión sin alcohol: cambia el destilado por más agua con gas y un chorrito de jugo de naranja. Decoren con hierbabuena. Para picar: queso, aceitunas, uvas, papas rústicas en sartén o una tabla sencilla. Juego de la noche: cada uno inventa el nombre de su bebida y hace tres preguntas curiosas al otro. Sirvan porciones pequeñas, alternen con agua y no mezclen bebidas por competir. Nada de cerveza ni aguardiente.",
+      "Mixología: preparar bebidas pensando en el equilibrio de sabores y en la presentación. Hoy cada uno puede inventar su propia mezcla, con o sin alcohol."
     ],
-    "detalle": "Si alguien que quieres necesita de ti, acompáñalo como puedas, pero no olvides guardarte un poco de cuidado para ti. Tener un corazón generoso no significa tener que resolverlo todo.",
-    "buenasNoches": "Que descanses, mi vida. Acuérdate de que cuidar a los demás también incluye no exigirte estar disponible para todo el mundo todo el tiempo.",
-    "cancionTitulo": "Love",
-    "cancionArtista": "Keyshia Cole",
-    "youtubeId": "9PBZy9j3H3I",
-    "cancionUrl": "https://www.youtube.com/watch?v=9PBZy9j3H3I"
+    "detalle": "Compra para dos: 2 limones, 1 naranja, agua con gas, hielo, hierbabuena, jarabe simple (azúcar disuelta en igual cantidad de agua y enfriada), 120 ml de ginebra o ron claro para la versión alcohólica, y frutos rojos o moras. Para cada copa: machaca suavemente 3 moras con 15 ml de limón y 15 ml de jarabe; añade 60 ml de ginebra o ron, hielo y completa con agua con gas. Versión sin alcohol: cambia el destilado por más agua con gas y un chorrito de jugo de naranja. Decoren con hierbabuena. Para picar: queso, aceitunas, uvas, papas rústicas en sartén o una tabla sencilla. Juego de la noche: cada uno inventa el nombre de su bebida y hace tres preguntas curiosas al otro. Sirvan porciones pequeñas, alternen con agua y no mezclen bebidas por competir. Nada de cerveza ni aguardiente.",
+    "buenasNoches": "Quiero que sea una noche para conversar, reírnos y brindar por algo pequeño. No necesitamos una ocasión especial; y si preferimos no beber alcohol, la noche sigue siendo igual de nuestra.",
+    "cancionTitulo": "The One",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "f4XVdNE0Kxc",
+    "cancionUrl": "https://www.youtube.com/watch?v=f4XVdNE0Kxc",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, brindis pendiente",
+        "contenido": "Te propongo una noche de copas para cuando tengamos una noche libre: música, luz bajita, algo para picar y dos bebidas preparadas con cariño. Si tomamos alcohol, que sea con moderación, solo si ambos tenemos edad legal para hacerlo y sin conducir después. También habrá una versión sin alcohol igual de especial."
+      },
+      "mensajePrincipal": {
+        "titulo": "Nuestro pequeño bar en casa",
+        "contenido": "Compra para dos: 2 limones, 1 naranja, agua con gas, hielo, hierbabuena, jarabe simple (azúcar disuelta en igual cantidad de agua y enfriada), 120 ml de ginebra o ron claro para la versión alcohólica, y frutos rojos o moras. Para cada copa: machaca suavemente 3 moras con 15 ml de limón y 15 ml de jarabe; añade 60 ml de ginebra o ron, hielo y completa con agua con gas. Versión sin alcohol: cambia el destilado por más agua con gas y un chorrito de jugo de naranja. Decoren con hierbabuena. Para picar: queso, aceitunas, uvas, papas rústicas en sartén o una tabla sencilla. Juego de la noche: cada uno inventa el nombre de su bebida y hace tres preguntas curiosas al otro. Sirvan porciones pequeñas, alternen con agua y no mezclen bebidas por competir. Nada de cerveza ni aguardiente."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de bar",
+        "contenido": "Mixología: preparar bebidas pensando en el equilibrio de sabores y en la presentación. Hoy cada uno puede inventar su propia mezcla, con o sin alcohol."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Quiero que sea una noche para conversar, reírnos y brindar por algo pequeño. No necesitamos una ocasión especial; y si preferimos no beber alcohol, la noche sigue siendo igual de nuestra."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Mixología",
+      "significado": "Práctica de preparar bebidas combinando sabores, aromas, texturas y presentación.",
+      "ejemplo": "Nuestra noche de mixología puede tener un cóctel cítrico, una versión sin alcohol y una pequeña competencia para inventar nombres."
+    },
+    "inspiracionCancion": "Esta canción pone el ambiente para una noche tranquila, con luces cálidas, algo rico para picar y tiempo para nosotros."
   },
   {
     "dia": 23,
     "fecha": "2026-11-07",
     "fechaTexto": "sáb, 7 de nov",
-    "categoria": "Café fuerte, día sin tanta prisa",
-    "icono": "🫘",
-    "tono": "ambiente",
+    "categoria": "Una carta que se responde con otra carta",
+    "icono": "✉️",
+    "tono": "amor",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Que tu café salga fuerte y sin azúcar, y que al menos los primeros minutos del día no te pidan correr ni resolver nada.",
+    "buenosDias": "Hoy te propongo algo sencillo y bonito: escribirnos una carta breve y responderla. No tiene que ser una declaración enorme; puede ser una nota sobre algo que agradecemos, algo que nos hace reír o una cosa que queremos vivir.",
     "poema": [
-      "Me imagino esa primera taza, el aroma llenando la cocina y tú despertando a tu manera. Hay mañanas que se arreglan un poquito cuando uno no tiene que hablar con nadie hasta después del primer sorbo.",
-      "Si pudiera dejarte algo junto al café, sería una nota chiquita que dijera: «tómate tu tiempo, bonita; el mundo puede esperar cinco minutos»."
+      "Materiales: dos hojas, sobres, bolígrafos y algo para decorar si queremos. Cada uno escribe durante diez minutos empezando con una de estas frases: «Algo tuyo que quizá no te digo suficiente…», «Un momento contigo que recuerdo con cariño…» o «Algo que me gustaría que hiciéramos algún día…». Intercambiamos las cartas y respondemos con otra hoja: no para corregir ni discutir, sino para contar qué nos hizo sentir y qué nos gustaría añadir. Podemos guardarlas en un sobre común y abrirlas dentro de un mes.",
+      "Reciprocidad: dar y recibir con atención. No significa llevar cuentas, sino procurar que ambos tengan espacio para expresarse."
     ],
-    "detalle": "Prepara tu café y deja que el primer sorbo sea una pausa de verdad. No hace falta que la mañana se convierta en una película tranquila: con que por un minuto nadie te apure, ya es ganancia.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá mañana el café llegue antes que las preocupaciones y puedas disfrutarlo sin mirar el reloj cada veinte segundos.",
-    "cancionTitulo": "Electric Relaxation",
-    "cancionArtista": "A Tribe Called Quest",
-    "youtubeId": "WHRnvjCkTsw",
-    "cancionUrl": "https://www.youtube.com/watch?v=WHRnvjCkTsw"
+    "detalle": "Materiales: dos hojas, sobres, bolígrafos y algo para decorar si queremos. Cada uno escribe durante diez minutos empezando con una de estas frases: «Algo tuyo que quizá no te digo suficiente…», «Un momento contigo que recuerdo con cariño…» o «Algo que me gustaría que hiciéramos algún día…». Intercambiamos las cartas y respondemos con otra hoja: no para corregir ni discutir, sino para contar qué nos hizo sentir y qué nos gustaría añadir. Podemos guardarlas en un sobre común y abrirlas dentro de un mes.",
+    "buenasNoches": "Ojalá nunca dejemos de preguntarnos cómo está el otro de verdad. Una respuesta sincera también puede ser una forma de abrazo.",
+    "cancionTitulo": "I CAN TELL",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "4UpUGBWlCb4",
+    "cancionUrl": "https://www.youtube.com/watch?v=4UpUGBWlCb4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, corazón",
+        "contenido": "Hoy te propongo algo sencillo y bonito: escribirnos una carta breve y responderla. No tiene que ser una declaración enorme; puede ser una nota sobre algo que agradecemos, algo que nos hace reír o una cosa que queremos vivir."
+      },
+      "mensajePrincipal": {
+        "titulo": "Actividad: carta y respuesta",
+        "contenido": "Materiales: dos hojas, sobres, bolígrafos y algo para decorar si queremos. Cada uno escribe durante diez minutos empezando con una de estas frases: «Algo tuyo que quizá no te digo suficiente…», «Un momento contigo que recuerdo con cariño…» o «Algo que me gustaría que hiciéramos algún día…». Intercambiamos las cartas y respondemos con otra hoja: no para corregir ni discutir, sino para contar qué nos hizo sentir y qué nos gustaría añadir. Podemos guardarlas en un sobre común y abrirlas dentro de un mes."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para compartir",
+        "contenido": "Reciprocidad: dar y recibir con atención. No significa llevar cuentas, sino procurar que ambos tengan espacio para expresarse."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá nunca dejemos de preguntarnos cómo está el otro de verdad. Una respuesta sincera también puede ser una forma de abrazo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Reciprocidad",
+      "significado": "Correspondencia mutua en la manera de dar, escuchar, cuidar o expresar algo.",
+      "ejemplo": "Una carta puede iniciar una conversación y la respuesta puede contar lo que la primera no alcanzó a decir."
+    },
+    "inspiracionCancion": "Una canción para escribir sin apuro y responder con honestidad, sin intentar sonar como otra persona."
   },
   {
     "dia": 24,
     "fecha": "2026-11-08",
     "fechaTexto": "dom, 8 de nov",
-    "categoria": "Una flor junto a tus materiales",
-    "icono": "🌼",
-    "tono": "amor",
+    "categoria": "El reto de dibujar una escena de película",
+    "icono": "🎞️",
+    "tono": "creativo",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Imagínate una margarita al lado de tus pinceles, entre colores y materiales, como si alguien hubiera querido dejarte un pedacito de jardín en tu rincón creativo.",
+    "buenosDias": "Hoy el reto no es pintar una flor: vamos a convertir una escena de una película en una ilustración. Elige una película que ambos hayamos visto o una escena que podamos pausar sin spoilers para el otro.",
     "poema": [
-      "A veces los detalles más lindos no son los más grandes, sino los que encuentran su sitio justo donde uno pasa tiempo. Una flor junto a lo que te gusta hacer puede decir «me acordé de ti» sin interrumpirte.",
-      "Ojalá hoy tengas algo así: un detalle que te alegre sin pedirte nada a cambio. Y si no aparece, al menos ya tienes una margarita imaginaria haciendo compañía."
+      "Materiales: papel grueso, lápiz, borrador, regla opcional y marcadores o pinturas. Nivel 1: dibuja solo las formas grandes y ubica horizonte, personajes u objetos sin detalles. Nivel 2: limita la paleta a cuatro colores y trabaja luces y sombras. Nivel 3: cambia un elemento de la escena —la hora del día, el clima o el color dominante— para contar una emoción distinta. Tutorial: en YouTube busca «cómo dibujar composición de una escena cinematográfica para principiantes». Si lo hacemos juntos, cada uno elige un fotograma distinto de la misma película y comparamos cómo lo interpretamos.",
+      "Composición: la forma en que ordenamos lo que aparece en una imagen. Una buena composición ayuda a que la mirada sepa dónde detenerse."
     ],
-    "detalle": "Si te cruzas con una flor mientras trabajas, imagina una junto a tus pinceles o tus materiales. No para decorar una escena perfecta, sino para recordarte que lo cotidiano también puede tener un detalle bonito.",
-    "buenasNoches": "Que duermas rico, amor. Espero que algún detalle sencillo te haya recordado hoy que no todo lo bonito necesita una gran explicación.",
-    "cancionTitulo": "Humo",
-    "cancionArtista": "Rupatrupa",
-    "youtubeId": "Vs8EsCVEpsI",
-    "cancionUrl": "https://www.youtube.com/watch?v=Vs8EsCVEpsI"
+    "detalle": "Materiales: papel grueso, lápiz, borrador, regla opcional y marcadores o pinturas. Nivel 1: dibuja solo las formas grandes y ubica horizonte, personajes u objetos sin detalles. Nivel 2: limita la paleta a cuatro colores y trabaja luces y sombras. Nivel 3: cambia un elemento de la escena —la hora del día, el clima o el color dominante— para contar una emoción distinta. Tutorial: en YouTube busca «cómo dibujar composición de una escena cinematográfica para principiantes». Si lo hacemos juntos, cada uno elige un fotograma distinto de la misma película y comparamos cómo lo interpretamos.",
+    "buenasNoches": "Guarda el dibujo aunque no quede como esperabas. Lo importante es que la escena ya pasó por tu manera de mirar.",
+    "cancionTitulo": "DIAMONDS FOR YOUR PAIN",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "L2dmZSHkFPs",
+    "cancionUrl": "https://www.youtube.com/watch?v=L2dmZSHkFPs",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, artista",
+        "contenido": "Hoy el reto no es pintar una flor: vamos a convertir una escena de una película en una ilustración. Elige una película que ambos hayamos visto o una escena que podamos pausar sin spoilers para el otro."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto en tres niveles: fotograma ilustrado",
+        "contenido": "Materiales: papel grueso, lápiz, borrador, regla opcional y marcadores o pinturas. Nivel 1: dibuja solo las formas grandes y ubica horizonte, personajes u objetos sin detalles. Nivel 2: limita la paleta a cuatro colores y trabaja luces y sombras. Nivel 3: cambia un elemento de la escena —la hora del día, el clima o el color dominante— para contar una emoción distinta. Tutorial: en YouTube busca «cómo dibujar composición de una escena cinematográfica para principiantes». Si lo hacemos juntos, cada uno elige un fotograma distinto de la misma película y comparamos cómo lo interpretamos."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de taller",
+        "contenido": "Composición: la forma en que ordenamos lo que aparece en una imagen. Una buena composición ayuda a que la mirada sepa dónde detenerse."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Guarda el dibujo aunque no quede como esperabas. Lo importante es que la escena ya pasó por tu manera de mirar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Composición",
+      "significado": "Manera de organizar los elementos dentro de una imagen para dirigir la mirada y crear equilibrio.",
+      "ejemplo": "En una escena dibujada, la composición puede hacer que una ventana o una sombra cuenten casi toda la historia."
+    },
+    "inspiracionCancion": "Una canción para mirar una escena con ojos de artista y convertirla en una imagen propia."
   },
   {
     "dia": 25,
     "fecha": "2026-11-09",
     "fechaTexto": "lun, 9 de nov",
-    "categoria": "Cocinar juntos y elegir la película",
-    "icono": "🏠",
-    "tono": "amor",
+    "categoria": "Una escapada con agua y arquitectura",
+    "icono": "🏛️",
+    "tono": "aventura",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Plan sencillo para un día cualquiera: cocinar algo rico, picar un poquito mientras se hace, poner música y después pasar media hora decidiendo qué película ver.",
+    "buenosDias": "Para un próximo fin de semana libre, imaginemos una escapada con tres cosas: un lago grande o un embalse, una iglesia o edificio histórico que destaque y un mirador desde donde podamos ver el paisaje completo. No voy a inventar un pueblo ni asegurar que un sitio siga abierto: cuando tengamos fechas, buscamos opciones reales y revisamos disponibilidad, clima, transporte y condiciones.",
     "poema": [
-      "Lo mejor de esos planes es que no tienen que salir perfectos. Puede quemarse un poquito algo, podemos cambiar de película tres veces y aun así terminar riéndonos de cualquier cosa en el sofá.",
-      "Queda hecha la invitación para cuando te provoque, corazón. Tú eliges la comida; yo llevo hambre, disposición para ayudar y opiniones innecesarias sobre las películas."
+      "Cada uno elige su imprescindible: puede ser caminar junto al agua, conocer una iglesia imponente, ver casas de arquitectura colorida, probar comida típica o llegar a un mirador al atardecer. Después buscamos un destino que reúna la mayoría. Plan flexible: salir temprano, recorrer el centro, almorzar algo local, visitar el paisaje principal y cerrar con la vista. Si no alcanza para pasar la noche, lo convertimos en paseo de un día; si tenemos más tiempo, añadimos una noche.",
+      "Enclave: un lugar con identidad propia. Hoy no elegimos el destino; definimos qué clase de lugar nos gustaría descubrir."
     ],
-    "detalle": "Si alguna vez coincidimos cocinando, tú eliges qué se prepara y yo ayudo sin estorbar demasiado. Después buscamos una película y fingimos que vamos a verla completa sin hablar encima de las mejores escenas.",
-    "buenasNoches": "Descansa, bonita. Algún día habrá cocina compartida, una película elegida entre los dos y una discusión seria sobre quién escogió mejor. Por ahora te dejo dormir sin spoilers.",
-    "cancionTitulo": "Best Part (feat. H.E.R.)",
-    "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo",
-    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo"
+    "detalle": "Cada uno elige su imprescindible: puede ser caminar junto al agua, conocer una iglesia imponente, ver casas de arquitectura colorida, probar comida típica o llegar a un mirador al atardecer. Después buscamos un destino que reúna la mayoría. Plan flexible: salir temprano, recorrer el centro, almorzar algo local, visitar el paisaje principal y cerrar con la vista. Si no alcanza para pasar la noche, lo convertimos en paseo de un día; si tenemos más tiempo, añadimos una noche.",
+    "buenasNoches": "Me gusta pensar que todavía hay paisajes que no conocemos y que algún día vamos a elegir uno sin afán, con tiempo para perdernos un poquito.",
+    "cancionTitulo": "SIX:THIRTY",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "JIlpbuUp1uw",
+    "cancionUrl": "https://www.youtube.com/watch?v=JIlpbuUp1uw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, viajera",
+        "contenido": "Para un próximo fin de semana libre, imaginemos una escapada con tres cosas: un lago grande o un embalse, una iglesia o edificio histórico que destaque y un mirador desde donde podamos ver el paisaje completo. No voy a inventar un pueblo ni asegurar que un sitio siga abierto: cuando tengamos fechas, buscamos opciones reales y revisamos disponibilidad, clima, transporte y condiciones."
+      },
+      "mensajePrincipal": {
+        "titulo": "Diseñemos la búsqueda",
+        "contenido": "Cada uno elige su imprescindible: puede ser caminar junto al agua, conocer una iglesia imponente, ver casas de arquitectura colorida, probar comida típica o llegar a un mirador al atardecer. Después buscamos un destino que reúna la mayoría. Plan flexible: salir temprano, recorrer el centro, almorzar algo local, visitar el paisaje principal y cerrar con la vista. Si no alcanza para pasar la noche, lo convertimos en paseo de un día; si tenemos más tiempo, añadimos una noche."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra viajera",
+        "contenido": "Enclave: un lugar con identidad propia. Hoy no elegimos el destino; definimos qué clase de lugar nos gustaría descubrir."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Me gusta pensar que todavía hay paisajes que no conocemos y que algún día vamos a elegir uno sin afán, con tiempo para perdernos un poquito."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Enclave",
+      "significado": "Lugar o territorio que tiene características propias dentro de un entorno mayor.",
+      "ejemplo": "Podemos buscar un enclave con un lago amplio, una iglesia llamativa y un mirador que nos regale una vista distinta."
+    },
+    "inspiracionCancion": "Una canción para imaginar una escapada de fin de semana sin decidir todavía el pueblo ni la fecha."
   },
   {
     "dia": 26,
     "fecha": "2026-11-10",
     "fechaTexto": "mar, 10 de nov",
-    "categoria": "Una compañía que celebra tu llegada",
-    "icono": "🐾",
-    "tono": "amor",
+    "categoria": "Un pequeño mundo hecho de arcilla",
+    "icono": "🪴",
+    "tono": "creativo",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Ojalá hoy tus mascotas te regalen uno de esos momentos absurdamente tiernos que hacen que uno saque el celular para grabar y termine riéndose tanto que no graba nada.",
+    "buenosDias": "Hoy te propongo construir un pequeño mundo en miniatura: puede ser una casita, un café diminuto, una planta fantástica o un personaje que parezca salido de un sueño.",
     "poema": [
-      "Los animales tienen una forma muy suya de demostrar cariño: se emocionan, se acomodan a tu lado o aparecen justo cuando creen que necesitas compañía. No saben escribir mensajes, pero a veces sus maneras de estar dicen muchísimo.",
-      "Dales una caricia de mi parte, mi vida. Y si hacen alguna travesura, no olvides que probablemente ellos ya olvidaron el delito mientras tú sigues buscando qué pasó."
+      "Materiales: arcilla de secado al aire o plastilina, una base de cartón, palillo de modelado, un poco de agua si el fabricante lo permite, pintura acrílica y pinceles para terminar. Nivel 1: crea tres formas básicas —esfera, cilindro y cono— y únelas para formar el objeto. Nivel 2: añade detalles y texturas con el palillo. Nivel 3: pinta la pieza y construye un pequeño entorno sobre la base. Si usamos arcilla de secado al aire, sigue el tiempo de secado del empaque y no la hornees salvo que el fabricante lo indique. Podemos hacer piezas distintas que luego formen un mismo escenario.",
+      "Modelado: construir una forma con las manos y herramientas. La paciencia también hace parte del material."
     ],
-    "detalle": "Si llegas a casa y tus mascotas montan su celebración habitual, déjalas ganar. Ellas no necesitan que les expliques que solo saliste un rato; para ellas, tu regreso ya es el acontecimiento del día.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá tus mascotas te hagan compañía si se acercan, aunque probablemente ellas crean que la cama les pertenece por derecho propio.",
-    "cancionTitulo": "You Got Me",
-    "cancionArtista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
-    "youtubeId": "MJCHeEQV454",
-    "cancionUrl": "https://www.youtube.com/watch?v=MJCHeEQV454"
+    "detalle": "Materiales: arcilla de secado al aire o plastilina, una base de cartón, palillo de modelado, un poco de agua si el fabricante lo permite, pintura acrílica y pinceles para terminar. Nivel 1: crea tres formas básicas —esfera, cilindro y cono— y únelas para formar el objeto. Nivel 2: añade detalles y texturas con el palillo. Nivel 3: pinta la pieza y construye un pequeño entorno sobre la base. Si usamos arcilla de secado al aire, sigue el tiempo de secado del empaque y no la hornees salvo que el fabricante lo indique. Podemos hacer piezas distintas que luego formen un mismo escenario.",
+    "buenasNoches": "Ojalá esta idea te deje con ganas de ensuciarte un poquito las manos. Me encanta la posibilidad de que cada uno cree una pieza y después encontremos cómo unirlas.",
+    "cancionTitulo": "BACKUP PLAN",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "lAiZ_nWYOI0",
+    "cancionUrl": "https://www.youtube.com/watch?v=lAiZ_nWYOI0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, escultora",
+        "contenido": "Hoy te propongo construir un pequeño mundo en miniatura: puede ser una casita, un café diminuto, una planta fantástica o un personaje que parezca salido de un sueño."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto: miniatura en tres etapas",
+        "contenido": "Materiales: arcilla de secado al aire o plastilina, una base de cartón, palillo de modelado, un poco de agua si el fabricante lo permite, pintura acrílica y pinceles para terminar. Nivel 1: crea tres formas básicas —esfera, cilindro y cono— y únelas para formar el objeto. Nivel 2: añade detalles y texturas con el palillo. Nivel 3: pinta la pieza y construye un pequeño entorno sobre la base. Si usamos arcilla de secado al aire, sigue el tiempo de secado del empaque y no la hornees salvo que el fabricante lo indique. Podemos hacer piezas distintas que luego formen un mismo escenario."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de taller",
+        "contenido": "Modelado: construir una forma con las manos y herramientas. La paciencia también hace parte del material."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá esta idea te deje con ganas de ensuciarte un poquito las manos. Me encanta la posibilidad de que cada uno cree una pieza y después encontremos cómo unirlas."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Modelado",
+      "significado": "Técnica de dar forma a un material maleable, como arcilla o plastilina, mediante presión y herramientas.",
+      "ejemplo": "El modelado nos permite crear una miniatura, corregirla y añadir textura antes de dejarla secar."
+    },
+    "inspiracionCancion": "Una canción para una tarde de manos ocupadas, figuras pequeñas y creatividad sin instrucciones rígidas."
   },
   {
     "dia": 27,
     "fecha": "2026-11-11",
     "fechaTexto": "mié, 11 de nov",
-    "categoria": "El primer sorbo, sin azúcar",
-    "icono": "🫖",
-    "tono": "ambiente",
+    "categoria": "Cena de carne en salsa de tomate y arroz",
+    "icono": "🍅",
+    "tono": "cocina",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Primera regla de la mañana: el café va sin azúcar y a tu manera. Y si todavía tienes sueño, no voy a juzgarte; bastante valiente es negociar con el despertador.",
+    "buenosDias": "Hoy propongo una comida completa sin horno: carne en salsa de tomate con arroz y una ensalada fresca. Esta vez yo preparo la carne y tú puedes encargarte del arroz o elegir la música; si preferimos, intercambiamos.",
     "poema": [
-      "Me gusta imaginarte con la taza entre las manos, todavía medio dormida, el pelo como haya querido amanecer y cero ganas de que alguien te dé instrucciones antes de tiempo.",
-      "Despierta a tu ritmo, bonita. Hoy no tienes que ganarte el derecho a descansar ni demostrar nada antes de tomarte el café."
+      "Compra: 300 g de carne de res en cubos o tiras, 1 taza de arroz, 2 tomates maduros, ½ cebolla, 1 diente de ajo, ½ pimentón, 1 zanahoria pequeña, aceite, sal, pimienta, comino y cilantro opcional. Para la carne: sofríe cebolla, ajo y pimentón; añade la carne y dórala por tandas. Incorpora tomate picado, zanahoria, comino, sal y un chorrito de agua. Tapa y cocina a fuego bajo hasta que la carne esté tierna, agregando agua si hace falta. Destapa al final y deja reducir la salsa hasta que espese. Para el arroz: lava una taza, sofríela brevemente con una cucharadita de aceite, agrega dos tazas de agua y sal; cocina tapado a fuego bajo hasta que se absorba. Acompaña con tomate y pepino en cubos con limón. Ajusta el tiempo según el corte de carne y verifica que esté bien cocida.",
+      "Reducir: dejar que una salsa pierda agua con el calor para que su sabor se concentre y su textura espese."
     ],
-    "detalle": "Que el café sin azúcar te despierte a tu manera. Y si la mañana viene con sueño, no voy a juzgarte: bastante valiente es negociar con el despertador antes de haber desayunado.",
-    "buenasNoches": "Que descanses, mi vida. Si la mañana te encuentra con sueño, no te declares vencida todavía: primero café, después decisiones importantes.",
-    "cancionTitulo": "Keep Your Worries",
-    "cancionArtista": "Guru; Angie Stone",
-    "youtubeId": "7R0D6ryRUqQ",
-    "cancionUrl": "https://www.youtube.com/watch?v=7R0D6ryRUqQ"
+    "detalle": "Compra: 300 g de carne de res en cubos o tiras, 1 taza de arroz, 2 tomates maduros, ½ cebolla, 1 diente de ajo, ½ pimentón, 1 zanahoria pequeña, aceite, sal, pimienta, comino y cilantro opcional. Para la carne: sofríe cebolla, ajo y pimentón; añade la carne y dórala por tandas. Incorpora tomate picado, zanahoria, comino, sal y un chorrito de agua. Tapa y cocina a fuego bajo hasta que la carne esté tierna, agregando agua si hace falta. Destapa al final y deja reducir la salsa hasta que espese. Para el arroz: lava una taza, sofríela brevemente con una cucharadita de aceite, agrega dos tazas de agua y sal; cocina tapado a fuego bajo hasta que se absorba. Acompaña con tomate y pepino en cubos con limón. Ajusta el tiempo según el corte de carne y verifica que esté bien cocida.",
+    "buenasNoches": "Ojalá hoy haya quedado una receta más en nuestro repertorio. La próxima podemos cambiar la carne por otra proteína o inventar una salsa diferente.",
+    "cancionTitulo": "AVALANCHE",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "u7ZjjFPF9wY",
+    "cancionUrl": "https://www.youtube.com/watch?v=u7ZjjFPF9wY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, chef",
+        "contenido": "Hoy propongo una comida completa sin horno: carne en salsa de tomate con arroz y una ensalada fresca. Esta vez yo preparo la carne y tú puedes encargarte del arroz o elegir la música; si preferimos, intercambiamos."
+      },
+      "mensajePrincipal": {
+        "titulo": "Compra y receta para dos",
+        "contenido": "Compra: 300 g de carne de res en cubos o tiras, 1 taza de arroz, 2 tomates maduros, ½ cebolla, 1 diente de ajo, ½ pimentón, 1 zanahoria pequeña, aceite, sal, pimienta, comino y cilantro opcional. Para la carne: sofríe cebolla, ajo y pimentón; añade la carne y dórala por tandas. Incorpora tomate picado, zanahoria, comino, sal y un chorrito de agua. Tapa y cocina a fuego bajo hasta que la carne esté tierna, agregando agua si hace falta. Destapa al final y deja reducir la salsa hasta que espese. Para el arroz: lava una taza, sofríela brevemente con una cucharadita de aceite, agrega dos tazas de agua y sal; cocina tapado a fuego bajo hasta que se absorba. Acompaña con tomate y pepino en cubos con limón. Ajusta el tiempo según el corte de carne y verifica que esté bien cocida."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de cocina",
+        "contenido": "Reducir: dejar que una salsa pierda agua con el calor para que su sabor se concentre y su textura espese."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá hoy haya quedado una receta más en nuestro repertorio. La próxima podemos cambiar la carne por otra proteína o inventar una salsa diferente."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Reducir",
+      "significado": "Cocinar una salsa a fuego suave para evaporar parte del líquido y concentrar su sabor.",
+      "ejemplo": "Dejamos reducir el tomate unos minutos para que la salsa cubra la carne sin quedar aguada."
+    },
+    "inspiracionCancion": "Una canción para cocinar con calma, probar la salsa y dejar que la cocina huela a comida hecha en casa."
   },
   {
     "dia": 28,
     "fecha": "2026-11-12",
     "fechaTexto": "jue, 12 de nov",
-    "categoria": "El color fresco de la fruta",
-    "icono": "🍑",
-    "tono": "amor",
+    "categoria": "Una tarde de picnic con un reto fotográfico",
+    "icono": "🧺",
+    "tono": "aventura",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Si hoy te cruzas con una fresa bonita o un durazno en su punto, considéralo una pequeña victoria del día. A veces el gusto está en cosas así de simples.",
+    "buenosDias": "Para el próximo día despejado, armemos un picnic sencillo. No necesitamos escoger ahora un parque específico: busquemos cuando llegue la fecha un espacio público permitido, con sombra, baños cercanos y condiciones seguras.",
     "poema": [
-      "Me gusta la idea de compartir fruta sin ceremonia, elegir el pedazo más rico y fingir que no estamos discutiendo por el último. Aunque contigo seguramente terminaría cediendo… o pidiendo la mitad con mucha dignidad.",
-      "Que hoy tengas algo rico, amor, y una conversación que te deje el mismo saborcito dulce que queda después de reírse mucho."
+      "Llevamos una manta, agua, fruta, sándwiches o algo fácil de compartir, servilletas, bolsa para residuos y protector solar. Al llegar, hacemos seis fotos con temas: una textura, una sombra, algo amarillo, una vista amplia, un detalle que casi nadie notaría y una foto que represente cómo se siente el día. No fotografiamos personas identificables sin permiso. Nivel extra: cada uno elige una foto del otro y le escribe un título como si fuera una obra de museo. Si el clima no acompaña, podemos hacer el mismo reto en casa junto a una ventana.",
+      "Instante: un momento breve que, por alguna razón, merece quedarse. Hoy vamos a guardar seis."
     ],
-    "detalle": "Si te provoca fruta, elige la que te haga ilusión y no la que parezca más fotogénica. Aquí no estamos haciendo una campaña publicitaria, mi vida; estamos intentando que tengas un momento rico.",
-    "buenasNoches": "Buenas noches. Que mañana encuentres algo rico que comer y un motivo sencillo para sonreír. A veces no hace falta mucho para cambiarle el tono al día.",
-    "cancionTitulo": "You Rock My World",
-    "cancionArtista": "Michael Jackson",
-    "youtubeId": "1-7ABIM2qjU",
-    "cancionUrl": "https://www.youtube.com/watch?v=1-7ABIM2qjU"
+    "detalle": "Llevamos una manta, agua, fruta, sándwiches o algo fácil de compartir, servilletas, bolsa para residuos y protector solar. Al llegar, hacemos seis fotos con temas: una textura, una sombra, algo amarillo, una vista amplia, un detalle que casi nadie notaría y una foto que represente cómo se siente el día. No fotografiamos personas identificables sin permiso. Nivel extra: cada uno elige una foto del otro y le escribe un título como si fuera una obra de museo. Si el clima no acompaña, podemos hacer el mismo reto en casa junto a una ventana.",
+    "buenasNoches": "Que el día te deje al menos un recuerdo pequeño y bonito. A veces no hace falta ir lejos para sentir que salimos un poquito de la rutina.",
+    "cancionTitulo": "GOOD BAD UGLY",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "uYV5MWwZgTE",
+    "cancionUrl": "https://www.youtube.com/watch?v=uYV5MWwZgTE",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, exploradores",
+        "contenido": "Para el próximo día despejado, armemos un picnic sencillo. No necesitamos escoger ahora un parque específico: busquemos cuando llegue la fecha un espacio público permitido, con sombra, baños cercanos y condiciones seguras."
+      },
+      "mensajePrincipal": {
+        "titulo": "Plan y reto fotográfico",
+        "contenido": "Llevamos una manta, agua, fruta, sándwiches o algo fácil de compartir, servilletas, bolsa para residuos y protector solar. Al llegar, hacemos seis fotos con temas: una textura, una sombra, algo amarillo, una vista amplia, un detalle que casi nadie notaría y una foto que represente cómo se siente el día. No fotografiamos personas identificables sin permiso. Nivel extra: cada uno elige una foto del otro y le escribe un título como si fuera una obra de museo. Si el clima no acompaña, podemos hacer el mismo reto en casa junto a una ventana."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra del día",
+        "contenido": "Instante: un momento breve que, por alguna razón, merece quedarse. Hoy vamos a guardar seis."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Que el día te deje al menos un recuerdo pequeño y bonito. A veces no hace falta ir lejos para sentir que salimos un poquito de la rutina."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Instante",
+      "significado": "Porción muy breve de tiempo que puede guardar un recuerdo significativo.",
+      "ejemplo": "El reto es fotografiar un instante sencillo: una sombra, una flor, una taza o la luz sobre el paisaje."
+    },
+    "inspiracionCancion": "Una canción para salir con algo sencillo, buscar un rincón agradable y guardar pequeños momentos en fotografías."
   },
   {
     "dia": 29,
