@@ -7276,5 +7276,327 @@ const CALENDARIO = [
       "significado": "Emoción que surge al descubrir algo extraordinario o inesperado.",
       "ejemplo": "El asombro puede aparecer cuando alguien comparte una idea que nunca habías considerado."
     }
+  },
+  {
+    "dia": 168,
+    "fecha": "2027-04-01",
+    "fechaTexto": "jue, 1 de abr",
+    "categoria": "La teoría de las primeras impresiones",
+    "icono": "🧩",
+    "tono": "observación y humor",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca comprobar cuánto puede engañarnos una primera impresión, incluso con objetos.",
+    "poema": [
+      "Elige tres objetos que tengas cerca y asígnales una personalidad según su apariencia: el más confiable, el más sospechoso y el que definitivamente oculta algo. Después inventa una historia de dos líneas para cada uno. Si lo hacen entre dos, cada persona describe un objeto sin decir cuál es y la otra intenta adivinarlo. Al final revelen qué pistas eran ciertas y cuáles fueron pura imaginación.",
+      "La gracia está en descubrir qué detalles usamos para sacar conclusiones, y cuánto cambia la historia cuando aparece nueva información."
+    ],
+    "detalle": "La gracia está en descubrir qué detalles usamos para sacar conclusiones, y cuánto cambia la historia cuando aparece nueva información.",
+    "buenasNoches": "No todo lo que parece obvio cuenta la historia completa.",
+    "cancionTitulo": "1st of Tha Month",
+    "cancionArtista": "Bone Thugs-N-Harmony",
+    "youtubeId": "PArF9k2SbQk",
+    "cancionUrl": "https://www.youtube.com/watch?v=PArF9k2SbQk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca comprobar cuánto puede engañarnos una primera impresión, incluso con objetos."
+      },
+      "mensajePrincipal": {
+        "titulo": "La teoría de las primeras impresiones",
+        "contenido": "Elige tres objetos que tengas cerca y asígnales una personalidad según su apariencia: el más confiable, el más sospechoso y el que definitivamente oculta algo. Después inventa una historia de dos líneas para cada uno. Si lo hacen entre dos, cada persona describe un objeto sin decir cuál es y la otra intenta adivinarlo. Al final revelen qué pistas eran ciertas y cuáles fueron pura imaginación."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra prejuicio",
+        "contenido": "Idea previa que se forma sobre algo o alguien antes de conocerlo suficientemente. Una primera impresión puede ser curiosa, pero conocer mejor a alguien permite corregir cualquier prejuicio."
+      },
+      "buenasNoches": {
+        "contenido": "No todo lo que parece obvio cuenta la historia completa."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Prejuicio",
+      "significado": "Idea previa que se forma sobre algo o alguien antes de conocerlo suficientemente.",
+      "ejemplo": "Una primera impresión puede ser curiosa, pero conocer mejor a alguien permite corregir cualquier prejuicio."
+    }
+  },
+  {
+    "dia": 169,
+    "fecha": "2027-04-02",
+    "fechaTexto": "vie, 2 de abr",
+    "categoria": "Un audio para otro momento",
+    "icono": "🎧",
+    "tono": "detalle y complicidad",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Imagina que pudieras dejarle a tu yo de dentro de un mes un mensaje de veinte segundos.",
+    "poema": [
+      "Graba una nota de voz para tu yo futuro. Cuéntale algo que no quieras olvidar de estos días, una meta pequeña o una recomendación para cuando tenga una jornada pesada. No tiene que sonar profundo ni perfecto: puede ser una anécdota, un chiste interno o una canción que debería escuchar. Si prefieres compartirlo, puedes grabar una versión para alguien más, pero solo si te nace.",
+      "Ponle un título a la grabación y una fecha para volver a escucharla. No hace falta enviarla ni publicarla."
+    ],
+    "detalle": "Ponle un título a la grabación y una fecha para volver a escucharla. No hace falta enviarla ni publicarla.",
+    "buenasNoches": "Ojalá el futuro nos encuentre con motivos nuevos para sonreír y algunos recuerdos bien guardados.",
+    "cancionTitulo": "Gotta Get Mine",
+    "cancionArtista": "MC Breed",
+    "youtubeId": "2Tr3fM8vkX4",
+    "cancionUrl": "https://www.youtube.com/watch?v=2Tr3fM8vkX4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Imagina que pudieras dejarle a tu yo de dentro de un mes un mensaje de veinte segundos."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un audio para otro momento",
+        "contenido": "Graba una nota de voz para tu yo futuro. Cuéntale algo que no quieras olvidar de estos días, una meta pequeña o una recomendación para cuando tenga una jornada pesada. No tiene que sonar profundo ni perfecto: puede ser una anécdota, un chiste interno o una canción que debería escuchar. Si prefieres compartirlo, puedes grabar una versión para alguien más, pero solo si te nace."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra cápsula",
+        "contenido": "Recipiente o formato que conserva algo para recuperarlo más adelante. Un audio corto puede funcionar como una cápsula de ánimo para escuchar en otro momento."
+      },
+      "buenasNoches": {
+        "contenido": "Ojalá el futuro nos encuentre con motivos nuevos para sonreír y algunos recuerdos bien guardados."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Cápsula",
+      "significado": "Recipiente o formato que conserva algo para recuperarlo más adelante.",
+      "ejemplo": "Un audio corto puede funcionar como una cápsula de ánimo para escuchar en otro momento."
+    }
+  },
+  {
+    "dia": 170,
+    "fecha": "2027-04-03",
+    "fechaTexto": "sáb, 3 de abr",
+    "categoria": "El duelo de las bandas sonoras",
+    "icono": "🎬",
+    "tono": "música y conversación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy una misma escena tendrá dos bandas sonoras muy diferentes.",
+    "poema": [
+      "Inventen una escena breve: alguien entra a una habitación y encuentra una sorpresa, se pierde en un lugar conocido o recibe una noticia inesperada. Cada persona elige una canción que cambiaría por completo el ambiente de esa escena: una la vuelve épica y la otra ridícula, misteriosa o tranquila. Expliquen por qué la escogieron y cuál versión verían hasta el final.",
+      "Si quieren, escriban el título de la película imaginaria y diseñen un afiche en el lienzo con las dos versiones enfrentadas."
+    ],
+    "detalle": "Si quieren, escriban el título de la película imaginaria y diseñen un afiche en el lienzo con las dos versiones enfrentadas.",
+    "buenasNoches": "A veces la música no cambia lo que pasó, pero sí cambia por completo cómo lo sentimos.",
+    "cancionTitulo": "Slam",
+    "cancionArtista": "Onyx",
+    "youtubeId": "7ADgCeYJMN4",
+    "cancionUrl": "https://www.youtube.com/watch?v=7ADgCeYJMN4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy una misma escena tendrá dos bandas sonoras muy diferentes."
+      },
+      "mensajePrincipal": {
+        "titulo": "El duelo de las bandas sonoras",
+        "contenido": "Inventen una escena breve: alguien entra a una habitación y encuentra una sorpresa, se pierde en un lugar conocido o recibe una noticia inesperada. Cada persona elige una canción que cambiaría por completo el ambiente de esa escena: una la vuelve épica y la otra ridícula, misteriosa o tranquila. Expliquen por qué la escogieron y cuál versión verían hasta el final."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra contrapunto",
+        "contenido": "Relación entre dos ideas, sonidos o elementos que contrastan y se complementan. Un contrapunto musical puede hacer que una escena tenga una emoción completamente distinta."
+      },
+      "buenasNoches": {
+        "contenido": "A veces la música no cambia lo que pasó, pero sí cambia por completo cómo lo sentimos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Contrapunto",
+      "significado": "Relación entre dos ideas, sonidos o elementos que contrastan y se complementan.",
+      "ejemplo": "Un contrapunto musical puede hacer que una escena tenga una emoción completamente distinta."
+    }
+  },
+  {
+    "dia": 171,
+    "fecha": "2027-04-04",
+    "fechaTexto": "dom, 4 de abr",
+    "categoria": "La receta de una tarde tranquila",
+    "icono": "🥤",
+    "tono": "pausa y bienestar",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy no hay misión complicada: solo preparar algo rico y regalarse una pausa.",
+    "poema": [
+      "Prepara una limonada sencilla: mezcla agua fría, limón y azúcar o el endulzante que uses; agrega hielo y unas hojas de hierbabuena si tienes. Acompáñala con fruta picada o galletas sencillas. Si compartes alimentos, revisa las etiquetas y evita productos con maní o posibles trazas por contaminación cruzada. La actividad es sentarse diez minutos sin hacer otra cosa al mismo tiempo.",
+      "Mientras toman algo, cada quien puede recomendar una canción para una tarde tranquila y contar qué le gusta de ella."
+    ],
+    "detalle": "Mientras toman algo, cada quien puede recomendar una canción para una tarde tranquila y contar qué le gusta de ella.",
+    "buenasNoches": "Descansar también cuenta como hacer algo bueno por el día.",
+    "cancionTitulo": "Simon Says",
+    "cancionArtista": "Pharoahe Monch",
+    "youtubeId": "cKsMMoc_oOA",
+    "cancionUrl": "https://www.youtube.com/watch?v=cKsMMoc_oOA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy no hay misión complicada: solo preparar algo rico y regalarse una pausa."
+      },
+      "mensajePrincipal": {
+        "titulo": "La receta de una tarde tranquila",
+        "contenido": "Prepara una limonada sencilla: mezcla agua fría, limón y azúcar o el endulzante que uses; agrega hielo y unas hojas de hierbabuena si tienes. Acompáñala con fruta picada o galletas sencillas. Si compartes alimentos, revisa las etiquetas y evita productos con maní o posibles trazas por contaminación cruzada. La actividad es sentarse diez minutos sin hacer otra cosa al mismo tiempo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sosiego",
+        "contenido": "Estado de calma y tranquilidad, sin agitación ni preocupación. Un rato de sosiego puede aparecer con una bebida fresca y una conversación sin afán."
+      },
+      "buenasNoches": {
+        "contenido": "Descansar también cuenta como hacer algo bueno por el día."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sosiego",
+      "significado": "Estado de calma y tranquilidad, sin agitación ni preocupación.",
+      "ejemplo": "Un rato de sosiego puede aparecer con una bebida fresca y una conversación sin afán."
+    }
+  },
+  {
+    "dia": 172,
+    "fecha": "2027-04-05",
+    "fechaTexto": "lun, 5 de abr",
+    "categoria": "La pregunta que abre otra puerta",
+    "icono": "🚪",
+    "tono": "conversación personal",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hay preguntas que no buscan una respuesta rápida, sino abrir una conversación distinta.",
+    "poema": [
+      "Completa esta pregunta: «¿Qué cosa te gustaría aprender o probar si supieras que no tienes que hacerlo perfecto?». Puede ser bailar, cocinar algo, hablar otro idioma, viajar, dibujar, tocar un instrumento o cualquier curiosidad pendiente. Después elige un primer paso tan pequeño que puedas hacerlo esta semana. Si se comparte, escuchen la respuesta sin convertirla en una lista de consejos.",
+      "Guarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño»."
+    ],
+    "detalle": "Guarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño».",
+    "buenasNoches": "No necesitamos tener todo resuelto para permitirnos empezar algo nuevo.",
+    "cancionTitulo": "Come Clean - E New Y Radio",
+    "cancionArtista": "Jeru The Damaja",
+    "youtubeId": "pzJnltNrtsI",
+    "cancionUrl": "https://www.youtube.com/watch?v=pzJnltNrtsI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hay preguntas que no buscan una respuesta rápida, sino abrir una conversación distinta."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pregunta que abre otra puerta",
+        "contenido": "Completa esta pregunta: «¿Qué cosa te gustaría aprender o probar si supieras que no tienes que hacerlo perfecto?». Puede ser bailar, cocinar algo, hablar otro idioma, viajar, dibujar, tocar un instrumento o cualquier curiosidad pendiente. Después elige un primer paso tan pequeño que puedas hacerlo esta semana. Si se comparte, escuchen la respuesta sin convertirla en una lista de consejos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra perspectiva",
+        "contenido": "Manera particular de considerar o interpretar una situación. Cambiar de perspectiva puede revelar posibilidades que antes no habíamos visto."
+      },
+      "buenasNoches": {
+        "contenido": "No necesitamos tener todo resuelto para permitirnos empezar algo nuevo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Perspectiva",
+      "significado": "Manera particular de considerar o interpretar una situación.",
+      "ejemplo": "Cambiar de perspectiva puede revelar posibilidades que antes no habíamos visto."
+    }
+  },
+  {
+    "dia": 173,
+    "fecha": "2027-04-06",
+    "fechaTexto": "mar, 6 de abr",
+    "categoria": "Un retrato hecho de detalles",
+    "icono": "✍️",
+    "tono": "creatividad y atención",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto no es describir a alguien por su aspecto, sino por esos detalles que suelen pasar inadvertidos.",
+    "poema": [
+      "Piensa en una persona, un personaje o incluso en ti. Escribe cinco detalles que la describan sin mencionar apariencia física: cómo reacciona cuando algo le da risa, qué tema puede explicar durante horas, qué gesto hace cuando se concentra, qué tipo de plan disfruta o qué frase repite. Si lo hacen entre dos, cada quien escribe tres detalles positivos que haya notado en el otro, sin exagerar ni buscar quedar bien.",
+      "Convierte esos detalles en una pequeña ficha ilustrada en el lienzo. Puede parecer una tarjeta de personaje de videojuego o de una novela."
+    ],
+    "detalle": "Convierte esos detalles en una pequeña ficha ilustrada en el lienzo. Puede parecer una tarjeta de personaje de videojuego o de una novela.",
+    "buenasNoches": "A veces prestar atención es una manera silenciosa de decir: esto sí lo vi.",
+    "cancionTitulo": "Word Iz Life",
+    "cancionArtista": "Poor Righteous Teachers",
+    "youtubeId": "aofb1GQOc5k",
+    "cancionUrl": "https://www.youtube.com/watch?v=aofb1GQOc5k",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto no es describir a alguien por su aspecto, sino por esos detalles que suelen pasar inadvertidos."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un retrato hecho de detalles",
+        "contenido": "Piensa en una persona, un personaje o incluso en ti. Escribe cinco detalles que la describan sin mencionar apariencia física: cómo reacciona cuando algo le da risa, qué tema puede explicar durante horas, qué gesto hace cuando se concentra, qué tipo de plan disfruta o qué frase repite. Si lo hacen entre dos, cada quien escribe tres detalles positivos que haya notado en el otro, sin exagerar ni buscar quedar bien."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra matiz",
+        "contenido": "Rasgo pequeño que distingue o da un carácter particular a algo. Los matices hacen que una descripción se sienta más real y menos genérica."
+      },
+      "buenasNoches": {
+        "contenido": "A veces prestar atención es una manera silenciosa de decir: esto sí lo vi."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Matiz",
+      "significado": "Rasgo pequeño que distingue o da un carácter particular a algo.",
+      "ejemplo": "Los matices hacen que una descripción se sienta más real y menos genérica."
+    }
+  },
+  {
+    "dia": 174,
+    "fecha": "2027-04-07",
+    "fechaTexto": "mié, 7 de abr",
+    "categoria": "El plan que se arma con tres pistas",
+    "icono": "🗺️",
+    "tono": "plan creativo y compartido",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el plan no viene decidido: se construye con tres pistas y un poquito de improvisación.",
+    "poema": [
+      "Si coinciden en tiempo y ganas, armen una salida corta de una o dos horas. Cada persona propone una pista: un lugar (parque, librería, café o zona para caminar), algo que quieran hacer (mirar, probar, dibujar o escuchar) y un límite de presupuesto. Combinen las pistas y elijan una opción que funcione para ambos. Si no pueden salir, hagan la misma dinámica para escoger una película o una actividad en casa.",
+      "La regla es que el plan sea cómodo para los dos: nada de gastos inesperados ni desplazamientos complicados. Lo importante es compartir la elección, no cumplirla a toda costa."
+    ],
+    "detalle": "La regla es que el plan sea cómodo para los dos: nada de gastos inesperados ni desplazamientos complicados. Lo importante es compartir la elección, no cumplirla a toda costa.",
+    "buenasNoches": "Los mejores planes no siempre necesitan mucha producción; a veces basta con ponerse de acuerdo y salir un rato.",
+    "cancionTitulo": "Streiht Up Menace",
+    "cancionArtista": "MC Eiht",
+    "youtubeId": "sJmuseO04SQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=sJmuseO04SQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el plan no viene decidido: se construye con tres pistas y un poquito de improvisación."
+      },
+      "mensajePrincipal": {
+        "titulo": "El plan que se arma con tres pistas",
+        "contenido": "Si coinciden en tiempo y ganas, armen una salida corta de una o dos horas. Cada persona propone una pista: un lugar (parque, librería, café o zona para caminar), algo que quieran hacer (mirar, probar, dibujar o escuchar) y un límite de presupuesto. Combinen las pistas y elijan una opción que funcione para ambos. Si no pueden salir, hagan la misma dinámica para escoger una película o una actividad en casa."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra azar",
+        "contenido": "Circunstancia o suceso que ocurre sin poder predecirse por completo. Un poco de azar puede convertir un plan cotidiano en una experiencia distinta."
+      },
+      "buenasNoches": {
+        "contenido": "Los mejores planes no siempre necesitan mucha producción; a veces basta con ponerse de acuerdo y salir un rato."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Azar",
+      "significado": "Circunstancia o suceso que ocurre sin poder predecirse por completo.",
+      "ejemplo": "Un poco de azar puede convertir un plan cotidiano en una experiencia distinta."
+    }
   }
 ];
