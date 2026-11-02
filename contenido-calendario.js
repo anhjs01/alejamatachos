@@ -3718,7 +3718,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy podemos dejar que las manos piensen un rato. No tiene que salir perfecto para convertirse en algo especial.",
     "poema": [
       "Materiales: arcilla de secado al aire, una base protegida, un poco de agua y herramientas sencillas como un palito o una cuchara. Amasen una porción y elijan una pieza fácil: un platito decorativo para anillos, un colgante o una mini escultura abstracta. Formen la silueta, alisen las grietas con muy poca agua y añadan detalles con marcas o líneas. No hagan piezas para contacto con alimentos ni para calentar; sigan las instrucciones del material y déjenla secar el tiempo indicado. Si no tienen arcilla, guarden la idea para otro día sin necesidad de comprar materiales a la fuerza. Al final, cada uno inventa un nombre para la pieza del otro. ¿Qué objeto pequeño te gustaría crear?",
-      "Modelado: Técnica de dar forma a un material maleable con las manos o herramientas. El modelado permite transformar una porción de arcilla en una figura única."
+      "Plasticidad: Capacidad de un material de cambiar de forma sin romperse. La plasticidad de la arcilla facilita crear curvas y pequeños relieves."
     ],
     "detalle": "Materiales: arcilla de secado al aire, una base protegida, un poco de agua y herramientas sencillas como un palito o una cuchara. Amasen una porción y elijan una pieza fácil: un platito decorativo para anillos, un colgante o una mini escultura abstracta. Formen la silueta, alisen las grietas con muy poca agua y añadan detalles con marcas o líneas. No hagan piezas para contacto con alimentos ni para calentar; sigan las instrucciones del material y déjenla secar el tiempo indicado. Si no tienen arcilla, guarden la idea para otro día sin necesidad de comprar materiales a la fuerza. Al final, cada uno inventa un nombre para la pieza del otro. ¿Qué objeto pequeño te gustaría crear?",
     "buenasNoches": "Las cosas hechas a mano guardan algo de quien las creó: sus decisiones, sus pequeñas imperfecciones y el tiempo que les dedicó.",
@@ -3738,7 +3738,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de las formas",
-        "contenido": "Modelado: Técnica de dar forma a un material maleable con las manos o herramientas. El modelado permite transformar una porción de arcilla en una figura única."
+        "contenido": "Plasticidad: Capacidad de un material de cambiar de forma sin romperse. La plasticidad de la arcilla facilita crear curvas y pequeños relieves."
       },
       "buenasNoches": {
         "titulo": "Las cosas hechas a mano guardan algo de quien las creó: sus decisiones, sus pequeñas imperfecciones y el tiempo que les dedicó.",
@@ -3746,9 +3746,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Modelado",
-      "significado": "Técnica de dar forma a un material maleable con las manos o herramientas.",
-      "ejemplo": "El modelado permite transformar una porción de arcilla en una figura única."
+      "palabra": "Plasticidad",
+      "significado": "Capacidad de un material de cambiar de forma sin romperse.",
+      "ejemplo": "La plasticidad de la arcilla facilita crear curvas y pequeños relieves."
     }
   },
   {
@@ -3910,7 +3910,7 @@ const CALENDARIO = [
     "buenosDias": "Si hoy sales un rato, prueba mirar el lugar como si fuera nuevo. Y si te quedas en casa, también puedes jugar a encontrar detalles que normalmente pasan inadvertidos.",
     "poema": [
       "En una caminata corta por un lugar público seguro —o dentro de casa si prefieren— busquen siete detalles: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que suene suave, una combinación de colores y algo que les haga sonreír. Cada persona elige tres detalles y explica por qué los notó. No hace falta comprar nada ni entrar a sitios privados; si salen, revisen clima, horario y camino de regreso. Si el paseo no encaja ese día, la versión en casa funciona igual. Al final, elijan un detalle y descríbanlo con tres palabras. ¿Qué crees que notarías primero?",
-      "Matiz: Diferencia pequeña que modifica el carácter, el sentido o el aspecto de algo. El matiz azul de una sombra llamó su atención durante el paseo."
+      "Sutileza: Cualidad de algo delicado, fino o difícil de percibir a primera vista. La sutileza de una sombra puede cambiar cómo se ve un rincón."
     ],
     "detalle": "En una caminata corta por un lugar público seguro —o dentro de casa si prefieren— busquen siete detalles: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que suene suave, una combinación de colores y algo que les haga sonreír. Cada persona elige tres detalles y explica por qué los notó. No hace falta comprar nada ni entrar a sitios privados; si salen, revisen clima, horario y camino de regreso. Si el paseo no encaja ese día, la versión en casa funciona igual. Al final, elijan un detalle y descríbanlo con tres palabras. ¿Qué crees que notarías primero?",
     "buenasNoches": "El mundo no siempre cambia cuando lo miramos distinto, pero nuestra experiencia sí puede cambiar bastante.",
@@ -3930,7 +3930,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de los detalles",
-        "contenido": "Matiz: Diferencia pequeña que modifica el carácter, el sentido o el aspecto de algo. El matiz azul de una sombra llamó su atención durante el paseo."
+        "contenido": "Sutileza: Cualidad de algo delicado, fino o difícil de percibir a primera vista. La sutileza de una sombra puede cambiar cómo se ve un rincón."
       },
       "buenasNoches": {
         "titulo": "El mundo no siempre cambia cuando lo miramos distinto, pero nuestra experiencia sí puede cambiar bastante.",
@@ -3938,9 +3938,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Matiz",
-      "significado": "Diferencia pequeña que modifica el carácter, el sentido o el aspecto de algo.",
-      "ejemplo": "El matiz azul de una sombra llamó su atención durante el paseo."
+      "palabra": "Sutileza",
+      "significado": "Cualidad de algo delicado, fino o difícil de percibir a primera vista.",
+      "ejemplo": "La sutileza de una sombra puede cambiar cómo se ve un rincón."
     }
   },
   {
