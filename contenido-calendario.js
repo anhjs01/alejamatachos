@@ -223,7 +223,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Hoy el papel es territorio libre",
-        "contenido": "Buenos días. Busca marcadores, una hoja grande y a tu cómplice de dibujo. Hoy vamos a comprobar si podemos crear un paisaje entre dos sin terminar discutiendo por el tamaño de una nube."
+        "contenido": "Saca los marcadores, busca una hoja grande y guarda un espacio para las ideas absurdas: hoy vamos a construir un paisaje entre dos, sin ponernos de acuerdo en todo."
       },
       "mensajePrincipal": {
         "titulo": "Reto: un paisaje por turnos",
@@ -4398,7 +4398,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Ingredientes para dos: 200 g de camarones, una taza de arroz, 200 ml de leche de coco sin azúcar, ¾ de taza de agua, un plátano maduro, media cebolla, un ajo, mantequilla, limón, sal, pimienta y cilantro.\n\nSofríe cebolla y ajo. Añade arroz, leche de coco y agua; cocina a fuego bajo. Sazona los camarones con limón, sal y pimienta y saltéalos hasta que estén completamente cocidos. Dora el plátano en tajadas y sirve todo junto.\n\nTermina con cilantro y limón. Por la alergia al maní, revisa etiquetas de leche de coco y demás productos; evita trazas relevantes y contaminación cruzada en utensilios, superficies y aceites.",
+        "contenido": "Ingredientes para dos: 200 g de camarones, una taza de arroz, 200 ml de leche de coco sin azúcar, ¾ de taza de agua, un plátano maduro, media cebolla, un ajo, mantequilla, limón, sal, pimienta y cilantro.\n\nSofríe cebolla y ajo. Añade arroz, leche de coco y agua; cocina a fuego bajo. Sazona los camarones con limón, sal y pimienta y saltéalos hasta que estén completamente cocidos. Dora el plátano en tajadas y sirve todo junto.\n\nTermina con cilantro y limón. Por la alergia al maní, revisa etiquetas de leche de coco y demás productos; evita trazas relevantes y contaminación cruzada en utensilios, superficies y aceites.\n\nTIEMPO ESTIMADO: 35–40 MINUTOS. La mayor parte se cocina en sartén y olla; deja el plátano para el final para servirlo dorado.",
         "titulo": "Arroz cremoso de coco con camarones y plátano maduro"
       },
       "palabraNueva": {
@@ -4406,7 +4406,7 @@ const CALENDARIO = [
         "titulo": "Mise en place"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Una buena comida también puede ser una pequeña aventura.",
+        "contenido": "Que el último sabor de hoy sea el recuerdo de algo preparado con paciencia. Si quedó un poquito de salsa, ya tenemos una excusa para volver a cocinarlo.",
         "titulo": "Buenas noches"
       }
     },
@@ -4445,7 +4445,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Hay tres sobres: uno para alguien que conocerás dentro de diez años; otro para una persona que cambió tu vida sin saberlo; y el último para alguien que necesita escuchar algo que tú ya aprendiste.\n\nEscoge un sobre y escribe el mensaje. No necesitas inventar nombres ni situaciones específicas; lo importante es que el destinatario tenga una razón para recibir esas palabras.\n\nGuarda la carta sin releerla durante un día. Después vuelve a ella y descubre si todavía sientes lo mismo.",
+        "contenido": "Hay tres sobres: uno para alguien que conocerás dentro de diez años; otro para una persona que cambió tu vida sin saberlo; y el último para alguien que necesita escuchar algo que tú ya aprendiste.\n\nEscoge un sobre y escribe el mensaje. No necesitas inventar nombres ni situaciones específicas; lo importante es que el destinatario tenga una razón para recibir esas palabras.\n\nGuarda la carta sin releerla durante un día. Después vuelve a ella y descubre si todavía sientes lo mismo.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Si están tres en la oficina, pueden escoger un solo sobre y escribir una respuesta breve durante una pausa de 5 minutos; las otras cartas quedan para después.",
         "titulo": "El buzón de los mensajes imposibles"
       },
       "palabraNueva": {
@@ -4453,7 +4453,7 @@ const CALENDARIO = [
         "titulo": "Epístola"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Quizá algunas palabras no necesitan llegar inmediatamente a su destino para tener sentido.",
+        "contenido": "Ese buzón puede quedarse cerrado hasta que llegue el momento correcto. Hay palabras que no pierden valor por esperar.",
         "titulo": "Buenas noches"
       }
     },
@@ -4492,7 +4492,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Si pudieras regalarte una tarde completamente libre, sin obligaciones y sin tener que justificar cómo decides utilizarla, ¿qué harías con esas horas?\n\nNo pienses primero en lo productivo ni en lo que deberías hacer. Piensa en lo que realmente te gustaría.\n\nGuarda la respuesta como una idea para una tarde futura. No tiene que convertirse en un plan inmediato.",
+        "contenido": "Si pudieras regalarte una tarde completamente libre, sin obligaciones y sin tener que justificar cómo decides utilizarla, ¿qué harías con esas horas?\n\nNo pienses primero en lo productivo ni en lo que deberías hacer. Piensa en lo que realmente te gustaría.\n\nGuarda la respuesta como una idea para una tarde futura. No tiene que convertirse en un plan inmediato.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. También funciona como pausa breve: cada persona dice una idea y puede pasar si prefiere no responder.",
         "titulo": "Una tarde completamente libre"
       },
       "palabraNueva": {
@@ -4500,7 +4500,7 @@ const CALENDARIO = [
         "titulo": "Ocio"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Que también haya espacio en tus días para hacer cosas simplemente porque te hacen bien.",
+        "contenido": "No conviertas el descanso en otra tarea pendiente. Si hoy lograste regalarte unos minutos sin exigencias, ya hiciste suficiente.",
         "titulo": "Buenas noches"
       }
     },
@@ -4539,7 +4539,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "También aparece en preguntas como «I wonder…», cuando nos preguntamos algo sin conocer todavía la respuesta. Reúne dos cosas que vale la pena conservar: la capacidad de sorprendernos y las ganas de descubrir.\n\nElige algo cotidiano que hayas visto cientos de veces y obsérvalo durante un minuto como si fuera la primera vez. Después escribe tres detalles que nunca habías notado.\n\nPara guardar: «La curiosidad es una forma de mantener abierta la puerta de lo extraordinario».",
+        "contenido": "También aparece en preguntas como «I wonder…», cuando nos preguntamos algo sin conocer todavía la respuesta. Reúne dos cosas que vale la pena conservar: la capacidad de sorprendernos y las ganas de descubrir.\n\nElige algo cotidiano que hayas visto cientos de veces y obsérvalo durante un minuto como si fuera la primera vez. Después escribe tres detalles que nunca habías notado.\n\nPara guardar: «La curiosidad es una forma de mantener abierta la puerta de lo extraordinario».\n\nTIEMPO SUGERIDO: 10 MINUTOS. Para hacerlo entre tres en la oficina, cada persona comparte una palabra o una cosa que le haya causado asombro, sin alargar la pausa.",
         "titulo": "Wonder"
       },
       "palabraNueva": {
@@ -4547,7 +4547,7 @@ const CALENDARIO = [
         "titulo": "Asombro"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Ojalá nunca te acostumbres tanto al mundo que dejes de sorprenderte con él.",
+        "contenido": "Si algo pequeño consiguió sorprenderte hoy, no lo pases por alto. La curiosidad también necesita un lugar donde quedarse.",
         "titulo": "Buenas noches"
       }
     },
@@ -4586,7 +4586,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Busca cinco imágenes: una textura que parezca otro material, una sombra interesante, un reflejo que transforme lo que ves, una combinación de colores y un detalle desapercibido.\n\nColoca las cinco fotografías en una composición, como si fueran parte de una exposición. No utilices filtros: descubre lo interesante que ya estaba allí.\n\nPonle un título a la colección y escribe una frase que conecte las cinco imágenes.",
+        "contenido": "Busca cinco imágenes: una textura que parezca otro material, una sombra interesante, un reflejo que transforme lo que ves, una combinación de colores y un detalle desapercibido.\n\nColoca las cinco fotografías en una composición, como si fueran parte de una exposición. No utilices filtros: descubre lo interesante que ya estaba allí.\n\nPonle un título a la colección y escribe una frase que conecte las cinco imágenes.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Si están en la oficina, hagan una versión rápida de una sola foto por persona durante una pausa; la composición completa puede quedar para otro momento.",
         "titulo": "El atlas fotográfico de los detalles"
       },
       "palabraNueva": {
@@ -4594,7 +4594,7 @@ const CALENDARIO = [
         "titulo": "Encuadre"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Mirar con atención también es una manera de crear.",
+        "contenido": "Antes de dormir, elige mentalmente la fotografía que más te gustaría conservar. A veces una textura o una sombra cuenta más que una escena completa.",
         "titulo": "Buenas noches"
       }
     },
@@ -4633,7 +4633,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Todos parecen pertenecer a una misma historia, pero ninguno debería estar allí. ¿Quién dejó los objetos? ¿Por qué se detuvo el reloj? ¿Qué había en la mitad que falta de la fotografía?\n\nConstruye una explicación coherente. No puedes explicar cada objeto con una coincidencia independiente: los cinco deben formar parte de un mismo acontecimiento.\n\nEscribe un informe policial, dibuja la habitación o crea un relato de suspenso. Decide cuál de los objetos podría revelar toda la verdad.",
+        "contenido": "Todos parecen pertenecer a una misma historia, pero ninguno debería estar allí. ¿Quién dejó los objetos? ¿Por qué se detuvo el reloj? ¿Qué había en la mitad que falta de la fotografía?\n\nConstruye una explicación coherente. No puedes explicar cada objeto con una coincidencia independiente: los cinco deben formar parte de un mismo acontecimiento.\n\nEscribe un informe policial, dibuja la habitación o crea un relato de suspenso. Decide cuál de los objetos podría revelar toda la verdad.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Versión de oficina: 5–7 minutos para elegir una hipótesis y una pista favorita; no hace falta resolverlo todo durante el trabajo.",
         "titulo": "El juicio de los objetos sospechosos"
       },
       "palabraNueva": {
@@ -4641,7 +4641,7 @@ const CALENDARIO = [
         "titulo": "Indicio"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. No siempre gana quien encuentra más pistas, sino quien consigue relacionarlas.",
+        "contenido": "El caso queda archivado por esta noche. Mañana quizá aparezca una pista nueva, pero no hace falta resolver todos los misterios de una vez.",
         "titulo": "Buenas noches"
       }
     },
@@ -4680,7 +4680,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Inventa su nombre, madera, núcleo, personalidad y un hechizo exclusivo. El núcleo puede ser una pluma, un fragmento de cristal, una fibra luminosa o algo que no exista.\n\nAñade un defecto: cada vez que su dueña utiliza el hechizo exclusivo, sucede algo inesperado. ¿Qué sucede? Puedes dibujarla, modelarla con arcilla o crear una ilustración de catálogo.\n\nActividad original inspirada en Harry Potter; no es una descripción oficial de sus varitas.",
+        "contenido": "Inventa su nombre, madera, núcleo, personalidad y un hechizo exclusivo. El núcleo puede ser una pluma, un fragmento de cristal, una fibra luminosa o algo que no exista.\n\nAñade un defecto: cada vez que su dueña utiliza el hechizo exclusivo, sucede algo inesperado. ¿Qué sucede? Puedes dibujarla, modelarla con arcilla o crear una ilustración de catálogo.\n\nActividad original inspirada en Harry Potter; no es una descripción oficial de sus varitas.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. En una pausa de oficina, cada persona puede diseñar solo el nombre y el poder de su varita en 5 minutos; los detalles se completan después.",
         "titulo": "La tienda de varitas imposibles"
       },
       "palabraNueva": {
@@ -4688,7 +4688,7 @@ const CALENDARIO = [
         "titulo": "Núcleo"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Hasta los objetos más extraordinarios tienen una historia que contar.",
+        "contenido": "Deja esa varita junto a tus ideas. Tal vez mañana descubras qué hechizo merece estrenar primero y qué precio tendría usarlo.",
         "titulo": "Buenas noches"
       }
     },
@@ -4727,7 +4727,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Ingredientes para dos: 200 g de pasta corta, dos pimientos rojos, media cebolla, un ajo, 80 ml de crema, 35 g de parmesano, aceite de oliva, sal, pimienta y albahaca.\n\nParte los pimientos y retira las semillas. Hornéalos a 220 °C durante 20–25 minutos. Cocina la pasta y reserva un poco del agua. Sofríe cebolla y ajo; licúa con pimientos y crema. Calienta la salsa, añade parmesano y mezcla con la pasta.\n\nTermina con albahaca. Por la alergia al maní, revisa etiquetas de pasta, crema y queso; evita trazas relevantes y contaminación cruzada.",
+        "contenido": "RECETA PARA DOS · SOLO SARTÉN Y OLLA · 30–35 MINUTOS\n\nIngredientes: 200 g de pasta corta, dos pimientos rojos, media cebolla, un diente de ajo, 80 ml de crema, 35 g de parmesano, aceite de oliva, sal, pimienta y albahaca.\n\nPreparación:\n1. Cocina la pasta en agua con sal y reserva media taza del agua de cocción.\n2. Corta los pimientos en tiras finas. Saltéalos en una sartén con un poco de aceite durante 10–12 minutos; añade dos cucharadas de agua, tapa y cocina hasta que estén suaves.\n3. En otra sartén, sofríe la cebolla y el ajo. Agrega los pimientos y tritura la mezcla con un tenedor o licúala cuando se enfríe un poco.\n4. Devuelve la salsa a la sartén, incorpora la crema y el parmesano y aligera con un poco del agua de la pasta.\n5. Mezcla con la pasta, añade albahaca y sirve.\n\nSi quieres que sea el almuerzo de mañana, acuerden la receta la noche anterior, revisen qué ingredientes ya tienen y compren lo que falte al salir del trabajo. La salsa puede dejarse lista y refrigerada; la pasta queda mejor cocida el mismo día.\n\nTIEMPO ESTIMADO: 30–35 MINUTOS. No necesita horno. Pueden repartirse la salsa y la pasta para terminar casi al mismo tiempo.",
         "titulo": "Pasta corta con salsa de pimientos asados y parmesano"
       },
       "palabraNueva": {
@@ -4735,7 +4735,7 @@ const CALENDARIO = [
         "titulo": "Emulsión"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Algunas recetas merecen repetirse hasta convertirse en favoritas.",
+        "contenido": "Si la salsa quedó como esperabas, guárdala entre tus recetas favoritas; si no, ya sabes qué ajustar la próxima vez. La cocina también se aprende probando.",
         "titulo": "Buenas noches"
       }
     },
@@ -4774,7 +4774,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Una flor aparece cuando alguien recuerda algo olvidado; otra, cuando toma una decisión difícil; una tercera solo crece cuando alguien dice la verdad. La última permanece cerrada.\n\nEn el centro hay una placa: «La flor que buscas no puede crecer mientras sigas esperando que alguien la plante por ti». Encuentra una pala de plata, agua de lluvia y una caja de semillas desconocidas.\n\nDecide qué herramienta usarías primero y qué ocurriría. La flor misteriosa debe tener un significado que solo se descubra al final.",
+        "contenido": "Una flor aparece cuando alguien recuerda algo olvidado; otra, cuando toma una decisión difícil; una tercera solo crece cuando alguien dice la verdad. La última permanece cerrada.\n\nEn el centro hay una placa: «La flor que buscas no puede crecer mientras sigas esperando que alguien la plante por ti». Encuentra una pala de plata, agua de lluvia y una caja de semillas desconocidas.\n\nDecide qué herramienta usarías primero y qué ocurriría. La flor misteriosa debe tener un significado que solo se descubra al final.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Cada persona inventa una flor y una regla del jardín; luego conecten las ideas en una sola historia.",
         "titulo": "El jardín que florecía de noche"
       },
       "palabraNueva": {
@@ -4782,7 +4782,7 @@ const CALENDARIO = [
         "titulo": "Germinación"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Algunas cosas necesitan tiempo, pero también necesitan que demos el primer paso.",
+        "contenido": "El jardín no se apaga cuando cierras los ojos. Algunas flores imaginarias siguen creciendo mientras descansas.",
         "titulo": "Buenas noches"
       }
     },
@@ -4821,7 +4821,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Elige Italia, Japón, Colombia, México u otro lugar. Escoge un plato representativo e investiga brevemente su origen.\n\nPrepara una versión casera, busca una canción del lugar y decora la mesa con un detalle inspirado en su cultura. No tiene que ser complicado ni costoso; puedes hacerlo sola o compartirlo.\n\nGuarda la receta y una fotografía en un pequeño archivo de viajes gastronómicos. Revisa ingredientes para evitar maní y contaminación cruzada.",
+        "contenido": "Elige Italia, Japón, Colombia, México u otro lugar. Escoge un plato representativo e investiga brevemente su origen.\n\nPrepara una versión casera, busca una canción del lugar y decora la mesa con un detalle inspirado en su cultura. No tiene que ser complicado ni costoso; puedes hacerlo sola o compartirlo.\n\nGuarda la receta y una fotografía en un pequeño archivo de viajes gastronómicos. Revisa ingredientes para evitar maní y contaminación cruzada.\n\nTIEMPO SUGERIDO: 40–50 MINUTOS si preparan el plato; 15 minutos si solo investigan y diseñan el menú. Elijan una receta que pueda hacerse con los utensilios disponibles.",
         "titulo": "Una escapada gastronómica sin salir de casa"
       },
       "palabraNueva": {
@@ -4829,7 +4829,7 @@ const CALENDARIO = [
         "titulo": "Gastronomía"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. A veces podemos conocer un lugar mucho antes de visitarlo.",
+        "contenido": "Cierra por hoy ese pequeño pasaporte gastronómico. Un lugar también puede conocerse por sus aromas, sus ingredientes y las historias que acompañan una receta.",
         "titulo": "Buenas noches"
       }
     },
@@ -4868,7 +4868,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "¿Qué parte de tu personalidad crees que las personas tardan más en descubrir? Quizá tu sentido del humor, tu manera de pensar, tu sensibilidad o tu creatividad.\n\nNo hace falta que la respuesta sea profunda ni perfecta. Basta con que sea honesta.\n\nSi quieres, escribe también qué tendría que hacer alguien para llegar a conocer esa parte de ti.",
+        "contenido": "¿Qué parte de tu personalidad crees que las personas tardan más en descubrir? Quizá tu sentido del humor, tu manera de pensar, tu sensibilidad o tu creatividad.\n\nNo hace falta que la respuesta sea profunda ni perfecta. Basta con que sea honesta.\n\nSi quieres, escribe también qué tendría que hacer alguien para llegar a conocer esa parte de ti.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. En la oficina, conviértanlo en una sola pregunta durante una pausa y dejen las respuestas largas para otro momento.",
         "titulo": "Una pregunta sobre lo que tardan en descubrir"
       },
       "palabraNueva": {
@@ -4876,7 +4876,7 @@ const CALENDARIO = [
         "titulo": "Matiz"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Que siempre tengas espacios donde puedas mostrarte sin tener que explicar demasiado quién eres.",
+        "contenido": "No tienes que mostrar todas tus capas en una sola conversación. Lo valioso es encontrar espacios donde puedas compartirlas a tu propio ritmo.",
         "titulo": "Buenas noches"
       }
     },
@@ -4915,7 +4915,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Antes de las impresoras modernas, permitió reproducir ilustraciones, letras y composiciones. Cada pequeño corte participa en la construcción de la imagen final.\n\nDiseña una ilustración que pudiera convertirse en una xilografía: una flor, un animal, una ventana o un paisaje. Utiliza blanco y negro y consigue profundidad con líneas, espacios y contrastes.\n\nPuedes crear una matriz decorativa segura con materiales de manualidades, sin herramientas de corte. Para guardar: «A veces, crear también consiste en descubrir qué debemos quitar para que aparezca lo importante».",
+        "contenido": "Antes de las impresoras modernas, permitió reproducir ilustraciones, letras y composiciones. Cada pequeño corte participa en la construcción de la imagen final.\n\nDiseña una ilustración que pudiera convertirse en una xilografía: una flor, un animal, una ventana o un paisaje. Utiliza blanco y negro y consigue profundidad con líneas, espacios y contrastes.\n\nPuedes crear una matriz decorativa segura con materiales de manualidades, sin herramientas de corte. Para guardar: «A veces, crear también consiste en descubrir qué debemos quitar para que aparezca lo importante».\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Para una pausa laboral, basta con bocetar la imagen en 5 minutos; no hace falta tallar madera ni llevar herramientas al trabajo.",
         "titulo": "Xilografía"
       },
       "palabraNueva": {
@@ -4923,7 +4923,7 @@ const CALENDARIO = [
         "titulo": "Xilografía"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Que nunca pierdas las ganas de experimentar con algo que todavía no conoces.",
+        "contenido": "Como una impresión hecha a mano, cada intento deja una marca distinta. No busques que todas las líneas sean perfectas; busca que tengan intención.",
         "titulo": "Buenas noches"
       }
     },
@@ -4962,7 +4962,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Sus inscripciones hablan de la última vez que dijiste algo sin pensarlo, cuando cambiaste de opinión, un momento de libertad, el día en que conociste a alguien importante, la primera vez que hiciste algo que te daba miedo, un momento que aún no sucede y la hora que nunca debió existir.\n\nEn el centro hay una silla y una llave. Escoge un reloj, decide qué abre la llave y explica por qué uno parece estar adelantándose.\n\nPuedes continuar la historia como novela de misterio o dibujar el plano de la habitación.",
+        "contenido": "Sus inscripciones hablan de la última vez que dijiste algo sin pensarlo, cuando cambiaste de opinión, un momento de libertad, el día en que conociste a alguien importante, la primera vez que hiciste algo que te daba miedo, un momento que aún no sucede y la hora que nunca debió existir.\n\nEn el centro hay una silla y una llave. Escoge un reloj, decide qué abre la llave y explica por qué uno parece estar adelantándose.\n\nPuedes continuar la historia como novela de misterio o dibujar el plano de la habitación.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Pueden dividir el trabajo: una persona inventa tres relojes y otra conecta sus historias.",
         "titulo": "La habitación de los relojes descompuestos"
       },
       "palabraNueva": {
@@ -4970,7 +4970,7 @@ const CALENDARIO = [
         "titulo": "Cronología"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. No todo lo que mide el tiempo tiene que ver con los minutos.",
+        "contenido": "No todos los relojes miden horas. Algunos guardan decisiones, recuerdos y momentos en los que algo cambió por dentro.",
         "titulo": "Buenas noches"
       }
     },
@@ -5009,7 +5009,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Imagina a alguien que llega a un lugar y no habla durante media hora; a una persona que responde un mensaje muchas horas después aunque aparece conectada; y a alguien que se ríe cuando todos están serios.\n\nPara cada situación escribe dos explicaciones: la primera que se te ocurre espontáneamente y otra completamente distinta que también podría ser cierta.\n\nPregunta final: ¿cuántas veces confundimos lo que observamos con lo que realmente sabemos? Deja espacio para escuchar la versión de los demás.",
+        "contenido": "Imagina a alguien que llega a un lugar y no habla durante media hora; a una persona que responde un mensaje muchas horas después aunque aparece conectada; y a alguien que se ríe cuando todos están serios.\n\nPara cada situación escribe dos explicaciones: la primera que se te ocurre espontáneamente y otra completamente distinta que también podría ser cierta.\n\nPregunta final: ¿cuántas veces confundimos lo que observamos con lo que realmente sabemos? Deja espacio para escuchar la versión de los demás.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Si lo hacen entre tres en la oficina, usen una situación cotidiana y una ronda rápida de interpretaciones.",
         "titulo": "El experimento de las primeras impresiones"
       },
       "palabraNueva": {
@@ -5017,7 +5017,7 @@ const CALENDARIO = [
         "titulo": "Sesgo"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Antes de completar una historia sobre alguien, quizá vale la pena escuchar su versión.",
+        "contenido": "Una primera impresión es apenas el comienzo de una historia. Deja espacio para que los hechos y las conversaciones completen lo que todavía no sabes.",
         "titulo": "Buenas noches"
       }
     },
@@ -5056,7 +5056,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Memoralia guarda un recuerdo dentro de un objeto; Lumina Vestigium hace visibles por segundos las huellas de algo que estuvo en una habitación; Silencio Sereno crea un espacio donde los sonidos externos desaparecen.\n\nInventa un cuarto hechizo para resolver un problema cotidiano. Debe tener nombre, función, movimiento de varita y una limitación.\n\nEscribe una anotación como si lo descubrieras en un libro antiguo. Los hechizos de esta actividad son inventados y no pertenecen al repertorio oficial de la saga.",
+        "contenido": "Memoralia guarda un recuerdo dentro de un objeto; Lumina Vestigium hace visibles por segundos las huellas de algo que estuvo en una habitación; Silencio Sereno crea un espacio donde los sonidos externos desaparecen.\n\nInventa un cuarto hechizo para resolver un problema cotidiano. Debe tener nombre, función, movimiento de varita y una limitación.\n\nEscribe una anotación como si lo descubrieras en un libro antiguo. Los hechizos de esta actividad son inventados y no pertenecen al repertorio oficial de la saga.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Diseñen dos hechizos cada uno y elijan cuál sería más útil en una situación concreta.",
         "titulo": "La biblioteca de hechizos olvidados"
       },
       "palabraNueva": {
@@ -5064,7 +5064,7 @@ const CALENDARIO = [
         "titulo": "Encantamiento"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. La imaginación también puede ser una forma de magia.",
+        "contenido": "Que la biblioteca conserve un hechizo sin resolver para mañana. La imaginación no necesita cerrar todos sus libros antes de descansar.",
         "titulo": "Buenas noches"
       }
     },
@@ -5103,7 +5103,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Ingredientes para 2–3 porciones: una berenjena grande, 250 g de carne molida, 250 g de salsa de tomate, 150 g de mozzarella, 40 g de parmesano, media cebolla, un ajo, aceite, orégano, sal y pimienta.\n\nCorta la berenjena en láminas y hornéala a 200 °C durante 15 minutos. Sofríe cebolla y ajo, añade la carne y cocínala completamente; incorpora tomate y orégano. Alterna capas de berenjena, carne y mozzarella; termina con parmesano y hornea a 190 °C unos 20 minutos.\n\nDeja reposar ocho minutos antes de cortar. Por la alergia al maní, revisa etiquetas de quesos, salsa y condimentos; evita trazas relevantes y contaminación cruzada.",
+        "contenido": "RECETA PARA 2–3 PORCIONES · SIN HORNO · 40–45 MINUTOS\n\nIngredientes: una berenjena grande, 250 g de carne molida, 250 g de salsa de tomate, 150 g de mozzarella, 40 g de parmesano, media cebolla, un diente de ajo, aceite, orégano, sal y pimienta.\n\nPreparación:\n1. Corta la berenjena en láminas de medio centímetro. Dóralas por tandas en una sartén con un poco de aceite; retíralas cuando estén tiernas.\n2. En la misma sartén, sofríe cebolla y ajo. Añade la carne y cocínala completamente, deshaciendo los grumos.\n3. Incorpora la salsa de tomate, orégano, sal y pimienta. Cocina 8–10 minutos hasta que espese.\n4. En una sartén profunda o una olla ancha, arma capas de berenjena, salsa de carne y mozzarella. Repite y termina con parmesano.\n5. Tapa y cocina a fuego muy bajo 8–10 minutos, vigilando que no se pegue y que el queso se funda. Deja reposar antes de servir.\n\nNo necesitas horno: la tapa conserva el calor y ayuda a fundir el queso.\n\nTIEMPO ESTIMADO: 40–45 MINUTOS. Puedes dorar la berenjena mientras se cocina la salsa para ahorrar tiempo.",
         "titulo": "Lasaña de berenjena con carne y queso"
       },
       "palabraNueva": {
@@ -5111,7 +5111,7 @@ const CALENDARIO = [
         "titulo": "Gratinar"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Hay comidas que saben todavía mejor cuando se preparan sin afán.",
+        "contenido": "La última capa no tiene que quedar perfectamente alineada para que la receta valga la pena. Lo importante es que cada parte haya encontrado su lugar.",
         "titulo": "Buenas noches"
       }
     },
@@ -5150,7 +5150,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Define el cielo, el agua, la vegetación, sus habitantes, el clima y la arquitectura. ¿Tiene dos soles, océanos suspendidos o plantas luminosas?\n\nAñade una característica que obligue a sus habitantes a organizar la sociedad de otra manera: una noche de diez minutos o montañas que cambian lentamente de ubicación.\n\nDibuja un mapa, diseña una bandera y ponle nombre. La característica especial debe influir de verdad en la vida de sus habitantes.",
+        "contenido": "Define el cielo, el agua, la vegetación, sus habitantes, el clima y la arquitectura. ¿Tiene dos soles, océanos suspendidos o plantas luminosas?\n\nAñade una característica que obligue a sus habitantes a organizar la sociedad de otra manera: una noche de diez minutos o montañas que cambian lentamente de ubicación.\n\nDibuja un mapa, diseña una bandera y ponle nombre. La característica especial debe influir de verdad en la vida de sus habitantes.\n\nTIEMPO SUGERIDO: 25–35 MINUTOS. Cada persona diseña dos características del planeta y después acuerdan una regla que conecte todo.",
         "titulo": "El diseño de un planeta habitable"
       },
       "palabraNueva": {
@@ -5158,7 +5158,7 @@ const CALENDARIO = [
         "titulo": "Ecosistema"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. No hace falta descubrir otro mundo para empezar a imaginarlo.",
+        "contenido": "Tu planeta puede seguir evolucionando mientras duermes. Mañana quizá descubras qué necesita para que sus habitantes vivan mejor.",
         "titulo": "Buenas noches"
       }
     },
@@ -5197,7 +5197,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Los artículos: repetir una tarde feliz, tener una hora adicional al día, conocer una respuesta importante, visitar cualquier lugar durante 24 horas, escuchar una canción por primera vez, conservar una conversación o aprender una habilidad al instante.\n\nDistribuye tus 100 puntos y explica por qué algunas cosas recibieron más que otras. Si dos personas ofrecen lo mismo, negocien o inventen un desempate.\n\nLa gracia no está en ganar la subasta, sino en descubrir qué cosas tienen más valor para cada persona.",
+        "contenido": "Los artículos: repetir una tarde feliz, tener una hora adicional al día, conocer una respuesta importante, visitar cualquier lugar durante 24 horas, escuchar una canción por primera vez, conservar una conversación o aprender una habilidad al instante.\n\nDistribuye tus 100 puntos y explica por qué algunas cosas recibieron más que otras. Si dos personas ofrecen lo mismo, negocien o inventen un desempate.\n\nLa gracia no está en ganar la subasta, sino en descubrir qué cosas tienen más valor para cada persona.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Si participan tres en la oficina, usen 30 puntos imaginarios por persona y limiten cada explicación a 30 segundos.",
         "titulo": "La subasta de las cosas que no se pueden comprar"
       },
       "palabraNueva": {
@@ -5205,7 +5205,7 @@ const CALENDARIO = [
         "titulo": "Intangible"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Lo que más valoramos no siempre es lo que más cuesta.",
+        "contenido": "La subasta termina, pero las prioridades que aparecieron merecen quedarse un rato contigo. A veces una elección revela más que una respuesta larga.",
         "titulo": "Buenas noches"
       }
     },
@@ -5244,7 +5244,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "Si pudieras conservar una fotografía de un día cualquiera de tu vida actual para verla dentro de veinte años, ¿qué te gustaría que apareciera en ella?\n\nQuizá una habitación desordenada, una tarde lluviosa, una comida, una persona o un momento que hoy parece completamente normal.\n\nNo tiene que ser un acontecimiento especial. A veces lo cotidiano se convierte en lo que más queremos recordar.",
+        "contenido": "Si pudieras conservar una fotografía de un día cualquiera de tu vida actual para verla dentro de veinte años, ¿qué te gustaría que apareciera en ella?\n\nQuizá una habitación desordenada, una tarde lluviosa, una comida, una persona o un momento que hoy parece completamente normal.\n\nNo tiene que ser un acontecimiento especial. A veces lo cotidiano se convierte en lo que más queremos recordar.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Una sola imagen y tres detalles bastan; no hace falta escribir una historia completa.",
         "titulo": "La fotografía que guardarías veinte años"
       },
       "palabraNueva": {
@@ -5252,7 +5252,7 @@ const CALENDARIO = [
         "titulo": "Nostalgia"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Puede que algún día descubras que uno de tus días más importantes fue uno que ni siquiera consideraste extraordinario.",
+        "contenido": "Guarda esa fotografía futura como una pequeña cápsula. No sabes qué detalles cambiarán, y precisamente por eso vale la pena imaginarla.",
         "titulo": "Buenas noches"
       }
     },
@@ -5291,7 +5291,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "No significa dejar de sentir ni fingir que nada te afecta. Es aprender a no entregar todas tus decisiones al primer impulso, y reconocer cuándo conviene respirar antes de responder.\n\nTambién es saber cambiar de opinión, poner un límite y aceptar que no todo se resuelve hoy.\n\nPiensa en una situación reciente en la que reaccionaste muy rápido. Si pudieras volver a ese momento, ¿qué harías diferente? No para juzgarte, sino para reconocer cuánto has aprendido. Para guardar: «No todo lo que siento necesita convertirse inmediatamente en una decisión».",
+        "contenido": "No significa dejar de sentir ni fingir que nada te afecta. Es aprender a no entregar todas tus decisiones al primer impulso, y reconocer cuándo conviene respirar antes de responder.\n\nTambién es saber cambiar de opinión, poner un límite y aceptar que no todo se resuelve hoy.\n\nPiensa en una situación reciente en la que reaccionaste muy rápido. Si pudieras volver a ese momento, ¿qué harías diferente? No para juzgarte, sino para reconocer cuánto has aprendido. Para guardar: «No todo lo que siento necesita convertirse inmediatamente en una decisión».\n\nTIEMPO SUGERIDO: 5–8 MINUTOS. Es una pausa individual, no una tarea para entregar ni una conversación obligatoria.",
         "titulo": "Templanza"
       },
       "palabraNueva": {
@@ -5299,7 +5299,7 @@ const CALENDARIO = [
         "titulo": "Templanza"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Ojalá hoy hayas encontrado aunque sea un instante de calma en medio de todo lo que pasa.",
+        "contenido": "La templanza no exige tener todo bajo control. A veces empieza con respirar, elegir una respuesta y tratarte con un poco más de paciencia.",
         "titulo": "Buenas noches"
       }
     },
@@ -5338,7 +5338,7 @@ const CALENDARIO = [
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
-        "contenido": "En portada aparecen tres titulares: «El aula que aparece cuando alguien necesita encontrar algo»; «Un retrato responde preguntas que nadie le ha hecho»; «La biblioteca devuelve un libro que todavía no ha sido escrito».\n\nEscoge uno y escribe la noticia completa. Debe incluir una pista escondida para descubrir quién está detrás del misterio.\n\nDiseña la portada, inventa el nombre del periódico y agrega una nota de la redacción. Puedes ser periodista, investigadora o alguien involucrada por accidente. Actividad original inspirada en el universo de Harry Potter, sin spoilers.",
+        "contenido": "En portada aparecen tres titulares: «El aula que aparece cuando alguien necesita encontrar algo»; «Un retrato responde preguntas que nadie le ha hecho»; «La biblioteca devuelve un libro que todavía no ha sido escrito».\n\nEscoge uno y escribe la noticia completa. Debe incluir una pista escondida para descubrir quién está detrás del misterio.\n\nDiseña la portada, inventa el nombre del periódico y agrega una nota de la redacción. Puedes ser periodista, investigadora o alguien involucrada por accidente. Actividad original inspirada en el universo de Harry Potter, sin spoilers.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. En la oficina, cada persona puede proponer un titular en una pausa de 5 minutos y dejar la edición completa para después.",
         "titulo": "El periódico de Hogwarts"
       },
       "palabraNueva": {
@@ -5346,7 +5346,7 @@ const CALENDARIO = [
         "titulo": "Titular"
       },
       "buenasNoches": {
-        "contenido": "Buenas noches. Que nunca se te quite esa curiosidad que convierte cualquier lugar en una posible aventura.",
+        "contenido": "La edición extraordinaria queda lista para la imprenta. Si alguna noticia todavía no tiene explicación, déjala como pista para el próximo capítulo.",
         "titulo": "Buenas noches"
       }
     },
@@ -13590,10 +13590,10 @@ const CALENDARIO = [
     ],
     "detalle": "Ponle al objeto una etiqueta de precio absurda y explica por qué sería una pieza invaluable.",
     "buenasNoches": "Hasta lo más sencillo puede guardar una historia cuando nos detenemos a mirarlo.",
-    "cancionTitulo": "Can't Stop the Feeling!",
+    "cancionTitulo": "Mirrors",
     "cancionArtista": "Justin Timberlake",
-    "youtubeId": "ru0K8uYEZWw",
-    "cancionUrl": "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+    "youtubeId": "uuZE_IRwLNI",
+    "cancionUrl": "https://www.youtube.com/watch?v=uuZE_IRwLNI",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
