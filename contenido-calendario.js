@@ -14048,5 +14048,329 @@ const CALENDARIO = [
         "ejemplo": "Una tregua en medio de la semana puede convertirse en una hora agradable para compartir."
       }
     }
+  ],
+[
+    {
+      "dia": 315,
+      "fecha": "2027-08-26",
+      "fechaTexto": "jue, 26 de ago",
+      "categoria": "El museo de los objetos cotidianos",
+      "icono": "🖼️",
+      "tono": "observación y creatividad",
+      "color": {
+        "principal": "#a9b8c8",
+        "suave": "#edf1f5",
+        "oscuro": "#34404d"
+      },
+      "buenosDias": "Hoy cualquier objeto puede convertirse en una pieza digna de exposición.",
+      "poema": [
+        "Escoge tres objetos comunes que tengas cerca: una llave, un vaso, un recibo, una piedra o cualquier cosa sencilla. Dales un nombre artístico y escribe una pequeña ficha de museo para cada uno: año de creación imaginario, material, función secreta y por qué merece estar expuesto. No vale describirlos solo por lo que son; inventa una historia para cada pieza.",
+        "Ordena los tres objetos como si fueran una exposición y crea un título para la sala. Si alguien te acompaña, que elija cuál compraría para su colección y cuánto estaría dispuesto a pagar en moneda inventada."
+      ],
+      "detalle": "Elige un objeto ganador y redacta una etiqueta de exposición de máximo veinte palabras.",
+      "buenasNoches": "Lo extraordinario a veces no está en encontrar algo nuevo, sino en mirar de otra manera lo que ya tenemos.",
+      "cancionTitulo": "Uptown Funk",
+      "cancionArtista": "Mark Ronson ft. Bruno Mars",
+      "youtubeId": "YlUKcNNmywk",
+      "cancionUrl": "https://www.youtube.com/watch?v=YlUKcNNmywk",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy cualquier objeto puede convertirse en una pieza digna de exposición."
+        },
+        "mensajePrincipal": {
+          "titulo": "El museo de los objetos cotidianos",
+          "contenido": "Escoge tres objetos comunes que tengas cerca: una llave, un vaso, un recibo, una piedra o cualquier cosa sencilla. Dales un nombre artístico y escribe una pequeña ficha de museo para cada uno: año de creación imaginario, material, función secreta y por qué merece estar expuesto. No vale describirlos solo por lo que son; inventa una historia para cada pieza."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra mesura",
+          "contenido": "Moderación y equilibrio al actuar o expresar algo. La ficha del objeto tenía humor, pero estaba escrita con mesura y precisión."
+        },
+        "buenasNoches": {
+          "contenido": "Lo extraordinario a veces no está en encontrar algo nuevo, sino en mirar de otra manera lo que ya tenemos."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Mesura",
+        "significado": "Moderación y equilibrio al actuar o expresar algo.",
+        "ejemplo": "La ficha del objeto tenía humor, pero estaba escrita con mesura y precisión."
+      }
+    },
+    {
+      "dia": 316,
+      "fecha": "2027-08-27",
+      "fechaTexto": "vie, 27 de ago",
+      "categoria": "El doblaje de una escena muda",
+      "icono": "🎙️",
+      "tono": "humor e improvisación",
+      "color": {
+        "principal": "#d5a18e",
+        "suave": "#f6ebe5",
+        "oscuro": "#4b3028"
+      },
+      "buenosDias": "Hoy toca prestarles una voz inesperada a las cosas que no hablan.",
+      "poema": [
+        "Busca un video corto sin diálogo —puede ser una escena propia, una animación o un clip que ya tengas— y crea un doblaje completamente distinto de lo que sucede. También puedes hacerlo mirando una escena con el sonido apagado: inventa qué están diciendo los personajes y cambia el género de la situación, de drama a comedia o de aventura a telenovela.",
+        "Graba el audio o representa las voces en directo. La gracia no está en sincronizar cada palabra, sino en construir una historia nueva a partir de gestos y movimientos."
+      ],
+      "detalle": "Añade un narrador que explique la escena como si fuera un documental de naturaleza.",
+      "buenasNoches": "Una escena puede cambiar por completo cuando alguien se atreve a ponerle otra voz.",
+      "cancionTitulo": "See You Again",
+      "cancionArtista": "Wiz Khalifa ft. Charlie Puth",
+      "youtubeId": "RgKAFK5djSk",
+      "cancionUrl": "https://www.youtube.com/watch?v=RgKAFK5djSk",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy toca prestarles una voz inesperada a las cosas que no hablan."
+        },
+        "mensajePrincipal": {
+          "titulo": "El doblaje de una escena muda",
+          "contenido": "Busca un video corto sin diálogo —puede ser una escena propia, una animación o un clip que ya tengas— y crea un doblaje completamente distinto de lo que sucede. También puedes hacerlo mirando una escena con el sonido apagado: inventa qué están diciendo los personajes y cambia el género de la situación, de drama a comedia o de aventura a telenovela."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra tenacidad",
+          "contenido": "Firmeza para continuar con una tarea pese a las dificultades. Con tenacidad, repitió el doblaje hasta encontrar la voz más disparatada."
+        },
+        "buenasNoches": {
+          "contenido": "Una escena puede cambiar por completo cuando alguien se atreve a ponerle otra voz."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Tenacidad",
+        "significado": "Firmeza para continuar con una tarea pese a las dificultades.",
+        "ejemplo": "Con tenacidad, repitió el doblaje hasta encontrar la voz más disparatada."
+      }
+    },
+    {
+      "dia": 317,
+      "fecha": "2027-08-28",
+      "fechaTexto": "sáb, 28 de ago",
+      "categoria": "El experimento de la torre estable",
+      "icono": "🧱",
+      "tono": "ingenio y desafío práctico",
+      "color": {
+        "principal": "#b9c5a0",
+        "suave": "#eff2e6",
+        "oscuro": "#39412c"
+      },
+      "buenosDias": "Hoy el reto es construir algo alto sin que la gravedad arruine tus planes.",
+      "poema": [
+        "Con materiales seguros que tengas a mano —vasos plásticos, bloques, cartas o cajas pequeñas— construye una torre. Antes de empezar, decide una regla: usar una sola mano, no apoyar los codos o trabajar en silencio. Haz una primera versión, observa dónde pierde estabilidad y modifica la base o la distribución del peso.",
+        "Si participan dos personas, construyan por turnos añadiendo una pieza cada vez. Gana la torre que se mantenga en pie durante diez segundos después de la última adición."
+      ],
+      "detalle": "Toma una foto de la torre más alta y ponle un nombre de edificio famoso.",
+      "buenasNoches": "Una estructura resistente no siempre necesita más altura; necesita una buena base.",
+      "cancionTitulo": "Nyan Cat",
+      "cancionArtista": "Daniwell",
+      "youtubeId": "QH2-TGUlwu4",
+      "cancionUrl": "https://www.youtube.com/watch?v=QH2-TGUlwu4",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy el reto es construir algo alto sin que la gravedad arruine tus planes."
+        },
+        "mensajePrincipal": {
+          "titulo": "El experimento de la torre estable",
+          "contenido": "Con materiales seguros que tengas a mano —vasos plásticos, bloques, cartas o cajas pequeñas— construye una torre. Antes de empezar, decide una regla: usar una sola mano, no apoyar los codos o trabajar en silencio. Haz una primera versión, observa dónde pierde estabilidad y modifica la base o la distribución del peso."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra inercia",
+          "contenido": "Tendencia de un cuerpo a mantener su estado de reposo o movimiento. La torre venció la inercia del primer intento cuando cambió la distribución de sus piezas."
+        },
+        "buenasNoches": {
+          "contenido": "Una estructura resistente no siempre necesita más altura; necesita una buena base."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Inercia",
+        "significado": "Tendencia de un cuerpo a mantener su estado de reposo o movimiento.",
+        "ejemplo": "La torre venció la inercia del primer intento cuando cambió la distribución de sus piezas."
+      }
+    },
+    {
+      "dia": 318,
+      "fecha": "2027-08-29",
+      "fechaTexto": "dom, 29 de ago",
+      "categoria": "La receta de la merienda por capas",
+      "icono": "🥣",
+      "tono": "cocina sencilla y sensorial",
+      "color": {
+        "principal": "#d9b58e",
+        "suave": "#f6efe4",
+        "oscuro": "#493923"
+      },
+      "buenosDias": "Hoy vamos a preparar algo sencillo que también se vea bonito antes del primer bocado.",
+      "poema": [
+        "Arma una merienda fría en un vaso transparente con capas de yogur, fruta picada y cereal o granola. Puedes añadir canela, miel o un poco de mermelada. Si prefieres una opción salada, alterna queso fresco, tomate y galletas saladas en un plato. No necesitas horno ni técnicas complicadas: la idea es jugar con las texturas y los colores.",
+        "Antes de probarla, inventa un nombre para tu creación y descríbela como si fuera el plato estrella de un restaurante. Ten en cuenta los ingredientes que tengas y evita cualquier alimento que no puedas consumir."
+      ],
+      "detalle": "Haz una versión de dos colores y otra de tres; decide cuál se ve más apetecible.",
+      "buenasNoches": "Los pequeños gustos también merecen su momento de presentación.",
+      "cancionTitulo": "Rolling in the Deep",
+      "cancionArtista": "Adele",
+      "youtubeId": "hLQl3WQQoQ0",
+      "cancionUrl": "https://www.youtube.com/watch?v=hLQl3WQQoQ0",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a preparar algo sencillo que también se vea bonito antes del primer bocado."
+        },
+        "mensajePrincipal": {
+          "titulo": "La receta de la merienda por capas",
+          "contenido": "Arma una merienda fría en un vaso transparente con capas de yogur, fruta picada y cereal o granola. Puedes añadir canela, miel o un poco de mermelada. Si prefieres una opción salada, alterna queso fresco, tomate y galletas saladas en un plato. No necesitas horno ni técnicas complicadas: la idea es jugar con las texturas y los colores."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra atemporal",
+          "contenido": "Que no está limitado a una época o moda determinada. Una combinación sencilla puede tener un encanto atemporal."
+        },
+        "buenasNoches": {
+          "contenido": "Los pequeños gustos también merecen su momento de presentación."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Atemporal",
+        "significado": "Que no está limitado a una época o moda determinada.",
+        "ejemplo": "Una combinación sencilla puede tener un encanto atemporal."
+      }
+    },
+    {
+      "dia": 319,
+      "fecha": "2027-08-30",
+      "fechaTexto": "lun, 30 de ago",
+      "categoria": "El titular que nadie esperaba",
+      "icono": "📰",
+      "tono": "escritura y humor",
+      "color": {
+        "principal": "#c6a5ce",
+        "suave": "#f1eaf4",
+        "oscuro": "#423147"
+      },
+      "buenosDias": "Hoy vamos a convertir un hecho pequeño en una noticia enorme, sin perder el sentido del humor.",
+      "poema": [
+        "Elige algo que haya ocurrido hoy: se acabó el café, apareció una media perdida, llovió cinco minutos o alguien encontró una moneda. Escribe tres titulares para el mismo hecho: uno solemne, uno exageradamente dramático y uno absurdo. Después añade una bajada de máximo dos líneas que explique la noticia como si fuera portada.",
+        "Si alguien participa, que escriba sus titulares sin ver los tuyos. Comparen cuál parece más creíble y cuál merece una primera plana por puro disparate."
+      ],
+      "detalle": "Diseña la portada de un periódico ficticio con el titular más disparatado.",
+      "buenasNoches": "No todo necesita ser extraordinario para merecer una buena historia.",
+      "cancionTitulo": "Never Gonna Give You Up",
+      "cancionArtista": "Rick Astley",
+      "youtubeId": "dQw4w9WgXcQ",
+      "cancionUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a convertir un hecho pequeño en una noticia enorme, sin perder el sentido del humor."
+        },
+        "mensajePrincipal": {
+          "titulo": "El titular que nadie esperaba",
+          "contenido": "Elige algo que haya ocurrido hoy: se acabó el café, apareció una media perdida, llovió cinco minutos o alguien encontró una moneda. Escribe tres titulares para el mismo hecho: uno solemne, uno exageradamente dramático y uno absurdo. Después añade una bajada de máximo dos líneas que explique la noticia como si fuera portada."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra nítido",
+          "contenido": "Claro, preciso y fácil de distinguir o comprender. El titular era nítido y directo, aunque la noticia fuera insignificante."
+        },
+        "buenasNoches": {
+          "contenido": "No todo necesita ser extraordinario para merecer una buena historia."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Nítido",
+        "significado": "Claro, preciso y fácil de distinguir o comprender.",
+        "ejemplo": "El titular era nítido y directo, aunque la noticia fuera insignificante."
+      }
+    },
+    {
+      "dia": 320,
+      "fecha": "2027-08-31",
+      "fechaTexto": "mar, 31 de ago",
+      "categoria": "La cápsula del tiempo de cinco minutos",
+      "icono": "⏳",
+      "tono": "memoria y perspectiva",
+      "color": {
+        "principal": "#91b9b5",
+        "suave": "#e7f1ef",
+        "oscuro": "#2d4240"
+      },
+      "buenosDias": "Imagina que dentro de un año encuentras una nota escrita por ti hoy.",
+      "poema": [
+        "Escribe un mensaje breve para tu yo de dentro de doce meses. Incluye algo que esperas haber aprendido, una costumbre que te gustaría conservar y una pregunta cuya respuesta todavía no conoces. No hace falta hacer promesas grandes: basta con dejar una fotografía honesta de este momento.",
+        "Guarda la nota en un sobre o en un archivo con la fecha de apertura. Si quieres compartir el ejercicio, cada persona puede escribir su mensaje por separado y decidir si lo leerán juntos más adelante."
+      ],
+      "detalle": "Añade una predicción divertida y comprueba dentro de un año si se cumplió.",
+      "buenasNoches": "El futuro no necesita instrucciones perfectas; a veces basta con dejarle una pregunta sincera.",
+      "cancionTitulo": "Let It Go",
+      "cancionArtista": "Idina Menzel",
+      "youtubeId": "L0MK7qz13bU",
+      "cancionUrl": "https://www.youtube.com/watch?v=L0MK7qz13bU",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Imagina que dentro de un año encuentras una nota escrita por ti hoy."
+        },
+        "mensajePrincipal": {
+          "titulo": "La cápsula del tiempo de cinco minutos",
+          "contenido": "Escribe un mensaje breve para tu yo de dentro de doce meses. Incluye algo que esperas haber aprendido, una costumbre que te gustaría conservar y una pregunta cuya respuesta todavía no conoces. No hace falta hacer promesas grandes: basta con dejar una fotografía honesta de este momento."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra auspicio",
+          "contenido": "Señal o circunstancia que se interpreta como favorable para algo futuro. Tomó aquel pequeño avance como un auspicio para seguir intentándolo."
+        },
+        "buenasNoches": {
+          "contenido": "El futuro no necesita instrucciones perfectas; a veces basta con dejarle una pregunta sincera."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Auspicio",
+        "significado": "Señal o circunstancia que se interpreta como favorable para algo futuro.",
+        "ejemplo": "Tomó aquel pequeño avance como un auspicio para seguir intentándolo."
+      }
+    },
+    {
+      "dia": 321,
+      "fecha": "2027-09-01",
+      "fechaTexto": "mié, 1 de sep",
+      "categoria": "El cumplido con evidencia",
+      "icono": "💬",
+      "tono": "coquetería y atención",
+      "color": {
+        "principal": "#d5a0b8",
+        "suave": "#f5e8ee",
+        "oscuro": "#482d3b"
+      },
+      "buenosDias": "Hoy el reto es decir algo bonito, pero con una prueba concreta que lo respalde.",
+      "poema": [
+        "Piensa en una cualidad de alguien que te agrade: su creatividad, paciencia, sentido del humor, forma de escuchar o manera de resolver problemas. En vez de dejarlo en un simple «eres genial», menciona una situación específica en la que esa cualidad se notó. La clave es que el cumplido sea sincero y no una frase automática.",
+        "Si recibes uno, intenta no responder quitándole importancia. Agradécelo y deja que el momento exista. También puedes escribirte uno a ti mismo: reconocer lo que haces bien no le resta mérito a nadie."
+      ],
+      "detalle": "Regla extra: el cumplido debe mencionar un detalle que no se note a primera vista.",
+      "buenasNoches": "Un elogio que nace de haber prestado atención suele quedarse más tiempo.",
+      "cancionTitulo": "Scars to Your Beautiful",
+      "cancionArtista": "Alessia Cara",
+      "youtubeId": "ScNNfyq3d_w",
+      "cancionUrl": "https://www.youtube.com/watch?v=ScNNfyq3d_w",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy el reto es decir algo bonito, pero con una prueba concreta que lo respalde."
+        },
+        "mensajePrincipal": {
+          "titulo": "El cumplido con evidencia",
+          "contenido": "Piensa en una cualidad de alguien que te agrade: su creatividad, paciencia, sentido del humor, forma de escuchar o manera de resolver problemas. En vez de dejarlo en un simple «eres genial», menciona una situación específica en la que esa cualidad se notó. La clave es que el cumplido sea sincero y no una frase automática."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra lumbre",
+          "contenido": "Fuego o materia combustible que arde; también, brillo o impulso interior. Su lumbre creativa aparecía incluso en los detalles más sencillos."
+        },
+        "buenasNoches": {
+          "contenido": "Un elogio que nace de haber prestado atención suele quedarse más tiempo."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Lumbre",
+        "significado": "Fuego o materia combustible que arde; también, brillo o impulso interior.",
+        "ejemplo": "Su lumbre creativa aparecía incluso en los detalles más sencillos."
+      }
+    }
   ]
 ];
