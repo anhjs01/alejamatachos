@@ -694,6 +694,11 @@ function renderCard(index,animate=true){
 for(let n=1;n<=365;n++){const wrap=document.createElement('div');wrap.className='door-wrap';const b=document.createElement('button');b.className='door '+shapes[(n*7+n%5)%shapes.length]+(n===1?' featured':'');b.type='button';b.innerHTML='<b>'+String(n).padStart(2,'0')+'</b>';b.setAttribute('aria-label','Abrir puerta '+n);b.style.setProperty('--tilt',(((n%5)-2)*1.2)+'deg');b.addEventListener('click',()=>openDoor(n));const label=document.createElement('span');label.className='door-keyword';label.setAttribute('aria-hidden','true');label.textContent='';wrap.append(b,label);grid.appendChild(wrap)}
 function openDoor(n){
  if(!backdrop.classList.contains('open'))previousFocus=document.activeElement;active=n;openedDays.add(n);window.AlejaDiasAbiertos=openedDays;try{localStorage.setItem(openedStorageKey,JSON.stringify([...openedDays].sort((a,b)=>a-b)))}catch(_){}window.dispatchEvent(new CustomEvent('aleja:dia-abierto',{detail:{dia:n}}));const d=entryFor(n);
+ // La apertura de la puerta es una acción directa de la persona: intenta iniciar
+ // aquí la canción asignada para conservar el gesto de usuario que exige el navegador.
+ if(d&&window.SorpresaReproductor&&typeof window.SorpresaReproductor.reproducirDia==="function"){
+  try{window.SorpresaReproductor.reproducirDia(d)}catch(error){console.warn("No se pudo iniciar la canción del día:",error)}
+ }
  document.querySelector('#day-label').textContent='PUERTA '+String(n).padStart(3,'0')+' / 365'+(d&&d.fechaTexto?' · '+d.fechaTexto.toUpperCase():'');
  document.querySelector('#letter-title').textContent=d?(safeText(d.categoria)||'UN DETALLE PARA TI').toUpperCase():(n<=365?'ESTA PUERTA ESTÁ POR DESCUBRIR':'');
  activeCards=cardsFor(d);renderCard(0,false);
@@ -718,7 +723,7 @@ backdrop.addEventListener('click',e=>{if(e.target===backdrop)close()});
 document.addEventListener('keydown',e=>{if(!backdrop.classList.contains('open'))return;if(e.key==='Escape'){close();return}if(e.key==='Tab'){const focusables=[...backdrop.querySelectorAll('button:not(:disabled),a[href],[tabindex]:not([tabindex="-1"])')].filter(el=>!el.hasAttribute('hidden'));if(!focusables.length)return;const first=focusables[0],last=focusables[focusables.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus()}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}}});
 document.querySelector('#play-day-song').addEventListener('click',()=>{const d=entryFor(active);if(d&&d.youtubeId&&window.SorpresaReproductor){window.SorpresaReproductor.reproducirDia(d)}else{const b=document.querySelector('#play-day-song');b.textContent='CANCIÓN NO DISPONIBLE PARA ESTE DÍA';b.disabled=true}});
 const oldOpenDoor=openDoor;
-openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySelector('#play-day-song');b.disabled=!(d&&d.youtubeId);b.textContent=(d&&d.youtubeId)?'▶ ESCUCHAR CANCIÓN DEL DÍA':'CANCIÓN AÚN NO DISPONIBLE';};
+openDoor=function(n){oldOpenDoor(n);const d=entryFor(n);const b=document.querySelector('#play-day-song');b.disabled=!(d&&d.youtubeId);b.textContent=(d&&d.youtubeId)?'↻ VOLVER A ESCUCHAR CANCIÓN DEL DÍA':'CANCIÓN AÚN NO DISPONIBLE';};
 document.querySelector('#save').addEventListener('click',()=>{visited.add(active);try{localStorage.setItem(storageKey,JSON.stringify([...visited]))}catch(_){}update();close();const t=document.querySelector('#toast');t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)});
 
 
