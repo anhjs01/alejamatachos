@@ -12106,5 +12106,327 @@ const CALENDARIO = [
       "significado": "Parte final de una historia en la que se resuelve o transforma el conflicto.",
       "ejemplo": "Un desenlace distinto puede cambiar por completo el sentido de una historia."
     }
+  },
+  {
+    "dia": 273,
+    "fecha": "2027-07-15",
+    "fechaTexto": "jue, 15 de jul",
+    "categoria": "El laboratorio de mapas imaginarios",
+    "icono": "🗺️",
+    "tono": "geografía creativa",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a dibujar un lugar que no aparece en ningún mapa real.",
+    "poema": [
+      "Inventa una isla, barrio o pequeño planeta. Dibuja un mapa con cinco lugares identificables: un sitio para descansar, uno peligroso pero curioso, uno donde se consigue algo extraño, un punto de encuentro y un lugar secreto. Añade una leyenda con tres símbolos y bautiza al menos dos caminos. No tiene que quedar bonito ni a escala: debe permitir que otra persona entienda cómo recorrerlo.",
+      "Escribe una recomendación para quien visite ese lugar por primera vez, como si fueras guía local."
+    ],
+    "detalle": "Escribe una recomendación para quien visite ese lugar por primera vez, como si fueras guía local.",
+    "buenasNoches": "A veces un mapa no sirve para llegar a un lugar, sino para descubrirlo con la imaginación.",
+    "cancionTitulo": "Horas Extras",
+    "cancionArtista": "Crudo Means Raw; DJ Dmoe",
+    "youtubeId": "R5mHN8suqV8",
+    "cancionUrl": "https://www.youtube.com/watch?v=R5mHN8suqV8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a dibujar un lugar que no aparece en ningún mapa real."
+      },
+      "mensajePrincipal": {
+        "titulo": "El laboratorio de mapas imaginarios",
+        "contenido": "Inventa una isla, barrio o pequeño planeta. Dibuja un mapa con cinco lugares identificables: un sitio para descansar, uno peligroso pero curioso, uno donde se consigue algo extraño, un punto de encuentro y un lugar secreto. Añade una leyenda con tres símbolos y bautiza al menos dos caminos. No tiene que quedar bonito ni a escala: debe permitir que otra persona entienda cómo recorrerlo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra cartografía",
+        "contenido": "Arte y técnica de representar espacios mediante mapas. Una cartografía imaginaria puede mostrar lugares que existen solo en una historia."
+      },
+      "buenasNoches": {
+        "contenido": "A veces un mapa no sirve para llegar a un lugar, sino para descubrirlo con la imaginación."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Cartografía",
+      "significado": "Arte y técnica de representar espacios mediante mapas.",
+      "ejemplo": "Una cartografía imaginaria puede mostrar lugares que existen solo en una historia."
+    }
+  },
+  {
+    "dia": 274,
+    "fecha": "2027-07-16",
+    "fechaTexto": "vie, 16 de jul",
+    "categoria": "El reto de la memoria por categorías",
+    "icono": "🧠",
+    "tono": "juego mental",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a poner a prueba la memoria con una ronda rápida y divertida.",
+    "poema": [
+      "Elijan una categoría concreta —comidas, ciudades, películas, animales o canciones— y una letra al azar. Tienen 45 segundos para escribir tantas respuestas válidas como puedan. En la segunda ronda cambien la regla: cada respuesta debe comenzar con la última letra de la anterior. No se vale repetir ni buscar en internet; si juegan en grupo, las respuestas duplicadas entre participantes no suman puntos.",
+      "Hagan tres rondas y celebren las respuestas más inesperadas, no solamente la puntuación más alta."
+    ],
+    "detalle": "Hagan tres rondas y celebren las respuestas más inesperadas, no solamente la puntuación más alta.",
+    "buenasNoches": "La memoria también se entrena jugando y conectando ideas.",
+    "cancionTitulo": "Ms. Jackson",
+    "cancionArtista": "Outkast",
+    "youtubeId": "MYxAiK6VnXw",
+    "cancionUrl": "https://www.youtube.com/watch?v=MYxAiK6VnXw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a poner a prueba la memoria con una ronda rápida y divertida."
+      },
+      "mensajePrincipal": {
+        "titulo": "El reto de la memoria por categorías",
+        "contenido": "Elijan una categoría concreta —comidas, ciudades, películas, animales o canciones— y una letra al azar. Tienen 45 segundos para escribir tantas respuestas válidas como puedan. En la segunda ronda cambien la regla: cada respuesta debe comenzar con la última letra de la anterior. No se vale repetir ni buscar en internet; si juegan en grupo, las respuestas duplicadas entre participantes no suman puntos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra asociación",
+        "contenido": "Relación que la mente establece entre ideas, objetos o experiencias. Las asociaciones ayudan a recordar elementos conectándolos con una misma categoría."
+      },
+      "buenasNoches": {
+        "contenido": "La memoria también se entrena jugando y conectando ideas."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Asociación",
+      "significado": "Relación que la mente establece entre ideas, objetos o experiencias.",
+      "ejemplo": "Las asociaciones ayudan a recordar elementos conectándolos con una misma categoría."
+    }
+  },
+  {
+    "dia": 275,
+    "fecha": "2027-07-17",
+    "fechaTexto": "sáb, 17 de jul",
+    "categoria": "La ruta de los sabores de una ciudad",
+    "icono": "🥤",
+    "tono": "plan urbano y exploración",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Este sábado la idea es hacer una salida corta con una parada para probar algo diferente.",
+    "poema": [
+      "Elijan una zona caminable y recorran dos o tres cuadras que no suelan visitar. La misión es encontrar una bebida nueva o una preparación sencilla que despierte curiosidad, revisar qué ingredientes tiene y disfrutarla con calma en un lugar agradable. Pueden complementar con una caminata breve o mirar vitrinas y espacios culturales. Si se trata de alimentos o bebidas empacados, revisen etiquetas y posibles trazas de maní; ante dudas sobre ingredientes o contaminación cruzada, mejor no consumirlos.",
+      "No hace falta gastar mucho ni recorrer media ciudad: el objetivo es cambiar de ambiente y descubrir un detalle nuevo."
+    ],
+    "detalle": "No hace falta gastar mucho ni recorrer media ciudad: el objetivo es cambiar de ambiente y descubrir un detalle nuevo.",
+    "buenasNoches": "Una salida pequeña puede regalar una historia que no estaba en los planes.",
+    "cancionTitulo": "Where Is The Love?",
+    "cancionArtista": "Black Eyed Peas",
+    "youtubeId": "WpYeekQkAdc",
+    "cancionUrl": "https://www.youtube.com/watch?v=WpYeekQkAdc",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Este sábado la idea es hacer una salida corta con una parada para probar algo diferente."
+      },
+      "mensajePrincipal": {
+        "titulo": "La ruta de los sabores de una ciudad",
+        "contenido": "Elijan una zona caminable y recorran dos o tres cuadras que no suelan visitar. La misión es encontrar una bebida nueva o una preparación sencilla que despierte curiosidad, revisar qué ingredientes tiene y disfrutarla con calma en un lugar agradable. Pueden complementar con una caminata breve o mirar vitrinas y espacios culturales. Si se trata de alimentos o bebidas empacados, revisen etiquetas y posibles trazas de maní; ante dudas sobre ingredientes o contaminación cruzada, mejor no consumirlos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra degustación",
+        "contenido": "Prueba de una pequeña porción para apreciar sus características. Una degustación permite explorar sabores sin convertirlo en una comida larga."
+      },
+      "buenasNoches": {
+        "contenido": "Una salida pequeña puede regalar una historia que no estaba en los planes."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Degustación",
+      "significado": "Prueba de una pequeña porción para apreciar sus características.",
+      "ejemplo": "Una degustación permite explorar sabores sin convertirlo en una comida larga."
+    }
+  },
+  {
+    "dia": 276,
+    "fecha": "2027-07-18",
+    "fechaTexto": "dom, 18 de jul",
+    "categoria": "El desafío de traducir emociones a colores",
+    "icono": "🌈",
+    "tono": "expresión artística",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a representar una emoción sin escribir su nombre.",
+    "poema": [
+      "Elige una emoción —tranquilidad, entusiasmo, nostalgia, curiosidad o cualquier otra— y crea una paleta de cuatro colores que la represente. Puedes usar lápices, marcadores o una herramienta digital. Después asigna a cada color una función: fondo, acento, contraste y detalle. Muestra la composición sin decir qué emoción elegiste y deja que otra persona intente interpretarla.",
+      "Cuenta por qué escogiste esos tonos y si la interpretación de la otra persona se acercó a lo que querías transmitir."
+    ],
+    "detalle": "Cuenta por qué escogiste esos tonos y si la interpretación de la otra persona se acercó a lo que querías transmitir.",
+    "buenasNoches": "No siempre necesitamos explicar lo que sentimos; a veces podemos empezar por encontrarle un color.",
+    "cancionTitulo": "Still D.R.E.",
+    "cancionArtista": "Dr. Dre; Snoop Dogg",
+    "youtubeId": "_CL6n0FJZpk",
+    "cancionUrl": "https://www.youtube.com/watch?v=_CL6n0FJZpk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a representar una emoción sin escribir su nombre."
+      },
+      "mensajePrincipal": {
+        "titulo": "El desafío de traducir emociones a colores",
+        "contenido": "Elige una emoción —tranquilidad, entusiasmo, nostalgia, curiosidad o cualquier otra— y crea una paleta de cuatro colores que la represente. Puedes usar lápices, marcadores o una herramienta digital. Después asigna a cada color una función: fondo, acento, contraste y detalle. Muestra la composición sin decir qué emoción elegiste y deja que otra persona intente interpretarla."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra paleta",
+        "contenido": "Conjunto de colores elegidos para una composición o diseño. Una paleta puede comunicar una emoción sin necesidad de palabras."
+      },
+      "buenasNoches": {
+        "contenido": "No siempre necesitamos explicar lo que sentimos; a veces podemos empezar por encontrarle un color."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Paleta",
+      "significado": "Conjunto de colores elegidos para una composición o diseño.",
+      "ejemplo": "Una paleta puede comunicar una emoción sin necesidad de palabras."
+    }
+  },
+  {
+    "dia": 277,
+    "fecha": "2027-07-19",
+    "fechaTexto": "lun, 19 de jul",
+    "categoria": "El menú de una pausa de oficina",
+    "icono": "☕",
+    "tono": "bienestar cotidiano",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a diseñar una pausa breve que sí quepa en un día ocupado.",
+    "poema": [
+      "Pon una alarma para una pausa de cinco minutos. Levántate si puedes, cambia la postura, mueve hombros y muñecas suavemente, mira a un punto lejano durante unos segundos y toma agua. Después elige una tarea pequeña que puedas cerrar antes de volver a lo demás. Ajusta los movimientos a lo que te resulte cómodo y no fuerces ninguna articulación.",
+      "Si te sirvió, guarda esta secuencia para repetirla cuando lleves mucho rato concentrada o sentado."
+    ],
+    "detalle": "Si te sirvió, guarda esta secuencia para repetirla cuando lleves mucho rato concentrada o sentado.",
+    "buenasNoches": "Descansar un momento no es perder tiempo: también ayuda a cuidar el ritmo.",
+    "cancionTitulo": "Family Affair",
+    "cancionArtista": "Mary J. Blige",
+    "youtubeId": "znlFu_lemsU",
+    "cancionUrl": "https://www.youtube.com/watch?v=znlFu_lemsU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a diseñar una pausa breve que sí quepa en un día ocupado."
+      },
+      "mensajePrincipal": {
+        "titulo": "El menú de una pausa de oficina",
+        "contenido": "Pon una alarma para una pausa de cinco minutos. Levántate si puedes, cambia la postura, mueve hombros y muñecas suavemente, mira a un punto lejano durante unos segundos y toma agua. Después elige una tarea pequeña que puedas cerrar antes de volver a lo demás. Ajusta los movimientos a lo que te resulte cómodo y no fuerces ninguna articulación."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra pausa activa",
+        "contenido": "Interrupción breve de una actividad para recuperar energía y movilidad. Una pausa activa corta puede aliviar la rigidez de permanecer mucho tiempo en la misma posición."
+      },
+      "buenasNoches": {
+        "contenido": "Descansar un momento no es perder tiempo: también ayuda a cuidar el ritmo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Pausa activa",
+      "significado": "Interrupción breve de una actividad para recuperar energía y movilidad.",
+      "ejemplo": "Una pausa activa corta puede aliviar la rigidez de permanecer mucho tiempo en la misma posición."
+    }
+  },
+  {
+    "dia": 278,
+    "fecha": "2027-07-20",
+    "fechaTexto": "mar, 20 de jul",
+    "categoria": "La misión de fotografiar detalles invisibles",
+    "icono": "📷",
+    "tono": "fotografía y observación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a mirar de cerca algo que normalmente vemos de lejos.",
+    "poema": [
+      "Usa la cámara del celular para fotografiar tres detalles pequeños: la textura de una tela, las líneas de una hoja, las marcas de un objeto usado o las gotas sobre un vidrio. Acércate hasta donde la cámara enfoque con claridad, busca luz natural y prueba distintos ángulos. No necesitas lente especial. Luego muestra las fotos sin revelar qué objeto es y deja que alguien adivine.",
+      "Elige la imagen más curiosa y ponle un título como si fuera una obra de exposición."
+    ],
+    "detalle": "Elige la imagen más curiosa y ponle un título como si fuera una obra de exposición.",
+    "buenasNoches": "Cuando nos acercamos a mirar, lo cotidiano puede parecer completamente nuevo.",
+    "cancionTitulo": "Big Poppa - 2005 Remaster",
+    "cancionArtista": "The Notorious B.I.G.",
+    "youtubeId": "phaJXp_zMYM",
+    "cancionUrl": "https://www.youtube.com/watch?v=phaJXp_zMYM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a mirar de cerca algo que normalmente vemos de lejos."
+      },
+      "mensajePrincipal": {
+        "titulo": "La misión de fotografiar detalles invisibles",
+        "contenido": "Usa la cámara del celular para fotografiar tres detalles pequeños: la textura de una tela, las líneas de una hoja, las marcas de un objeto usado o las gotas sobre un vidrio. Acércate hasta donde la cámara enfoque con claridad, busca luz natural y prueba distintos ángulos. No necesitas lente especial. Luego muestra las fotos sin revelar qué objeto es y deja que alguien adivine."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra macro",
+        "contenido": "Técnica fotográfica que permite mostrar detalles muy pequeños de un objeto. Una fotografía macro convierte una textura cotidiana en un paisaje sorprendente."
+      },
+      "buenasNoches": {
+        "contenido": "Cuando nos acercamos a mirar, lo cotidiano puede parecer completamente nuevo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Macro",
+      "significado": "Técnica fotográfica que permite mostrar detalles muy pequeños de un objeto.",
+      "ejemplo": "Una fotografía macro convierte una textura cotidiana en un paisaje sorprendente."
+    }
+  },
+  {
+    "dia": 279,
+    "fecha": "2027-07-21",
+    "fechaTexto": "mié, 21 de jul",
+    "categoria": "El club de las decisiones pequeñas",
+    "icono": "🪴",
+    "tono": "reflexión y autonomía",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a reconocer una decisión pequeña que podamos tomar por cuenta propia.",
+    "poema": [
+      "Piensa en una parte de tu rutina que suelas dejar en automático: cómo organizas tu descanso, qué haces en un rato libre, qué actividad pospones o cómo distribuyes una tarea. Elige un cambio pequeño que dependa de ti y pruébalo durante un día. Puede ser reservar veinte minutos para algo que disfrutes, pedir ayuda con una tarea o decir que no a un compromiso que no puedes asumir.",
+      "Al final del día, anota si esa decisión te hizo sentir más tranquilo, más organizado o simplemente diferente."
+    ],
+    "detalle": "Al final del día, anota si esa decisión te hizo sentir más tranquilo, más organizado o simplemente diferente.",
+    "buenasNoches": "No todas las decisiones tienen que ser enormes para recordarnos que tenemos voz sobre nuestro propio tiempo.",
+    "cancionTitulo": "Can't Tell Me Nothing",
+    "cancionArtista": "Kanye West",
+    "youtubeId": "hqvcww4ydh8",
+    "cancionUrl": "https://www.youtube.com/watch?v=hqvcww4ydh8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a reconocer una decisión pequeña que podamos tomar por cuenta propia."
+      },
+      "mensajePrincipal": {
+        "titulo": "El club de las decisiones pequeñas",
+        "contenido": "Piensa en una parte de tu rutina que suelas dejar en automático: cómo organizas tu descanso, qué haces en un rato libre, qué actividad pospones o cómo distribuyes una tarea. Elige un cambio pequeño que dependa de ti y pruébalo durante un día. Puede ser reservar veinte minutos para algo que disfrutes, pedir ayuda con una tarea o decir que no a un compromiso que no puedes asumir."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra autonomía",
+        "contenido": "Capacidad de tomar decisiones propias y actuar con independencia. La autonomía también se practica al elegir pequeñas cosas de acuerdo con lo que necesitamos."
+      },
+      "buenasNoches": {
+        "contenido": "No todas las decisiones tienen que ser enormes para recordarnos que tenemos voz sobre nuestro propio tiempo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Autonomía",
+      "significado": "Capacidad de tomar decisiones propias y actuar con independencia.",
+      "ejemplo": "La autonomía también se practica al elegir pequeñas cosas de acuerdo con lo que necesitamos."
+    }
   }
 ];
