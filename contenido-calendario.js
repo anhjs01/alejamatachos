@@ -8886,5 +8886,327 @@ const CALENDARIO = [
       "significado": "Manera en que termina una historia, una situación o un acontecimiento.",
       "ejemplo": "Un desenlace alternativo permite imaginar qué habría pasado si una decisión cambiaba."
     }
+  },
+  {
+    "dia": 203,
+    "fecha": "2027-05-06",
+    "fechaTexto": "jue, 6 de may",
+    "categoria": "La ciudad vista con otros ojos",
+    "icono": "🏙️",
+    "tono": "observación urbana",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto es mirar la ciudad como si fuera la primera vez.",
+    "poema": [
+      "En un recorrido normal —camino al trabajo, a estudiar o a hacer una vuelta— encuentren tres detalles que casi siempre pasan inadvertidos: una fachada, un aviso curioso, una combinación de colores, una conversación suelta o una sombra. Si quieren, tomen una foto de un detalle sin personas identificables y cuenten por qué les llamó la atención.",
+      "Pongan a esos tres hallazgos nombres de exposición, como si fueran piezas de una galería callejera."
+    ],
+    "detalle": "Pongan a esos tres hallazgos nombres de exposición, como si fueran piezas de una galería callejera.",
+    "buenasNoches": "A veces no necesitamos ir lejos para descubrir algo; basta con prestar atención.",
+    "cancionTitulo": "Bacatá",
+    "cancionArtista": "1703; El Kalvo; $trasse",
+    "youtubeId": "QF2M5IWCJNQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=QF2M5IWCJNQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto es mirar la ciudad como si fuera la primera vez."
+      },
+      "mensajePrincipal": {
+        "titulo": "La ciudad vista con otros ojos",
+        "contenido": "En un recorrido normal —camino al trabajo, a estudiar o a hacer una vuelta— encuentren tres detalles que casi siempre pasan inadvertidos: una fachada, un aviso curioso, una combinación de colores, una conversación suelta o una sombra. Si quieren, tomen una foto de un detalle sin personas identificables y cuenten por qué les llamó la atención."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra perspectiva",
+        "contenido": "Punto de vista desde el que se observa o interpreta algo. Cambiar la perspectiva puede convertir una ruta conocida en un lugar nuevo."
+      },
+      "buenasNoches": {
+        "contenido": "A veces no necesitamos ir lejos para descubrir algo; basta con prestar atención."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Perspectiva",
+      "significado": "Punto de vista desde el que se observa o interpreta algo.",
+      "ejemplo": "Cambiar la perspectiva puede convertir una ruta conocida en un lugar nuevo."
+    }
+  },
+  {
+    "dia": 204,
+    "fecha": "2027-05-07",
+    "fechaTexto": "vie, 7 de may",
+    "categoria": "La receta de una bebida inventada",
+    "icono": "🥤",
+    "tono": "creatividad y bebidas",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a crear una bebida con nombre propio, sin complicarnos la vida.",
+    "poema": [
+      "Inventen una bebida sin alcohol con dos o tres ingredientes: agua con limón y hierbabuena, té frío con durazno o agua con rodajas de naranja y pepino. Pónganle un nombre y describan para qué momento del día sería perfecta. Si la preparan, usen ingredientes seguros, revisen etiquetas y eviten cualquier producto con maní o riesgo de contaminación cruzada.",
+      "Hagan una mini carta de bebidas con el nombre, los ingredientes y una frase publicitaria. No es necesario comprar nada ni prepararla hoy."
+    ],
+    "detalle": "Hagan una mini carta de bebidas con el nombre, los ingredientes y una frase publicitaria. No es necesario comprar nada ni prepararla hoy.",
+    "buenasNoches": "Que algo sea refrescante no depende de que sea elaborado; a veces lo simple gana.",
+    "cancionTitulo": "Vital (Téngase)",
+    "cancionArtista": "Crudo Means Raw",
+    "youtubeId": "cgJvtgZ7rBk",
+    "cancionUrl": "https://www.youtube.com/watch?v=cgJvtgZ7rBk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a crear una bebida con nombre propio, sin complicarnos la vida."
+      },
+      "mensajePrincipal": {
+        "titulo": "La receta de una bebida inventada",
+        "contenido": "Inventen una bebida sin alcohol con dos o tres ingredientes: agua con limón y hierbabuena, té frío con durazno o agua con rodajas de naranja y pepino. Pónganle un nombre y describan para qué momento del día sería perfecta. Si la preparan, usen ingredientes seguros, revisen etiquetas y eviten cualquier producto con maní o riesgo de contaminación cruzada."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra infusión",
+        "contenido": "Bebida que se obtiene al dejar ingredientes en agua para extraer su sabor o aroma. Una infusión fría puede ser sencilla: fruta, agua y un rato de reposo."
+      },
+      "buenasNoches": {
+        "contenido": "Que algo sea refrescante no depende de que sea elaborado; a veces lo simple gana."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Infusión",
+      "significado": "Bebida que se obtiene al dejar ingredientes en agua para extraer su sabor o aroma.",
+      "ejemplo": "Una infusión fría puede ser sencilla: fruta, agua y un rato de reposo."
+    }
+  },
+  {
+    "dia": 205,
+    "fecha": "2027-05-08",
+    "fechaTexto": "sáb, 8 de may",
+    "categoria": "El juicio de un personaje",
+    "icono": "⚖️",
+    "tono": "juego de argumentos y ficción",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy tenemos un juicio ficticio y un personaje en el banquillo.",
+    "poema": [
+      "Elijan un personaje de una serie, película, libro o anime que ambos conozcan. Una persona será fiscal y la otra defensa: tienen dos minutos cada una para argumentar si una decisión del personaje fue correcta o no. Luego cambien de postura e intenten defender el lado contrario. Pueden usar personajes de Jujutsu Kaisen o Harry Potter, pero no es obligatorio.",
+      "Elijan el argumento más convincente, no necesariamente la postura con la que estaban de acuerdo al principio."
+    ],
+    "detalle": "Elijan el argumento más convincente, no necesariamente la postura con la que estaban de acuerdo al principio.",
+    "buenasNoches": "Escuchar una postura distinta también puede ser una forma de descubrir algo.",
+    "cancionTitulo": "Malpensante",
+    "cancionArtista": "Noiseferatu",
+    "youtubeId": "rThYUXZyTeA",
+    "cancionUrl": "https://www.youtube.com/watch?v=rThYUXZyTeA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy tenemos un juicio ficticio y un personaje en el banquillo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El juicio de un personaje",
+        "contenido": "Elijan un personaje de una serie, película, libro o anime que ambos conozcan. Una persona será fiscal y la otra defensa: tienen dos minutos cada una para argumentar si una decisión del personaje fue correcta o no. Luego cambien de postura e intenten defender el lado contrario. Pueden usar personajes de Jujutsu Kaisen o Harry Potter, pero no es obligatorio."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra alegato",
+        "contenido": "Argumento que se presenta para defender una postura o explicar una decisión. Un buen alegato no solo dice qué piensa: también explica por qué."
+      },
+      "buenasNoches": {
+        "contenido": "Escuchar una postura distinta también puede ser una forma de descubrir algo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Alegato",
+      "significado": "Argumento que se presenta para defender una postura o explicar una decisión.",
+      "ejemplo": "Un buen alegato no solo dice qué piensa: también explica por qué."
+    }
+  },
+  {
+    "dia": 206,
+    "fecha": "2027-05-09",
+    "fechaTexto": "dom, 9 de may",
+    "categoria": "Un retrato hecho de palabras",
+    "icono": "🖋️",
+    "tono": "escritura creativa",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy no vamos a describir una cara, sino una personalidad usando imágenes.",
+    "poema": [
+      "Escriban un retrato breve de alguien —puede ser ustedes mismos, un personaje o una persona inventada— sin mencionar su apariencia ni usar adjetivos directos como amable, inteligente o divertido. En su lugar, utilicen tres imágenes: «es como…», «tiene algo de…», «cuando llega, parece que…». La otra persona intenta adivinar qué rasgos quisieron transmitir.",
+      "Si les gusta el resultado, guárdenlo como una pequeña pieza literaria. No tiene que ser dedicado a nadie ni compartirse si prefieren conservarlo."
+    ],
+    "detalle": "Si les gusta el resultado, guárdenlo como una pequeña pieza literaria. No tiene que ser dedicado a nadie ni compartirse si prefieren conservarlo.",
+    "buenasNoches": "Hay personas que se entienden mejor por lo que evocan que por una lista de características.",
+    "cancionTitulo": "De la Cuna al Ataud",
+    "cancionArtista": "La Etnnia; Full Nelson",
+    "youtubeId": "iNL9MXulJCY",
+    "cancionUrl": "https://www.youtube.com/watch?v=iNL9MXulJCY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy no vamos a describir una cara, sino una personalidad usando imágenes."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un retrato hecho de palabras",
+        "contenido": "Escriban un retrato breve de alguien —puede ser ustedes mismos, un personaje o una persona inventada— sin mencionar su apariencia ni usar adjetivos directos como amable, inteligente o divertido. En su lugar, utilicen tres imágenes: «es como…», «tiene algo de…», «cuando llega, parece que…». La otra persona intenta adivinar qué rasgos quisieron transmitir."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra metáfora",
+        "contenido": "Figura que describe algo mediante una comparación implícita con otra cosa. Decir que alguien es una ventana abierta es una metáfora, no una descripción literal."
+      },
+      "buenasNoches": {
+        "contenido": "Hay personas que se entienden mejor por lo que evocan que por una lista de características."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Metáfora",
+      "significado": "Figura que describe algo mediante una comparación implícita con otra cosa.",
+      "ejemplo": "Decir que alguien es una ventana abierta es una metáfora, no una descripción literal."
+    }
+  },
+  {
+    "dia": 207,
+    "fecha": "2027-05-10",
+    "fechaTexto": "lun, 10 de may",
+    "categoria": "El plan de aprender algo en una hora",
+    "icono": "⏳",
+    "tono": "curiosidad y aprendizaje",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Escoge algo pequeño que siempre te haya dado curiosidad y dale una hora de atención.",
+    "poema": [
+      "Cada quien propone una habilidad o tema que pueda explorarse en una hora: aprender un nudo útil, reconocer constelaciones básicas, hacer una figura de origami, entender un truco de edición o practicar unas frases en otro idioma. Busquen una guía sencilla y prueben; la meta no es dominarlo, sino salir sabiendo un poco más que antes.",
+      "Al final compartan el descubrimiento más inesperado y si seguirían aprendiendo por gusto."
+    ],
+    "detalle": "Al final compartan el descubrimiento más inesperado y si seguirían aprendiendo por gusto.",
+    "buenasNoches": "No todo aprendizaje necesita convertirse en una meta enorme; la curiosidad ya es una buena razón.",
+    "cancionTitulo": "Jaula de Oro - Original",
+    "cancionArtista": "Laberinto ELC",
+    "youtubeId": "BNLL8DJgkfI",
+    "cancionUrl": "https://www.youtube.com/watch?v=BNLL8DJgkfI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Escoge algo pequeño que siempre te haya dado curiosidad y dale una hora de atención."
+      },
+      "mensajePrincipal": {
+        "titulo": "El plan de aprender algo en una hora",
+        "contenido": "Cada quien propone una habilidad o tema que pueda explorarse en una hora: aprender un nudo útil, reconocer constelaciones básicas, hacer una figura de origami, entender un truco de edición o practicar unas frases en otro idioma. Busquen una guía sencilla y prueben; la meta no es dominarlo, sino salir sabiendo un poco más que antes."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra diletante",
+        "contenido": "Persona que explora un tema por interés y gusto, sin dedicarse profesionalmente a él. Ser diletante también es permitirse aprender solo por curiosidad."
+      },
+      "buenasNoches": {
+        "contenido": "No todo aprendizaje necesita convertirse en una meta enorme; la curiosidad ya es una buena razón."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Diletante",
+      "significado": "Persona que explora un tema por interés y gusto, sin dedicarse profesionalmente a él.",
+      "ejemplo": "Ser diletante también es permitirse aprender solo por curiosidad."
+    }
+  },
+  {
+    "dia": 208,
+    "fecha": "2027-05-11",
+    "fechaTexto": "mar, 11 de may",
+    "categoria": "La lista de pequeñas victorias",
+    "icono": "🌱",
+    "tono": "reconocimiento y ánimo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vale la pena reconocer esas cosas que uno suele pasar por alto.",
+    "poema": [
+      "Anoten cinco pequeñas victorias recientes: haber terminado algo pendiente, pedir ayuda, descansar cuando hacía falta, intentar de nuevo, poner un límite o simplemente atravesar una semana complicada. No tienen que ser logros impresionantes ni comparables con los de nadie. Si quieren compartirlas, cuenten qué les costó y qué les ayudó.",
+      "Escojan una de esas victorias y pónganle un título como si fuera el capítulo de una película."
+    ],
+    "detalle": "Escojan una de esas victorias y pónganle un título como si fuera el capítulo de una película.",
+    "buenasNoches": "No minimices lo que te tomó esfuerzo, incluso si desde afuera parecía sencillo.",
+    "cancionTitulo": "El Día de Mi Suerte",
+    "cancionArtista": "El Redcode",
+    "youtubeId": "ApqRPZ8xO6g",
+    "cancionUrl": "https://www.youtube.com/watch?v=ApqRPZ8xO6g",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vale la pena reconocer esas cosas que uno suele pasar por alto."
+      },
+      "mensajePrincipal": {
+        "titulo": "La lista de pequeñas victorias",
+        "contenido": "Anoten cinco pequeñas victorias recientes: haber terminado algo pendiente, pedir ayuda, descansar cuando hacía falta, intentar de nuevo, poner un límite o simplemente atravesar una semana complicada. No tienen que ser logros impresionantes ni comparables con los de nadie. Si quieren compartirlas, cuenten qué les costó y qué les ayudó."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra resiliencia",
+        "contenido": "Capacidad de adaptarse y recuperarse ante situaciones difíciles. La resiliencia también se nota en las veces que uno vuelve a intentarlo sin hacer ruido."
+      },
+      "buenasNoches": {
+        "contenido": "No minimices lo que te tomó esfuerzo, incluso si desde afuera parecía sencillo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Resiliencia",
+      "significado": "Capacidad de adaptarse y recuperarse ante situaciones difíciles.",
+      "ejemplo": "La resiliencia también se nota en las veces que uno vuelve a intentarlo sin hacer ruido."
+    }
+  },
+  {
+    "dia": 209,
+    "fecha": "2027-05-12",
+    "fechaTexto": "mié, 12 de may",
+    "categoria": "La cita con una librería imaginaria",
+    "icono": "📚",
+    "tono": "historias y recomendaciones",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a abrir una librería imaginaria con libros que todavía no existen.",
+    "poema": [
+      "Inventen el título de un libro que les gustaría leer y escriban su sinopsis en cuatro líneas. Puede ser una comedia, misterio, fantasía, romance, ciencia ficción o una mezcla extraña. Después intercambien los títulos e intenten diseñar una portada rápida en papel o en el lienzo digital, sin preocuparse por dibujar perfecto.",
+      "Cada quien recomienda el libro inventado de la otra persona como si fuera una novedad editorial que merece estar en primera fila."
+    ],
+    "detalle": "Cada quien recomienda el libro inventado de la otra persona como si fuera una novedad editorial que merece estar en primera fila.",
+    "buenasNoches": "Las historias empiezan mucho antes de escribirse: a veces nacen de una pregunta o un título.",
+    "cancionTitulo": "Rifo los Lunes",
+    "cancionArtista": "Alcolirykoz; Gordo Sarkasmus",
+    "youtubeId": "Z6vTjCPva5Q",
+    "cancionUrl": "https://www.youtube.com/watch?v=Z6vTjCPva5Q",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a abrir una librería imaginaria con libros que todavía no existen."
+      },
+      "mensajePrincipal": {
+        "titulo": "La cita con una librería imaginaria",
+        "contenido": "Inventen el título de un libro que les gustaría leer y escriban su sinopsis en cuatro líneas. Puede ser una comedia, misterio, fantasía, romance, ciencia ficción o una mezcla extraña. Después intercambien los títulos e intenten diseñar una portada rápida en papel o en el lienzo digital, sin preocuparse por dibujar perfecto."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sinopsis",
+        "contenido": "Resumen breve que presenta de qué trata una obra sin contar todos sus detalles. Una buena sinopsis despierta curiosidad sin revelar el final."
+      },
+      "buenasNoches": {
+        "contenido": "Las historias empiezan mucho antes de escribirse: a veces nacen de una pregunta o un título."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sinopsis",
+      "significado": "Resumen breve que presenta de qué trata una obra sin contar todos sus detalles.",
+      "ejemplo": "Una buena sinopsis despierta curiosidad sin revelar el final."
+    }
   }
 ];
