@@ -3910,7 +3910,7 @@ const CALENDARIO = [
     "buenosDias": "Si hoy sales un rato, prueba mirar el lugar como si fuera nuevo. Y si te quedas en casa, también puedes jugar a encontrar detalles que normalmente pasan inadvertidos.",
     "poema": [
       "En una caminata corta por un lugar público seguro —o dentro de casa si prefieren— busquen siete detalles: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que suene suave, una combinación de colores y algo que les haga sonreír. Cada persona elige tres detalles y explica por qué los notó. No hace falta comprar nada ni entrar a sitios privados; si salen, revisen clima, horario y camino de regreso. Si el paseo no encaja ese día, la versión en casa funciona igual. Al final, elijan un detalle y descríbanlo con tres palabras. ¿Qué crees que notarías primero?",
-      "Sutileza: Cualidad de algo delicado, fino o difícil de percibir a primera vista. La sutileza de una sombra puede cambiar cómo se ve un rincón."
+      "Perspicacia: Capacidad de observar y comprender detalles que no resultan evidentes para todos. Su perspicacia le permitió notar una forma curiosa en la sombra."
     ],
     "detalle": "En una caminata corta por un lugar público seguro —o dentro de casa si prefieren— busquen siete detalles: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que suene suave, una combinación de colores y algo que les haga sonreír. Cada persona elige tres detalles y explica por qué los notó. No hace falta comprar nada ni entrar a sitios privados; si salen, revisen clima, horario y camino de regreso. Si el paseo no encaja ese día, la versión en casa funciona igual. Al final, elijan un detalle y descríbanlo con tres palabras. ¿Qué crees que notarías primero?",
     "buenasNoches": "El mundo no siempre cambia cuando lo miramos distinto, pero nuestra experiencia sí puede cambiar bastante.",
@@ -3930,7 +3930,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de los detalles",
-        "contenido": "Sutileza: Cualidad de algo delicado, fino o difícil de percibir a primera vista. La sutileza de una sombra puede cambiar cómo se ve un rincón."
+        "contenido": "Perspicacia: Capacidad de observar y comprender detalles que no resultan evidentes para todos. Su perspicacia le permitió notar una forma curiosa en la sombra."
       },
       "buenasNoches": {
         "titulo": "El mundo no siempre cambia cuando lo miramos distinto, pero nuestra experiencia sí puede cambiar bastante.",
@@ -3938,9 +3938,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Sutileza",
-      "significado": "Cualidad de algo delicado, fino o difícil de percibir a primera vista.",
-      "ejemplo": "La sutileza de una sombra puede cambiar cómo se ve un rincón."
+      "palabra": "Perspicacia",
+      "significado": "Capacidad de observar y comprender detalles que no resultan evidentes para todos.",
+      "ejemplo": "Su perspicacia le permitió notar una forma curiosa en la sombra."
     }
   },
   {
