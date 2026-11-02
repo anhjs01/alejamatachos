@@ -417,7 +417,7 @@ const CALENDARIO = [
         "contenido": "Materiales: papel grueso o cartulina, lápiz, borrador, pincel fino y mediano, agua y pinturas acrílicas o gouache en rosa, blanco, verde y un tono oscuro. Primero dibuja un óvalo central; alrededor agrega pétalos en capas, unos más cortos al centro y otros abiertos hacia afuera. Pinta primero la silueta con un tono claro, deja secar y marca la separación entre pétalos con un rosa más intenso. Añade dos hojas verdes debajo. Reto extra: mezcla tres tonos de rosa sin usar el color directamente del envase. Tutorial de referencia: Tutorial de referencia: busca en YouTube «flor de loto paso a paso en YouTube».. Cuando lo termines, guarda la foto: será la referencia para el nivel 2.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS para el nivel 1. Guarda la misma hoja: los siguientes niveles deben mejorar esta flor, no empezar otra desde cero."
       },
       "palabraNueva": {
-        "titulo": "Palabra de taller",
+        "titulo": "La palabra pigmento",
         "contenido": "Pigmento. En el siguiente nivel vamos a trabajar luces, sombras y profundidad; por ahora, concéntrate en reconocer cómo cambia el color cuando lo mezclas."
       },
       "buenasNoches": {
@@ -512,7 +512,7 @@ const CALENDARIO = [
         "contenido": "Compra para dos: 2 pimentones grandes, 250 g de carne molida, ½ taza de arroz cocido, ½ cebolla, 1 tomate, 1 diente de ajo, ½ taza de salsa de tomate, queso rallado opcional, aceite, sal, pimienta, comino y un poquito de agua o caldo. Preparación: 1) corta la parte superior de los pimentones y retira semillas; 2) sofríe cebolla y ajo picados; 3) añade la carne, sal, pimienta y comino, y cocina hasta que esté bien hecha; 4) mezcla con el arroz y parte de la salsa; 5) rellena los pimentones; 6) ponlos de pie en una sartén profunda con el resto de la salsa y un chorrito de agua; 7) tapa y cocina a fuego bajo unos 25–35 minutos, girando la sartén si hace falta, hasta que los pimentones estén tiernos y la carne alcance cocción completa. Añade queso al final y tapa dos minutos para fundirlo. Si son muy altos, córtalos por la mitad a lo largo y acomódalos acostados.\n\nTIEMPO ESTIMADO: 30–35 MINUTOS. Si esta receta será el almuerzo de mañana, acuerden hoy quién la prepara, revisen qué ingredientes faltan y compren lo necesario al salir del trabajo."
       },
       "palabraNueva": {
-        "titulo": "Palabra de cocina",
+        "titulo": "La palabra sofreír",
         "contenido": "Sofreír. Es el primer paso que construye el sabor: cebolla y ajo suaves antes de que llegue la carne."
       },
       "buenasNoches": {
@@ -703,7 +703,7 @@ const CALENDARIO = [
         "contenido": "Reglas: cada uno propone dos películas; antes de empezar, cada quien explica en veinte segundos por qué la eligió, sin contar el final. Vemos la ganadora y al terminar puntuamos tres cosas: carcajadas, escena más absurda y personaje que nos cayó mejor. Si no nos convence en los primeros veinte minutos, tenemos derecho a cambiarla sin culpa. Acompañamiento: algo para picar y bebidas que nos gusten. La misión secreta es descubrir qué tipo de humor nos hace reír a los dos.\n\nTIEMPO DEL PLAN: 10 MINUTOS para elegir y votar, más la duración de la película escogida (normalmente 90–120 MINUTOS). La conversación posterior puede durar otros 10 minutos."
       },
       "palabraNueva": {
-        "titulo": "Palabra del día",
+        "titulo": "La palabra complicidad",
         "contenido": "Complicidad: ese idioma pequeño que se forma con bromas, miradas y referencias que no necesitan explicación."
       },
       "buenasNoches": {
@@ -799,7 +799,7 @@ const CALENDARIO = [
         "contenido": "Compra: 2 arepas grandes, 2 huevos, ½ aguacate, ½ tomate, un puñado de espinaca, queso rallado, ½ limón, aceite, sal y pimienta. 1) Dora las arepas en sartén por ambos lados y resérvalas. 2) Saltea la espinaca y el tomate picado durante dos minutos. 3) Cocina los huevos revueltos o fritos, como prefiramos. 4) Machaca el aguacate con limón, sal y pimienta. 5) Abre las arepas sin separarlas del todo, añade queso para que se funda con el calor, incorpora huevo y vegetales y termina con aguacate. Salsa rápida: mezcla una cucharada de aceite con limón, sal y pimienta hasta emulsionar. No requiere horno. Turno de cocina: hoy cocinamos juntos y cada uno arma su arepa a su gusto.\n\nTIEMPO ESTIMADO: 20–25 MINUTOS. Una persona prepara las arepas y la otra los huevos y vegetales; junten todo al final para que no se enfríe."
       },
       "palabraNueva": {
-        "titulo": "Palabra de cocina",
+        "titulo": "La palabra emulsionar",
         "contenido": "Emulsionar: mezclar aceite y limón hasta que se integren. Un truco pequeño para que una salsa sencilla tenga mejor textura."
       },
       "buenasNoches": {
@@ -942,7 +942,7 @@ const CALENDARIO = [
         "contenido": "Materiales: hojas, lápiz, marcadores, cartón reciclado, cinta y tijeras. Paso 1: cada uno inventa un objeto que resuelva un problema cotidiano de una manera inesperada. Paso 2: dibuja tres vistas: frente, lado y arriba. Paso 3: ponle nombre y escribe qué hace en una frase. Paso 4: construye una maqueta sencilla con cartón o papel. Nivel 2: añade una función inesperada. Nivel 3: intercambien diseños y cada uno debe mejorar el prototipo del otro sin borrar su idea original. Al final hacemos una presentación de un minuto como si estuviéramos vendiendo el invento.\n\nTIEMPO SUGERIDO: 25–30 MINUTOS. Dediquen 5 minutos a la idea, 10 al boceto y el resto a explicar cómo funcionaría el objeto."
       },
       "palabraNueva": {
-        "titulo": "Palabra de taller",
+        "titulo": "La palabra prototipo",
         "contenido": "Prototipo: una primera versión que sirve para probar, corregir y descubrir posibilidades. No tiene que quedar bonita todavía."
       },
       "buenasNoches": {
@@ -1134,7 +1134,7 @@ const CALENDARIO = [
         "contenido": "Materiales: papel grueso, lápiz, borrador, regla opcional y marcadores o pinturas. Nivel 1: dibuja solo las formas grandes y ubica horizonte, personajes u objetos sin detalles. Nivel 2: limita la paleta a cuatro colores y trabaja luces y sombras. Nivel 3: cambia un elemento de la escena —la hora del día, el clima o el color dominante— para contar una emoción distinta. Tutorial: en YouTube busca «cómo dibujar composición de una escena cinematográfica para principiantes». Si lo hacemos juntos, cada uno elige un fotograma distinto de la misma película y comparamos cómo lo interpretamos.\n\nTIEMPO SUGERIDO: 30–45 MINUTOS. Nivel 1: 10 minutos; nivel 2: 10–15; nivel 3: el tiempo restante para luces, detalles y acabado."
       },
       "palabraNueva": {
-        "titulo": "Palabra de taller",
+        "titulo": "La palabra composición",
         "contenido": "Composición: la forma en que ordenamos lo que aparece en una imagen. Una buena composición ayuda a que la mirada sepa dónde detenerse."
       },
       "buenasNoches": {
@@ -1182,7 +1182,7 @@ const CALENDARIO = [
         "contenido": "RETO DE IMAGINACIÓN · 15–20 MINUTOS · COSTO CERO\n\nDiseña cinco sellos para un pasaporte que solo sirve para visitar lugares inventados. Para cada destino escribe un nombre, cómo es el clima, una costumbre local y una cosa que harías allí.\n\nUno puede ser una ciudad suspendida entre montañas, otro una isla donde siempre llueve, otro un pueblo que cambia de color al atardecer. No busques destinos reales ni pienses en gastos: hoy el viaje ocurre en la imaginación."
       },
       "palabraNueva": {
-        "titulo": "Palabra viajera",
+        "titulo": "La palabra enclave",
         "contenido": "Enclave: un lugar con identidad propia. Hoy no elegimos el destino; definimos qué clase de lugar nos gustaría descubrir."
       },
       "buenasNoches": {
@@ -1230,7 +1230,7 @@ const CALENDARIO = [
         "contenido": "Materiales: arcilla de secado al aire o plastilina, una base de cartón, palillo de modelado, un poco de agua si el fabricante lo permite, pintura acrílica y pinceles para terminar. Nivel 1: crea tres formas básicas —esfera, cilindro y cono— y únelas para formar el objeto. Nivel 2: añade detalles y texturas con el palillo. Nivel 3: pinta la pieza y construye un pequeño entorno sobre la base. Si usamos arcilla de secado al aire, sigue el tiempo de secado del empaque y no la hornees salvo que el fabricante lo indique. Podemos hacer piezas distintas que luego formen un mismo escenario.\n\nTIEMPO SUGERIDO: 30–40 MINUTOS para modelar. El secado y la pintura se hacen después, según las indicaciones del material."
       },
       "palabraNueva": {
-        "titulo": "Palabra de taller",
+        "titulo": "La palabra modelado",
         "contenido": "Modelado: construir una forma con las manos y herramientas. La paciencia también hace parte del material."
       },
       "buenasNoches": {
@@ -1278,7 +1278,7 @@ const CALENDARIO = [
         "contenido": "RECETA VEGETARIANA PARA DOS · 30–35 MINUTOS · SIN HORNO\n\nIngredientes: una lata de garbanzos cocidos (escurridos y enjuagados), una taza de arroz, dos tomates maduros, media cebolla, un diente de ajo, un puñado de espinaca, comino, aceite, sal, pimienta y cilantro opcional.\n\nPreparación:\n1. Cocina el arroz con agua y sal según las instrucciones habituales.\n2. Sofríe cebolla y ajo picados con un poco de aceite.\n3. Añade tomate en cubos, comino, sal y pimienta; cocina hasta formar una salsa.\n4. Incorpora los garbanzos y un chorrito de agua. Tapa y cocina 8–10 minutos.\n5. Agrega la espinaca al final y mezcla hasta que se ablande.\n6. Sirve con el arroz y cilantro si tienen.\n\nSi será el almuerzo de mañana, acuerden la receta la noche anterior, revisen qué ingredientes faltan y compren al salir del trabajo."
       },
       "palabraNueva": {
-        "titulo": "Palabra de cocina",
+        "titulo": "La palabra reducir",
         "contenido": "Reducir: dejar que una salsa pierda agua con el calor para que su sabor se concentre y su textura espese."
       },
       "buenasNoches": {
@@ -1326,7 +1326,7 @@ const CALENDARIO = [
         "contenido": "RETO FOTOGRÁFICO · 20–25 MINUTOS · COSTO CERO\n\nNo hace falta organizar un picnic ni desplazarse. Con el celular, busquen seis imágenes dentro de casa o desde una ventana: una textura, una sombra, algo amarillo, un reflejo, un objeto que use mucho alguien de la casa y un detalle que normalmente pase inadvertido.\n\nRegla: no fotografíen a nadie sin su permiso y eviten mostrar información privada. Después elijan una foto cada uno y escriban una frase que cuente algo distinto de lo que se ve. Si quieren, guarden las seis imágenes para convertirlas más adelante en una pequeña salida fotográfica, cuando coincidan las ganas y el presupuesto."
       },
       "palabraNueva": {
-        "titulo": "Palabra del día",
+        "titulo": "La palabra instante",
         "contenido": "Instante: un momento breve que, por alguna razón, merece quedarse. Hoy vamos a guardar seis."
       },
       "buenasNoches": {
@@ -2189,7 +2189,7 @@ const CALENDARIO = [
         "contenido": "Elijan una base: arroz, papas cocidas o pasta. Cada uno escoge en secreto un ingrediente principal para sumar: pollo, champiñones, tomate, espinaca, maíz, pimentón o queso. Revelen las elecciones y construyan un plato que combine ambos. Para dos personas, usen una taza de arroz crudo o una porción equivalente de la base, una proteína o legumbre, verduras, ajo, cebolla, aceite y condimentos al gusto. Cocinen primero la proteína en sartén hasta que esté bien hecha; retiren, salteen las verduras, incorporen la base ya cocida y devuelvan la proteína. Ajusten sal, pimienta y limón. Uno dirige la sartén y el otro prepara ingredientes y mesa. Anoten cantidades para poder repetir el experimento.\n\nTIEMPO SUGERIDO: 25–35 MINUTOS. Diez minutos para elegir la combinación, 15–20 para cocinar y unos minutos para probar y ajustar."
       },
       "palabraNueva": {
-        "titulo": "Palabra de cocina",
+        "titulo": "La palabra experimentación",
         "contenido": "Experimentación: probar, observar y ajustar. Una receta propia empieza cuando nos atrevemos a cambiar una cosa y prestar atención al resultado."
       },
       "buenasNoches": {
@@ -2332,7 +2332,7 @@ const CALENDARIO = [
         "contenido": "Cada uno propone un tipo de destino: un pueblo con arquitectura bonita, un lugar junto al agua, una zona de clima cálido, un mirador o un recorrido gastronómico. Comparen las ideas y elijan una favorita sin comprometerse todavía. Después revisen distancia, transporte, presupuesto, clima, horarios y lugares abiertos en la fecha que les convenga. Armen un itinerario flexible: salida por la mañana, una actividad principal, almuerzo, paseo tranquilo y regreso antes de que sea demasiado tarde. Anoten cuánto costaría y qué habría que reservar. Si la propuesta no convence a alguno, se cambia; también pueden guardar dos destinos finalistas y decidir más adelante. La pregunta importante: ¿cuál de estas escapadas sí te emociona hacer conmigo?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS para diseñar la idea. No reserven ni compren nada hoy: primero comparen presupuesto, transporte y ganas."
       },
       "palabraNueva": {
-        "titulo": "Palabra viajera",
+        "titulo": "La palabra itinerario",
         "contenido": "Itinerario: un plan de recorrido que ordena las paradas y los tiempos. El mejor itinerario deja margen para descubrir algo que no estaba previsto."
       },
       "buenasNoches": {
@@ -3244,7 +3244,7 @@ const CALENDARIO = [
         "contenido": "RETO DE EXPRESIÓN · 15–20 MINUTOS\n\nHoy van a crear un programa de radio diminuto. No hace falta grabarlo ni usar una aplicación: basta con una hoja y la voz.\n\n1. Elijan un nombre para la emisora.\n2. Cada persona prepara una apertura de 15 segundos para presentar el programa.\n3. Inventen una noticia positiva y cotidiana, una recomendación cultural y una pregunta para quienes escuchan.\n4. Cierren con una frase que pueda convertirse en el lema de la emisora.\n5. Si quieren, graben una versión de tres minutos y guárdenla solo para ustedes.\n\nSi están tres en la oficina, pueden hacer una versión de 5–7 minutos durante una pausa: una persona presenta, otra comparte la noticia y la tercera recomienda algo. No interrumpan tareas ni graben a compañeros sin permiso."
       },
       "palabraNueva": {
-        "titulo": "La palabra del recorrido",
+        "titulo": "La palabra recorrido",
         "contenido": "Recorrido: Trayecto que se realiza al pasar por distintos lugares. Un recorrido corto puede dejar espacio para detenerse cuando algo llama la atención."
       },
       "buenasNoches": {
@@ -3292,7 +3292,7 @@ const CALENDARIO = [
         "contenido": "Cada uno escribe en papel tres lugares imaginarios, tres actividades y tres reglas absurdas pero inofensivas. Por ejemplo: una cafetería en una estación espacial, pintar un retrato con la mano no dominante o tener que hablar como presentadores de televisión durante cinco minutos. Saquen al azar un papel de cada grupo y armen una cita de una hora con esos ingredientes. Después intercambien la propuesta: cada persona añade un giro inesperado y una forma de hacerla más cómoda o divertida para ambos. Para cerrar, elijan qué parte sí podrían adaptar a una cita real de bajo presupuesto. No se trata de prometer que la harán ni de acertar lo que el otro quiere; es un ejercicio para imaginar y descubrir gustos. ¿Qué ingrediente absurdo pondrías en nuestra cita ficticia?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cinco minutos para escribir ideas, cinco para combinarlas y el resto para presentar la cita imposible."
       },
       "palabraNueva": {
-        "titulo": "La palabra de las historias",
+        "titulo": "La palabra premisa",
         "contenido": "Premisa: Idea inicial que sirve como base para desarrollar una historia o propuesta. La premisa de la cita era sencilla: todo debía parecer una escena de película."
       },
       "buenasNoches": {
@@ -3340,7 +3340,7 @@ const CALENDARIO = [
         "contenido": "Busquen una caja pequeña o un sobre resistente y tres papeles por persona. En el primero, escriban una cosa que les hizo reír recientemente; en el segundo, una actividad sencilla que les gustaría probar algún día; en el tercero, una pregunta que les gustaría conversar cuando se dé el momento. Añadan un dibujo, una entrada o una foto solo si les apetece y si ambos están de acuerdo. Lean en voz alta únicamente lo que quieran compartir; las preguntas privadas pueden quedarse dobladas. Pongan una fecha futura para abrir la cápsula, quizá dentro de uno o dos meses, sin convertirla en una promesa obligatoria. Guárdenla en un lugar seco y seguro. No tiene que ser un recuerdo solemne: puede ser una manera ligera de notar cómo cambian las ideas y los gustos con el tiempo. ¿Qué pequeño hallazgo te gustaría guardar hoy?\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Guarden la caja en un sitio seguro y anoten una fecha aproximada para abrirla; no es necesario comprar materiales."
       },
       "palabraNueva": {
-        "titulo": "La palabra de los recuerdos",
+        "titulo": "La palabra registro",
         "contenido": "Registro: Anotación o conjunto de datos que permite conservar información de algo. Un pequeño registro guarda detalles del presente para releerlos más adelante."
       },
       "buenasNoches": {
@@ -3389,7 +3389,7 @@ const CALENDARIO = [
         "contenido": "Materiales: papel grueso o cartulina, pinturas acrílicas o témperas, pincel, agua y algo para proteger la mesa. Elijan solo tres colores y hagan una pequeña obra sin dibujar primero el resultado. Pinten formas grandes y luego mezclen los colores para descubrir tonos nuevos. Pueden elegir un cielo al atardecer, una taza, una flor imaginaria o una emoción, o pintar de forma abstracta. Al terminar, cada uno pone un título a la obra del otro, sin corregirla ni intentar adivinar qué quiso representar. Dejen secar y limpien los materiales. ¿Qué tres colores escogerías para empezar?\n\nTIEMPO SUGERIDO: 25–30 MINUTOS. Prueben primero los colores en un borde de la hoja y luego creen la composición."
       },
       "palabraNueva": {
-        "titulo": "La palabra del color",
+        "titulo": "La palabra cromatismo",
         "contenido": "Cromatismo: Conjunto de colores de una obra o efecto que producen al combinarse. El cromatismo de una pintura puede cambiar por completo su ambiente."
       },
       "buenasNoches": {
@@ -3487,7 +3487,7 @@ const CALENDARIO = [
         "contenido": "Cada persona elige tres canciones que conozca bien, sin decir sus títulos. Para cada una da tres pistas: una emoción que le produce, una escena en la que la pondría y una palabra relacionada con su sonido. La otra persona puede hacer dos preguntas de sí o no. Si acierta con una pista, obtiene tres puntos; con dos, dos puntos; con tres, uno. Después de revelar la canción, quien la eligió cuenta por qué. En la ronda final inventen el título de una canción que todavía no existe y describan cómo sonaría. ¿Qué canción te resultaría imposible describir sin reírte?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres canciones por persona y tres pistas por canción; no hace falta reproducirlas completas."
       },
       "palabraNueva": {
-        "titulo": "La palabra de los recuerdos",
+        "titulo": "La palabra evocación",
         "contenido": "Evocación: Acción de traer a la memoria una imagen, sensación o recuerdo. Una melodía puede provocar la evocación de un momento que parecía olvidado."
       },
       "buenasNoches": {
@@ -3585,7 +3585,7 @@ const CALENDARIO = [
         "contenido": "Elijan un café o una bebida que les guste y un parque, plazoleta o sendero urbano público cercano y seguro. Antes de salir, revisen horario, clima, ruta de regreso, accesibilidad y presupuesto. Reserven solo unas horas: pueden conversar mientras toman algo, caminar tranquilamente y elegir cada uno un detalle bonito del entorno. No es necesario comprar recuerdos ni encadenar actividades. Si el sitio está lleno, cambia el clima o alguien se cansa, acorten el recorrido o cambien de plan. Esta propuesta no significa que deban salir este fin de semana ni repetirlo cada semana; háganlo cuando a ambos les venga bien. ¿Prefieres árboles o una calle con cafeterías?\n\nTIEMPO DE LA SALIDA: 2–3 HORAS, sin obligación de gastar en una cafetería. Pueden llevar agua o una bebida preparada en casa y elegir un recorrido público, seguro y fácil de abandonar cuando quieran."
       },
       "palabraNueva": {
-        "titulo": "La palabra del recorrido",
+        "titulo": "La palabra paseo",
         "contenido": "Paseo: Recorrido que se hace por gusto, descanso o para disfrutar del entorno. Un paseo breve puede cambiar de ambiente sin ocupar todo el día."
       },
       "buenasNoches": {
@@ -3634,7 +3634,7 @@ const CALENDARIO = [
         "contenido": "Cada persona elige en secreto un objeto cotidiano y lo pone sobre la mesa; elijan un tercer objeto al azar. La primera persona empieza una historia que incluya el suyo, la otra continúa incorporando el segundo y la tercera frase debe unirlos en una situación inesperada. Alternen frases durante dos minutos sin borrar ideas ni corregir la lógica. Repitan con otro género: comedia, misterio, aventura o romance ligero. Para terminar, inventen un título y dibujen una portada diminuta. Si les gusta, guárdenlo; no hace falta grabarlo ni publicarlo. La regla es construir sobre la idea anterior, no bloquearla. ¿Qué objeto de tu alrededor daría la historia más extraña?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cada persona añade dos frases y elige un giro inesperado para la historia."
       },
       "palabraNueva": {
-        "titulo": "La palabra de las historias",
+        "titulo": "La palabra narrativa",
         "contenido": "Narrativa: Forma en que se cuentan y organizan los hechos de una historia. Una narrativa puede convertir tres objetos comunes en una aventura inesperada."
       },
       "buenasNoches": {
@@ -3875,7 +3875,7 @@ const CALENDARIO = [
         "contenido": "Ingredientes para dos: 1 durazno maduro, 1 taza de yogur natural, 3 cucharadas de avena, 1 cucharadita de miel o panela disuelta (opcional), unas gotas de limón y canela al gusto. Lava el durazno, retira el hueso y córtalo en cubitos. Mezcla el yogur con unas gotas de limón y la canela. En una sartén seca, tuesta la avena a fuego bajo durante dos o tres minutos, removiendo para que no se queme; deja que se enfríe. En dos vasos alterna yogur, durazno y avena. Si quieres, añade un poco de miel o panela, sin necesidad de endulzar si la fruta está madura. Sirve enseguida para que la avena conserve algo de textura. Si no hay duraznos, pueden usar fresas o moras. ¿Lo prefieres con canela o sin ella?\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS; REFRIGERACIÓN OPCIONAL: 10 MINUTOS. Si no hay nevera, preparen solo la porción que van a comer."
       },
       "palabraNueva": {
-        "titulo": "La palabra de los sabores",
+        "titulo": "La palabra macerar",
         "contenido": "Macerar: Dejar un alimento en contacto con otro ingrediente durante un tiempo para que absorba aromas o sabores. Unas gotas de limón pueden macerar suavemente la fruta y realzar su sabor."
       },
       "buenasNoches": {
@@ -4067,7 +4067,7 @@ const CALENDARIO = [
         "contenido": "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Elijan una emoción, creen tres colores y pónganle un nombre propio a la paleta."
       },
       "palabraNueva": {
-        "titulo": "La palabra del color",
+        "titulo": "La palabra cromático",
         "contenido": "Cromático: Relacionado con los colores o con sus combinaciones. El contraste cromático hizo que la pequeña pintura destacara."
       },
       "buenasNoches": {
@@ -4211,7 +4211,7 @@ const CALENDARIO = [
         "contenido": "RECETA VEGETARIANA PARA DOS · 30–35 MINUTOS · SOLO OLLA\n\nIngredientes: ¾ de taza de lentejas lavadas, una zanahoria, un tomate, ¼ de cebolla, un diente de ajo, ½ cucharadita de comino, 3 tazas de agua o caldo, aceite, sal y pimienta.\n\nPreparación:\n1. Pica la cebolla, el ajo, el tomate y la zanahoria en cubos pequeños.\n2. Sofríe cebolla y ajo en una olla con un poco de aceite durante 2–3 minutos.\n3. Añade tomate, zanahoria y comino; cocina hasta que el tomate empiece a deshacerse.\n4. Incorpora las lentejas y el agua o caldo. Lleva a hervor y luego baja el fuego.\n5. Cocina tapado durante 20–25 minutos, revisando que las lentejas estén tiernas. Añade un poco más de agua si espesa demasiado.\n6. Ajusta sal y pimienta y sirve.\n\nPara llevarla al almuerzo de la oficina, deja que se enfríe de forma segura, refrigérala y transpórtala en un recipiente hermético. Recalienta bien antes de comer."
       },
       "palabraNueva": {
-        "titulo": "La palabra de los sabores",
+        "titulo": "La palabra aromático",
         "contenido": "Aromático: Que desprende un olor agradable o característico. El toque aromático de las hierbas realzó el arroz."
       },
       "buenasNoches": {
@@ -6749,8 +6749,8 @@ const CALENDARIO = [
         "contenido": "En una caminata corta o desde un lugar donde puedas sentarte, encuentra cinco detalles que normalmente ignorarías: una forma curiosa en una pared, una combinación de colores, una sombra, un sonido y un objeto con historia. No fotografíes personas sin permiso ni te acerques a lugares inseguros. Al final elige el detalle más inesperado y explica por qué te llamó la atención.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Puede hacerse desde el escritorio o en casa; no hace falta convertirlo en una salida."
       },
       "palabraNueva": {
-        "titulo": "La palabra perspectiva",
-        "contenido": "Punto de vista desde el que se observa o interpreta algo. Cambiar de perspectiva permite notar detalles que antes pasaban inadvertidos."
+        "titulo": "La palabra minucia",
+        "contenido": "MINUCIA: detalle pequeño que suele pasar inadvertido. Encontrar una minucia puede cambiar la forma de mirar un lugar."
       },
       "buenasNoches": {
         "contenido": "El mundo no siempre cambia; a veces cambia la atención con la que lo miramos.",
@@ -7501,8 +7501,8 @@ const CALENDARIO = [
         "contenido": "Elige un lugar real o inventado que represente algo de tu personalidad: una biblioteca silenciosa, una calle llena de música, una montaña nublada, una tienda de discos o una playa al atardecer. Escribe al reverso tres líneas: qué encontraría alguien allí, qué sonido se escucharía y qué sensación te gustaría que quedara. No tiene que ser un lugar al que hayas ido; puede ser una imagen mental.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Elige un lugar y tres detalles que expliquen por qué te representa."
       },
       "palabraNueva": {
-        "titulo": "La palabra evocación",
-        "contenido": "Acción de traer algo a la memoria o representar una sensación mediante una imagen. Una postal puede evocar un lugar incluso sin mostrarlo literalmente."
+        "titulo": "La palabra reminiscencia",
+        "contenido": "REMINISCENCIA: recuerdo o imagen que vuelve desde el pasado. Una postal puede despertar una reminiscencia incluso si no muestra el lugar literalmente."
       },
       "buenasNoches": {
         "contenido": "Hay lugares que existen primero en la imaginación y aun así se sienten cercanos.",
@@ -7595,8 +7595,8 @@ const CALENDARIO = [
         "contenido": "Si pudieras conservar una costumbre pequeña para el resto de tu vida, ¿cuál sería y por qué? Puede ser tomar algo caliente en la mañana, caminar escuchando música, llamar a alguien, leer unas páginas o guardar fotos de momentos cotidianos. Responde con libertad; no hay una respuesta correcta. Si comparten la pregunta, escuchen sin interrumpir y hagan una sola pregunta adicional para conocer mejor la historia detrás de la elección.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Puedes responder en voz alta, escribirlo o simplemente pensarlo."
       },
       "palabraNueva": {
-        "titulo": "La palabra matiz",
-        "contenido": "Diferencia pequeña que aporta un sentido particular a una idea. Un matiz puede cambiar una respuesta sencilla por una conversación interesante."
+        "titulo": "La palabra introspección",
+        "contenido": "INTROSPECCIÓN: observación de los propios pensamientos y emociones. Una pregunta tranquila puede abrir un momento de introspección."
       },
       "buenasNoches": {
         "contenido": "Hay preguntas que no necesitan una respuesta rápida; a veces lo valioso está en detenerse a pensar.",
@@ -7736,8 +7736,8 @@ const CALENDARIO = [
         "contenido": "Elijan una zona cómoda y segura que ninguno conozca demasiado. La idea es caminar sin afán durante un rato, entrar a una librería o tienda curiosa si aparece, sentarse a tomar algo y escoger un detalle del recorrido para recordar. Puede ser un barrio caminable, un parque o una zona cultural. Definan antes transporte, presupuesto y hora de regreso; no hace falta convertirlo en un plan de todo el día ni hacerlo si no coinciden los horarios.\n\nTIEMPO DE LA SALIDA: 1–2 HORAS, con regreso acordado. Elijan una zona pública y segura, revisen transporte y presupuesto, y mantengan el recorrido flexible; si no conviene salir, conviértanlo en un mapa de lugares para después."
       },
       "palabraNueva": {
-        "titulo": "La palabra deriva",
-        "contenido": "Recorrido sin una ruta rígida, guiado por la curiosidad y lo que se va encontrando. Una deriva urbana permite descubrir detalles sin correr de un lugar a otro."
+        "titulo": "La palabra exploración",
+        "contenido": "EXPLORACIÓN: búsqueda o reconocimiento de algo nuevo. Una salida sencilla puede convertirse en exploración cuando observamos sin prisa."
       },
       "buenasNoches": {
         "contenido": "A veces cambiar de ruta por un par de horas es suficiente para despejar la cabeza.",
@@ -8065,8 +8065,8 @@ const CALENDARIO = [
         "contenido": "Inventen una escena breve: alguien entra a una habitación y encuentra una sorpresa, se pierde en un lugar conocido o recibe una noticia inesperada. Cada persona elige una canción que cambiaría por completo el ambiente de esa escena: una la vuelve épica y la otra ridícula, misteriosa o tranquila. Expliquen por qué la escogieron y cuál versión verían hasta el final.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una escena, dos canciones y dos versiones del ambiente; gana la que mejor transforme la historia."
       },
       "palabraNueva": {
-        "titulo": "La palabra contrapunto",
-        "contenido": "Relación entre dos ideas, sonidos o elementos que contrastan y se complementan. Un contrapunto musical puede hacer que una escena tenga una emoción completamente distinta."
+        "titulo": "La palabra armonía",
+        "contenido": "ARMONÍA: combinación equilibrada de elementos que se complementan. Dos canciones distintas pueden crear armonía con una misma escena si comparten su emoción."
       },
       "buenasNoches": {
         "contenido": "A veces la música no cambia lo que pasó, pero sí cambia por completo cómo lo sentimos.",
@@ -8158,8 +8158,8 @@ const CALENDARIO = [
         "contenido": "Completa esta pregunta: «¿Qué cosa te gustaría aprender o probar si supieras que no tienes que hacerlo perfecto?». Puede ser bailar, cocinar algo, hablar otro idioma, viajar, dibujar, tocar un instrumento o cualquier curiosidad pendiente. Después elige un primer paso tan pequeño que puedas hacerlo esta semana. Si se comparte, escuchen la respuesta sin convertirla en una lista de consejos.\n\nGuarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño».\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Responde sin buscar la respuesta perfecta y permite que la otra persona haga una sola pregunta si quieres."
       },
       "palabraNueva": {
-        "titulo": "La palabra perspectiva",
-        "contenido": "Manera particular de considerar o interpretar una situación. Cambiar de perspectiva puede revelar posibilidades que antes no habíamos visto."
+        "titulo": "La palabra asertividad",
+        "contenido": "ASERTIVIDAD: habilidad para expresar lo que se piensa o necesita con claridad y respeto. Una pregunta asertiva abre conversación sin imponer una respuesta."
       },
       "buenasNoches": {
         "contenido": "No necesitamos tener todo resuelto para permitirnos empezar algo nuevo.",
@@ -8205,8 +8205,8 @@ const CALENDARIO = [
         "contenido": "Piensa en una persona, un personaje o incluso en ti. Escribe cinco detalles que la describan sin mencionar apariencia física: cómo reacciona cuando algo le da risa, qué tema puede explicar durante horas, qué gesto hace cuando se concentra, qué tipo de plan disfruta o qué frase repite. Si lo hacen entre dos, cada quien escribe tres detalles positivos que haya notado en el otro, sin exagerar ni buscar quedar bien.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cinco detalles concretos, sin recurrir a la apariencia física; después elige el que mejor representa a esa persona."
       },
       "palabraNueva": {
-        "titulo": "La palabra matiz",
-        "contenido": "Rasgo pequeño que distingue o da un carácter particular a algo. Los matices hacen que una descripción se sienta más real y menos genérica."
+        "titulo": "La palabra rasgo",
+        "contenido": "RASGO: característica que distingue a una persona, objeto o situación. Un retrato puede construirse a partir de un rasgo pequeño y significativo."
       },
       "buenasNoches": {
         "contenido": "A veces prestar atención es una manera silenciosa de decir: esto sí lo vi.",
@@ -8439,8 +8439,8 @@ const CALENDARIO = [
         "contenido": "Piensa en una decisión pequeña que te haya llevado a conocer algo que hoy disfrutas: entrar a una clase, aceptar una invitación, cambiar una ruta o empezar una afición. Imagina durante un minuto cómo sería tu vida si hubieras elegido otra cosa. No se trata de pensar que una opción era mejor, sino de inventar una versión alternativa y contar qué personaje, lugar o costumbre sería diferente.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Elige una decisión pequeña y cuenta qué aprendiste, sin juzgar la versión alternativa de tu vida."
       },
       "palabraNueva": {
-        "titulo": "La palabra ucronía",
-        "contenido": "Relato o hipótesis que imagina cómo habría sido la historia si un hecho hubiera ocurrido de otra manera. Una ucronía permite jugar con la pregunta «¿y si…?» y explorar otros caminos posibles."
+        "titulo": "La palabra hipótesis",
+        "contenido": "HIPÓTESIS: explicación provisional que se propone para comprender algo y luego comprobarlo. Una versión alternativa de una historia empieza con una hipótesis: ¿y si…?"
       },
       "buenasNoches": {
         "contenido": "Cada camino tiene sus propias historias; qué bueno que algunas nos hayan traído hasta aquí.",
@@ -8626,8 +8626,8 @@ const CALENDARIO = [
         "contenido": "Elige una canción que te recuerde a una persona, un momento o una sensación. No tienes que dedicarla ni revelar a quién te recuerda: basta con explicar qué parte te gusta, qué imagen te produce o por qué la guardarías en una playlist. Si lo comparten, cada persona recomienda una canción y la otra intenta describir la escena que se imagina al escucharla.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Una canción, una escena y una explicación breve; compartir el nombre es opcional."
       },
       "palabraNueva": {
-        "titulo": "La palabra sutileza",
-        "contenido": "Cualidad de expresarse o actuar con delicadeza, sin ser demasiado evidente. Un gesto sutil puede decir mucho sin necesidad de grandes discursos."
+        "titulo": "La palabra delicadeza",
+        "contenido": "DELICADEZA: cualidad de actuar o expresarse con cuidado y sensibilidad. Una mirada o una canción pueden transmitir delicadeza sin decirlo todo."
       },
       "buenasNoches": {
         "contenido": "A veces una canción encuentra las palabras que uno no tenía a la mano.",
@@ -8814,8 +8814,8 @@ const CALENDARIO = [
         "contenido": "Toma una fotografía de un detalle cotidiano: sombras en la pared, una taza junto a una ventana, una esquina con colores interesantes o el reflejo en un charco. No incluyas rostros de otras personas sin permiso. Elige un título de máximo cinco palabras y una frase que acompañe la imagen. Si participan dos, cada quien toma una foto del mismo lugar desde un ángulo distinto y comparan cómo cambia la historia.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Elige una foto y escribe un título como si fuera la portada de un álbum o una revista."
       },
       "palabraNueva": {
-        "titulo": "La palabra encuadre",
-        "contenido": "Porción de la escena que se incluye dentro de una fotografía o imagen. Un encuadre distinto puede convertir un lugar cotidiano en una imagen especial."
+        "titulo": "La palabra contraluz",
+        "contenido": "CONTRALUZ: efecto fotográfico en el que la luz llega desde detrás del sujeto. El contraluz puede convertir una silueta sencilla en una imagen expresiva."
       },
       "buenasNoches": {
         "contenido": "Mirar con calma a veces revela una escena que siempre estuvo ahí.",
@@ -9002,8 +9002,8 @@ const CALENDARIO = [
         "contenido": "Puede ser una canción, un episodio, una película, un libro, un canal o una actividad. La recomendación debe venir con tres pistas: qué tiene de especial, en qué momento disfrutarla y qué detalle debería observarse. La otra persona puede probarla cuando quiera y dar su opinión después; no hay obligación de que le guste. También vale recomendar algo muy distinto a los gustos habituales.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cada persona da tres pistas y la otra tiene tres preguntas para adivinar la recomendación."
       },
       "palabraNueva": {
-        "titulo": "La palabra curaduría",
-        "contenido": "Selección y organización cuidadosa de obras, objetos o contenidos con un criterio propio. Una buena curaduría reúne recomendaciones que tienen algo especial para quien las descubre."
+        "titulo": "La palabra selección",
+        "contenido": "SELECCIÓN: elección de elementos siguiendo un criterio. Recomendar algo también implica hacer una selección con intención."
       },
       "buenasNoches": {
         "contenido": "Descubrir algo nuevo también puede empezar por confiar un momento en el gusto de alguien más.",
@@ -9330,8 +9330,8 @@ const CALENDARIO = [
         "contenido": "Propongan una preparación fría de tres o cuatro ingredientes: por ejemplo, arepa lista con queso y aguacate; o yogur natural con fruta y cereal. Cada quien puede proponer una versión y ponerle nombre de restaurante. Revisen siempre las etiquetas por la alergia al maní y posibles trazas o contaminación cruzada; si no están seguros de un ingrediente, mejor no usarlo.\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS. Elijan una combinación que ya conozcan y armen solo la cantidad que van a consumir."
       },
       "palabraNueva": {
-        "titulo": "La palabra maridaje",
-        "contenido": "Combinación de elementos que se complementan bien, especialmente sabores o bebidas. Un buen maridaje no tiene que ser complicado: basta con que los sabores se lleven bien."
+        "titulo": "La palabra complemento",
+        "contenido": "COMPLEMENTO: elemento que añade algo útil o agradable a otro. En un menú, un ingrediente puede ser el complemento que equilibra los sabores."
       },
       "buenasNoches": {
         "contenido": "A veces lo sencillo, bien pensado, termina siendo lo que más provoca repetir.",
@@ -9471,8 +9471,8 @@ const CALENDARIO = [
         "contenido": "Miren hacia atrás y elijan tres cosas que les hayan gustado de este recorrido: una actividad, una canción, una conversación, una idea o una sorpresa. Después escojan algo que todavía les gustaría encontrar en los días que vienen. La respuesta puede ser sencilla y no tiene que ser una evaluación perfecta; se trata de reconocer lo que ha tenido sentido.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres recuerdos, una canción y una cosa que les gustaría probar después; no hace falta organizar una celebración."
       },
       "palabraNueva": {
-        "titulo": "La palabra trayectoria",
-        "contenido": "Camino o recorrido que alguien o algo ha seguido a lo largo del tiempo. Una trayectoria se construye con pasos grandes, pero también con muchos avances pequeños."
+        "titulo": "La palabra hito",
+        "contenido": "HITO: acontecimiento o momento que marca un avance importante. Llegar a doscientos días es un hito construido con muchos pasos pequeños."
       },
       "buenasNoches": {
         "contenido": "Lo que vale la pena no siempre se mide por lo espectacular, sino por lo que deja.",
@@ -9518,8 +9518,8 @@ const CALENDARIO = [
         "contenido": "DISEÑO DE UNA POSIBILIDAD · 10–15 MINUTOS · SIN FECHA NI RESERVA\n\nElijan una sola experiencia que les dé curiosidad: aprender una técnica artística, conocer un lugar natural, visitar una exposición, probar una actividad nueva o cocinar algo distinto. Compárenla con cuatro criterios: cuánto tiempo requiere, qué presupuesto aproximado tendría, qué tan fácil es llegar o prepararla y cuánto entusiasmo despierta.\n\nCada persona puede cambiar una condición para hacerla más sencilla. Guarden la versión más realista, sin elegir fecha ni asumir que necesariamente se hará."
       },
       "palabraNueva": {
-        "titulo": "La palabra horizonte",
-        "contenido": "Límite visible de lo que alcanzamos a imaginar o conocer; también, perspectiva de futuro. Un horizonte amplio deja espacio para planes que todavía no tienen fecha."
+        "titulo": "La palabra viabilidad",
+        "contenido": "VIABILIDAD: posibilidad real de llevar a cabo una idea con los recursos disponibles. Un plan se vuelve viable cuando tiempo, presupuesto y ganas coinciden."
       },
       "buenasNoches": {
         "contenido": "Soñar un plan también es bonito cuando no se vuelve una obligación.",
@@ -9612,8 +9612,8 @@ const CALENDARIO = [
         "contenido": "En un recorrido normal —camino al trabajo, a estudiar o a hacer una vuelta— encuentren tres detalles que casi siempre pasan inadvertidos: una fachada, un aviso curioso, una combinación de colores, una conversación suelta o una sombra. Si quieren, tomen una foto de un detalle sin personas identificables y cuenten por qué les llamó la atención.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS durante un trayecto que ya tengan que hacer. No cambien la ruta ni se detengan en lugares inseguros para completar el reto."
       },
       "palabraNueva": {
-        "titulo": "La palabra perspectiva",
-        "contenido": "Punto de vista desde el que se observa o interpreta algo. Cambiar la perspectiva puede convertir una ruta conocida en un lugar nuevo."
+        "titulo": "La palabra tránsito",
+        "contenido": "TRÁNSITO: desplazamiento habitual de personas o vehículos por una vía o espacio. Mirar el tránsito con atención también revela escenas de la vida cotidiana."
       },
       "buenasNoches": {
         "contenido": "A veces no necesitamos ir lejos para descubrir algo; basta con prestar atención.",
@@ -9659,8 +9659,8 @@ const CALENDARIO = [
         "contenido": "BEBIDA PARA DOS · 10–15 MINUTOS · SIN ALCOHOL\n\nIngredientes: 300 ml de leche o bebida vegetal que ya utilicen, 3 cucharadas de avena, medio banano maduro, una pizca de canela y hielo opcional.\n\nPreparación:\n1. Mezcla la avena con la leche y deja reposar 5–10 minutos.\n2. Añade el banano y la canela.\n3. Licúa o tritura hasta obtener una textura uniforme.\n4. Ajusta con un poco más de leche si queda demasiado espesa.\n5. Sirve fría o a temperatura ambiente.\n\nEs una opción para la mañana o para acompañar un almuerzo. Si la llevan a la oficina, manténganla refrigerada y agítenla antes de servir. No preparen más cantidad de la que puedan conservar correctamente."
       },
       "palabraNueva": {
-        "titulo": "La palabra infusión",
-        "contenido": "Bebida que se obtiene al dejar ingredientes en agua para extraer su sabor o aroma. Una infusión fría puede ser sencilla: fruta, agua y un rato de reposo."
+        "titulo": "La palabra batido",
+        "contenido": "BATIDO: mezcla de ingredientes que se integra al batir o licuar. La avena y el banano forman un batido suave para la mañana."
       },
       "buenasNoches": {
         "contenido": "Que algo sea refrescante no depende de que sea elaborado; a veces lo simple gana.",
@@ -9846,8 +9846,8 @@ const CALENDARIO = [
         "contenido": "Anoten cinco pequeñas victorias recientes: haber terminado algo pendiente, pedir ayuda, descansar cuando hacía falta, intentar de nuevo, poner un límite o simplemente atravesar una semana complicada. No tienen que ser logros impresionantes ni comparables con los de nadie. Si quieren compartirlas, cuenten qué les costó y qué les ayudó.\n\nEscojan una de esas victorias y pónganle un título como si fuera el capítulo de una película.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco victorias pequeñas y una que quieras reconocer en otra persona."
       },
       "palabraNueva": {
-        "titulo": "La palabra resiliencia",
-        "contenido": "Capacidad de adaptarse y recuperarse ante situaciones difíciles. La resiliencia también se nota en las veces que uno vuelve a intentarlo sin hacer ruido."
+        "titulo": "La palabra constancia",
+        "contenido": "CONSTANCIA: continuidad en un esfuerzo o hábito a lo largo del tiempo. Las pequeñas victorias también nacen de la constancia."
       },
       "buenasNoches": {
         "contenido": "No minimices lo que te tomó esfuerzo, incluso si desde afuera parecía sencillo.",
@@ -10034,8 +10034,8 @@ const CALENDARIO = [
         "contenido": "PLAN FUTURO DE DOS DÍAS · 20–30 MINUTOS DE DISEÑO · SIN RESERVAS\n\nImaginen una escapada de dos días y una noche para una etapa en la que ambos tengan tiempo, ganas y presupuesto. No elijan un destino concreto todavía: piensen en una zona natural, un pueblo tranquilo o un lugar donde puedan combinar descanso y una actividad cultural.\n\nDÍA 1: desplazamiento sin afán, una sola actividad principal y una cena sencilla. Eviten llenar la jornada de paradas.\nDÍA 2: desayuno, una caminata corta o visita opcional y regreso con tiempo.\n\nAntes de considerarlo, hagan una estimación de transporte, alojamiento, comidas, entradas y dinero para imprevistos. Añadan una versión más económica de un solo día. Es una idea para mitad del recorrido, no una promesa ni una reserva."
       },
       "palabraNueva": {
-        "titulo": "La palabra itinerario",
-        "contenido": "Plan ordenado de actividades o lugares que se quieren recorrer. Un itinerario flexible deja espacio para detenerse donde algo nos llame la atención."
+        "titulo": "La palabra pernocta",
+        "contenido": "PERNOCTA: acción de pasar la noche en un lugar distinto al habitual. Una escapada de dos días suele incluir una pernocta, que debe contemplarse en el presupuesto."
       },
       "buenasNoches": {
         "contenido": "Un buen plan no necesita estar lleno de actividades; también importa poder disfrutarlo sin afán.",
@@ -10128,8 +10128,8 @@ const CALENDARIO = [
         "contenido": "Regálense una pausa breve de diez minutos: dejar el celular a un lado, tomar agua, estirar el cuerpo suavemente o sentarse cerca de una ventana. Después, si quieren compartirlo, completen esta frase: «Últimamente me vendría bien un poco más de…». No hay que justificar la respuesta ni dar consejos si la otra persona solo quiere contar cómo se siente.\n\nTIEMPO SUGERIDO: 10 MINUTOS. Es una pausa opcional; elijan sentarse, respirar con naturalidad o moverse suavemente, sin forzar el cuerpo."
       },
       "palabraNueva": {
-        "titulo": "La palabra sosiego",
-        "contenido": "Calma profunda o tranquilidad, especialmente después de una situación agitada. Buscar sosiego no es perder el tiempo: es darle espacio a la mente para respirar."
+        "titulo": "La palabra serenidad",
+        "contenido": "SERENIDAD: estado de calma y claridad ante una situación. Una pausa breve puede ayudar a recuperar serenidad sin tener que resolverlo todo."
       },
       "buenasNoches": {
         "contenido": "Descansar también cuenta; no hay que ganarse el derecho a hacer una pausa.",
@@ -10316,8 +10316,8 @@ const CALENDARIO = [
         "contenido": "Elijan un lugar que tengan cerca —una ventana, una mesa, una esquina de la calle o una planta— y descríbanlo como si fueran a fotografiarlo: qué quedaría dentro del encuadre, desde qué altura, qué luz buscarían y qué dejarían por fuera. La otra persona intenta imaginar la imagen antes de verla. Si quieren, después sí pueden tomar la foto y comparar.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Describe el encuadre, la luz y el detalle principal; puedes dibujarlo en vez de tomar una foto."
       },
       "palabraNueva": {
-        "titulo": "La palabra encuadre",
-        "contenido": "Porción de una escena que se elige incluir en una fotografía o imagen. Elegir un encuadre es decidir qué historia queremos contar con lo que vemos."
+        "titulo": "La palabra focalización",
+        "contenido": "FOCALIZACIÓN: decisión de destacar un elemento y dejar otros en segundo plano. Incluso sin cámara, elegir qué mirar es una forma de focalización."
       },
       "buenasNoches": {
         "contenido": "Mirar con intención puede ser tan creativo como tener una cámara en la mano.",
@@ -10410,8 +10410,8 @@ const CALENDARIO = [
         "contenido": "Cada quien nombra cinco sonidos que disfruta: lluvia sobre el techo, una olla empezando a hervir, páginas al pasar, pájaros temprano, una cancha en la tarde, una risa conocida o el ruido de una ciudad despierta. Escojan uno y cuenten qué sensación les produce. No tienen que grabarlos; basta con describirlos con detalle.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco sonidos por persona; no graben conversaciones ajenas ni información privada."
       },
       "palabraNueva": {
-        "titulo": "La palabra resonancia",
-        "contenido": "Efecto o sensación que un sonido, una idea o una experiencia deja en alguien. Hay sonidos que tienen resonancia porque nos conectan con un lugar o un recuerdo."
+        "titulo": "La palabra eco",
+        "contenido": "ECO: repetición o prolongación de un sonido después de emitirse. Un eco puede hacer que un espacio parezca más grande o misterioso."
       },
       "buenasNoches": {
         "contenido": "Hay sonidos pequeños que hacen que un lugar se sienta como casa. Ojalá hoy hayas encontrado uno que quieras volver a escuchar.",
@@ -10457,8 +10457,8 @@ const CALENDARIO = [
         "contenido": "Piensen en algo que antes veían de una manera y que con el tiempo entendieron distinto: una costumbre, una decisión, una etapa de la vida o una opinión. Si quieren compartirlo, cuenten qué cambió y qué les hizo reconsiderarlo. La otra persona escucha y puede preguntar qué matiz fue el más importante, sin intentar corregir la experiencia.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cada persona comparte solo lo que quiera; la otra escucha antes de responder."
       },
       "palabraNueva": {
-        "titulo": "La palabra matiz",
-        "contenido": "Rasgo pequeño que aporta una diferencia o un tono particular a una idea. Un matiz puede cambiar el sentido de una respuesta sin cambiar todas sus palabras."
+        "titulo": "La palabra escucha activa",
+        "contenido": "ESCUCHA ACTIVA: atención consciente a lo que otra persona expresa, sin apresurarse a responder. La escucha activa también se nota en las preguntas que hacemos."
       },
       "buenasNoches": {
         "contenido": "Cambiar de opinión con razones no es incoherencia; también puede ser crecimiento.",
@@ -10504,8 +10504,8 @@ const CALENDARIO = [
         "contenido": "RETO DE CURIOSIDAD · 10–15 MINUTOS\n\nAnota cinco costumbres pequeñas que forman parte de tu día y que quizá no notas: cómo eliges una canción, dónde dejas las llaves, qué haces mientras esperas, cómo organizas tu escritorio o qué revisas antes de salir.\n\nEscoge una y explica de dónde crees que viene. Si participan dos, cada persona intenta adivinar una costumbre del otro y luego comprueba si acertó. No se trata de juzgar hábitos, sino de descubrir detalles."
       },
       "palabraNueva": {
-        "titulo": "La palabra neologismo",
-        "contenido": "Palabra nueva creada para nombrar algo que todavía no tiene un término propio. Un neologismo puede convertir una sensación difícil de explicar en una palabra divertida."
+        "titulo": "La palabra idiosincrasia",
+        "contenido": "IDIOSINCRASIA: conjunto de rasgos y costumbres que caracterizan a una persona o grupo. Las pequeñas rutinas también forman parte de nuestra idiosincrasia."
       },
       "buenasNoches": {
         "contenido": "El lenguaje también es un juego: siempre hay espacio para inventar una forma nueva de decir las cosas.",
@@ -10927,8 +10927,8 @@ const CALENDARIO = [
         "contenido": "RETO DE ESCRITURA · 15–20 MINUTOS\n\nElige un solo objeto cotidiano que tengas cerca: una llave, una taza, un recibo o una libreta. Escribe su biografía en primera persona, como si el objeto pudiera hablar: dónde cree que nació, qué ha visto, qué secreto guarda y qué le gustaría que ocurriera después.\n\nSi participan dos, intercambien objetos y escriban la biografía del que recibió cada uno. Al final lean los textos y descubran qué detalle inventado fue el más convincente."
       },
       "palabraNueva": {
-        "titulo": "La palabra curaduría",
-        "contenido": "Selección y organización cuidadosa de elementos según un criterio. Hacer curaduría también es encontrar una historia en cosas que parecían comunes."
+        "titulo": "La palabra biografía",
+        "contenido": "BIOGRAFÍA: relato de la vida de una persona o, de forma imaginaria, de un objeto. Una biografía inventada puede revelar lo que proyectamos en las cosas cotidianas."
       },
       "buenasNoches": {
         "contenido": "La imaginación tiene esa habilidad de cambiarle el valor a lo que tenemos delante.",
@@ -11068,8 +11068,8 @@ const CALENDARIO = [
         "contenido": "En una hoja, dibuja un mapa sencillo de tres lugares que recuerdes con cariño: puede ser una calle, un parque, una tienda, una cancha o un rincón de tu casa. Junto a cada lugar escribe qué pasó allí o qué sensación te devuelve. No necesitas compartir ubicaciones privadas ni datos precisos; basta con el recuerdo y su significado.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Dibuja tres lugares recordados, sin direcciones exactas ni necesidad de visitarlos."
       },
       "palabraNueva": {
-        "titulo": "La palabra nostalgia",
-        "contenido": "Emoción por el recuerdo de momentos o lugares significativos del pasado. La nostalgia puede convertir una esquina cualquiera en un lugar lleno de significado."
+        "titulo": "La palabra toponimia",
+        "contenido": "TOPONIMIA: conjunto de nombres propios de lugares y su origen. Un mapa de recuerdos puede guardar topónimos que tienen significado personal."
       },
       "buenasNoches": {
         "contenido": "Hay sitios que siguen acompañándonos incluso cuando hace mucho no pasamos por ellos.",
@@ -11115,8 +11115,8 @@ const CALENDARIO = [
         "contenido": "JUEGO CREATIVO PARA DOS O TRES · 15–20 MINUTOS\n\nImaginen una isla pequeña donde todo el mundo llega por primera vez. Cada persona propone una regla para convivir allí: puede ser práctica, divertida o completamente absurda, pero debe ser justa para todos.\n\nDespués negocien una cuarta regla que reúna las mejores ideas. Dibujen un símbolo para la isla y pónganle nombre. La gracia no es imponer la regla más extraña, sino construir un lugar donde todos puedan sentirse cómodos."
       },
       "palabraNueva": {
-        "titulo": "La palabra perspectiva",
-        "contenido": "Manera particular de interpretar o comprender una situación. Cambiar de perspectiva no obliga a cambiar de opinión, pero sí puede ampliar lo que entendemos."
+        "titulo": "La palabra consenso",
+        "contenido": "CONSENSO: acuerdo al que se llega después de escuchar y considerar distintas ideas. En una isla imaginaria, el consenso permite que las reglas sean de todos."
       },
       "buenasNoches": {
         "contenido": "Escuchar una idea desde el otro lado puede ser más interesante que intentar tener la última palabra.",
@@ -11162,8 +11162,8 @@ const CALENDARIO = [
         "contenido": "Durante una hora, evita recomendaciones automáticas de redes o plataformas. Escoge algo por una vía distinta: un libro al azar, una emisora, una página de un diccionario, una conversación, un álbum que nunca hayas escuchado o una ruta de lectura que no suela aparecerte. Anota qué descubriste y cómo llegaste hasta ahí.\n\nTIEMPO SUGERIDO: 60 MINUTOS. Si una hora completa no encaja, hagan una prueba de 15 minutos sin recomendaciones automáticas."
       },
       "palabraNueva": {
-        "titulo": "La palabra serendipia",
-        "contenido": "Hallazgo valioso o inesperado que ocurre por casualidad. La serendipia aparece cuando dejamos espacio para descubrir algo que no estábamos buscando."
+        "titulo": "La palabra indagación",
+        "contenido": "INDAGACIÓN: búsqueda cuidadosa de información para responder una pregunta. La indagación empieza cuando dejamos de aceptar la primera recomendación."
       },
       "buenasNoches": {
         "contenido": "No todo descubrimiento necesita estar personalizado: a veces lo inesperado también nos encuentra.",
@@ -11350,8 +11350,8 @@ const CALENDARIO = [
         "contenido": "Crea cuatro mini listas de una canción cada una: una para una mañana despejada, otra para una tarde de lluvia, otra para caminar de noche y otra para celebrar algo pequeño. No tienen que ser canciones que hablen literalmente del clima; elige por la sensación que producen. Ponle un título a cada lista y guarda las recomendaciones.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cuatro climas, una canción por cada uno y una frase que describa la escena."
       },
       "palabraNueva": {
-        "titulo": "La palabra atmósfera",
-        "contenido": "Sensación o ambiente que transmite un lugar, una obra o una situación. Una canción puede cambiar la atmósfera de una tarde sin mover nada de sitio."
+        "titulo": "La palabra ambientación",
+        "contenido": "AMBIENTACIÓN: conjunto de elementos que crean el clima de una escena o espacio. La música puede cambiar la ambientación sin mover nada de sitio."
       },
       "buenasNoches": {
         "contenido": "La música es una forma de darle paisaje a momentos que todavía no tienen nombre.",
@@ -11444,8 +11444,8 @@ const CALENDARIO = [
         "contenido": "En un trayecto cotidiano y seguro, identifica tres detalles arquitectónicos que normalmente ignoras: una ventana particular, una textura, una reja, un balcón, un patrón del piso o una combinación de colores. No necesitas entrar a ningún lugar ni fotografiar personas. Elige uno y descríbelo como si estuvieras recomendándolo en una guía de ciudad.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS durante un recorrido cotidiano y seguro; no se desvíen ni se detengan en zonas de riesgo."
       },
       "palabraNueva": {
-        "titulo": "La palabra perspectiva",
-        "contenido": "Punto de vista desde el que se observa o interpreta algo. Mirar un lugar desde otra perspectiva puede revelar detalles que siempre estuvieron ahí."
+        "titulo": "La palabra referente",
+        "contenido": "REFERENTE: modelo o punto de comparación que sirve para orientar una decisión. Un edificio puede ser referente por su forma, uso o relación con el entorno."
       },
       "buenasNoches": {
         "contenido": "Los lugares conocidos también guardan sorpresas para quien se detiene a observar.",
@@ -11679,8 +11679,8 @@ const CALENDARIO = [
         "contenido": "Elige un formato que te provoque: pintar un espejo pequeño, intervenir una libreta, hacer una figura en arcilla o cerámica fría, crear un collage o decorar una tote bag. La propuesta es dedicarle una tarde, con materiales básicos y sin buscar que quede perfecto. Si lo hacen juntos, cada quien puede escoger su pieza y al final contar qué decisión visual le gustó más.\n\nTIEMPO DE CREACIÓN: 30–45 MINUTOS en casa. Si eligen un taller externo, comparen antes duración, precio y materiales; no es necesario reservar."
       },
       "palabraNueva": {
-        "titulo": "La palabra composición",
-        "contenido": "Organización de elementos para crear una obra equilibrada o expresiva. Una buena composición no depende de tener muchos materiales, sino de decidir dónde va cada cosa."
+        "titulo": "La palabra estampa",
+        "contenido": "ESTAMPA: imagen o composición que deja una impresión visual reconocible. Una tarde de arte puede convertirse en una estampa con pocos elementos."
       },
       "buenasNoches": {
         "contenido": "Crear con las manos puede ser una forma tranquila de darle espacio a la imaginación.",
@@ -11772,8 +11772,8 @@ const CALENDARIO = [
         "contenido": "Escoge una actividad cotidiana que no implique riesgos —organizar el escritorio, preparar la maleta, alistar materiales o planear una lista de pendientes— y escribe sus pasos en orden habitual. Luego reorganízalos de una forma diferente, comprobando que siga siendo práctica y segura. ¿Qué paso parecía más importante y cuál resultó flexible?\n\nQuédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Elijan una tarea sencilla y cambien solo el orden de dos pasos; no alteren rutinas de seguridad."
       },
       "palabraNueva": {
-        "titulo": "La palabra secuencia",
-        "contenido": "Orden en que ocurren o se organizan varios elementos. Cambiar una secuencia puede hacer que una tarea conocida se sienta completamente distinta."
+        "titulo": "La palabra proceso",
+        "contenido": "PROCESO: conjunto de pasos que conducen a un resultado. Cambiar el orden de un proceso puede revelar una forma más sencilla de hacerlo."
       },
       "buenasNoches": {
         "contenido": "A veces mejorar no significa hacer más, sino encontrar un orden que nos funcione mejor.",
@@ -11818,8 +11818,8 @@ const CALENDARIO = [
         "contenido": "¿Qué cosa pequeña te hace sentir que un día valió la pena? Puede ser terminar algo pendiente, descubrir una canción, comer algo rico, tener una charla inesperada o descansar sin culpa. Cada quien responde con un ejemplo concreto y, si quiere, cuenta por qué ese detalle tiene valor. Escuchen sin convertir la respuesta en una competencia de quién tiene el mejor día.\n\nLa conversación puede quedarse ahí o seguir por donde la curiosidad la lleve.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Una respuesta breve basta; la conversación puede continuar otro día."
       },
       "palabraNueva": {
-        "titulo": "La palabra matiz",
-        "contenido": "Diferencia pequeña pero significativa entre ideas, emociones o situaciones. Los matices ayudan a comprender que dos respuestas parecidas pueden tener razones muy distintas."
+        "titulo": "La palabra ambivalencia",
+        "contenido": "AMBIVALENCIA: presencia simultánea de sentimientos o ideas diferentes ante una misma situación. La ambivalencia no siempre exige decidir de inmediato."
       },
       "buenasNoches": {
         "contenido": "A veces entender lo que hace bien a alguien es una manera sencilla de conocerlo mejor.",
@@ -11865,8 +11865,8 @@ const CALENDARIO = [
         "contenido": "Arma un recorrido de tres paradas para un día libre: un lugar abierto donde caminar, un sitio para tomar algo y un punto con una vista o actividad curiosa. No hace falta decidir establecimientos ni reservar todavía; piensa en zonas conocidas y trayectos seguros, con transporte y presupuesto razonables. Deja un espacio libre para improvisar si aparece algo interesante.\n\nTIEMPO DE DISEÑO: 15–20 MINUTOS. Es un itinerario imaginado, no una salida fijada; anoten costo aproximado y una alternativa gratuita."
       },
       "palabraNueva": {
-        "titulo": "La palabra itinerario",
-        "contenido": "Plan ordenado de actividades o paradas que se quieren realizar. Un itinerario flexible permite disfrutar el camino sin convertir cada minuto en una obligación."
+        "titulo": "La palabra travesía",
+        "contenido": "TRAVESÍA: recorrido que implica avanzar por distintas etapas. Una aventura pequeña también puede sentirse como travesía si cada parte tiene sentido."
       },
       "buenasNoches": {
         "contenido": "Los mejores planes tienen una dirección, pero también dejan espacio para cambiar de rumbo.",
@@ -11959,8 +11959,8 @@ const CALENDARIO = [
         "contenido": "Escoge algo pequeño y cotidiano —una moneda, una hoja, una piedra lisa o un lápiz— e imagina que vas a venderlo como si fuera un producto extraordinario. Dibuja un empaque con nombre, instrucciones, advertencia y una promesa divertida. Si tienes papel reutilizable, haz un modelo sencillo sin pegar nada sobre el objeto.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Dibuja el empaque, el nombre y una frase publicitaria; utiliza papel reutilizado."
       },
       "palabraNueva": {
-        "titulo": "La palabra prototipo",
-        "contenido": "Modelo inicial que permite probar una idea antes de desarrollarla. Un prototipo sencillo ayuda a descubrir qué funciona y qué necesita cambiar."
+        "titulo": "La palabra maqueta",
+        "contenido": "MAQUETA: representación a escala o en versión inicial de un diseño. Un empaque imaginario empieza con una maqueta sencilla."
       },
       "buenasNoches": {
         "contenido": "A veces diseñar algo sin utilidad práctica termina siendo un ejercicio buenísimo de imaginación.",
@@ -12006,8 +12006,8 @@ const CALENDARIO = [
         "contenido": "Prepara una ensalada fría de tres o cuatro ingredientes: tomate, aguacate, maíz y limón, por ejemplo. Mezcla aparte limón con un chorrito de aceite, sal y pimienta para hacer un aderezo sencillo. Puedes cambiar ingredientes según lo que tengas y tus necesidades. Si usas productos empacados, revisa etiquetas y posibles trazas de maní o contaminación cruzada; evita cualquier ingrediente cuya seguridad no esté clara.\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS. Prepara solo la porción que se vaya a consumir y conserva refrigerados los ingredientes que lo requieran."
       },
       "palabraNueva": {
-        "titulo": "La palabra emulsión",
-        "contenido": "Mezcla estable de dos líquidos que normalmente no se unen con facilidad. Una emulsión sencilla puede dar textura y sabor a una preparación fría."
+        "titulo": "La palabra ensamblaje",
+        "contenido": "ENSAMBLAJE: unión de varias partes para formar un conjunto. Una receta fría también necesita ensamblaje: cada ingrediente debe aportar algo y conservar su textura."
       },
       "buenasNoches": {
         "contenido": "Comer algo preparado con calma puede ser un pequeño gusto en medio de la rutina.",
@@ -12053,8 +12053,8 @@ const CALENDARIO = [
         "contenido": "Escribe seis preguntas en papeles separados: ¿qué habilidad te gustaría aprender por un día?, ¿qué lugar te da curiosidad?, ¿qué objeto salvarías de una mudanza?, ¿qué personaje sería buen compañero de trabajo?, ¿qué invento te gustaría que existiera?, ¿qué recuerdo te hace reír? Numérenlas del uno al seis y usen un dado o un generador aleatorio para elegir tres. Cada quien puede pasar una pregunta si no le apetece responder.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cada persona escribe dos preguntas y el azar escoge cuáles responder."
       },
       "palabraNueva": {
-        "titulo": "La palabra azar",
-        "contenido": "Resultado que no depende de una elección o patrón predecible. El azar puede abrir conversaciones que no habríamos planeado."
+        "titulo": "La palabra aleatoriedad",
+        "contenido": "ALEATORIEDAD: cualidad de ocurrir sin un orden previsible. Una pregunta al azar puede abrir una conversación inesperada."
       },
       "buenasNoches": {
         "contenido": "Una pregunta inesperada puede llevarnos a un tema mucho más interesante de lo previsto.",
@@ -12147,8 +12147,8 @@ const CALENDARIO = [
         "contenido": "Haz una lista de tres cosas que alguna vez dejaste de intentar y que quizá podrías retomar sin presión: un pasatiempo, una receta, una lectura, un deporte suave o una habilidad. Al lado escribe qué necesitarías para probar otra vez y qué harías diferente. No incluyas situaciones que te hayan hecho daño ni sientas que debes reconciliarte con algo o alguien.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Elige una actividad que puedas retomar sin gastar y define un primer paso pequeño."
       },
       "palabraNueva": {
-        "titulo": "La palabra resiliencia",
-        "contenido": "Capacidad de adaptarse y recuperarse ante una dificultad o cambio. La resiliencia no significa insistir en todo, sino aprender qué vale la pena intentar de nuevo."
+        "titulo": "La palabra reinvención",
+        "contenido": "REINVENCIÓN: proceso de transformar una manera de hacer o entender algo. Una segunda oportunidad puede convertirse en reinvención si elegimos un camino distinto."
       },
       "buenasNoches": {
         "contenido": "Volver a empezar es una posibilidad, no una obligación. Puedes dejar la lista guardada y retomarla solo cuando te resulte útil.",
@@ -12288,8 +12288,8 @@ const CALENDARIO = [
         "contenido": "Dibuja dos líneas horizontales del mismo tamaño y agrega flechas hacia adentro en los extremos de una y hacia afuera en la otra. Obsérvalas desde cierta distancia: puede que una parezca más larga aunque midan lo mismo. Después busca otro ejemplo sencillo de ilusión óptica y explica qué crees que engaña al cerebro. No necesitas materiales especiales: papel y lápiz bastan.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Dibuja las líneas y compara; no mires la imagen durante demasiado tiempo si te produce molestia visual."
       },
       "palabraNueva": {
-        "titulo": "La palabra perspectiva",
-        "contenido": "Forma de observar algo desde un punto de vista determinado. Cambiar la perspectiva puede hacer que una misma figura parezca otra cosa."
+        "titulo": "La palabra percepción",
+        "contenido": "PERCEPCIÓN: manera en que interpretamos la información que recibimos por los sentidos. Una ilusión óptica muestra que la percepción puede engañarnos."
       },
       "buenasNoches": {
         "contenido": "A veces mirar con más atención no significa ver lo que esperábamos.",
@@ -12382,8 +12382,8 @@ const CALENDARIO = [
         "contenido": "Escribe tres titulares separados, sin relación entre sí: uno cotidiano, uno misterioso y uno ridículo. Por ejemplo: «Cierran una panadería por exceso de croissants», «Aparece una llave en el bolsillo de todos» y «Un loro gana una elección vecinal». El reto es unirlos en una historia de máximo diez líneas, donde los tres tengan sentido y el final no sea el primero que se te ocurra.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres titulares y una historia con principio, giro y cierre; cada persona aporta una parte."
       },
       "palabraNueva": {
-        "titulo": "La palabra premisa",
-        "contenido": "Idea inicial que sirve de base para desarrollar una historia. Una premisa interesante despierta curiosidad antes de que empiece la historia."
+        "titulo": "La palabra titular",
+        "contenido": "TITULAR: frase breve que presenta la idea principal de una noticia. Tres titulares pueden construir una historia si se conectan con intención."
       },
       "buenasNoches": {
         "contenido": "Las historias más raras suelen empezar con una combinación que parecía no tener sentido.",
@@ -12476,8 +12476,8 @@ const CALENDARIO = [
         "contenido": "Con el celular apoyado en un lugar estable, graba un video de 30 a 45 segundos sin detener la cámara. Cuenta una mini historia usando solo movimientos dentro del encuadre: alguien busca algo, encuentra una pista y resuelve una situación sencilla. Puedes usar dos objetos y cambiar el sentido de la escena con la posición de la cámara, la luz o el sonido ambiente. No hace falta mostrar rostros ni publicar el resultado.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS, incluyendo ensayo y grabación. No hace falta publicar el video; puede quedarse privado."
       },
       "palabraNueva": {
-        "titulo": "La palabra secuencia",
-        "contenido": "Serie de acciones o imágenes que forman una unidad dentro de una obra. Un plano secuencia cuenta una acción continua sin cortes de cámara."
+        "titulo": "La palabra continuidad",
+        "contenido": "CONTINUIDAD: cualidad de mantener una acción o imagen sin interrupciones. Un plano secuencia depende de la continuidad entre movimientos."
       },
       "buenasNoches": {
         "contenido": "A veces una buena historia no necesita muchos efectos: solo una idea clara y una toma bien pensada.",
@@ -12852,8 +12852,8 @@ const CALENDARIO = [
         "contenido": "Escoge un cuento, película o serie que recuerdes bien. Imagina que la historia termina cinco minutos antes de su desenlace original y escribe tres finales alternativos: uno optimista, uno inesperado y uno cómico. Cada final debe respetar la personalidad de los personajes, pero cambiar una decisión clave. Si prefieres, hazlo con una historia inventada para no depender de una obra conocida.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Escribe tres finales alternativos y elige el que mejor encaje con los personajes."
       },
       "palabraNueva": {
-        "titulo": "La palabra desenlace",
-        "contenido": "Parte final de una historia en la que se resuelve o transforma el conflicto. Un desenlace distinto puede cambiar por completo el sentido de una historia."
+        "titulo": "La palabra epílogo",
+        "contenido": "EPÍLOGO: parte final que añade una reflexión o muestra qué ocurre después de la historia. Un epílogo alternativo puede cambiar el sabor del cierre."
       },
       "buenasNoches": {
         "contenido": "Una historia puede quedarse con nosotros mucho tiempo cuando nos invita a imaginar qué habría pasado si algo cambiaba.",
@@ -13228,8 +13228,8 @@ const CALENDARIO = [
         "contenido": "Elige cinco pequeñas misiones para el día: encontrar un sonido que te guste, descubrir una textura curiosa, notar un aroma agradable, probar un sabor distinto y observar un color que hoy parezca especialmente bonito. No hace falta hacerlas todas de una vez; puedes ir reuniendo tus hallazgos como si fueran objetos de una colección invisible.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS repartidos durante el día. No hace falta probar alimentos o aromas desconocidos; basta observar lo que ya conoces."
       },
       "palabraNueva": {
-        "titulo": "La palabra serendipia",
-        "contenido": "Hallazgo valioso o agradable que ocurre de manera inesperada. A veces una serendipia aparece cuando prestamos atención sin buscar algo concreto."
+        "titulo": "La palabra asombro",
+        "contenido": "ASOMBRO: emoción de sorpresa o admiración ante algo inesperado. Observar con atención puede despertar asombro en cosas muy comunes."
       },
       "buenasNoches": {
         "contenido": "A veces no hace falta cambiar de mundo; basta con prestar más atención al que ya tenemos.",
@@ -13322,8 +13322,8 @@ const CALENDARIO = [
         "contenido": "Prepara una arepa en sartén y conviértela en una mini creación. Puedes usar queso, tomate, aguacate, maíz, champiñones salteados o los ingredientes sencillos que tengas disponibles. Haz una versión clásica y otra con una combinación inesperada, pero que sí te provoque probar. Cocina con cuidado y revisa que los ingredientes estén en buen estado.\n\nTIEMPO DE PREPARACIÓN: 15–20 MINUTOS. Prepara la arepa en sartén y deja los ingredientes listos en recipientes separados para el almuerzo."
       },
       "palabraNueva": {
-        "titulo": "La palabra improvisar",
-        "contenido": "Crear o resolver algo usando los recursos disponibles, sin tener todo planeado de antemano. Improvisar también puede ser una forma divertida de descubrir combinaciones nuevas."
+        "titulo": "La palabra cocción",
+        "contenido": "COCCIÓN: proceso por el que el calor transforma los alimentos. En una arepa, la cocción lenta ayuda a dorar el exterior sin dejar crudo el centro."
       },
       "buenasNoches": {
         "contenido": "Las mejores ideas no siempre salen de seguir una receta al pie de la letra; algunas aparecen jugando.",
@@ -13369,8 +13369,8 @@ const CALENDARIO = [
         "contenido": "Imaginen una serie con un título absurdo y una premisa inesperada: una panadería que solo abre de noche, un edificio donde cada vecino tiene una misión secreta o un detective que resuelve misterios usando únicamente notas de voz. Después inventen tres personajes, el problema del primer capítulo y una escena que obligue a ver el siguiente episodio.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Título, premisa, tres personajes y una escena del primer episodio."
       },
       "palabraNueva": {
-        "titulo": "La palabra premisa",
-        "contenido": "Idea inicial que plantea de qué trata una historia y qué situación la pone en marcha. Una premisa curiosa puede convertir una idea sencilla en algo memorable."
+        "titulo": "La palabra sinopsis",
+        "contenido": "SINOPSIS: resumen breve que presenta la idea central de una obra. Una serie inventada necesita una sinopsis que despierte curiosidad sin contarlo todo."
       },
       "buenasNoches": {
         "contenido": "La imaginación tiene una ventaja: no necesita presupuesto para estrenar una buena historia.",
@@ -13416,8 +13416,8 @@ const CALENDARIO = [
         "contenido": "DISEÑO DE PLAN FUTURO · 10–15 MINUTOS · SIN RESERVAS\n\nHoy no vamos a salir. Diseñen una propuesta de medio día para cuando coincidan el tiempo y las ganas: una zona agradable para caminar, un lugar tranquilo donde sentarse y una última parada opcional para tomar algo.\n\nCada uno propone una misión sencilla para el recorrido. Después revisen presupuesto, transporte, horarios, seguridad y hora de regreso. Si no encaja económicamente, cambien la bebida por algo llevado desde casa o conviertan el plan en una caminata corta y gratuita. La idea queda guardada, no comprometida.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS para diseñar el recorrido. No hay fecha, destino ni gasto decidido."
       },
       "palabraNueva": {
-        "titulo": "La palabra itinerario",
-        "contenido": "Plan o recorrido que organiza las etapas de una salida o un viaje. Un itinerario flexible deja espacio para los descubrimientos espontáneos."
+        "titulo": "La palabra logística",
+        "contenido": "LOGÍSTICA: organización de recursos, tiempos y desplazamientos para que un plan pueda realizarse. Revisar la logística permite decidir sin presión."
       },
       "buenasNoches": {
         "contenido": "Un buen plan no se mide por la cantidad de horas, sino por lo agradable que se siente compartirlo.",
@@ -14212,7 +14212,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Origami: una flor de papel en tres niveles",
-        "contenido": "RETO DE ORIGAMI · 20–30 MINUTOS · UNA HOJA CUADRADA Y PAPEL VERDE OPCIONAL\n\nMateriales: una hoja cuadrada de 15 × 15 cm para la flor, otra hoja verde para el tallo si tienen, y una superficie plana.\n\nNIVEL 1 · TULIPÁN (10 MINUTOS)\n1. Coloca la hoja con el color hacia abajo y dóblala en diagonal para formar un triángulo.\n2. Pon el lado largo abajo y la punta del triángulo hacia arriba.\n3. Lleva la esquina inferior izquierda hacia arriba, pero déjala un poco separada de la punta superior.\n4. Repite con la esquina derecha. Se formarán dos pétalos; ajusta la inclinación para que queden equilibrados.\n5. Dobla ligeramente hacia atrás las puntas laterales para suavizar la silueta y voltea la figura.\n\nNIVEL 2 · TALLO Y HOJA (5–10 MINUTOS)\n1. Con papel verde, dobla una esquina hacia la opuesta para marcar una diagonal y vuelve a abrir.\n2. Lleva los dos bordes largos hacia la línea central.\n3. Dobla la pieza por la mitad a lo largo y estrecha un extremo para formar el tallo.\n4. Haz un pliegue lateral pequeño para que aparezca una hoja.\n\nNIVEL 3 · COMPOSICIÓN (5–10 MINUTOS)\nHaz una segunda flor de otro tamaño o color y crea una tarjeta con el nombre de tu especie inventada. Si no tienes papel verde, dibuja el tallo: la flor sigue siendo el reto principal.\n\nRETO EN PAREJA: cada persona crea una flor distinta y luego inventan el nombre de una especie que solo florece en una situación inesperada.\n\nTIEMPO TOTAL: 20–30 MINUTOS. El nivel 1 puede hacerse solo; los niveles 2 y 3 completan la composición.\n\nTIEMPO TOTAL: 20–30 MINUTOS. El nivel 1 puede hacerse solo; los niveles 2 y 3 completan la composición."
+        "contenido": "RETO DE ORIGAMI · 20–30 MINUTOS · UNA HOJA CUADRADA Y PAPEL VERDE OPCIONAL\n\nMateriales: una hoja cuadrada de 15 × 15 cm para la flor, otra hoja verde para el tallo si tienen, y una superficie plana.\n\nNIVEL 1 · TULIPÁN (10 MINUTOS)\n1. Coloca la hoja con el color hacia abajo y dóblala en diagonal para formar un triángulo.\n2. Pon el lado largo abajo y la punta del triángulo hacia arriba.\n3. Lleva la esquina inferior izquierda hacia arriba, pero déjala un poco separada de la punta superior.\n4. Repite con la esquina derecha. Se formarán dos pétalos; ajusta la inclinación para que queden equilibrados.\n5. Dobla ligeramente hacia atrás las puntas laterales para suavizar la silueta y voltea la figura.\n\nNIVEL 2 · TALLO Y HOJA (5–10 MINUTOS)\n1. Con papel verde, dobla una esquina hacia la opuesta para marcar una diagonal y vuelve a abrir.\n2. Lleva los dos bordes largos hacia la línea central.\n3. Dobla la pieza por la mitad a lo largo y estrecha un extremo para formar el tallo.\n4. Haz un pliegue lateral pequeño para que aparezca una hoja.\n\nNIVEL 3 · COMPOSICIÓN (5–10 MINUTOS)\nHaz una segunda flor de otro tamaño o color y crea una tarjeta con el nombre de tu especie inventada. Si no tienes papel verde, dibuja el tallo: la flor sigue siendo el reto principal.\n\nRETO EN PAREJA: cada persona crea una flor distinta y luego inventan el nombre de una especie que solo florece en una situación inesperada.\n\nTIEMPO TOTAL: 20–30 MINUTOS. El nivel 1 puede hacerse solo; los niveles 2 y 3 completan la composición."
       },
       "palabraNueva": {
         "titulo": "La palabra atisbo",
@@ -16583,8 +16583,8 @@ const CALENDARIO = [
         "contenido": "Completen tres frases: «Algo que casi nadie nota de mí…», «Una cosa que me gustaría aprender…» y «Un plan sencillo que siempre me alegra…». La otra persona escucha y puede hacer una pregunta. No hay obligación de compartir algo íntimo.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tres frases por persona y una pregunta opcional; cualquiera puede pasar."
       },
       "palabraNueva": {
-        "titulo": "La palabra reciprocidad",
-        "contenido": "RECIPROCIDAD\n\nCorrespondencia mutua entre dos personas o partes.\n\nEjemplo: «Una frase propia con reciprocidad.»"
+        "titulo": "La palabra reconocimiento",
+        "contenido": "RECONOCIMIENTO: acción de identificar y valorar algo o a alguien. Un retrato hablado también puede ser un ejercicio de reconocimiento de detalles."
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
@@ -16865,8 +16865,8 @@ const CALENDARIO = [
         "contenido": "Hagan un mapa con cuatro tipos de lugares que les gustaría conocer algún día: un mirador para ver el atardecer, un lago para pasar unas horas, un sitio tranquilo para pintar y un lugar al aire libre para un picnic. Escriban qué harían allí y qué necesitarían llevar. No pongan fechas ni nombres concretos: es un mapa de posibilidades.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cuatro tipos de lugar, una actividad posible y un presupuesto orientativo; no elijan fecha."
       },
       "palabraNueva": {
-        "titulo": "La palabra cartografía",
-        "contenido": "CARTOGRAFÍA\n\nArte o técnica de representar espacios geográficos mediante mapas.\n\nEjemplo: «Una frase propia con cartografía.»"
+        "titulo": "La palabra topografía",
+        "contenido": "TOPOGRAFÍA: descripción de las formas y características físicas de un terreno. Un mapa de lugares futuros puede incluir topografía imaginaria o real."
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
@@ -16912,8 +16912,8 @@ const CALENDARIO = [
         "contenido": "Escriban tres indirectas: una sutil, una descaradamente divertida y una que parezca una observación inocente hasta que se piensa dos veces. La otra persona las clasifica y explica cuál le pareció más ingeniosa. El juego debe ser cómodo para ambos; si una frase no cae bien, se cambia.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres indirectas por persona; si una no resulta cómoda, se cambia sin insistir."
       },
       "palabraNueva": {
-        "titulo": "La palabra sutileza",
-        "contenido": "SUTILEZA\n\nCualidad de lo que se expresa con delicadeza, ingenio o poca evidencia.\n\nEjemplo: «Una frase propia con sutileza.»"
+        "titulo": "La palabra insinuación",
+        "contenido": "INSINUACIÓN: expresión indirecta que sugiere una idea sin decirla de forma explícita. Una insinuación elegante deja espacio para que la otra persona responda libremente."
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
@@ -17053,8 +17053,8 @@ const CALENDARIO = [
         "contenido": "RETO DE REFLEXIÓN · 15–20 MINUTOS\n\nRecuerda cuatro decisiones pequeñas que hayas tomado últimamente: una que te facilitó el día, una que te hizo cambiar de opinión, una que repetirías y una que todavía no sabes cómo evaluar.\n\nEscribe una línea sobre cada una y marca cuál dependió más de ti. No hace falta juzgar si fueron buenas o malas; el objetivo es reconocer cómo se construyen los días a partir de decisiones pequeñas."
       },
       "palabraNueva": {
-        "titulo": "La palabra evocación",
-        "contenido": "EVOCACIÓN\n\nAcción de traer algo a la memoria o imaginarlo con viveza.\n\nEjemplo: «Una frase propia con evocación.»"
+        "titulo": "La palabra discernimiento",
+        "contenido": "DISCERNIMIENTO: capacidad de distinguir opciones y valorar sus consecuencias. El discernimiento ayuda a elegir con calma entre caminos posibles."
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
