@@ -8564,5 +8564,327 @@ const CALENDARIO = [
       "significado": "Protección, apoyo o consuelo que se ofrece a alguien en un momento difícil.",
       "ejemplo": "Un mensaje de amparo puede recordar que no hace falta resolverlo todo en un solo día."
     }
+  },
+  {
+    "dia": 196,
+    "fecha": "2027-04-29",
+    "fechaTexto": "jue, 29 de abr",
+    "categoria": "La banda sonora de un día cualquiera",
+    "icono": "🎧",
+    "tono": "música y observación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca convertir un día normal en una pequeña escena de película.",
+    "poema": [
+      "Elijan un momento corriente —preparar café, caminar a casa, ordenar el escritorio o esperar el transporte— y asígnenle una canción como si fuera la escena principal de una película. Después expliquen qué género tendría esa película y qué título le pondrían. Si están en lugares distintos, cada quien manda su escena y su canción.",
+      "Armen una lista llamada «Escenas que nadie filmó» y vayan agregando canciones cuando aparezcan nuevos momentos."
+    ],
+    "detalle": "Armen una lista llamada «Escenas que nadie filmó» y vayan agregando canciones cuando aparezcan nuevos momentos.",
+    "buenasNoches": "No hace falta que pase algo enorme para que un día tenga su propia historia.",
+    "cancionTitulo": "Laura Ronda",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "1v14wNlGjdM",
+    "cancionUrl": "https://www.youtube.com/watch?v=1v14wNlGjdM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca convertir un día normal en una pequeña escena de película."
+      },
+      "mensajePrincipal": {
+        "titulo": "La banda sonora de un día cualquiera",
+        "contenido": "Elijan un momento corriente —preparar café, caminar a casa, ordenar el escritorio o esperar el transporte— y asígnenle una canción como si fuera la escena principal de una película. Después expliquen qué género tendría esa película y qué título le pondrían. Si están en lugares distintos, cada quien manda su escena y su canción."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra cotidiano",
+        "contenido": "Aquello que pertenece a los días comunes y habituales. Lo cotidiano también puede tener una banda sonora digna de una película."
+      },
+      "buenasNoches": {
+        "contenido": "No hace falta que pase algo enorme para que un día tenga su propia historia."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Cotidiano",
+      "significado": "Aquello que pertenece a los días comunes y habituales.",
+      "ejemplo": "Lo cotidiano también puede tener una banda sonora digna de una película."
+    }
+  },
+  {
+    "dia": 197,
+    "fecha": "2027-04-30",
+    "fechaTexto": "vie, 30 de abr",
+    "categoria": "El menú de tres ingredientes",
+    "icono": "🥑",
+    "tono": "receta sencilla y práctica",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "La misión de hoy es inventar algo rico con muy poco y sin prender el horno.",
+    "poema": [
+      "Propongan una preparación fría de tres o cuatro ingredientes: por ejemplo, arepa lista con queso y aguacate; o yogur natural con fruta y cereal. Cada quien puede proponer una versión y ponerle nombre de restaurante. Revisen siempre las etiquetas por la alergia al maní y posibles trazas o contaminación cruzada; si no están seguros de un ingrediente, mejor no usarlo.",
+      "Compartan la receta escrita como si fuera una ficha de menú, con ingredientes y pasos breves. No hace falta cocinar juntos ni comprar nada especial."
+    ],
+    "detalle": "Compartan la receta escrita como si fuera una ficha de menú, con ingredientes y pasos breves. No hace falta cocinar juntos ni comprar nada especial.",
+    "buenasNoches": "A veces lo sencillo, bien pensado, termina siendo lo que más provoca repetir.",
+    "cancionTitulo": "El Tour de Sing Sing",
+    "cancionArtista": "Alcolirykoz; ToteKing",
+    "youtubeId": "b05PzMJqiaw",
+    "cancionUrl": "https://www.youtube.com/watch?v=b05PzMJqiaw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "La misión de hoy es inventar algo rico con muy poco y sin prender el horno."
+      },
+      "mensajePrincipal": {
+        "titulo": "El menú de tres ingredientes",
+        "contenido": "Propongan una preparación fría de tres o cuatro ingredientes: por ejemplo, arepa lista con queso y aguacate; o yogur natural con fruta y cereal. Cada quien puede proponer una versión y ponerle nombre de restaurante. Revisen siempre las etiquetas por la alergia al maní y posibles trazas o contaminación cruzada; si no están seguros de un ingrediente, mejor no usarlo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra maridaje",
+        "contenido": "Combinación de elementos que se complementan bien, especialmente sabores o bebidas. Un buen maridaje no tiene que ser complicado: basta con que los sabores se lleven bien."
+      },
+      "buenasNoches": {
+        "contenido": "A veces lo sencillo, bien pensado, termina siendo lo que más provoca repetir."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Maridaje",
+      "significado": "Combinación de elementos que se complementan bien, especialmente sabores o bebidas.",
+      "ejemplo": "Un buen maridaje no tiene que ser complicado: basta con que los sabores se lleven bien."
+    }
+  },
+  {
+    "dia": 198,
+    "fecha": "2027-05-01",
+    "fechaTexto": "sáb, 1 de may",
+    "categoria": "Un taller de formas imposibles",
+    "icono": "✂️",
+    "tono": "creatividad manual",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a diseñar un objeto que todavía no existe, pero que debería existir.",
+    "poema": [
+      "Con papel usado, una hoja o el lienzo digital, inventen un objeto que resuelva una molestia cotidiana: una sombrilla para zapatos, un organizador de cables que no se pierda o una alarma que detecte que llevas demasiado tiempo aplazando algo. Dibujen cómo se usaría, qué problema resuelve y cuál sería su nombre. No tiene que ser fabricable; la gracia es imaginar y explicar.",
+      "Presenten el invento en un minuto como si estuvieran en una feria de innovación. La otra persona puede hacer una pregunta difícil o proponer una mejora."
+    ],
+    "detalle": "Presenten el invento en un minuto como si estuvieran en una feria de innovación. La otra persona puede hacer una pregunta difícil o proponer una mejora.",
+    "buenasNoches": "Las ideas raras a veces son las que más nos hacen reír y pensar.",
+    "cancionTitulo": "Música para Planchar",
+    "cancionArtista": "Alcolirykoz; Sadat X",
+    "youtubeId": "t9mtMVfD6u4",
+    "cancionUrl": "https://www.youtube.com/watch?v=t9mtMVfD6u4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a diseñar un objeto que todavía no existe, pero que debería existir."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un taller de formas imposibles",
+        "contenido": "Con papel usado, una hoja o el lienzo digital, inventen un objeto que resuelva una molestia cotidiana: una sombrilla para zapatos, un organizador de cables que no se pierda o una alarma que detecte que llevas demasiado tiempo aplazando algo. Dibujen cómo se usaría, qué problema resuelve y cuál sería su nombre. No tiene que ser fabricable; la gracia es imaginar y explicar."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra prototipo",
+        "contenido": "Primera versión de una idea que permite probar cómo podría funcionar. Un prototipo sirve para experimentar sin exigir que el resultado salga perfecto."
+      },
+      "buenasNoches": {
+        "contenido": "Las ideas raras a veces son las que más nos hacen reír y pensar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Prototipo",
+      "significado": "Primera versión de una idea que permite probar cómo podría funcionar.",
+      "ejemplo": "Un prototipo sirve para experimentar sin exigir que el resultado salga perfecto."
+    }
+  },
+  {
+    "dia": 199,
+    "fecha": "2027-05-02",
+    "fechaTexto": "dom, 2 de may",
+    "categoria": "El ranking que nadie pidió",
+    "icono": "🏆",
+    "tono": "humor y opiniones",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a hacer un ranking completamente innecesario, pero con argumentos serios.",
+    "poema": [
+      "Elijan una categoría absurda: mejores sonidos de la lluvia, objetos que desaparecen misteriosamente en casa, meriendas de colegio, excusas para salir de una reunión o personajes secundarios que merecían más pantalla. Cada quien arma un top tres y defiende su podio. Se permiten apelaciones, cambios de puesto y argumentos exageradamente técnicos.",
+      "Guarden el ranking ganador —o el más polémico— con fecha y nombre de la categoría."
+    ],
+    "detalle": "Guarden el ranking ganador —o el más polémico— con fecha y nombre de la categoría.",
+    "buenasNoches": "No todas las discusiones tienen que llegar a un acuerdo; algunas solo necesitan buenas razones y una carcajada.",
+    "cancionTitulo": "Trabajo Sucio",
+    "cancionArtista": "Lianna",
+    "youtubeId": "eKGrgYjeCNM",
+    "cancionUrl": "https://www.youtube.com/watch?v=eKGrgYjeCNM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a hacer un ranking completamente innecesario, pero con argumentos serios."
+      },
+      "mensajePrincipal": {
+        "titulo": "El ranking que nadie pidió",
+        "contenido": "Elijan una categoría absurda: mejores sonidos de la lluvia, objetos que desaparecen misteriosamente en casa, meriendas de colegio, excusas para salir de una reunión o personajes secundarios que merecían más pantalla. Cada quien arma un top tres y defiende su podio. Se permiten apelaciones, cambios de puesto y argumentos exageradamente técnicos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra criterio",
+        "contenido": "Capacidad de formar una opinión o tomar una decisión a partir de razones propias. Un criterio personal puede ser tan válido como inesperado, siempre que sepamos explicar de dónde sale."
+      },
+      "buenasNoches": {
+        "contenido": "No todas las discusiones tienen que llegar a un acuerdo; algunas solo necesitan buenas razones y una carcajada."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Criterio",
+      "significado": "Capacidad de formar una opinión o tomar una decisión a partir de razones propias.",
+      "ejemplo": "Un criterio personal puede ser tan válido como inesperado, siempre que sepamos explicar de dónde sale."
+    }
+  },
+  {
+    "dia": 200,
+    "fecha": "2027-05-03",
+    "fechaTexto": "lun, 3 de may",
+    "categoria": "Doscientos días de pequeñas sorpresas",
+    "icono": "🎈",
+    "tono": "celebración y balance",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Llegamos al día 200. No hace falta hacer una ceremonia, pero sí detenernos un momento.",
+    "poema": [
+      "Miren hacia atrás y elijan tres cosas que les hayan gustado de este recorrido: una actividad, una canción, una conversación, una idea o una sorpresa. Después escojan algo que todavía les gustaría encontrar en los días que vienen. La respuesta puede ser sencilla y no tiene que ser una evaluación perfecta; se trata de reconocer lo que ha tenido sentido.",
+      "Si quieren, hagan una portada para este capítulo: «200 días, un montón de formas de sorprender»."
+    ],
+    "detalle": "Si quieren, hagan una portada para este capítulo: «200 días, un montón de formas de sorprender».",
+    "buenasNoches": "Lo que vale la pena no siempre se mide por lo espectacular, sino por lo que deja.",
+    "cancionTitulo": "Esta Va",
+    "cancionArtista": "Realidad Mental",
+    "youtubeId": "JVEN7Quzpeg",
+    "cancionUrl": "https://www.youtube.com/watch?v=JVEN7Quzpeg",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Llegamos al día 200. No hace falta hacer una ceremonia, pero sí detenernos un momento."
+      },
+      "mensajePrincipal": {
+        "titulo": "Doscientos días de pequeñas sorpresas",
+        "contenido": "Miren hacia atrás y elijan tres cosas que les hayan gustado de este recorrido: una actividad, una canción, una conversación, una idea o una sorpresa. Después escojan algo que todavía les gustaría encontrar en los días que vienen. La respuesta puede ser sencilla y no tiene que ser una evaluación perfecta; se trata de reconocer lo que ha tenido sentido."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra trayectoria",
+        "contenido": "Camino o recorrido que alguien o algo ha seguido a lo largo del tiempo. Una trayectoria se construye con pasos grandes, pero también con muchos avances pequeños."
+      },
+      "buenasNoches": {
+        "contenido": "Lo que vale la pena no siempre se mide por lo espectacular, sino por lo que deja."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Trayectoria",
+      "significado": "Camino o recorrido que alguien o algo ha seguido a lo largo del tiempo.",
+      "ejemplo": "Una trayectoria se construye con pasos grandes, pero también con muchos avances pequeños."
+    }
+  },
+  {
+    "dia": 201,
+    "fecha": "2027-05-04",
+    "fechaTexto": "mar, 4 de may",
+    "categoria": "El mapa de los lugares pendientes",
+    "icono": "🗺️",
+    "tono": "sueños y planes flexibles",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a hacer un mapa de lugares que despiertan curiosidad, sin convertirlo en una agenda obligatoria.",
+    "poema": [
+      "Cada quien propone tres tipos de lugar que le gustaría conocer o visitar algún día: un mirador, un pueblo tranquilo, un jardín, un museo, un lago o un sitio para ver las estrellas. Al lado escriban qué les gustaría hacer allí y si sería un plan de unas horas o de un día. No pongan fechas ni compromisos; es una colección de posibilidades.",
+      "Marquen con una estrella el lugar que más curiosidad les dé por ahora. Más adelante, si se alinean el tiempo y las ganas, pueden escoger uno."
+    ],
+    "detalle": "Marquen con una estrella el lugar que más curiosidad les dé por ahora. Más adelante, si se alinean el tiempo y las ganas, pueden escoger uno.",
+    "buenasNoches": "Soñar un plan también es bonito cuando no se vuelve una obligación.",
+    "cancionTitulo": "A Veces",
+    "cancionArtista": "Al2 El Aldeano",
+    "youtubeId": "LQYOZFO5aB4",
+    "cancionUrl": "https://www.youtube.com/watch?v=LQYOZFO5aB4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a hacer un mapa de lugares que despiertan curiosidad, sin convertirlo en una agenda obligatoria."
+      },
+      "mensajePrincipal": {
+        "titulo": "El mapa de los lugares pendientes",
+        "contenido": "Cada quien propone tres tipos de lugar que le gustaría conocer o visitar algún día: un mirador, un pueblo tranquilo, un jardín, un museo, un lago o un sitio para ver las estrellas. Al lado escriban qué les gustaría hacer allí y si sería un plan de unas horas o de un día. No pongan fechas ni compromisos; es una colección de posibilidades."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra horizonte",
+        "contenido": "Límite visible de lo que alcanzamos a imaginar o conocer; también, perspectiva de futuro. Un horizonte amplio deja espacio para planes que todavía no tienen fecha."
+      },
+      "buenasNoches": {
+        "contenido": "Soñar un plan también es bonito cuando no se vuelve una obligación."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Horizonte",
+      "significado": "Límite visible de lo que alcanzamos a imaginar o conocer; también, perspectiva de futuro.",
+      "ejemplo": "Un horizonte amplio deja espacio para planes que todavía no tienen fecha."
+    }
+  },
+  {
+    "dia": 202,
+    "fecha": "2027-05-05",
+    "fechaTexto": "mié, 5 de may",
+    "categoria": "La pregunta de los finales alternativos",
+    "icono": "🎬",
+    "tono": "historias y conversación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca jugar con una historia conocida y cambiarle una sola decisión.",
+    "poema": [
+      "Elijan una película, serie, anime o libro que ambos conozcan. Busquen una decisión de un personaje y propongan qué habría pasado si hubiera elegido lo contrario. ¿Quién habría terminado siendo protagonista? ¿Qué conflicto nuevo aparecería? ¿El final sería mejor o mucho peor? Pueden defender versiones distintas sin necesidad de ponerse de acuerdo.",
+      "Si la historia tiene muchos personajes, limiten el ejercicio a un solo cambio para que el efecto sea más interesante."
+    ],
+    "detalle": "Si la historia tiene muchos personajes, limiten el ejercicio a un solo cambio para que el efecto sea más interesante.",
+    "buenasNoches": "A veces una sola decisión cambia toda una historia; por eso también vale la pena pensar antes de tomar las nuestras.",
+    "cancionTitulo": "Qué Tú Quieres?",
+    "cancionArtista": "Mabiland",
+    "youtubeId": "7C4t_d898_Q",
+    "cancionUrl": "https://www.youtube.com/watch?v=7C4t_d898_Q",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca jugar con una historia conocida y cambiarle una sola decisión."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pregunta de los finales alternativos",
+        "contenido": "Elijan una película, serie, anime o libro que ambos conozcan. Busquen una decisión de un personaje y propongan qué habría pasado si hubiera elegido lo contrario. ¿Quién habría terminado siendo protagonista? ¿Qué conflicto nuevo aparecería? ¿El final sería mejor o mucho peor? Pueden defender versiones distintas sin necesidad de ponerse de acuerdo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra desenlace",
+        "contenido": "Manera en que termina una historia, una situación o un acontecimiento. Un desenlace alternativo permite imaginar qué habría pasado si una decisión cambiaba."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una sola decisión cambia toda una historia; por eso también vale la pena pensar antes de tomar las nuestras."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Desenlace",
+      "significado": "Manera en que termina una historia, una situación o un acontecimiento.",
+      "ejemplo": "Un desenlace alternativo permite imaginar qué habría pasado si una decisión cambiaba."
+    }
   }
 ];
