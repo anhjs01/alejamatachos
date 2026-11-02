@@ -12428,5 +12428,329 @@ const CALENDARIO = [
       "significado": "Capacidad de tomar decisiones propias y actuar con independencia.",
       "ejemplo": "La autonomía también se practica al elegir pequeñas cosas de acuerdo con lo que necesitamos."
     }
-  }
+  },
+[
+    {
+      "dia": 280,
+      "fecha": "2027-07-22",
+      "fechaTexto": "jue, 22 de jul",
+      "categoria": "La ruleta de los cinco sentidos",
+      "icono": "🎲",
+      "tono": "curiosidad y juego",
+      "color": {
+        "principal": "#8fc8c1",
+        "suave": "#dff3ef",
+        "oscuro": "#173b3a"
+      },
+      "buenosDias": "Hoy toca salir un momento del piloto automático y encontrar algo interesante en lo que normalmente pasa desapercibido.",
+      "poema": [
+        "Elige cinco pequeñas misiones para el día: encontrar un sonido que te guste, descubrir una textura curiosa, notar un aroma agradable, probar un sabor distinto y observar un color que hoy parezca especialmente bonito. No hace falta hacerlas todas de una vez; puedes ir reuniendo tus hallazgos como si fueran objetos de una colección invisible.",
+        "Al final, comparte cuál de los cinco descubrimientos te sorprendió más y cuál habría pasado inadvertido en un día cualquiera."
+      ],
+      "detalle": "La misión extra: ponerle un nombre divertido a tu descubrimiento favorito, como si fuera una especie recién encontrada.",
+      "buenasNoches": "A veces no hace falta cambiar de mundo; basta con prestar más atención al que ya tenemos.",
+      "cancionTitulo": "Happy",
+      "cancionArtista": "Pharrell Williams",
+      "youtubeId": "ZbZSe6N_BXs",
+      "cancionUrl": "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy toca salir un momento del piloto automático y encontrar algo interesante en lo que normalmente pasa desapercibido."
+        },
+        "mensajePrincipal": {
+          "titulo": "La ruleta de los cinco sentidos",
+          "contenido": "Elige cinco pequeñas misiones para el día: encontrar un sonido que te guste, descubrir una textura curiosa, notar un aroma agradable, probar un sabor distinto y observar un color que hoy parezca especialmente bonito. No hace falta hacerlas todas de una vez; puedes ir reuniendo tus hallazgos como si fueran objetos de una colección invisible."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra serendipia",
+          "contenido": "Hallazgo valioso o agradable que ocurre de manera inesperada. A veces una serendipia aparece cuando prestamos atención sin buscar algo concreto."
+        },
+        "buenasNoches": {
+          "contenido": "A veces no hace falta cambiar de mundo; basta con prestar más atención al que ya tenemos."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Serendipia",
+        "significado": "Hallazgo valioso o agradable que ocurre de manera inesperada.",
+        "ejemplo": "A veces una serendipia aparece cuando prestamos atención sin buscar algo concreto."
+      }
+    },
+    {
+      "dia": 281,
+      "fecha": "2027-07-23",
+      "fechaTexto": "vie, 23 de jul",
+      "categoria": "El cumplido con pruebas",
+      "icono": "🕵️",
+      "tono": "coqueto y observador",
+      "color": {
+        "principal": "#e6a6b8",
+        "suave": "#f9e3e9",
+        "oscuro": "#482333"
+      },
+      "buenosDias": "Hoy hay una investigación en marcha: encontrar algo bonito que no sea lo primero que cualquiera notaría.",
+      "poema": [
+        "El reto consiste en dar un cumplido que venga acompañado de una prueba. En vez de decir solamente «qué genial», menciona el detalle concreto: una idea que resolvió bien, una combinación de colores, una forma de explicar algo, una ocurrencia o la manera de tratar a alguien. La gracia está en demostrar que sí estabas prestando atención.",
+        "Si lo hacen entre dos, cada persona tiene que descubrir un detalle positivo del otro que no se haya mencionado antes. Se vale que el cumplido sea coqueto, pero debe sentirse sincero y nada exagerado."
+      ],
+      "detalle": "Regla de la investigación: no se aceptan cumplidos copiados; cada uno debe tener una razón específica.",
+      "buenasNoches": "Que alguien note un detalle pequeño puede alegrar más que escuchar cien frases genéricas.",
+      "cancionTitulo": "Still Into You",
+      "cancionArtista": "Paramore",
+      "youtubeId": "AEB6ibtdPZc",
+      "cancionUrl": "https://www.youtube.com/watch?v=AEB6ibtdPZc",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy hay una investigación en marcha: encontrar algo bonito que no sea lo primero que cualquiera notaría."
+        },
+        "mensajePrincipal": {
+          "titulo": "El cumplido con pruebas",
+          "contenido": "El reto consiste en dar un cumplido que venga acompañado de una prueba. En vez de decir solamente «qué genial», menciona el detalle concreto: una idea que resolvió bien, una combinación de colores, una forma de explicar algo, una ocurrencia o la manera de tratar a alguien. La gracia está en demostrar que sí estabas prestando atención."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra perspicacia",
+          "contenido": "Capacidad de captar detalles o comprender algo con rapidez y claridad. La perspicacia también ayuda a reconocer cualidades que suelen pasar inadvertidas."
+        },
+        "buenasNoches": {
+          "contenido": "Que alguien note un detalle pequeño puede alegrar más que escuchar cien frases genéricas."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Perspicacia",
+        "significado": "Capacidad de captar detalles o comprender algo con rapidez y claridad.",
+        "ejemplo": "La perspicacia también ayuda a reconocer cualidades que suelen pasar inadvertidas."
+      }
+    },
+    {
+      "dia": 282,
+      "fecha": "2027-07-24",
+      "fechaTexto": "sáb, 24 de jul",
+      "categoria": "La cocina improvisada: arepas con personalidad",
+      "icono": "🫓",
+      "tono": "cotidiano y creativo",
+      "color": {
+        "principal": "#e8bd83",
+        "suave": "#faecd8",
+        "oscuro": "#49321b"
+      },
+      "buenosDias": "Hoy la cocina se convierte en un pequeño laboratorio: nada de recetas complicadas ni de encender el horno.",
+      "poema": [
+        "Prepara una arepa en sartén y conviértela en una mini creación. Puedes usar queso, tomate, aguacate, maíz, champiñones salteados o los ingredientes sencillos que tengas disponibles. Haz una versión clásica y otra con una combinación inesperada, pero que sí te provoque probar. Cocina con cuidado y revisa que los ingredientes estén en buen estado.",
+        "Si participan dos personas, cada una inventa un nombre para su arepa y la otra hace de jurado. La puntuación no depende de que quede perfecta: cuenta el sabor, la creatividad y la presentación."
+      ],
+      "detalle": "Elige un nombre de restaurante para tu creación y escribe el menú como si costara una fortuna.",
+      "buenasNoches": "Las mejores ideas no siempre salen de seguir una receta al pie de la letra; algunas aparecen jugando.",
+      "cancionTitulo": "Adventure of a Lifetime",
+      "cancionArtista": "Coldplay",
+      "youtubeId": "QtXby3twMmI",
+      "cancionUrl": "https://www.youtube.com/watch?v=QtXby3twMmI",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy la cocina se convierte en un pequeño laboratorio: nada de recetas complicadas ni de encender el horno."
+        },
+        "mensajePrincipal": {
+          "titulo": "La cocina improvisada: arepas con personalidad",
+          "contenido": "Prepara una arepa en sartén y conviértela en una mini creación. Puedes usar queso, tomate, aguacate, maíz, champiñones salteados o los ingredientes sencillos que tengas disponibles. Haz una versión clásica y otra con una combinación inesperada, pero que sí te provoque probar. Cocina con cuidado y revisa que los ingredientes estén en buen estado."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra improvisar",
+          "contenido": "Crear o resolver algo usando los recursos disponibles, sin tener todo planeado de antemano. Improvisar también puede ser una forma divertida de descubrir combinaciones nuevas."
+        },
+        "buenasNoches": {
+          "contenido": "Las mejores ideas no siempre salen de seguir una receta al pie de la letra; algunas aparecen jugando."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Improvisar",
+        "significado": "Crear o resolver algo usando los recursos disponibles, sin tener todo planeado de antemano.",
+        "ejemplo": "Improvisar también puede ser una forma divertida de descubrir combinaciones nuevas."
+      }
+    },
+    {
+      "dia": 283,
+      "fecha": "2027-07-25",
+      "fechaTexto": "dom, 25 de jul",
+      "categoria": "El casting de una serie que no existe",
+      "icono": "🎬",
+      "tono": "humor y creatividad",
+      "color": {
+        "principal": "#9bb8e2",
+        "suave": "#e4edfa",
+        "oscuro": "#1e3150"
+      },
+      "buenosDias": "Hoy vamos a inventar una serie tan extraña que probablemente ninguna plataforma se atrevería a producirla.",
+      "poema": [
+        "Imaginen una serie con un título absurdo y una premisa inesperada: una panadería que solo abre de noche, un edificio donde cada vecino tiene una misión secreta o un detective que resuelve misterios usando únicamente notas de voz. Después inventen tres personajes, el problema del primer capítulo y una escena que obligue a ver el siguiente episodio.",
+        "Para hacerlo más divertido, cada participante propone un giro inesperado. No se puede rechazar una idea por disparatada: hay que incorporarla y encontrarle sentido dentro de la historia."
+      ],
+      "detalle": "Diseña el póster imaginario con título, frase promocional y una advertencia exagerada sobre el contenido.",
+      "buenasNoches": "La imaginación tiene una ventaja: no necesita presupuesto para estrenar una buena historia.",
+      "cancionTitulo": "Blinding Lights",
+      "cancionArtista": "The Weeknd",
+      "youtubeId": "4NRXx6U8ABQ",
+      "cancionUrl": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a inventar una serie tan extraña que probablemente ninguna plataforma se atrevería a producirla."
+        },
+        "mensajePrincipal": {
+          "titulo": "El casting de una serie que no existe",
+          "contenido": "Imaginen una serie con un título absurdo y una premisa inesperada: una panadería que solo abre de noche, un edificio donde cada vecino tiene una misión secreta o un detective que resuelve misterios usando únicamente notas de voz. Después inventen tres personajes, el problema del primer capítulo y una escena que obligue a ver el siguiente episodio."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra premisa",
+          "contenido": "Idea inicial que plantea de qué trata una historia y qué situación la pone en marcha. Una premisa curiosa puede convertir una idea sencilla en algo memorable."
+        },
+        "buenasNoches": {
+          "contenido": "La imaginación tiene una ventaja: no necesita presupuesto para estrenar una buena historia."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Premisa",
+        "significado": "Idea inicial que plantea de qué trata una historia y qué situación la pone en marcha.",
+        "ejemplo": "Una premisa curiosa puede convertir una idea sencilla en algo memorable."
+      }
+    },
+    {
+      "dia": 284,
+      "fecha": "2027-07-26",
+      "fechaTexto": "lun, 26 de jul",
+      "categoria": "Una salida con tres pequeñas misiones",
+      "icono": "🧭",
+      "tono": "plan compartido y cercano",
+      "color": {
+        "principal": "#8fb7a0",
+        "suave": "#e1f0e6",
+        "oscuro": "#203b2b"
+      },
+      "buenosDias": "Si hoy o en los próximos días hay tiempo, podemos cambiar de escenario con un plan sencillo y sin convertirlo en una expedición.",
+      "poema": [
+        "La propuesta es una salida corta de medio día: elegir una zona agradable para caminar, encontrar un lugar donde sentarse a conversar y cerrar con algo rico o una bebida. Durante el recorrido hay tres misiones opcionales: descubrir una fachada bonita, encontrar un rincón tranquilo y elegir algo que normalmente no pedirías.",
+        "No hace falta llenar la agenda ni gastar demasiado. La idea es disfrutar el paseo, tener margen para cambiar el plan y volver a casa sin que el día se convierta en una carrera."
+      ],
+      "detalle": "Si el clima o el tiempo no ayudan, convierte las tres misiones en una ruta imaginaria y elige fotos de lugares que te gustaría conocer.",
+      "buenasNoches": "Un buen plan no se mide por la cantidad de horas, sino por lo agradable que se siente compartirlo.",
+      "cancionTitulo": "Levitating",
+      "cancionArtista": "Dua Lipa",
+      "youtubeId": "TUVcZfQe-Kw",
+      "cancionUrl": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Si hoy o en los próximos días hay tiempo, podemos cambiar de escenario con un plan sencillo y sin convertirlo en una expedición."
+        },
+        "mensajePrincipal": {
+          "titulo": "Una salida con tres pequeñas misiones",
+          "contenido": "La propuesta es una salida corta de medio día: elegir una zona agradable para caminar, encontrar un lugar donde sentarse a conversar y cerrar con algo rico o una bebida. Durante el recorrido hay tres misiones opcionales: descubrir una fachada bonita, encontrar un rincón tranquilo y elegir algo que normalmente no pedirías."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra itinerario",
+          "contenido": "Plan o recorrido que organiza las etapas de una salida o un viaje. Un itinerario flexible deja espacio para los descubrimientos espontáneos."
+        },
+        "buenasNoches": {
+          "contenido": "Un buen plan no se mide por la cantidad de horas, sino por lo agradable que se siente compartirlo."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Itinerario",
+        "significado": "Plan o recorrido que organiza las etapas de una salida o un viaje.",
+        "ejemplo": "Un itinerario flexible deja espacio para los descubrimientos espontáneos."
+      }
+    },
+    {
+      "dia": 285,
+      "fecha": "2027-07-27",
+      "fechaTexto": "mar, 27 de jul",
+      "categoria": "El examen de la academia imposible",
+      "icono": "🪄",
+      "tono": "juego de fandom",
+      "color": {
+        "principal": "#b6a0d7",
+        "suave": "#eee6f8",
+        "oscuro": "#34234c"
+      },
+      "buenosDias": "Hoy toca un examen muy poco oficial: no mide memoria, sino imaginación y capacidad para defender decisiones imposibles.",
+      "poema": [
+        "Primera ronda: si pudieras elegir una técnica maldita de Jujutsu Kaisen, ¿cuál sería y qué limitación le pondrías para que no fuera invencible? Segunda ronda: si estudiaras en Hogwarts, ¿qué asignatura se te daría mejor y cuál intentarías evitar? Tercera ronda: inventa un objeto mágico que resuelva un problema cotidiano, pero que tenga un efecto secundario ridículo.",
+        "Cada respuesta debe incluir una explicación breve. La otra persona puede hacer una pregunta de seguimiento o proponer una situación inesperada para poner a prueba la elección."
+      ],
+      "detalle": "Punto extra para quien invente el objeto mágico más útil y, al mismo tiempo, más inconveniente.",
+      "buenasNoches": "Las mejores conversaciones también son esas en las que uno puede defender una idea completamente absurda con toda seriedad.",
+      "cancionTitulo": "Treasure",
+      "cancionArtista": "Bruno Mars",
+      "youtubeId": "nPvuNsRccVw",
+      "cancionUrl": "https://www.youtube.com/watch?v=nPvuNsRccVw",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy toca un examen muy poco oficial: no mide memoria, sino imaginación y capacidad para defender decisiones imposibles."
+        },
+        "mensajePrincipal": {
+          "titulo": "El examen de la academia imposible",
+          "contenido": "Primera ronda: si pudieras elegir una técnica maldita de Jujutsu Kaisen, ¿cuál sería y qué limitación le pondrías para que no fuera invencible? Segunda ronda: si estudiaras en Hogwarts, ¿qué asignatura se te daría mejor y cuál intentarías evitar? Tercera ronda: inventa un objeto mágico que resuelva un problema cotidiano, pero que tenga un efecto secundario ridículo."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra hipotético",
+          "contenido": "Que se basa en una suposición o posibilidad imaginada, no necesariamente en un hecho real. Los escenarios hipotéticos sirven para explorar ideas y tomar decisiones jugando."
+        },
+        "buenasNoches": {
+          "contenido": "Las mejores conversaciones también son esas en las que uno puede defender una idea completamente absurda con toda seriedad."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Hipotético",
+        "significado": "Que se basa en una suposición o posibilidad imaginada, no necesariamente en un hecho real.",
+        "ejemplo": "Los escenarios hipotéticos sirven para explorar ideas y tomar decisiones jugando."
+      }
+    },
+    {
+      "dia": 286,
+      "fecha": "2027-07-28",
+      "fechaTexto": "mié, 28 de jul",
+      "categoria": "La playlist de tres versiones de ti",
+      "icono": "🎧",
+      "tono": "música y expresión personal",
+      "color": {
+        "principal": "#d39db5",
+        "suave": "#f5e3ed",
+        "oscuro": "#48263a"
+      },
+      "buenosDias": "Hoy la música va a responder una pregunta: ¿qué canción acompañaría cada una de tus versiones?",
+      "poema": [
+        "Arma una mini playlist de tres canciones: una para tu versión de un lunes con energía, otra para cuando necesitas bajar el ritmo y una tercera para cuando te sientes imparable. No importa si son géneros completamente distintos; cada elección debe representar una faceta diferente.",
+        "Después comparte la lista sin explicar los títulos. La otra persona intenta adivinar qué estado de ánimo representa cada canción y luego escucha las razones reales detrás de las elecciones."
+      ],
+      "detalle": "Ponle a la playlist un nombre que parezca título de película o de capítulo final de temporada.",
+      "buenasNoches": "A veces una canción explica un estado de ánimo que todavía no habíamos encontrado cómo contar.",
+      "cancionTitulo": "Get Lucky",
+      "cancionArtista": "Daft Punk ft. Pharrell Williams",
+      "youtubeId": "5NV6Rdv1a3I",
+      "cancionUrl": "https://www.youtube.com/watch?v=5NV6Rdv1a3I",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy la música va a responder una pregunta: ¿qué canción acompañaría cada una de tus versiones?"
+        },
+        "mensajePrincipal": {
+          "titulo": "La playlist de tres versiones de ti",
+          "contenido": "Arma una mini playlist de tres canciones: una para tu versión de un lunes con energía, otra para cuando necesitas bajar el ritmo y una tercera para cuando te sientes imparable. No importa si son géneros completamente distintos; cada elección debe representar una faceta diferente."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra versatilidad",
+          "contenido": "Capacidad de adaptarse a distintas situaciones o desempeñar funciones diferentes. Una playlist versátil puede pasar de la calma a la euforia sin perder personalidad."
+        },
+        "buenasNoches": {
+          "contenido": "A veces una canción explica un estado de ánimo que todavía no habíamos encontrado cómo contar."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Versatilidad",
+        "significado": "Capacidad de adaptarse a distintas situaciones o desempeñar funciones diferentes.",
+        "ejemplo": "Una playlist versátil puede pasar de la calma a la euforia sin perder personalidad."
+      }
+    }
+  ]
 ];
