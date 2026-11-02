@@ -90,87 +90,87 @@ const CALENDARIO = [
 
   ,
   {
-    dia: 8, categoria: "CAZADORES DE DETALLES",
+    dia: 8, categoria: "UN DETALLE QUE MERECE QUEDARSE",
     youtubeId: "Kp7eSUU9oy8", cancionTitulo: "Redbone", cancionArtista: "Childish Gambino",
     inspiracionCancion: "Un ritmo envolvente para mirar lo cotidiano con otros ojos.",
-    palabraNueva: { palabra: "Encuadre", significado: "La manera de elegir qué entra en una imagen y qué historia cuenta." },
+    palabraNueva: { palabra: "Pausa", significado: "Un instante breve en el que dejamos de correr y prestamos atención a lo que sentimos." },
     cartas: {
-      buenosDias: { titulo: "Hoy mira como si todo fuera nuevo", contenido: "Buenos días. Hay detalles que uno pasa por alto por ir mirando el reloj. Hoy te propongo lo contrario: encontrar algo bonito en lo cotidiano, aunque sea una sombra curiosa, una fachada, una planta creciendo donde nadie la invitó o una nube con forma imposible." },
-      mensajePrincipal: { titulo: "Safari fotográfico de bolsillo", contenido: "Durante una caminata o en los lugares que visiten hoy, cada uno debe tomar cinco fotos con estas consignas: algo que tenga un color llamativo; una textura interesante; una sombra; algo que parezca una cara; y un detalle que normalmente nadie fotografiaría. No fotografíen personas desconocidas de cerca ni lugares privados. Después intercambien las fotos y pongan título a las imágenes del otro como si fueran una exposición. Elijan una ganadora por creatividad, no por calidad de cámara." },
-      palabraNueva: { titulo: "Encuadre", contenido: "La misma calle puede parecer tranquila, caótica o cinematográfica según desde dónde la mires. El encuadre es esa decisión: hoy cada foto debe contar algo sin necesitar explicación." },
-      buenasNoches: { titulo: "Cinco pequeñas historias", contenido: "Antes de dormir, revisa las fotos y escoge la que más te guste. Quizá no sea la más bonita, sino la que te recuerde un momento inesperado. A veces prestar atención ya cambia el día." }
+      buenosDias: { titulo: "Un respiro para ti", contenido: "Buenos días. Ojalá hoy encuentres un momento que sea solamente tuyo: ese primer sorbo de café, una canción que te guste o cinco minutos sin tener que resolver nada. No todos los días necesitan una gran historia; algunos se vuelven bonitos cuando les damos un poco de calma." },
+      mensajePrincipal: { titulo: "Un pequeño recordatorio", contenido: "Hay días en los que parece que todo tiene que convertirse en un plan, una foto o algo que podamos contar. Hoy no. Si algo te hace sonreír, disfrútalo sin interrumpirlo para registrarlo. Y si el día viene pesado, recuerda que descansar también cuenta como hacer algo por ti." },
+      palabraNueva: { titulo: "Pausa", contenido: "Una pausa no es perder el tiempo. Es darte espacio para volver a lo que estabas haciendo con un poquito más de aire. A veces, eso es suficiente." },
+      buenasNoches: { titulo: "Lo sencillo también cuenta", contenido: "Antes de dormir, piensa en una cosa pequeña que haya estado bien hoy. No tiene que ser extraordinaria. Que mañana encuentres otro instante amable. Buenas noches." }
     }
   },
   {
-    dia: 9, categoria: "NOCHE DE FANDOMS",
+    dia: 9, categoria: "UN VIAJE ENTRE HISTORIAS",
     youtubeId: "TGgcC5xg9YI", cancionTitulo: "See You Again (feat. Kali Uchis)", cancionArtista: "Tyler, The Creator; Kali Uchis",
     inspiracionCancion: "Una selección para una noche de imaginación, teorías y personajes memorables.",
-    palabraNueva: { palabra: "Canon", significado: "Lo que forma parte oficial de la historia de una obra o universo." },
+    palabraNueva: { palabra: "Género", significado: "Una categoría que reúne historias con tonos o elementos parecidos, como comedia, misterio, romance o terror." },
     cartas: {
-      buenosDias: { titulo: "Se abre el debate de los universos", contenido: "Buenos días. Hoy puedes defender una teoría con toda la seriedad del mundo, aunque sea sobre magia, maldiciones o personajes que claramente necesitan dormir ocho horas. Guarda esa opinión polémica: esta noche tiene tribunal de fandom." },
-      mensajePrincipal: { titulo: "Tribunal: Harry Potter contra Jujutsu Kaisen", contenido: "Hagan seis rondas de debate y cambien quién defiende cada postura: 1) ¿qué universo sería más difícil para vivir? 2) ¿qué personaje sería mejor compañero de viaje? 3) ¿qué habilidad elegirías por 24 horas? 4) ¿quién resolvería mejor un misterio? 5) ¿qué personaje sería el peor compañero de apartamento? 6) inventen un crossover y expliquen cómo comenzaría el primer episodio. Cada respuesta tiene máximo un minuto. Den un punto por argumento convincente y otro por hacer reír al rival. No hace falta estar de acuerdo: se premia la imaginación." },
-      palabraNueva: { titulo: "Canon", contenido: "En las historias, el canon es lo que oficialmente ocurrió. Las teorías de fans pueden ser brillantes, pero hoy tienen que anunciar cuándo están citando el canon y cuándo están inventando su propia versión." },
-      buenasNoches: { titulo: "Que la imaginación no se apague", contenido: "Puede que hoy no hayan resuelto cuál universo gana, pero seguro apareció una teoría que merece una segunda conversación. Descansa; hasta los hechiceros y los hechiceros jujutsu necesitan recuperar energía." }
+      buenosDias: { titulo: "Hoy manda el estado de ánimo", contenido: "Buenos días. Hay días para reírse, otros para resolver un misterio desde el sofá y otros para dejarse llevar por una historia bonita. Hoy no hay un universo ganador: hay muchas historias esperando el momento adecuado." },
+      mensajePrincipal: { titulo: "Elige una historia según tu humor", contenido: "Piensa qué te apetece ver últimamente: comedia como Brooklyn Nine-Nine o The Office; misterio como Knives Out; animación como Coco o Spider-Man: Into the Spider-Verse; ciencia ficción como The Truman Show; romance, aventura o terror si ese es tu ánimo. Elige una película o un episodio para otro rato, o simplemente guarda el título para cuando tengas tiempo. Si alguien te pregunta por qué lo elegiste, responde con una sola frase. No hay que verla hoy ni verla acompañado." },
+      palabraNueva: { titulo: "Género", contenido: "El género ayuda a encontrar una historia según lo que buscas sentir. Y también está permitido cambiar de opinión a mitad de la búsqueda: hoy quizá quieres reírte y mañana resolver un misterio." },
+      buenasNoches: { titulo: "Que nunca falten historias", contenido: "Ojalá siempre tengas una película, una serie o un libro esperándote para desconectar un rato. Y que nunca falte alguien con quien discutir si el final fue bueno o una completa locura." }
     }
   },
   {
-    dia: 10, categoria: "UN CAFÉ Y PREGUNTAS SIN PRISA",
+    dia: 10, categoria: "UNA PREGUNTA PARA GUARDAR",
     youtubeId: "Ju8Hr50Ckwk", cancionTitulo: "If I Ain't Got You", cancionArtista: "Alicia Keys",
     inspiracionCancion: "Una pausa cálida para escuchar con atención y conversar de verdad.",
-    palabraNueva: { palabra: "Escucha activa", significado: "Prestar atención para comprender, no solamente para preparar una respuesta." },
+    palabraNueva: { palabra: "Curiosidad", significado: "El deseo de conocer algo, explorar una idea o mirar una situación desde otro punto de vista." },
     cartas: {
-      buenosDias: { titulo: "Hoy el tiempo puede ir más despacio", contenido: "Buenos días. Ojalá tengas un momento para disfrutar un café tinto, sin azúcar y sin mirar el teléfono a cada rato. Hay conversaciones que merecen una mesa, una bebida y el tiempo suficiente para terminar una idea." },
-      mensajePrincipal: { titulo: "Café de preguntas: una taza, tres rondas", contenido: "Preparen café o la bebida que prefieran. Escriban preguntas en papeles y mézclenlas. Ronda uno, recuerdos ligeros: ¿qué canción te devuelve a una época feliz? ¿qué comida te recuerda a casa? Ronda dos, curiosidades: ¿qué habilidad aprenderías si pudieras hacerlo en una semana? ¿qué lugar te gustaría conocer? Ronda tres, futuro cercano: ¿qué plan sencillo te gustaría hacer este mes? Cada persona puede pasar una pregunta sin explicar por qué. La regla principal es escuchar sin interrumpir ni convertir cada respuesta en un interrogatorio." },
-      palabraNueva: { titulo: "Escucha activa", contenido: "Consiste en estar presente: dejar terminar la idea, preguntar con curiosidad y no asumir que ya sabes lo que la otra persona va a decir. Hoy la mejor respuesta puede ser una pregunta amable." },
-      buenasNoches: { titulo: "Una conversación que abriga", contenido: "Ojalá alguna respuesta te haya sorprendido y alguna pregunta te haya dejado pensando. No todo tiene que resolverse esta noche. A veces una buena conversación simplemente deja una puerta abierta para seguir conociéndose." }
+      buenosDias: { titulo: "Una pregunta sin afán", contenido: "Buenos días. Hoy te dejo una pregunta para acompañar el día, sin necesidad de responderla de inmediato: ¿qué cosa pequeña te gustaría que pasara más a menudo en tu vida? Puede ser una costumbre, un lugar, una conversación o un momento de tranquilidad." },
+      mensajePrincipal: { titulo: "La pregunta de hoy", contenido: "Si pudieras repetir una tarde cualquiera de tu vida, sin cambiar absolutamente nada, ¿cuál escogerías y por qué? Puedes responderla para ti, escribir una línea o compartirla cuando te nazca. No hace falta organizar una conversación ni buscar una respuesta perfecta." },
+      palabraNueva: { titulo: "Curiosidad", contenido: "La curiosidad es una forma bonita de acercarse a uno mismo y a los demás: preguntar sin exigir, escuchar sin juzgar y aceptar que siempre queda algo por descubrir." },
+      buenasNoches: { titulo: "Una respuesta puede esperar", contenido: "Si la pregunta de hoy se quedó dando vueltas, déjala reposar. No todo lo importante necesita resolverse antes de dormir. Descansa." }
     }
   },
   {
-    dia: 11, categoria: "EL RETO DEL ANUNCIO IMPOSIBLE",
+    dia: 11, categoria: "HUMOR PARA UN DÍA NORMAL",
     youtubeId: "GtUVQei3nX4", cancionTitulo: "Drop It Like It's Hot", cancionArtista: "Snoop Dogg; Pharrell Williams",
     inspiracionCancion: "Un pulso juguetón para activar la creatividad y el humor.",
-    palabraNueva: { palabra: "Eslogan", significado: "Una frase breve que resume la personalidad de una idea o producto." },
+    palabraNueva: { palabra: "Ironía", significado: "Una forma de humor que expresa algo de manera distinta o inesperada, a veces diciendo lo contrario de lo que se quiere señalar." },
     cartas: {
-      buenosDias: { titulo: "Hoy todo puede convertirse en negocio", contenido: "Buenos días. Necesito que hoy prestes tu talento para una tarea importantísima: vender algo completamente absurdo como si fuera el invento del siglo. La creatividad no tiene que pedir permiso y el sentido del ridículo puede quedarse descansando." },
-      mensajePrincipal: { titulo: "Agencia creativa por 20 minutos", contenido: "Cada uno elige tres objetos cotidianos que tengan cerca. Debe convertir uno en un producto revolucionario, ponerle nombre, inventar un eslogan y grabar un anuncio de máximo 30 segundos. El otro hace de cliente exigente y pregunta por el precio, la utilidad y por qué debería comprarlo. Luego intercambian papeles. Puntos: uno por nombre memorable, uno por eslogan, uno por argumento disparatado y uno por mantener la seriedad durante el anuncio. No se necesita publicar nada: el video puede quedarse como recuerdo privado o pueden hacerlo en vivo." },
-      palabraNueva: { titulo: "Eslogan", contenido: "Una frase corta puede quedarse pegada en la cabeza. El desafío es crear una que explique el producto y que además dé risa. Si el otro la repite durante el día, misión cumplida." },
-      buenasNoches: { titulo: "La empresa cierra por carcajadas", contenido: "Espero que hoy hayan descubierto un talento inesperado para la publicidad de objetos que nadie necesita. Guarden el mejor anuncio; quizá algún día merezca una secuela. Que descanses, directora creativa." }
+      buenosDias: { titulo: "Que no falte el sentido del humor", contenido: "Buenos días. Ojalá hoy te pasen cosas buenas; y si no, que por lo menos tengas suficiente sentido del humor para contar la historia después. Hay días que necesitan café y otros que necesitan un buen comentario sarcástico." },
+      mensajePrincipal: { titulo: "El titular de tu día", contenido: "Si tu día de hoy fuera una noticia, ¿qué titular tendría? Puede ser dramático como «Mujer sobrevive a reunión que pudo ser un correo», absurdo como «Se busca responsable de desaparecer el cargador» o completamente inventado. Quédate con el titular más gracioso o mándaselo a alguien si te apetece. Duración: lo que tardes en pensar una frase." },
+      palabraNueva: { titulo: "Ironía", contenido: "La ironía encuentra humor en las contradicciones de la vida. Bien usada, convierte un pequeño desastre cotidiano en una anécdota mucho más llevadera." },
+      buenasNoches: { titulo: "Cierra con una sonrisa", contenido: "Que el último titular del día sea algo como: «Persona consigue llegar al final del día y merece descanso». Misión cumplida. Buenas noches." }
     }
   },
   {
-    dia: 12, categoria: "COREOGRAFÍA SIN VERGÜENZA",
+    dia: 12, categoria: "UNA CANCIÓN Y UN MOMENTO",
     youtubeId: "yUZeZNxiD-M", cancionTitulo: "Get Low", cancionArtista: "Lil Jon & The East Side Boyz; Ying Yang Twins",
     inspiracionCancion: "Una dosis de energía para moverse, reírse y soltar la timidez.",
-    palabraNueva: { palabra: "Improvisación", significado: "Crear en el momento usando lo que tienes a mano." },
+    palabraNueva: { palabra: "Ritmo", significado: "La organización de sonidos y silencios que da movimiento y carácter a la música." },
     cartas: {
-      buenosDias: { titulo: "Activa el cuerpo, no las excusas", contenido: "Buenos días. Hoy la energía se mide en ganas de jugar, no en saber bailar. Si te sale un paso increíble, celébralo; si te sale uno rarísimo, también. La pista de baile no exige experiencia." },
-      mensajePrincipal: { titulo: "Duelo de pasos y coreografía compartida", contenido: "Elijan tres canciones con ritmos distintos: una urbana, una que ambos conozcan y una sorpresa. En la primera ronda, cada uno inventa un paso de cuatro tiempos y el otro debe copiarlo. En la segunda, cada persona enseña dos movimientos y los unen en una secuencia. En la tercera, bailen la coreografía completa y añadan un movimiento inventado en el último momento. Pueden grabarla solo si ambos quieren. Hagan pausas, adapten los movimientos a su comodidad y recuerden que el objetivo es reírse, no hacer una presentación profesional." },
-      palabraNueva: { titulo: "Improvisación", contenido: "Es resolver con lo que aparece en el instante. Si olvidan un paso, inventen otro; si la canción cambia, que cambie también la coreografía." },
-      buenasNoches: { titulo: "Aplausos para el talento inesperado", contenido: "Hoy no hay jurado ni calificación seria. Solo dos personas que se dieron permiso para hacer el ridículo un rato y disfrutarlo. Estira un poquito, toma agua y descansa." }
+      buenosDias: { titulo: "Dale play a tu mañana", contenido: "Buenos días. Pon una canción que te guste mientras te alistas o empiezas tus cosas. No tienes que bailar ni hacer nada especial: a veces basta con que la música te cambie un poquito el ánimo." },
+      mensajePrincipal: { titulo: "Tu canción para cambiar el ambiente", contenido: "Escoge una canción que te dé energía. Si estás de buen humor, disfrútala; si necesitas despejarte, úsala como pausa de tres o cuatro minutos. Si te nace compartirla, envíala sin explicación y deja que la otra persona descubra por qué la elegiste." },
+      palabraNueva: { titulo: "Ritmo", contenido: "El ritmo es lo que hace que una canción camine, golpee suave o invite a moverse. Cada quien tiene su propio ritmo, también fuera de la música." },
+      buenasNoches: { titulo: "Que la música te acompañe", contenido: "Ojalá hoy haya sonado al menos una canción que te hizo sentir mejor. Descansa y deja que el resto espere hasta mañana." }
     }
   },
   {
-    dia: 13, categoria: "UNA PÁGINA PROPIA",
+    dia: 13, categoria: "TRES LÍNEAS QUE DICEN MUCHO",
     youtubeId: "MJCHeEQV454", cancionTitulo: "You Got Me", cancionArtista: "The Roots; Tariq Trotter; Erykah Badu; Eve",
     inspiracionCancion: "Una atmósfera para crear algo personal sin preocuparse por hacerlo perfecto.",
-    palabraNueva: { palabra: "Moodboard", significado: "Un tablero de imágenes, palabras y colores que expresa una idea o una sensación." },
+    palabraNueva: { palabra: "Brevedad", significado: "La capacidad de expresar una idea con pocas palabras sin quitarle su sentido." },
     cartas: {
-      buenosDias: { titulo: "Hoy toca crear por gusto", contenido: "Buenos días. No todo lo que hacemos tiene que servir para algo o quedar perfecto. A veces crear es solamente jugar con colores, recortes, palabras y referencias hasta encontrar algo que se sienta propio." },
-      mensajePrincipal: { titulo: "Diseñen una portada para un día inolvidable", contenido: "Cada uno crea un pequeño moodboard en papel o en una herramienta digital. Tema: cómo se vería la portada de una película inspirada en un día que les gustaría vivir. Incluyan un título, tres colores, una imagen o dibujo, una frase corta y el nombre ficticio de la película. Después presenten su diseño en un minuto. El otro debe adivinar qué sensación o historia quiso transmitir. Si prefieren, intercambien los tableros y cada uno añade un detalle sorpresa al diseño del otro. No se evalúa la habilidad artística: se valora la intención y la imaginación." },
-      palabraNueva: { titulo: "Moodboard", contenido: "Es un mapa visual de una idea. Puede mezclar fotografías, texturas, colores y palabras. No tiene que explicar todo: debe transmitir una atmósfera." },
-      buenasNoches: { titulo: "Una idea que ya tiene forma", contenido: "Guarda el diseño, aunque sea sencillo. Puede que dentro de un tiempo lo mires y recuerdes esta pequeña sesión creativa. Que descanses con la satisfacción de haber hecho algo solo porque te dieron ganas." }
+      buenosDias: { titulo: "Un pensamiento para empezar", contenido: "Buenos días. No tienes que tener todo claro para empezar el día. A veces basta con una idea amable, una canción y la decisión de tratarte con un poquito más de paciencia." },
+      mensajePrincipal: { titulo: "Un texto pequeño, solo si te apetece", contenido: "Si hoy te nace escribir, completa estas tres líneas: «Hoy agradezco…», «Me gustaría volver a…» y «No quiero olvidar…». Puede quedarse en tus notas, convertirse en un mensaje o no salir nunca del papel. No hace falta diseñar nada ni compartirlo." },
+      palabraNueva: { titulo: "Brevedad", contenido: "Lo breve también puede ser profundo. Una frase sincera a veces acompaña más que un texto larguísimo." },
+      buenasNoches: { titulo: "Lo que vale la pena guardar", contenido: "Quizá hoy apareció una frase que quieras recordar. Guárdala si te sirve; si no, deja que el día termine sin pendientes. Buenas noches." }
     }
   },
   {
-    dia: 14, categoria: "CINE CON REGLAS SECRETAS",
+    dia: 14, categoria: "UNA HISTORIA PARA DESCONECTAR",
     youtubeId: "69RdQFDuYPI", cancionTitulo: "Is This Love", cancionArtista: "Bob Marley & The Wailers",
     inspiracionCancion: "Un cierre sereno para una noche de película y complicidad.",
-    palabraNueva: { palabra: "Subtexto", significado: "Lo que una escena comunica sin decirlo directamente." },
+    palabraNueva: { palabra: "Subtexto", significado: "Aquello que una escena comunica sin decirlo directamente, mediante gestos, silencios o miradas." },
     cartas: {
-      buenosDias: { titulo: "Hoy la película la eligen entre dos", contenido: "Buenos días. Para esta noche queda pendiente una función especial. No hace falta buscar el estreno más famoso: a veces una película que ninguno ha visto o una serie que dejaron pausada termina siendo el mejor plan." },
-      mensajePrincipal: { titulo: "Función con bingo cinematográfico", contenido: "Elijan una película o dos episodios de una serie que ambos acepten ver. Antes de empezar, cada uno escribe cinco situaciones que podrían aparecer: alguien dice una frase dramática, aparece un objeto importante, un personaje toma una decisión impulsiva, hay un giro inesperado o suena una canción memorable. Mezclen los papeles y saquen tres al azar: serán las casillas del bingo. Durante la función, marquen cuando ocurra cada situación. Al terminar, elijan la escena mejor construida y expliquen qué comunicó sin decirlo directamente. Si no coinciden en la película, cada uno propone una y eligen con moneda al aire." },
-      palabraNueva: { titulo: "Subtexto", contenido: "Es lo que una mirada, una pausa o un gesto deja entender aunque el personaje no lo diga. En una buena historia, a veces lo más importante ocurre entre líneas." },
-      buenasNoches: { titulo: "Créditos y una última opinión", contenido: "Que la noche termine con una escena favorita, una teoría sobre el final o una discusión amistosa sobre el personaje más interesante. Gracias por regalarle un espacio al descanso y a las historias. Buenas noches." }
+      buenosDias: { titulo: "Hoy puedes elegir tu propia función", contenido: "Buenos días. Hay historias para reír, para emocionarse, para asustarse un poquito o para quedarse pensando. Si hoy tienes un rato libre, elige la que combine con tu ánimo. Y si no, queda recomendada para otro día." },
+      mensajePrincipal: { titulo: "Una película o un episodio, sin deberes", contenido: "Elige lo que te apetezca: una comedia para desconectar, un misterio para intentar descubrir al culpable, una historia romántica, una aventura, animación o terror. Si quieres referencias, puedes explorar títulos como The Office, Brooklyn Nine-Nine, Knives Out, Coco, The Truman Show o alguna película clásica que tengas pendiente. Mírala cuando tengas tiempo, a solas o acompañado. No hay bingo, preguntas obligatorias ni tarea al terminar: solo disfrutar una buena historia." },
+      palabraNueva: { titulo: "Subtexto", contenido: "A veces una mirada o un silencio dice más que un diálogo entero. Ese significado que queda debajo de las palabras es el subtexto." },
+      buenasNoches: { titulo: "Que el final sea a tu gusto", contenido: "Ojalá encuentres una historia que te haga reír, pensar o simplemente descansar la cabeza. Y si hoy no hubo tiempo para verla, no pasa nada: las buenas historias saben esperar." }
     }
   }
 
