@@ -676,169 +676,337 @@ const CALENDARIO = [
     "dia": 15,
     "fecha": "2026-10-30",
     "fechaTexto": "vie, 30 de oct",
-    "categoria": "Tu risa cambia la escena",
-    "icono": "😄",
+    "categoria": "Una cita de risa: comedia elegida entre los dos",
+    "icono": "🎬",
     "tono": "amor",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Tengo una petición para hoy: ríete mucho. De esas veces en que intentas recuperar la seriedad y la sonrisa simplemente no te hace caso.",
+    "buenosDias": "Hoy te propongo una cita sencilla: noche de comedia. Pero no voy a imponerte una película ni a recomendarte una que quizá ya viste. Cada uno escoge dos opciones que no hayamos visto y hacemos una selección sorpresa.",
     "poema": [
-      "Tu sonrisa tiene una cosa peligrosa: cuando aparece, las pecas salen a acompañarla y una conversación cualquiera se vuelve más bonita. No sé si tú lo notas, pero desde afuera debe ser difícil no sonreír también.",
-      "Así que ríete, corazón. Por una tontería, por un meme absurdo, por tus mascotas haciendo alguna locura. Y si alguien te pregunta por qué estás tan contenta, puedes guardarte el chiste para ti."
+      "Reglas: cada uno propone dos películas; antes de empezar, cada quien explica en veinte segundos por qué la eligió, sin contar el final. Vemos la ganadora y al terminar puntuamos tres cosas: carcajadas, escena más absurda y personaje que nos cayó mejor. Si no nos convence en los primeros veinte minutos, tenemos derecho a cambiarla sin culpa. Acompañamiento: algo para picar y bebidas que nos gusten. La misión secreta es descubrir qué tipo de humor nos hace reír a los dos.",
+      "Complicidad: ese idioma pequeño que se forma con bromas, miradas y referencias que no necesitan explicación."
     ],
-    "detalle": "Si hoy te sale esa sonrisa tuya que aparece de golpe, no intentes esconderla. Y si alguien consigue provocarla, que sepa que acaba de ganar un privilegio bastante bonito.",
-    "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas reído de verdad, de esa forma en que se te ilumina la cara y las pecas parecen sumarse a la conversación.",
-    "cancionTitulo": "Feliz Si Es Raro",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "rTv5pNLz9IU",
-    "cancionUrl": "https://www.youtube.com/watch?v=rTv5pNLz9IU"
+    "detalle": "Reglas: cada uno propone dos películas; antes de empezar, cada quien explica en veinte segundos por qué la eligió, sin contar el final. Vemos la ganadora y al terminar puntuamos tres cosas: carcajadas, escena más absurda y personaje que nos cayó mejor. Si no nos convence en los primeros veinte minutos, tenemos derecho a cambiarla sin culpa. Acompañamiento: algo para picar y bebidas que nos gusten. La misión secreta es descubrir qué tipo de humor nos hace reír a los dos.",
+    "buenasNoches": "Ojalá hoy encuentres una razón para reírte, aunque sea una tontería. Y si algún día hacemos esta cita, quiero que tengamos al menos un chiste malo que se quede con nosotros.",
+    "cancionTitulo": "Solo Tú",
+    "cancionArtista": "Macha y el Bloque Depresivo; Álvaro Henríquez",
+    "youtubeId": "lxPDvuV9Z88",
+    "cancionUrl": "https://www.youtube.com/watch?v=lxPDvuV9Z88",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, cómplice",
+        "contenido": "Hoy te propongo una cita sencilla: noche de comedia. Pero no voy a imponerte una película ni a recomendarte una que quizá ya viste. Cada uno escoge dos opciones que no hayamos visto y hacemos una selección sorpresa."
+      },
+      "mensajePrincipal": {
+        "titulo": "La cita: jurado de comedia",
+        "contenido": "Reglas: cada uno propone dos películas; antes de empezar, cada quien explica en veinte segundos por qué la eligió, sin contar el final. Vemos la ganadora y al terminar puntuamos tres cosas: carcajadas, escena más absurda y personaje que nos cayó mejor. Si no nos convence en los primeros veinte minutos, tenemos derecho a cambiarla sin culpa. Acompañamiento: algo para picar y bebidas que nos gusten. La misión secreta es descubrir qué tipo de humor nos hace reír a los dos."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra del día",
+        "contenido": "Complicidad: ese idioma pequeño que se forma con bromas, miradas y referencias que no necesitan explicación."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá hoy encuentres una razón para reírte, aunque sea una tontería. Y si algún día hacemos esta cita, quiero que tengamos al menos un chiste malo que se quede con nosotros."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Complicidad",
+      "significado": "Vínculo que nace de entenderse, compartir códigos y disfrutar incluso de las pequeñas tonterías.",
+      "ejemplo": "Una película puede ser normalita, pero verla juntos y reírnos de los mismos detalles la convierte en un recuerdo de complicidad."
+    },
+    "inspiracionCancion": "Una canción para recordar que a veces la mejor cita no necesita producción: basta con estar juntos y reírnos."
   },
   {
     "dia": 16,
     "fecha": "2026-10-31",
     "fechaTexto": "sáb, 31 de oct",
-    "categoria": "La canción que pide otra vuelta",
-    "icono": "🎶",
-    "tono": "ambiente",
+    "categoria": "Un juego de conversación: dos verdades y un futuro",
+    "icono": "💬",
+    "tono": "juego",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Si hoy aparece una canción que te obliga a volver al principio apenas termina, no te juzgo: hay canciones que uno no escucha una vez, uno se queda un rato viviendo ahí.",
+    "buenosDias": "Hoy tenemos un juego que no necesita tablero, aplicaciones ni materiales. Solo curiosidad y ganas de conocernos un poquito más.",
     "poema": [
-      "Me da curiosidad qué canción pondrías si tuvieras que explicar tu día sin escribir ni una palabra. Seguro diría más que cualquier párrafo largo.",
-      "Cuando encuentres esa canción, compártela conmigo. Quiero escucharla y descubrir qué parte te atrapa. A veces conocer la música de alguien es encontrar una puertita a su mundo."
+      "Cada uno dice tres frases: dos cosas que sí le gustaría vivir algún día y una que no le llama la atención. La otra persona debe adivinar cuál es la que no quiere. Después viene la segunda ronda: convertir una de las ideas en un plan posible. Ejemplos: aprender algo juntos, conocer un paisaje, hacer una escapada, probar una actividad nueva o crear una tradición. No se vale burlarse de las respuestas; se vale preguntar qué hay detrás de cada deseo. Si una idea necesita dinero o tiempo, la dejamos en la lista de futuro, sin presión.",
+      "Conjetura: una posibilidad que imaginamos antes de comprobarla. Hoy hacemos conjeturas sobre planes que quizá un día se vuelvan recuerdos."
     ],
-    "detalle": "Si una canción te gusta, repítela sin pedir disculpas. Hay gente que escucha una vez y sigue; tú puedes darle otra vuelta hasta que la canción ya parezca parte del día.",
-    "buenasNoches": "Que tengas una noche tranquila, amor. Si hay una canción que todavía quieres escuchar otra vez, escúchala; no todo lo que te hace bien tiene que ser productivo.",
-    "cancionTitulo": "Otra Canción Larga",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "aAwXhAV3LPE",
-    "cancionUrl": "https://www.youtube.com/watch?v=aAwXhAV3LPE"
+    "detalle": "Cada uno dice tres frases: dos cosas que sí le gustaría vivir algún día y una que no le llama la atención. La otra persona debe adivinar cuál es la que no quiere. Después viene la segunda ronda: convertir una de las ideas en un plan posible. Ejemplos: aprender algo juntos, conocer un paisaje, hacer una escapada, probar una actividad nueva o crear una tradición. No se vale burlarse de las respuestas; se vale preguntar qué hay detrás de cada deseo. Si una idea necesita dinero o tiempo, la dejamos en la lista de futuro, sin presión.",
+    "buenasNoches": "Que no se nos acaben las conversaciones curiosas. A veces conocer los planes que alguien guarda en la cabeza es otra manera de acercarse.",
+    "cancionTitulo": "NUMB",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "3p2H-B_nqPI",
+    "cancionUrl": "https://www.youtube.com/watch?v=3p2H-B_nqPI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, imaginación",
+        "contenido": "Hoy tenemos un juego que no necesita tablero, aplicaciones ni materiales. Solo curiosidad y ganas de conocernos un poquito más."
+      },
+      "mensajePrincipal": {
+        "titulo": "Juego: dos verdades y un futuro",
+        "contenido": "Cada uno dice tres frases: dos cosas que sí le gustaría vivir algún día y una que no le llama la atención. La otra persona debe adivinar cuál es la que no quiere. Después viene la segunda ronda: convertir una de las ideas en un plan posible. Ejemplos: aprender algo juntos, conocer un paisaje, hacer una escapada, probar una actividad nueva o crear una tradición. No se vale burlarse de las respuestas; se vale preguntar qué hay detrás de cada deseo. Si una idea necesita dinero o tiempo, la dejamos en la lista de futuro, sin presión."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para pensar",
+        "contenido": "Conjetura: una posibilidad que imaginamos antes de comprobarla. Hoy hacemos conjeturas sobre planes que quizá un día se vuelvan recuerdos."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Que no se nos acaben las conversaciones curiosas. A veces conocer los planes que alguien guarda en la cabeza es otra manera de acercarse."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Conjetura",
+      "significado": "Idea o explicación que parece posible, pero que todavía no se ha demostrado.",
+      "ejemplo": "Nuestra conjetura de hoy: si planeamos una escapada sin elegir destino, terminaremos descubriendo un lugar inesperado."
+    },
+    "inspiracionCancion": "Una canción para bajar el ritmo y dejar que una conversación se tome su tiempo."
   },
   {
     "dia": 17,
     "fecha": "2026-11-01",
     "fechaTexto": "dom, 1 de nov",
-    "categoria": "Arroz con huevo, el clásico que te gusta",
-    "icono": "🍝",
-    "tono": "amor",
+    "categoria": "Desayuno compartido: arepa rellena diferente",
+    "icono": "🥑",
+    "tono": "cocina",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Pregunta seria para empezar el día: ¿arroz con huevo o pasta? Y no vale responder «los dos», que hoy estamos haciendo una encuesta rigurosa.",
+    "buenosDias": "Hoy cambiamos el clásico por una arepa rellena que armamos entre los dos. Tú puedes encargarte de la salsa y yo de la sartén; o intercambiamos papeles si te provoca.",
     "poema": [
-      "Me parece bonito que hasta los antojos tengan su propio lugar: el arroz con huevo por un lado, la pasta con todas sus posibilidades por otro. No hay que mezclarlos para entender que ambos pueden hacer feliz a alguien.",
-      "Si algún día cocinamos, tú eliges cuál se te antoja y yo ayudo. Eso sí, me reservo el derecho de probar antes de servir y decir que solo estaba comprobando la sazón."
+      "Compra: 2 arepas grandes, 2 huevos, ½ aguacate, ½ tomate, un puñado de espinaca, queso rallado, ½ limón, aceite, sal y pimienta. 1) Dora las arepas en sartén por ambos lados y resérvalas. 2) Saltea la espinaca y el tomate picado durante dos minutos. 3) Cocina los huevos revueltos o fritos, como prefiramos. 4) Machaca el aguacate con limón, sal y pimienta. 5) Abre las arepas sin separarlas del todo, añade queso para que se funda con el calor, incorpora huevo y vegetales y termina con aguacate. Salsa rápida: mezcla una cucharada de aceite con limón, sal y pimienta hasta emulsionar. No requiere horno. Turno de cocina: hoy cocinamos juntos y cada uno arma su arepa a su gusto.",
+      "Emulsionar: mezclar aceite y limón hasta que se integren. Un truco pequeño para que una salsa sencilla tenga mejor textura."
     ],
-    "detalle": "Si hoy te provoca arroz con huevo, disfrútalo sin que nadie venga a convertir el almuerzo en una competencia gastronómica. Y que no se nos ocurra echarle sal: si no te gusta, se respeta, sin debate ni negociación.",
-    "buenasNoches": "Descansa, mi vida. Mañana habrá más cosas que hacer, pero no necesitas adelantarte a todas desde la cama. Por ahora, el arroz con huevo puede esperar y tú también.",
-    "cancionTitulo": "Ride Wit Me",
-    "cancionArtista": "Nelly; City Spud",
-    "youtubeId": "RtSDWq6HsJE",
-    "cancionUrl": "https://www.youtube.com/watch?v=RtSDWq6HsJE"
+    "detalle": "Compra: 2 arepas grandes, 2 huevos, ½ aguacate, ½ tomate, un puñado de espinaca, queso rallado, ½ limón, aceite, sal y pimienta. 1) Dora las arepas en sartén por ambos lados y resérvalas. 2) Saltea la espinaca y el tomate picado durante dos minutos. 3) Cocina los huevos revueltos o fritos, como prefiramos. 4) Machaca el aguacate con limón, sal y pimienta. 5) Abre las arepas sin separarlas del todo, añade queso para que se funda con el calor, incorpora huevo y vegetales y termina con aguacate. Salsa rápida: mezcla una cucharada de aceite con limón, sal y pimienta hasta emulsionar. No requiere horno. Turno de cocina: hoy cocinamos juntos y cada uno arma su arepa a su gusto.",
+    "buenasNoches": "Ojalá hoy haya habido un desayuno sin afán. Me gustan los planes en los que hacemos algo cotidiano y aun así termina sintiéndose especial.",
+    "cancionTitulo": "See You Again (feat. Kali Uchis)",
+    "cancionArtista": "Tyler, The Creator; Kali Uchis",
+    "youtubeId": "TGgcC5xg9YI",
+    "cancionUrl": "https://www.youtube.com/watch?v=TGgcC5xg9YI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, desayuno",
+        "contenido": "Hoy cambiamos el clásico por una arepa rellena que armamos entre los dos. Tú puedes encargarte de la salsa y yo de la sartén; o intercambiamos papeles si te provoca."
+      },
+      "mensajePrincipal": {
+        "titulo": "Compra y preparación para dos",
+        "contenido": "Compra: 2 arepas grandes, 2 huevos, ½ aguacate, ½ tomate, un puñado de espinaca, queso rallado, ½ limón, aceite, sal y pimienta. 1) Dora las arepas en sartén por ambos lados y resérvalas. 2) Saltea la espinaca y el tomate picado durante dos minutos. 3) Cocina los huevos revueltos o fritos, como prefiramos. 4) Machaca el aguacate con limón, sal y pimienta. 5) Abre las arepas sin separarlas del todo, añade queso para que se funda con el calor, incorpora huevo y vegetales y termina con aguacate. Salsa rápida: mezcla una cucharada de aceite con limón, sal y pimienta hasta emulsionar. No requiere horno. Turno de cocina: hoy cocinamos juntos y cada uno arma su arepa a su gusto."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de cocina",
+        "contenido": "Emulsionar: mezclar aceite y limón hasta que se integren. Un truco pequeño para que una salsa sencilla tenga mejor textura."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá hoy haya habido un desayuno sin afán. Me gustan los planes en los que hacemos algo cotidiano y aun así termina sintiéndose especial."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Emulsionar",
+      "significado": "Unir dos líquidos que normalmente se separarían, como aceite y limón, hasta lograr una mezcla uniforme.",
+      "ejemplo": "Podemos emulsionar limón, aceite, sal y pimienta para hacer una salsa rápida para la arepa."
+    },
+    "inspiracionCancion": "Una canción luminosa para preparar algo rico sin convertir el desayuno en una carrera."
   },
   {
     "dia": 18,
     "fecha": "2026-11-02",
     "fechaTexto": "lun, 2 de nov",
-    "categoria": "Escuchar también es recordar la diferencia",
-    "icono": "🧂",
-    "tono": "filosofica",
+    "categoria": "Un paseo para coleccionar sonidos",
+    "icono": "🎧",
+    "tono": "aventura",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hay detalles que parecen mínimos hasta que alguien los recuerda justo como los dijiste. Ahí es cuando uno piensa: «ah, sí me estaba escuchando».",
+    "buenosDias": "Hoy te propongo una salida que podemos hacer en cualquier barrio, parque o camino tranquilo: un paseo para escuchar. No importa cuál sea el lugar; lo elegimos según el tiempo, la seguridad y las ganas del día.",
     "poema": [
-      "No quiero aprender tus gustos como quien estudia una lista para un examen. Prefiero descubrirlos en las conversaciones, equivocarme si hace falta y que me corrijas con esa seguridad tuya.",
-      "Así que si algún día confundo algo, me corriges sin pena, amor. Lo importante es que cada vez te conozca un poquito mejor, sin inventarme una versión tuya que no existe."
+      "Durante veinte o treinta minutos, busquemos cinco sonidos distintos: uno natural, uno hecho por personas, uno lejano, uno que nos dé calma y uno inesperado. Podemos grabar fragmentos cortos con el celular, siempre respetando la privacidad de otras personas, o anotarlos si preferimos no grabar. Al final cada uno escoge el sonido que más le gustó y le inventa un título. Nivel extra: ordenar los cinco sonidos como si fueran la banda sonora de una escena. Si llueve o no podemos salir, hacemos la misma actividad desde una ventana.",
+      "Paisaje sonoro: el ambiente también tiene una composición, aunque no use instrumentos. Hoy vamos a prestarle atención."
     ],
-    "detalle": "Cuando alguien te cuente algo, escucha a tu manera: con atención, con preguntas y con esa sensibilidad para notar lo que a veces queda entre líneas. Y recuerda que tú también mereces que te escuchen así.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá también tengas cerca a alguien que te escuche con la misma atención que tú sabes regalar. No siempre tienes que ser quien sostiene la conversación.",
-    "cancionTitulo": "A Veces",
-    "cancionArtista": "Al2 El Aldeano",
-    "youtubeId": "LQYOZFO5aB4",
-    "cancionUrl": "https://www.youtube.com/watch?v=LQYOZFO5aB4"
+    "detalle": "Durante veinte o treinta minutos, busquemos cinco sonidos distintos: uno natural, uno hecho por personas, uno lejano, uno que nos dé calma y uno inesperado. Podemos grabar fragmentos cortos con el celular, siempre respetando la privacidad de otras personas, o anotarlos si preferimos no grabar. Al final cada uno escoge el sonido que más le gustó y le inventa un título. Nivel extra: ordenar los cinco sonidos como si fueran la banda sonora de una escena. Si llueve o no podemos salir, hacemos la misma actividad desde una ventana.",
+    "buenasNoches": "A veces uno vuelve de un paseo con fotos; otras veces vuelve con un sonido que se queda en la memoria. Ojalá hoy encuentres uno bonito.",
+    "cancionTitulo": "Is This Love",
+    "cancionArtista": "Bob Marley & The Wailers",
+    "youtubeId": "69RdQFDuYPI",
+    "cancionUrl": "https://www.youtube.com/watch?v=69RdQFDuYPI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, caminantes",
+        "contenido": "Hoy te propongo una salida que podemos hacer en cualquier barrio, parque o camino tranquilo: un paseo para escuchar. No importa cuál sea el lugar; lo elegimos según el tiempo, la seguridad y las ganas del día."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto: cinco sonidos que cuentan una historia",
+        "contenido": "Durante veinte o treinta minutos, busquemos cinco sonidos distintos: uno natural, uno hecho por personas, uno lejano, uno que nos dé calma y uno inesperado. Podemos grabar fragmentos cortos con el celular, siempre respetando la privacidad de otras personas, o anotarlos si preferimos no grabar. Al final cada uno escoge el sonido que más le gustó y le inventa un título. Nivel extra: ordenar los cinco sonidos como si fueran la banda sonora de una escena. Si llueve o no podemos salir, hacemos la misma actividad desde una ventana."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para escuchar",
+        "contenido": "Paisaje sonoro: el ambiente también tiene una composición, aunque no use instrumentos. Hoy vamos a prestarle atención."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "A veces uno vuelve de un paseo con fotos; otras veces vuelve con un sonido que se queda en la memoria. Ojalá hoy encuentres uno bonito."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Paisaje sonoro",
+      "significado": "Conjunto de sonidos que caracterizan un entorno: voces, viento, agua, pájaros, tráfico o silencio.",
+      "ejemplo": "En un paseo podemos grabar un paisaje sonoro de cinco minutos y luego reconocer cada detalle."
+    },
+    "inspiracionCancion": "Una canción para salir a escuchar el mundo con atención, no solamente a caminar de un punto a otro."
   },
   {
     "dia": 19,
     "fecha": "2026-11-03",
     "fechaTexto": "mar, 3 de nov",
-    "categoria": "Una copa y una charla sin guion",
-    "icono": "🍷",
+    "categoria": "Una cena de velas y conversación",
+    "icono": "🕯️",
     "tono": "amor",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Buenos días, bonita. Ojalá hoy te toque una charla de esas que empiezan con una bobada y, cuando miras la hora, ya llevan una eternidad hablando.",
+    "buenosDias": "Hoy quiero proponerte una cena distinta, sin necesidad de salir ni gastar demasiado: luz cálida, algo rico y una conversación sin teléfonos sobre la mesa.",
     "poema": [
-      "Me gustan las conversaciones donde nadie está intentando parecer interesante y, sin darse cuenta, termina contando algo que no le cuenta a todo el mundo. Las que van de una canción a una historia de infancia y de ahí a cualquier disparate.",
-      "Si hoy te pasa, quédate un rato más. Y si te falta tema, siempre puedes preguntarme algo raro; prometo responder con honestidad, aunque no garantizo que la respuesta sea normal."
+      "Preparamos algo sencillo o pedimos lo que nos provoque. Ponemos una vela segura o una lámpara cálida, servimos las bebidas que prefiramos y hacemos tres rondas: 1) un recuerdo pequeño que todavía nos haga sonreír; 2) algo nuevo que nos gustaría aprender o probar; 3) una pregunta que nunca nos hemos hecho. Cada uno puede pasar una pregunta si no le apetece responder. El objetivo no es interrogarse ni resolver nada, sino escucharnos. Música bajita y celulares lejos durante un rato.",
+      "Íntimo: no significa necesariamente secreto; puede ser simplemente un espacio donde uno se siente cómodo siendo tal como es."
     ],
-    "detalle": "Si esa charla viene con una copa de Merlot, mejor todavía; y si no hay vino, una conversación buena tampoco necesita adornos. No hace falta tener un tema brillante a cada minuto: a veces lo especial es que nadie está pendiente de cómo se ve desde fuera.",
-    "buenasNoches": "Que la noche te deje el corazón liviano. Y si hoy una charla te hizo bien, guárdala como quien guarda una nota pequeña en el bolsillo.",
-    "cancionTitulo": "I'll Be Seeing You",
-    "cancionArtista": "Billie Holiday",
-    "youtubeId": "3C5zYKIuoxg",
-    "cancionUrl": "https://www.youtube.com/watch?v=3C5zYKIuoxg"
+    "detalle": "Preparamos algo sencillo o pedimos lo que nos provoque. Ponemos una vela segura o una lámpara cálida, servimos las bebidas que prefiramos y hacemos tres rondas: 1) un recuerdo pequeño que todavía nos haga sonreír; 2) algo nuevo que nos gustaría aprender o probar; 3) una pregunta que nunca nos hemos hecho. Cada uno puede pasar una pregunta si no le apetece responder. El objetivo no es interrogarse ni resolver nada, sino escucharnos. Música bajita y celulares lejos durante un rato.",
+    "buenasNoches": "Que hoy tengas un momento tranquilo y cálido. Me gusta la idea de construir espacios donde podamos hablar sin mirar el reloj.",
+    "cancionTitulo": "Between the Sheets",
+    "cancionArtista": "The Isley Brothers",
+    "youtubeId": "TNDb8qKZEX8",
+    "cancionUrl": "https://www.youtube.com/watch?v=TNDb8qKZEX8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, bonita",
+        "contenido": "Hoy quiero proponerte una cena distinta, sin necesidad de salir ni gastar demasiado: luz cálida, algo rico y una conversación sin teléfonos sobre la mesa."
+      },
+      "mensajePrincipal": {
+        "titulo": "La cita: tres rondas de conversación",
+        "contenido": "Preparamos algo sencillo o pedimos lo que nos provoque. Ponemos una vela segura o una lámpara cálida, servimos las bebidas que prefiramos y hacemos tres rondas: 1) un recuerdo pequeño que todavía nos haga sonreír; 2) algo nuevo que nos gustaría aprender o probar; 3) una pregunta que nunca nos hemos hecho. Cada uno puede pasar una pregunta si no le apetece responder. El objetivo no es interrogarse ni resolver nada, sino escucharnos. Música bajita y celulares lejos durante un rato."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de la noche",
+        "contenido": "Íntimo: no significa necesariamente secreto; puede ser simplemente un espacio donde uno se siente cómodo siendo tal como es."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Que hoy tengas un momento tranquilo y cálido. Me gusta la idea de construir espacios donde podamos hablar sin mirar el reloj."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Íntimo",
+      "significado": "Algo cercano, reservado y personal, que se comparte en un espacio de confianza.",
+      "ejemplo": "Una cena íntima no necesita un restaurante elegante: puede ser una mesa pequeña, luz cálida y tiempo para escucharnos."
+    },
+    "inspiracionCancion": "Una canción de ambiente cálido para una cena sin pantallas y con una conversación que no tenga que llegar a ninguna conclusión."
   },
   {
     "dia": 20,
     "fecha": "2026-11-04",
     "fechaTexto": "mié, 4 de nov",
-    "categoria": "Los ojos que se iluminan",
-    "icono": "🤎",
-    "tono": "amor",
+    "categoria": "Diseña un objeto imposible",
+    "icono": "🛠️",
+    "tono": "creativo",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Voy a decirlo sin rodeos: tus ojos cafés merecían su propio mensaje. Hay miradas que hacen que uno pierda el hilo de lo que estaba diciendo; la tuya tiene toda la pinta de ser de esas.",
+    "buenosDias": "Hoy toca diseñar algo que no exista. No importa si es absurdo, elegante, útil o completamente innecesario: la gracia es imaginarlo y darle forma.",
     "poema": [
-      "Y cuando sonríes, aparecen tus pecas como si también quisieran participar en la conversación. Me parece injusto que tengas tantos detalles bonitos en una sola cara, pero bueno, alguien tenía que tener esa suerte.",
-      "No te escribo esto para que te pases el día frente al espejo, mi vida. Solo quería recordarte que hay cosas lindas de ti que quizá tú ves normales y que otra persona puede notar muchísimo."
+      "Materiales: hojas, lápiz, marcadores, cartón reciclado, cinta y tijeras. Paso 1: cada uno inventa un objeto que resuelva un problema cotidiano de una manera inesperada. Paso 2: dibuja tres vistas: frente, lado y arriba. Paso 3: ponle nombre y escribe qué hace en una frase. Paso 4: construye una maqueta sencilla con cartón o papel. Nivel 2: añade una función inesperada. Nivel 3: intercambien diseños y cada uno debe mejorar el prototipo del otro sin borrar su idea original. Al final hacemos una presentación de un minuto como si estuviéramos vendiendo el invento.",
+      "Prototipo: una primera versión que sirve para probar, corregir y descubrir posibilidades. No tiene que quedar bonita todavía."
     ],
-    "detalle": "Si hoy alguien te mira y te sonríe, devuelve la sonrisa si te nace. Y si te ríes de verdad y se te notan las pecas, bueno… hay pequeñas distracciones que deberían venir con advertencia.",
-    "buenasNoches": "Descansa, amor. Si hoy alguien te sacó esa sonrisa tuya, espero que el recuerdo te acompañe un poquito. Y si no, queda pendiente que el día siguiente haga mejor su trabajo.",
-    "cancionTitulo": "The One",
-    "cancionArtista": "Jorja Smith",
-    "youtubeId": "f4XVdNE0Kxc",
-    "cancionUrl": "https://www.youtube.com/watch?v=f4XVdNE0Kxc"
+    "detalle": "Materiales: hojas, lápiz, marcadores, cartón reciclado, cinta y tijeras. Paso 1: cada uno inventa un objeto que resuelva un problema cotidiano de una manera inesperada. Paso 2: dibuja tres vistas: frente, lado y arriba. Paso 3: ponle nombre y escribe qué hace en una frase. Paso 4: construye una maqueta sencilla con cartón o papel. Nivel 2: añade una función inesperada. Nivel 3: intercambien diseños y cada uno debe mejorar el prototipo del otro sin borrar su idea original. Al final hacemos una presentación de un minuto como si estuviéramos vendiendo el invento.",
+    "buenasNoches": "Ojalá nunca perdamos las ganas de inventar cosas raras. A veces una idea absurda termina siendo el plan más divertido del día.",
+    "cancionTitulo": "Queen Tings (Santi Remix)",
+    "cancionArtista": "Masego; Cruel Santino; Santi",
+    "youtubeId": "UntyHH7Pfs0",
+    "cancionUrl": "https://www.youtube.com/watch?v=UntyHH7Pfs0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, inventora",
+        "contenido": "Hoy toca diseñar algo que no exista. No importa si es absurdo, elegante, útil o completamente innecesario: la gracia es imaginarlo y darle forma."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto: el objeto imposible",
+        "contenido": "Materiales: hojas, lápiz, marcadores, cartón reciclado, cinta y tijeras. Paso 1: cada uno inventa un objeto que resuelva un problema cotidiano de una manera inesperada. Paso 2: dibuja tres vistas: frente, lado y arriba. Paso 3: ponle nombre y escribe qué hace en una frase. Paso 4: construye una maqueta sencilla con cartón o papel. Nivel 2: añade una función inesperada. Nivel 3: intercambien diseños y cada uno debe mejorar el prototipo del otro sin borrar su idea original. Al final hacemos una presentación de un minuto como si estuviéramos vendiendo el invento."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de taller",
+        "contenido": "Prototipo: una primera versión que sirve para probar, corregir y descubrir posibilidades. No tiene que quedar bonita todavía."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá nunca perdamos las ganas de inventar cosas raras. A veces una idea absurda termina siendo el plan más divertido del día."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Prototipo",
+      "significado": "Primera versión de un objeto o idea que permite probar cómo funcionaría antes de perfeccionarlo.",
+      "ejemplo": "Nuestro prototipo puede ser una lámpara que proyecte constelaciones o una taza que mantenga caliente el café."
+    },
+    "inspiracionCancion": "Una canción para activar el lado inventivo y jugar con ideas que no tienen que ser útiles para ser buenas."
   },
   {
     "dia": 21,
     "fecha": "2026-11-05",
     "fechaTexto": "jue, 5 de nov",
-    "categoria": "Crear sin pedirle permiso a las instrucciones",
-    "icono": "✂️",
-    "tono": "filosofica",
+    "categoria": "Una ruta de cafés y dibujo",
+    "icono": "☕",
+    "tono": "creativo",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Hoy te propongo algo: experimentar sin tener que saber de antemano cómo va a quedar todo. A veces una idea bonita empieza siendo un intento medio torcido.",
+    "buenosDias": "Para otro fin de semana libre, te propongo una pequeña ruta de cafés: no nombres concretos, sino buscar un sitio con buena luz, mesas cómodas, una ventana interesante y un ambiente donde podamos quedarnos dibujando.",
     "poema": [
-      "Crear también es cambiar de opinión, borrar, mezclar colores y descubrir que el plan original ya no era tan interesante. Me gusta que tengas ese mundo tuyo donde puedes probar caminos distintos.",
-      "No te exijas que cada cosa salga perfecta, corazón. Déjate jugar un poquito. Las mejores historias también suelen tener una parte improvisada."
+      "Cuando elijamos el día, buscamos una cafetería abierta y revisamos horarios y presupuesto. Llevamos un cuaderno pequeño, lápiz, borrador y dos marcadores. Cada uno hace diez dibujos de dos minutos: una taza, una lámpara, una planta, una sombra, una silla, una fachada que se vea desde la ventana o cualquier objeto. No dibujamos a desconocidos de forma identificable. Después intercambiamos cuadernos y elegimos el dibujo más inesperado. Nivel extra: convertir uno de los bocetos en una ilustración a color en casa.",
+      "Observación: mirar con intención. No se trata de dibujar perfecto, sino de descubrir detalles que antes pasaban inadvertidos."
     ],
-    "detalle": "Haz algo creativo sin preguntarte antes si va a quedar perfecto. Prueba, mezcla, cambia de idea y vuelve a empezar; no todo lo que vale la pena necesita instrucciones desde el principio.",
-    "buenasNoches": "Buenas noches, artista. Suelta por hoy las herramientas, las ideas y el deseo de corregirlo todo. Mañana puedes volver a probar; esta noche te toca descansar a ti.",
-    "cancionTitulo": "Házmelo Rap",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "P1qamoOHLYM",
-    "cancionUrl": "https://www.youtube.com/watch?v=P1qamoOHLYM"
+    "detalle": "Cuando elijamos el día, buscamos una cafetería abierta y revisamos horarios y presupuesto. Llevamos un cuaderno pequeño, lápiz, borrador y dos marcadores. Cada uno hace diez dibujos de dos minutos: una taza, una lámpara, una planta, una sombra, una silla, una fachada que se vea desde la ventana o cualquier objeto. No dibujamos a desconocidos de forma identificable. Después intercambiamos cuadernos y elegimos el dibujo más inesperado. Nivel extra: convertir uno de los bocetos en una ilustración a color en casa.",
+    "buenasNoches": "Que descanses. Dejo esta salida anotada en nuestra lista de planes: un café bonito, dos cuadernos y tiempo para mirar el mundo con calma.",
+    "cancionTitulo": "Parla Pura",
+    "cancionArtista": "Rap Bang Club",
+    "youtubeId": "9Ulu3Ysg6uw",
+    "cancionUrl": "https://www.youtube.com/watch?v=9Ulu3Ysg6uw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, dibujante",
+        "contenido": "Para otro fin de semana libre, te propongo una pequeña ruta de cafés: no nombres concretos, sino buscar un sitio con buena luz, mesas cómodas, una ventana interesante y un ambiente donde podamos quedarnos dibujando."
+      },
+      "mensajePrincipal": {
+        "titulo": "Plan: café + cuaderno + diez dibujos",
+        "contenido": "Cuando elijamos el día, buscamos una cafetería abierta y revisamos horarios y presupuesto. Llevamos un cuaderno pequeño, lápiz, borrador y dos marcadores. Cada uno hace diez dibujos de dos minutos: una taza, una lámpara, una planta, una sombra, una silla, una fachada que se vea desde la ventana o cualquier objeto. No dibujamos a desconocidos de forma identificable. Después intercambiamos cuadernos y elegimos el dibujo más inesperado. Nivel extra: convertir uno de los bocetos en una ilustración a color en casa."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de hoy",
+        "contenido": "Observación: mirar con intención. No se trata de dibujar perfecto, sino de descubrir detalles que antes pasaban inadvertidos."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Que descanses. Dejo esta salida anotada en nuestra lista de planes: un café bonito, dos cuadernos y tiempo para mirar el mundo con calma."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Observación",
+      "significado": "Atención deliberada a los detalles de algo para comprenderlo o representarlo mejor.",
+      "ejemplo": "En una cafetería podemos observar las formas de las tazas, las sombras y los gestos de las personas sin dibujar sus rostros."
+    },
+    "inspiracionCancion": "Una canción para una tarde de café, cuaderno y dibujos rápidos de los detalles que normalmente pasan desapercibidos."
   },
   {
     "dia": 22,
