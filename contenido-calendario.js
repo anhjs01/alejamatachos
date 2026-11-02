@@ -15344,5 +15344,329 @@ const CALENDARIO = [
         "ejemplo": "No tuvo reparo en agradecer aquel gesto concreto y oportuno."
       }
     }
+  ],
+[
+    {
+      "dia": 343,
+      "fecha": "2027-09-23",
+      "fechaTexto": "jue, 23 de sep",
+      "categoria": "El museo de los errores útiles",
+      "icono": "🖼️",
+      "tono": "humor y aprendizaje",
+      "color": {
+        "principal": "#b7a7c9",
+        "suave": "#f0ebf5",
+        "oscuro": "#3d3448"
+      },
+      "buenosDias": "Hoy no vamos a celebrar que todo salga perfecto; vamos a descubrir qué puede enseñarnos lo que salió distinto.",
+      "poema": [
+        "Piensa en un error pequeño que hayas cometido alguna vez: una receta que quedó rara, una manualidad torcida, una palabra mal dicha o una decisión que te obligó a improvisar. Conviértelo en una pieza de museo: ponle título, fecha aproximada y una descripción solemne como si fuera una obra importantísima.",
+        "Si alguien se suma, cada uno presenta su pieza sin burlarse del otro. El público debe encontrar algo útil, curioso o divertido que haya nacido de aquel tropiezo."
+      ],
+      "detalle": "Añade una placa que diga: «No salió como esperaba, pero ahora sé…» y completa la frase.",
+      "buenasNoches": "No todos los resultados inesperados son fracasos. Algunos terminan siendo una forma distinta de aprender.",
+      "cancionTitulo": "The Nights",
+      "cancionArtista": "Avicii",
+      "youtubeId": "L_jWHffIx5E",
+      "cancionUrl": "https://www.youtube.com/watch?v=L_jWHffIx5E",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy no vamos a celebrar que todo salga perfecto; vamos a descubrir qué puede enseñarnos lo que salió distinto."
+        },
+        "mensajePrincipal": {
+          "titulo": "El museo de los errores útiles",
+          "contenido": "Piensa en un error pequeño que hayas cometido alguna vez: una receta que quedó rara, una manualidad torcida, una palabra mal dicha o una decisión que te obligó a improvisar. Conviértelo en una pieza de museo: ponle título, fecha aproximada y una descripción solemne como si fuera una obra importantísima. Si alguien se suma, cada uno presenta su pieza sin burlarse del otro. El público debe encontrar algo útil, curioso o divertido que haya nacido de aquel tropiezo."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra zozobra",
+          "contenido": "Inquietud o angustia ante una situación incierta. La zozobra desapareció cuando por fin supieron qué había ocurrido."
+        },
+        "buenasNoches": {
+          "contenido": "No todos los resultados inesperados son fracasos. Algunos terminan siendo una forma distinta de aprender."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Zozobra",
+        "significado": "Inquietud o angustia ante una situación incierta.",
+        "ejemplo": "La zozobra desapareció cuando por fin supieron qué había ocurrido."
+      }
+    },
+    {
+      "dia": 344,
+      "fecha": "2027-09-24",
+      "fechaTexto": "vie, 24 de sep",
+      "categoria": "El tráiler de una vida cotidiana",
+      "icono": "🎬",
+      "tono": "narrativa y humor",
+      "color": {
+        "principal": "#c6a18f",
+        "suave": "#f4ece7",
+        "oscuro": "#49372e"
+      },
+      "buenosDias": "Hoy tu día normal merece una producción cinematográfica exagerada.",
+      "poema": [
+        "Elige una actividad corriente —preparar café, ordenar el escritorio, salir a comprar algo o buscar las llaves— y conviértela en el argumento de un tráiler de película. Escribe una voz en off dramática, un título impactante y tres escenas de máximo cinco segundos.",
+        "Puedes grabarlo con el móvil o simplemente interpretarlo. Si lo hacen entre dos, uno narra como presentador de cine y el otro representa la escena con toda la seriedad posible."
+      ],
+      "detalle": "Incluye una frase promocional como: «Este otoño, una persona… tendrá que encontrar el cargador». ",
+      "buenasNoches": "La vida también tiene escenas pequeñas que merecen una banda sonora épica.",
+      "cancionTitulo": "Feel Good Inc.",
+      "cancionArtista": "Gorillaz",
+      "youtubeId": "xvFZjo5PgG0",
+      "cancionUrl": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy tu día normal merece una producción cinematográfica exagerada."
+        },
+        "mensajePrincipal": {
+          "titulo": "El tráiler de una vida cotidiana",
+          "contenido": "Elige una actividad corriente —preparar café, ordenar el escritorio, salir a comprar algo o buscar las llaves— y conviértela en el argumento de un tráiler de película. Escribe una voz en off dramática, un título impactante y tres escenas de máximo cinco segundos. Puedes grabarlo con el móvil o simplemente interpretarlo. Si lo hacen entre dos, uno narra como presentador de cine y el otro representa la escena con toda la seriedad posible."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra ataraxia",
+          "contenido": "Estado de serenidad y tranquilidad del ánimo. Encontró un instante de ataraxia al desconectarse del ruido."
+        },
+        "buenasNoches": {
+          "contenido": "La vida también tiene escenas pequeñas que merecen una banda sonora épica."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Ataraxia",
+        "significado": "Estado de serenidad y tranquilidad del ánimo.",
+        "ejemplo": "Encontró un instante de ataraxia al desconectarse del ruido."
+      }
+    },
+    {
+      "dia": 345,
+      "fecha": "2027-09-25",
+      "fechaTexto": "sáb, 25 de sep",
+      "categoria": "La cocina de las combinaciones inesperadas",
+      "icono": "🥣",
+      "tono": "experimento cotidiano",
+      "color": {
+        "principal": "#d0b17e",
+        "suave": "#f5f0e4",
+        "oscuro": "#4a3d27"
+      },
+      "buenosDias": "Hoy la cocina se convierte en un pequeño laboratorio, pero sin experimentos arriesgados.",
+      "poema": [
+        "Busca ingredientes habituales y seguros que ya conozcas. Piensa en una combinación sencilla para una merienda o bebida sin horno: fruta con yogur, avena fría, una tostada con una mezcla distinta o una limonada con hierbas aptas para consumo. Antes de mezclar, revisa que todo sea adecuado para quienes vayan a probarlo.",
+        "Ponle un nombre original a la preparación y escribe la receta en cuatro pasos. Si alguien participa, que invente el nombre mientras tú explicas por qué elegiste esos ingredientes."
+      ],
+      "detalle": "Califica el resultado con tres criterios: sabor, presentación y posibilidades de repetirlo.",
+      "buenasNoches": "La creatividad también se sirve en porciones pequeñas. No hace falta complicar una receta para disfrutarla.",
+      "cancionTitulo": "Young Folks",
+      "cancionArtista": "Peter Bjorn and John",
+      "youtubeId": "E07s5ZYygMg",
+      "cancionUrl": "https://www.youtube.com/watch?v=E07s5ZYygMg",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy la cocina se convierte en un pequeño laboratorio, pero sin experimentos arriesgados."
+        },
+        "mensajePrincipal": {
+          "titulo": "La cocina de las combinaciones inesperadas",
+          "contenido": "Busca ingredientes habituales y seguros que ya conozcas. Piensa en una combinación sencilla para una merienda o bebida sin horno: fruta con yogur, avena fría, una tostada con una mezcla distinta o una limonada con hierbas aptas para consumo. Antes de mezclar, revisa que todo sea adecuado para quienes vayan a probarlo. Ponle un nombre original a la preparación y escribe la receta en cuatro pasos. Si alguien participa, que invente el nombre mientras tú explicas por qué elegiste esos ingredientes."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra crisol",
+          "contenido": "Recipiente resistente al calor; en sentido figurado, lugar donde se mezclan y transforman elementos distintos. La cocina fue un crisol de ideas y sabores."
+        },
+        "buenasNoches": {
+          "contenido": "La creatividad también se sirve en porciones pequeñas. No hace falta complicar una receta para disfrutarla."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Crisol",
+        "significado": "Recipiente resistente al calor; en sentido figurado, lugar donde se mezclan y transforman elementos distintos.",
+        "ejemplo": "La cocina fue un crisol de ideas y sabores."
+      }
+    },
+    {
+      "dia": 346,
+      "fecha": "2027-09-26",
+      "fechaTexto": "dom, 26 de sep",
+      "categoria": "El doblaje de una escena sin sonido",
+      "icono": "🎙️",
+      "tono": "juego y complicidad",
+      "color": {
+        "principal": "#9eafc7",
+        "suave": "#edf1f6",
+        "oscuro": "#303c4d"
+      },
+      "buenosDias": "Hoy vamos a ponerle palabras nuevas a imágenes que no las necesitan.",
+      "poema": [
+        "Busca una escena breve de una película, serie o vídeo que puedas reproducir sin sonido. Observa los gestos y crea un diálogo completamente distinto al original. Puede ser una discusión entre dos objetos, una negociación ridícula o una conversación muy formal sobre algo insignificante.",
+        "Graba el doblaje o interprétalo en directo. Si alguien te acompaña, repartan los personajes y hagan una segunda versión cambiando el género: de drama a comedia, o de aventura a documental."
+      ],
+      "detalle": "El diálogo debe incluir una frase inesperadamente elegante en medio del absurdo.",
+      "buenasNoches": "A veces basta cambiar la interpretación para descubrir otra historia en la misma escena.",
+      "cancionTitulo": "Somebody That I Used to Know",
+      "cancionArtista": "Gotye feat. Kimbra",
+      "youtubeId": "fC7oUOUEEi4",
+      "cancionUrl": "https://www.youtube.com/watch?v=fC7oUOUEEi4",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a ponerle palabras nuevas a imágenes que no las necesitan."
+        },
+        "mensajePrincipal": {
+          "titulo": "El doblaje de una escena sin sonido",
+          "contenido": "Busca una escena breve de una película, serie o vídeo que puedas reproducir sin sonido. Observa los gestos y crea un diálogo completamente distinto al original. Puede ser una discusión entre dos objetos, una negociación ridícula o una conversación muy formal sobre algo insignificante. Graba el doblaje o interprétalo en directo. Si alguien te acompaña, repartan los personajes y hagan una segunda versión cambiando el género: de drama a comedia, o de aventura a documental."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra finta",
+          "contenido": "Movimiento engañoso que busca confundir o despistar. Su finta verbal hizo que todos esperaran un desenlace distinto."
+        },
+        "buenasNoches": {
+          "contenido": "A veces basta cambiar la interpretación para descubrir otra historia en la misma escena."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Finta",
+        "significado": "Movimiento engañoso que busca confundir o despistar.",
+        "ejemplo": "Su finta verbal hizo que todos esperaran un desenlace distinto."
+      }
+    },
+    {
+      "dia": 347,
+      "fecha": "2027-09-27",
+      "fechaTexto": "lun, 27 de sep",
+      "categoria": "La colección de sonidos favoritos",
+      "icono": "🎧",
+      "tono": "música y memoria",
+      "color": {
+        "principal": "#b4a5bd",
+        "suave": "#f0ebf2",
+        "oscuro": "#3d3344"
+      },
+      "buenosDias": "Hoy vamos a construir una colección que no necesita fotografías: solo sonidos.",
+      "poema": [
+        "Anota cinco sonidos que te guste escuchar o que te despierten algún recuerdo: lluvia contra una ventana, una calle al amanecer, páginas al pasar, una carcajada, el sonido de una cafetera o el ambiente de un lugar conocido. Para cada uno escribe qué sensación te deja.",
+        "Si quieres, busca grabaciones de esos sonidos y arma una lista breve. Si compartes la actividad, intercambien sus selecciones y traten de adivinar qué recuerdo o ambiente representa cada sonido."
+      ],
+      "detalle": "Ponle a tu colección un nombre como si fuera un álbum musical.",
+      "buenasNoches": "Hay recuerdos que regresan con una melodía, pero otros aparecen con un sonido mínimo.",
+      "cancionTitulo": "Midnight City",
+      "cancionArtista": "M83",
+      "youtubeId": "QK8mJJJvaes",
+      "cancionUrl": "https://www.youtube.com/watch?v=QK8mJJJvaes",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a construir una colección que no necesita fotografías: solo sonidos."
+        },
+        "mensajePrincipal": {
+          "titulo": "La colección de sonidos favoritos",
+          "contenido": "Anota cinco sonidos que te guste escuchar o que te despierten algún recuerdo: lluvia contra una ventana, una calle al amanecer, páginas al pasar, una carcajada, el sonido de una cafetera o el ambiente de un lugar conocido. Para cada uno escribe qué sensación te deja. Si quieres, busca grabaciones de esos sonidos y arma una lista breve. Si compartes la actividad, intercambien sus selecciones y traten de adivinar qué recuerdo o ambiente representa cada sonido."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra bisoño",
+          "contenido": "Que es nuevo o inexperto en una actividad. Aunque era bisoño en la edición de audio, logró una colección interesante."
+        },
+        "buenasNoches": {
+          "contenido": "Hay recuerdos que regresan con una melodía, pero otros aparecen con un sonido mínimo."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Bisoño",
+        "significado": "Que es nuevo o inexperto en una actividad.",
+        "ejemplo": "Aunque era bisoño en la edición de audio, logró una colección interesante."
+      }
+    },
+    {
+      "dia": 348,
+      "fecha": "2027-09-28",
+      "fechaTexto": "mar, 28 de sep",
+      "categoria": "El intercambio de recomendaciones improbables",
+      "icono": "🎲",
+      "tono": "curiosidad y descubrimiento",
+      "color": {
+        "principal": "#c7aa91",
+        "suave": "#f4eee8",
+        "oscuro": "#47382d"
+      },
+      "buenosDias": "Hoy vamos a recomendar algo sin recurrir a lo de siempre.",
+      "poema": [
+        "Elige una recomendación poco obvia: una película que casi nadie menciona, una canción de un género que no sueles escuchar, un canal curioso, un libro breve o una actividad que parezca rara pero valga la pena. Explica en tres pistas por qué podría gustarle a otra persona, sin revelar el nombre al principio.",
+        "Si participan dos, cada uno prepara una recomendación sorpresa para el otro. La otra persona puede hacer hasta tres preguntas antes de aceptar el reto de probarla o verla."
+      ],
+      "detalle": "La recomendación debe venir acompañada de una razón concreta, no solo de «porque sí».",
+      "buenasNoches": "Descubrir algo nuevo a veces empieza por aceptar una recomendación fuera de nuestro radar.",
+      "cancionTitulo": "Take On Me",
+      "cancionArtista": "a-ha",
+      "youtubeId": "YqeW9_5kURI",
+      "cancionUrl": "https://www.youtube.com/watch?v=YqeW9_5kURI",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a recomendar algo sin recurrir a lo de siempre."
+        },
+        "mensajePrincipal": {
+          "titulo": "El intercambio de recomendaciones improbables",
+          "contenido": "Elige una recomendación poco obvia: una película que casi nadie menciona, una canción de un género que no sueles escuchar, un canal curioso, un libro breve o una actividad que parezca rara pero valga la pena. Explica en tres pistas por qué podría gustarle a otra persona, sin revelar el nombre al principio. Si participan dos, cada uno prepara una recomendación sorpresa para el otro. La otra persona puede hacer hasta tres preguntas antes de aceptar el reto de probarla o verla."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra perenne",
+          "contenido": "Que permanece o dura a través del tiempo. Una recomendación perenne sigue encontrando público con los años."
+        },
+        "buenasNoches": {
+          "contenido": "Descubrir algo nuevo a veces empieza por aceptar una recomendación fuera de nuestro radar."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Perenne",
+        "significado": "Que permanece o dura a través del tiempo.",
+        "ejemplo": "Una recomendación perenne sigue encontrando público con los años."
+      }
+    },
+    {
+      "dia": 349,
+      "fecha": "2027-09-29",
+      "fechaTexto": "mié, 29 de sep",
+      "categoria": "El retrato escrito de un día perfecto",
+      "icono": "✍️",
+      "tono": "intimidad gradual y creatividad",
+      "color": {
+        "principal": "#cba7b7",
+        "suave": "#f5edf1",
+        "oscuro": "#49343e"
+      },
+      "buenosDias": "Hoy no vamos a planear un día perfecto para cumplirlo, sino a imaginar qué lo haría especial.",
+      "poema": [
+        "Describe un día ideal sin hablar de grandes lujos ni de una agenda imposible. Incluye cómo empieza, qué ritmo tiene, qué comida aparece, qué lugar visitas y qué pequeño detalle lo vuelve memorable. No hace falta que sea realista: puede mezclar una mañana tranquila con una aventura inesperada.",
+        "Si quieres compartirlo, intercambien sus descripciones y encuentren un detalle que sí podrían llevar a la vida real durante las próximas semanas. No se trata de copiar el día completo, sino de rescatar una idea que les haga ilusión."
+      ],
+      "detalle": "Cierra el retrato con una frase que te gustaría recordar cuando llegue un día difícil.",
+      "buenasNoches": "Un día perfecto no tiene que ser extraordinario; a veces basta con que se parezca a lo que de verdad necesitamos.",
+      "cancionTitulo": "Riptide",
+      "cancionArtista": "Vance Joy",
+      "youtubeId": "6Dh-RL__uN4",
+      "cancionUrl": "https://www.youtube.com/watch?v=6Dh-RL__uN4",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy no vamos a planear un día perfecto para cumplirlo, sino a imaginar qué lo haría especial."
+        },
+        "mensajePrincipal": {
+          "titulo": "El retrato escrito de un día perfecto",
+          "contenido": "Describe un día ideal sin hablar de grandes lujos ni de una agenda imposible. Incluye cómo empieza, qué ritmo tiene, qué comida aparece, qué lugar visitas y qué pequeño detalle lo vuelve memorable. No hace falta que sea realista: puede mezclar una mañana tranquila con una aventura inesperada. Si quieres compartirlo, intercambien sus descripciones y encuentren un detalle que sí podrían llevar a la vida real durante las próximas semanas. No se trata de copiar el día completo, sino de rescatar una idea que les haga ilusión."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra aledaño",
+          "contenido": "Que está situado cerca de algo. Encontraron un parque aledaño para continuar el paseo."
+        },
+        "buenasNoches": {
+          "contenido": "Un día perfecto no tiene que ser extraordinario; a veces basta con que se parezca a lo que de verdad necesitamos."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Aledaño",
+        "significado": "Que está situado cerca de algo.",
+        "ejemplo": "Encontraron un parque aledaño para continuar el paseo."
+      }
+    }
   ]
 ];
