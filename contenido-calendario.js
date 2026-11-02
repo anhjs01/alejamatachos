@@ -15343,9 +15343,7 @@ const CALENDARIO = [
         "significado": "Observación, objeción o cuidado que se expresa ante algo; también, protección o resguardo.",
         "ejemplo": "No tuvo reparo en agradecer aquel gesto concreto y oportuno."
       }
-    }
-  ],
-[
+    },
     {
       "dia": 343,
       "fecha": "2027-09-23",
