@@ -2661,7 +2661,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Una salida que se convierte en pequeña aventura",
-        "contenido": "Hoy damos otro paso: salir con una misión sencilla y dejar que el recorrido nos sorprenda."
+        "contenido": "Si a ambos les apetece y coinciden los horarios, queda una salida sencilla con cinco pequeñas misiones. Antes de decidir, revisen el tiempo disponible, el transporte, la seguridad y el presupuesto; también puede esperar."
       },
       "mensajePrincipal": {
         "titulo": "La ruta de cinco descubrimientos",
@@ -10027,7 +10027,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a imaginar una salida de un día que mezcle curiosidad y tiempo libre."
+        "contenido": "Hoy imaginamos una escapada flexible de dos días y una noche para una etapa en la que ambos tengan tiempo, ganas y presupuesto. No elegimos destino ni fecha: primero diseñamos una versión realista."
       },
       "mensajePrincipal": {
         "titulo": "Diseñemos una escapada flexible de dos días",
@@ -12306,7 +12306,7 @@ const CALENDARIO = [
     "dia": 261,
     "fecha": "2027-07-03",
     "fechaTexto": "sáb, 3 de jul",
-    "categoria": "Una tarde para cambiar de paisaje",
+    "categoria": "Una tarde opcional para cambiar de paisaje",
     "icono": "🌄",
     "tono": "salida tranquila de un día",
     "color": {
@@ -12331,8 +12331,8 @@ const CALENDARIO = [
         "contenido": "Si en algún momento coincide una tarde libre, podemos cambiar de paisaje con una salida de medio día. Hoy solo dejamos la idea planteada; no hay fecha ni destino obligatorio."
       },
       "mensajePrincipal": {
-        "titulo": "Una tarde para cambiar de paisaje",
-        "contenido": "Planea una salida de medio día o una tarde a un mirador, parque amplio o lugar con buena vista que quede a una distancia razonable. La idea es caminar sin afán, tomar algo, buscar un sitio cómodo para sentarse y escoger tres detalles del paisaje que normalmente pasarían desapercibidos. Revisa antes el clima, el transporte, los horarios y lleva agua; no hace falta convertirlo en un viaje largo ni llenar el día de actividades.\n\nTIEMPO DE LA SALIDA: medio día, aproximadamente 3–4 HORAS contando transporte. Es una idea opcional; revisen presupuesto, clima, acceso seguro y regreso antes de decidir."
+        "titulo": "Una tarde opcional para cambiar de paisaje",
+        "contenido": "IDEA DE SALIDA OPCIONAL · MEDIO DÍA · SIN DESTINO FIJO\n\nSi a ambos les provoca y coincide una tarde libre, pueden elegir un mirador, parque amplio o espacio público con buena vista que quede a una distancia razonable. La propuesta es caminar sin afán, llevar agua, sentarse un rato y escoger tres detalles del paisaje que normalmente pasarían desapercibidos.\n\nAntes de convertirla en plan, revisen el clima, transporte, horarios, seguridad, hora de regreso y presupuesto. No hace falta viajar lejos ni llenar el día de actividades. Si no encaja, se guarda para otra ocasión o se cambia por una pausa desde casa.\n\nTIEMPO DE LA SALIDA: aproximadamente 3–4 HORAS contando transporte, solo si ambos quieren y resulta viable."
       },
       "palabraNueva": {
         "titulo": "La palabra mirador",
