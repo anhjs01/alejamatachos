@@ -11140,5 +11140,327 @@ const CALENDARIO = [
       "significado": "Plan ordenado de actividades o paradas que se quieren realizar.",
       "ejemplo": "Un itinerario flexible permite disfrutar el camino sin convertir cada minuto en una obligación."
     }
+  },
+  {
+    "dia": 252,
+    "fecha": "2027-06-24",
+    "fechaTexto": "jue, 24 de jun",
+    "categoria": "El tribunal de las excusas creativas",
+    "icono": "⚖️",
+    "tono": "humor e improvisación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a defender causas que no deberían llegar a un tribunal, pero aquí estamos.",
+    "poema": [
+      "Elijan una situación absurda: «los lunes deberían empezar después del almuerzo», «las cucharas merecen vacaciones» o «las plantas deberían tener nombre de pila». Cada quien tiene 45 segundos para presentar argumentos a favor y luego 30 segundos para responder a la objeción más ridícula. El jurado puede ser una moneda, un peluche o la persona que no esté participando.",
+      "La sentencia debe ser creativa y explicar por qué el caso queda cerrado, al menos hasta mañana."
+    ],
+    "detalle": "La sentencia debe ser creativa y explicar por qué el caso queda cerrado, al menos hasta mañana.",
+    "buenasNoches": "Reírse un rato de las pequeñas tonterías también es una forma válida de descansar.",
+    "cancionTitulo": "Hypnotize - 2014 Remaster",
+    "cancionArtista": "The Notorious B.I.G.",
+    "youtubeId": "glEiPXAYE-U",
+    "cancionUrl": "https://www.youtube.com/watch?v=glEiPXAYE-U",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a defender causas que no deberían llegar a un tribunal, pero aquí estamos."
+      },
+      "mensajePrincipal": {
+        "titulo": "El tribunal de las excusas creativas",
+        "contenido": "Elijan una situación absurda: «los lunes deberían empezar después del almuerzo», «las cucharas merecen vacaciones» o «las plantas deberían tener nombre de pila». Cada quien tiene 45 segundos para presentar argumentos a favor y luego 30 segundos para responder a la objeción más ridícula. El jurado puede ser una moneda, un peluche o la persona que no esté participando."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra elocuencia",
+        "contenido": "Capacidad de expresarse con claridad y habilidad para convencer. La elocuencia también sirve para defender una idea absurda con una seriedad impecable."
+      },
+      "buenasNoches": {
+        "contenido": "Reírse un rato de las pequeñas tonterías también es una forma válida de descansar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Elocuencia",
+      "significado": "Capacidad de expresarse con claridad y habilidad para convencer.",
+      "ejemplo": "La elocuencia también sirve para defender una idea absurda con una seriedad impecable."
+    }
+  },
+  {
+    "dia": 253,
+    "fecha": "2027-06-25",
+    "fechaTexto": "vie, 25 de jun",
+    "categoria": "El taller de empaques imposibles",
+    "icono": "📦",
+    "tono": "diseño y resolución",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca diseñar un empaque para un objeto que no suele necesitarlo.",
+    "poema": [
+      "Escoge algo pequeño y cotidiano —una moneda, una hoja, una piedra lisa o un lápiz— e imagina que vas a venderlo como si fuera un producto extraordinario. Dibuja un empaque con nombre, instrucciones, advertencia y una promesa divertida. Si tienes papel reutilizable, haz un modelo sencillo sin pegar nada sobre el objeto.",
+      "Ponle un precio ficticio y crea un eslogan de máximo seis palabras."
+    ],
+    "detalle": "Ponle un precio ficticio y crea un eslogan de máximo seis palabras.",
+    "buenasNoches": "A veces diseñar algo sin utilidad práctica termina siendo un ejercicio buenísimo de imaginación.",
+    "cancionTitulo": "Venganza",
+    "cancionArtista": "Doble Porción; Métricas Frías; Mañas Ru-Fino; Granuja",
+    "youtubeId": "kl7n-qCrunU",
+    "cancionUrl": "https://www.youtube.com/watch?v=kl7n-qCrunU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca diseñar un empaque para un objeto que no suele necesitarlo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El taller de empaques imposibles",
+        "contenido": "Escoge algo pequeño y cotidiano —una moneda, una hoja, una piedra lisa o un lápiz— e imagina que vas a venderlo como si fuera un producto extraordinario. Dibuja un empaque con nombre, instrucciones, advertencia y una promesa divertida. Si tienes papel reutilizable, haz un modelo sencillo sin pegar nada sobre el objeto."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra prototipo",
+        "contenido": "Modelo inicial que permite probar una idea antes de desarrollarla. Un prototipo sencillo ayuda a descubrir qué funciona y qué necesita cambiar."
+      },
+      "buenasNoches": {
+        "contenido": "A veces diseñar algo sin utilidad práctica termina siendo un ejercicio buenísimo de imaginación."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Prototipo",
+      "significado": "Modelo inicial que permite probar una idea antes de desarrollarla.",
+      "ejemplo": "Un prototipo sencillo ayuda a descubrir qué funciona y qué necesita cambiar."
+    }
+  },
+  {
+    "dia": 254,
+    "fecha": "2027-06-26",
+    "fechaTexto": "sáb, 26 de jun",
+    "categoria": "El recorrido de una receta sin estufa",
+    "icono": "🥗",
+    "tono": "cocina sencilla y segura",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a preparar algo fresco sin horno ni estufa.",
+    "poema": [
+      "Prepara una ensalada fría de tres o cuatro ingredientes: tomate, aguacate, maíz y limón, por ejemplo. Mezcla aparte limón con un chorrito de aceite, sal y pimienta para hacer un aderezo sencillo. Puedes cambiar ingredientes según lo que tengas y tus necesidades. Si usas productos empacados, revisa etiquetas y posibles trazas de maní o contaminación cruzada; evita cualquier ingrediente cuya seguridad no esté clara.",
+      "Sirve la preparación en un recipiente bonito y anota qué combinación repetirías. Si no tienes cocina disponible, también puedes armar una versión fría con ingredientes ya listos y seguros."
+    ],
+    "detalle": "Sirve la preparación en un recipiente bonito y anota qué combinación repetirías. Si no tienes cocina disponible, también puedes armar una versión fría con ingredientes ya listos y seguros.",
+    "buenasNoches": "Comer algo preparado con calma puede ser un pequeño gusto en medio de la rutina.",
+    "cancionTitulo": "Mientras Duermen",
+    "cancionArtista": "Rapper School; Samurai; Negro Gonzáles; Bman",
+    "youtubeId": "ZDmn487A_Dk",
+    "cancionUrl": "https://www.youtube.com/watch?v=ZDmn487A_Dk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a preparar algo fresco sin horno ni estufa."
+      },
+      "mensajePrincipal": {
+        "titulo": "El recorrido de una receta sin estufa",
+        "contenido": "Prepara una ensalada fría de tres o cuatro ingredientes: tomate, aguacate, maíz y limón, por ejemplo. Mezcla aparte limón con un chorrito de aceite, sal y pimienta para hacer un aderezo sencillo. Puedes cambiar ingredientes según lo que tengas y tus necesidades. Si usas productos empacados, revisa etiquetas y posibles trazas de maní o contaminación cruzada; evita cualquier ingrediente cuya seguridad no esté clara."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra emulsión",
+        "contenido": "Mezcla estable de dos líquidos que normalmente no se unen con facilidad. Una emulsión sencilla puede dar textura y sabor a una preparación fría."
+      },
+      "buenasNoches": {
+        "contenido": "Comer algo preparado con calma puede ser un pequeño gusto en medio de la rutina."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Emulsión",
+      "significado": "Mezcla estable de dos líquidos que normalmente no se unen con facilidad.",
+      "ejemplo": "Una emulsión sencilla puede dar textura y sabor a una preparación fría."
+    }
+  },
+  {
+    "dia": 255,
+    "fecha": "2027-06-27",
+    "fechaTexto": "dom, 27 de jun",
+    "categoria": "La máquina de preguntas aleatorias",
+    "icono": "🎲",
+    "tono": "juego conversacional",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a dejar que el azar escoja el tema de conversación.",
+    "poema": [
+      "Escribe seis preguntas en papeles separados: ¿qué habilidad te gustaría aprender por un día?, ¿qué lugar te da curiosidad?, ¿qué objeto salvarías de una mudanza?, ¿qué personaje sería buen compañero de trabajo?, ¿qué invento te gustaría que existiera?, ¿qué recuerdo te hace reír? Numérenlas del uno al seis y usen un dado o un generador aleatorio para elegir tres. Cada quien puede pasar una pregunta si no le apetece responder.",
+      "La regla es responder con una historia o ejemplo, no solo con una palabra."
+    ],
+    "detalle": "La regla es responder con una historia o ejemplo, no solo con una palabra.",
+    "buenasNoches": "Una pregunta inesperada puede llevarnos a un tema mucho más interesante de lo previsto.",
+    "cancionTitulo": "Reina",
+    "cancionArtista": "Cejaz Negraz",
+    "youtubeId": "7OPEvfL4Wes",
+    "cancionUrl": "https://www.youtube.com/watch?v=7OPEvfL4Wes",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a dejar que el azar escoja el tema de conversación."
+      },
+      "mensajePrincipal": {
+        "titulo": "La máquina de preguntas aleatorias",
+        "contenido": "Escribe seis preguntas en papeles separados: ¿qué habilidad te gustaría aprender por un día?, ¿qué lugar te da curiosidad?, ¿qué objeto salvarías de una mudanza?, ¿qué personaje sería buen compañero de trabajo?, ¿qué invento te gustaría que existiera?, ¿qué recuerdo te hace reír? Numérenlas del uno al seis y usen un dado o un generador aleatorio para elegir tres. Cada quien puede pasar una pregunta si no le apetece responder."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra azar",
+        "contenido": "Resultado que no depende de una elección o patrón predecible. El azar puede abrir conversaciones que no habríamos planeado."
+      },
+      "buenasNoches": {
+        "contenido": "Una pregunta inesperada puede llevarnos a un tema mucho más interesante de lo previsto."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Azar",
+      "significado": "Resultado que no depende de una elección o patrón predecible.",
+      "ejemplo": "El azar puede abrir conversaciones que no habríamos planeado."
+    }
+  },
+  {
+    "dia": 256,
+    "fecha": "2027-06-28",
+    "fechaTexto": "lun, 28 de jun",
+    "categoria": "El álbum de portadas que nunca existieron",
+    "icono": "💿",
+    "tono": "arte y música",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a diseñar la portada de un álbum imaginario.",
+    "poema": [
+      "Inventa un título de álbum y crea una portada en una hoja o en una aplicación de dibujo. Elige solo tres elementos visuales: un color dominante, un objeto o figura y una palabra o símbolo. Después decide qué género musical tendría y qué emoción debería transmitir. No uses la portada de un disco existente como plantilla: la idea es crear una identidad propia.",
+      "Si quieres, comparte la portada sin explicar nada y deja que alguien adivine qué música contiene."
+    ],
+    "detalle": "Si quieres, comparte la portada sin explicar nada y deja que alguien adivine qué música contiene.",
+    "buenasNoches": "Una imagen puede ser una invitación a escuchar algo que todavía no existe.",
+    "cancionTitulo": "No Hay Flores en Venus",
+    "cancionArtista": "Alcolirykoz; Lianna",
+    "youtubeId": "LyhNWGcSVew",
+    "cancionUrl": "https://www.youtube.com/watch?v=LyhNWGcSVew",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a diseñar la portada de un álbum imaginario."
+      },
+      "mensajePrincipal": {
+        "titulo": "El álbum de portadas que nunca existieron",
+        "contenido": "Inventa un título de álbum y crea una portada en una hoja o en una aplicación de dibujo. Elige solo tres elementos visuales: un color dominante, un objeto o figura y una palabra o símbolo. Después decide qué género musical tendría y qué emoción debería transmitir. No uses la portada de un disco existente como plantilla: la idea es crear una identidad propia."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra iconografía",
+        "contenido": "Conjunto de imágenes y símbolos que representan una idea o identidad visual. La iconografía de una portada puede sugerir el sonido de un álbum antes de escucharlo."
+      },
+      "buenasNoches": {
+        "contenido": "Una imagen puede ser una invitación a escuchar algo que todavía no existe."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Iconografía",
+      "significado": "Conjunto de imágenes y símbolos que representan una idea o identidad visual.",
+      "ejemplo": "La iconografía de una portada puede sugerir el sonido de un álbum antes de escucharlo."
+    }
+  },
+  {
+    "dia": 257,
+    "fecha": "2027-06-29",
+    "fechaTexto": "mar, 29 de jun",
+    "categoria": "La lista de cosas que merecen una segunda oportunidad",
+    "icono": "♻️",
+    "tono": "reflexión y creatividad",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a pensar en segundas oportunidades, empezando por cosas pequeñas.",
+    "poema": [
+      "Haz una lista de tres cosas que alguna vez dejaste de intentar y que quizá podrías retomar sin presión: un pasatiempo, una receta, una lectura, un deporte suave o una habilidad. Al lado escribe qué necesitarías para probar otra vez y qué harías diferente. No incluyas situaciones que te hayan hecho daño ni sientas que debes reconciliarte con algo o alguien.",
+      "Elige una opción pequeña y realista, o decide conscientemente que dejarla atrás también está bien."
+    ],
+    "detalle": "Elige una opción pequeña y realista, o decide conscientemente que dejarla atrás también está bien.",
+    "buenasNoches": "Volver a empezar es una posibilidad, no una obligación.",
+    "cancionTitulo": "Me Volví Loco",
+    "cancionArtista": "King Kong Click; Bubaseta; Subwoffer",
+    "youtubeId": "MsnJzE8Cbw0",
+    "cancionUrl": "https://www.youtube.com/watch?v=MsnJzE8Cbw0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a pensar en segundas oportunidades, empezando por cosas pequeñas."
+      },
+      "mensajePrincipal": {
+        "titulo": "La lista de cosas que merecen una segunda oportunidad",
+        "contenido": "Haz una lista de tres cosas que alguna vez dejaste de intentar y que quizá podrías retomar sin presión: un pasatiempo, una receta, una lectura, un deporte suave o una habilidad. Al lado escribe qué necesitarías para probar otra vez y qué harías diferente. No incluyas situaciones que te hayan hecho daño ni sientas que debes reconciliarte con algo o alguien."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra resiliencia",
+        "contenido": "Capacidad de adaptarse y recuperarse ante una dificultad o cambio. La resiliencia no significa insistir en todo, sino aprender qué vale la pena intentar de nuevo."
+      },
+      "buenasNoches": {
+        "contenido": "Volver a empezar es una posibilidad, no una obligación."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Resiliencia",
+      "significado": "Capacidad de adaptarse y recuperarse ante una dificultad o cambio.",
+      "ejemplo": "La resiliencia no significa insistir en todo, sino aprender qué vale la pena intentar de nuevo."
+    }
+  },
+  {
+    "dia": 258,
+    "fecha": "2027-06-30",
+    "fechaTexto": "mié, 30 de jun",
+    "categoria": "La brújula de planes para mitad de año",
+    "icono": "🧭",
+    "tono": "balance y proyección",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Cerramos junio con una brújula para orientar lo que viene.",
+    "poema": [
+      "Escribe cuatro áreas —descanso, aprendizaje, vínculos y proyectos— y ponles una puntuación del uno al cinco según cuánto espacio les has dado este mes. Escoge solo una para cuidar en julio y define una acción concreta de menos de treinta minutos que puedas realizar durante la primera semana. No es una evaluación para juzgarte, sino una manera de elegir dónde poner energía.",
+      "Guarda tu brújula y vuelve a mirarla al terminar julio para notar qué cambió."
+    ],
+    "detalle": "Guarda tu brújula y vuelve a mirarla al terminar julio para notar qué cambió.",
+    "buenasNoches": "No necesitas resolver el resto del año hoy; basta con elegir el siguiente paso.",
+    "cancionTitulo": "Tuyo",
+    "cancionArtista": "Credo V Daniels",
+    "youtubeId": "8onYUmsBMxs",
+    "cancionUrl": "https://www.youtube.com/watch?v=8onYUmsBMxs",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Cerramos junio con una brújula para orientar lo que viene."
+      },
+      "mensajePrincipal": {
+        "titulo": "La brújula de planes para mitad de año",
+        "contenido": "Escribe cuatro áreas —descanso, aprendizaje, vínculos y proyectos— y ponles una puntuación del uno al cinco según cuánto espacio les has dado este mes. Escoge solo una para cuidar en julio y define una acción concreta de menos de treinta minutos que puedas realizar durante la primera semana. No es una evaluación para juzgarte, sino una manera de elegir dónde poner energía."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra prioridad",
+        "contenido": "Asunto o tarea que se considera más importante y recibe atención primero. Elegir una prioridad permite avanzar sin intentar hacerlo todo al mismo tiempo."
+      },
+      "buenasNoches": {
+        "contenido": "No necesitas resolver el resto del año hoy; basta con elegir el siguiente paso."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Prioridad",
+      "significado": "Asunto o tarea que se considera más importante y recibe atención primero.",
+      "ejemplo": "Elegir una prioridad permite avanzar sin intentar hacerlo todo al mismo tiempo."
+    }
   }
 ];
