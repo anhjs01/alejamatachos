@@ -115,10 +115,10 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy aparece una fresa o un durazno en tu camino, date ese gusto sin convertirlo en una decisión trascendental. Y si alguien te ofrece el último pedazo, observa bien: podría ser una prueba de cariño bastante seria.",
     "buenasNoches": "Que descanses, amor. Ojalá el día te haya dejado una cosa pequeña para recordar con una sonrisa; no tiene que ser extraordinaria, solo tuya.",
-    "cancionTitulo": "The One",
+    "cancionTitulo": "Wandering Romance",
     "cancionArtista": "Jorja Smith",
-    "youtubeId": "f4XVdNE0Kxc",
-    "cancionUrl": "https://www.youtube.com/watch?v=f4XVdNE0Kxc",
+    "youtubeId": "azjOefV3jik",
+    "cancionUrl": "https://www.youtube.com/watch?v=azjOefV3jik",
     "palabraNueva": {
       "palabra": "Ambivalencia",
       "significado": "Presencia simultánea de sentimientos o ideas opuestas frente a algo.",
