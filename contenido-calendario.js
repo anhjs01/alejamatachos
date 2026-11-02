@@ -4,8 +4,8 @@ const CALENDARIO = [
     "dia": 1,
     "fecha": "2026-10-16",
     "fechaTexto": "vie, 16 de oct",
-    "categoria": "La alegría de una cola que se mueve",
-    "icono": "🐕",
+    "categoria": "La teoría de los cinco segundos antes del beso",
+    "icono": "💋",
     "tono": "amor",
     "color": {
       "principal": "#e9a3bd",
@@ -19,17 +19,41 @@ const CALENDARIO = [
     ],
     "detalle": "Hoy fíjate en esas pequeñas cosas que te hacen sonreír sin prepararte para ello. Si tus mascotas te reciben como si hubieras vuelto de una expedición de tres años, por favor, no les expliques el concepto del tiempo: disfrútalo y déjate querer.",
     "buenasNoches": "Descansa, mi vida. Ojalá hoy hayas recibido aunque sea una parte de ese cariño que tú sabes dar. Y si tus mascotas te buscaron para saludarte, ya tienes una razón bastante convincente para terminar el día con una sonrisa.",
-    "cancionTitulo": "Three Little Birds",
-    "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM",
-    "cancionUrl": "https://www.youtube.com/watch?v=HNBCVM4KbUM"
+    "cancionTitulo": "Teenage Fantasy",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "YpQ_RO5zbvE",
+    "cancionUrl": "https://www.youtube.com/watch?v=YpQ_RO5zbvE",
+    "palabraNueva": {
+      "palabra": "Fulgor",
+      "significado": "Brillo intenso y momentáneo; también puede describir una emoción que ilumina un instante.",
+      "ejemplo": "Tu sonrisa tuvo ese fulgor que me hizo olvidar lo que iba a decir."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, peligro bonito",
+        "contenido": "Buenos días, Aleja. Hoy tengo una teoría: hay sonrisas que deberían venir con una advertencia, porque uno las ve y pierde el hilo de cualquier conversación. La tuya está bajo investigación. Que tengas un día bonito… y no abuses de esa ventaja."
+      },
+      "mensajePrincipal": {
+        "titulo": "La teoría de los cinco segundos",
+        "contenido": "Dicen que hay que esperar cinco segundos antes de hacer algo impulsivo. Yo propongo una versión más interesante: cinco segundos para mirarte, cinco para acercarme y cinco para preguntarte si puedo darte un beso. Si dices que sí, perfecto; si te ríes, vuelvo a empezar el experimento.\\n\\nNo es una teoría científica, pero tiene una metodología bastante agradable. Y, por si acaso, no pienso publicar los resultados sin tu autorización."
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra para guardar",
+        "contenido": "FULGOR\\n\\nBrillo intenso y momentáneo. Puede ser la luz de algo, pero también ese instante en que una emoción se nota antes de que alcances a disimularla.\\n\\nEjemplo: «La habitación estaba a oscuras, pero tu llegada tuvo el fulgor de una ventana encendida»."
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Que descanses, preciosa. Si hoy hubo una risa inesperada, una mirada cómplice o un momento que te hizo sentir querida, guárdalo cerquita. Y si mañana me vuelves a mirar así, prometo intentar recordar mi teoría completa. No garantizo resultados."
+      }
+    },
+    "inspiracionCancion": "Una atmósfera de ilusión y deseo joven inspira esta carta: ese instante en que una mirada parece abrir una posibilidad. El texto es original y no reproduce la letra."
   },
   {
     "dia": 2,
     "fecha": "2026-10-17",
     "fechaTexto": "sáb, 17 de oct",
-    "categoria": "El tinto, exactamente como te gusta",
-    "icono": "☕",
+    "categoria": "El taller de los tres personajes imposibles",
+    "icono": "🧸",
     "tono": "ambiente",
     "color": {
       "principal": "#d6b36c",
@@ -43,18 +67,42 @@ const CALENDARIO = [
     ],
     "detalle": "Que el café de hoy sea exactamente como te gusta: sin azúcar y sin que nadie venga a explicarte cómo deberías tomarlo. Ya hay suficientes opiniones en el mundo, mi vida; la tuya puede empezar con un buen sorbo.",
     "buenasNoches": "Buenas noches, corazón. Que mañana el café te salga rico y el mundo te dé unos minutos antes de empezar a pedirte cosas. No es mucho pedir, ¿cierto?",
-    "cancionTitulo": "On & On",
-    "cancionArtista": "Erykah Badu",
-    "youtubeId": "j-yh7sGQe2Q",
-    "cancionUrl": "https://www.youtube.com/watch?v=j-yh7sGQe2Q"
+    "cancionTitulo": "Hold Up",
+    "cancionArtista": "Sasha Keable",
+    "youtubeId": "Igk6n0j1GBQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=Igk6n0j1GBQ",
+    "palabraNueva": {
+      "palabra": "Quimérico",
+      "significado": "Que parece producto de la imaginación; extraordinario o difícil de realizar.",
+      "ejemplo": "Nuestro dragón con zapatos amarillos es quimérico, pero merece una escultura."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Hoy toca ensuciarse las manos",
+        "contenido": "Buenos días, artista. Hoy no vamos a intentar hacer una obra maestra: vamos a fabricar tres personajes que probablemente necesiten terapia, un representante y un buen seguro médico. La plastilina no sabe lo que le espera."
+      },
+      "mensajePrincipal": {
+        "titulo": "El taller de los tres personajes",
+        "contenido": "PLAN PARA HACER JUNTOS\\n\\nMateriales: plastilina de varios colores, una base de cartón o papel grueso, palillos cortos para unir piezas (con cuidado), marcadores y una hoja para ponerles nombre.\\n\\n1. Cada uno crea un personaje sin mostrarlo hasta terminar.\\n2. El tercero se construye entre los dos: uno hace el cuerpo y el otro la cabeza; después intercambian.\\n3. Inventen para cada personaje un nombre, un talento inútil y un miedo ridículo.\\n4. Pónganlos juntos en una escena y dibujen el fondo con marcadores.\\n\\nRegla: no se permite destruir una figura; solo se puede mejorar con una idea del otro. Al final elijan cuál tendría su propia serie."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del taller",
+        "contenido": "QUIMÉRICO\\n\\nAlgo que parece imaginado o casi imposible.\\n\\nEjemplo: «El plan de abrir un museo para nuestros tres personajes quiméricos es absurdo… así que deberíamos hacerlo»."
+      },
+      "buenasNoches": {
+        "titulo": "Que descansen los artistas",
+        "contenido": "Hoy quizá quedaron restos de plastilina en la mesa y tres criaturas con más personalidad que sentido común. Eso también cuenta como una buena tarde. Descansa; mañana podemos inventarles una historia todavía más disparatada."
+      }
+    },
+    "inspiracionCancion": "El pulso juguetón y seguro del R&B acompaña un día de creación compartida: probar, improvisar y reírse del resultado."
   },
   {
     "dia": 3,
     "fecha": "2026-10-18",
     "fechaTexto": "dom, 18 de oct",
-    "categoria": "Fresas, duraznos y una pausa",
-    "icono": "🍓",
-    "tono": "amor",
+    "categoria": "Una película para sospechar del sofá",
+    "icono": "🎬",
+    "tono": "filosofica",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
@@ -67,18 +115,42 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy aparece una fresa o un durazno en tu camino, date ese gusto sin convertirlo en una decisión trascendental. Y si alguien te ofrece el último pedazo, observa bien: podría ser una prueba de cariño bastante seria.",
     "buenasNoches": "Que descanses, amor. Ojalá el día te haya dejado una cosa pequeña para recordar con una sonrisa; no tiene que ser extraordinaria, solo tuya.",
-    "cancionTitulo": "Put Your Records On",
-    "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE",
-    "cancionUrl": "https://www.youtube.com/watch?v=oWQl00LWEwE"
+    "cancionTitulo": "The One",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "f4XVdNE0Kxc",
+    "cancionUrl": "https://www.youtube.com/watch?v=f4XVdNE0Kxc",
+    "palabraNueva": {
+      "palabra": "Ambivalencia",
+      "significado": "Presencia simultánea de sentimientos o ideas opuestas frente a algo.",
+      "ejemplo": "La película deja una ambivalencia deliciosa: no sabes si confiar o desconfiar."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, cinéfila",
+        "contenido": "Hoy te propongo una noche de película con una condición: nada de mirar el celular cada cuatro minutos y nada de buscar el final antes de tiempo. Quiero escuchar tus teorías, incluso si sospechas del personaje más inocente."
+      },
+      "mensajePrincipal": {
+        "titulo": "Función privada: The One I Love",
+        "contenido": "PELÍCULA PARA VER JUNTOS\\n\\nThe One I Love (2014), dirigida por Charlie McDowell. Una pareja se retira a una casa para intentar recomponer su relación, pero el lugar empieza a introducir situaciones extrañas. Es una mezcla de drama romántico, misterio y ciencia ficción íntima.\\n\\nPropuesta: véanla sin leer más sobre la trama para no arruinar las sorpresas. Antes de empezar, cada uno diga qué cree que necesita una relación cuando algo deja de funcionar. Al terminar, comparen sus teorías y elijan la escena que más preguntas les dejó. No hace falta estar de acuerdo."
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra para la sobremesa",
+        "contenido": "AMBIVALENCIA\\n\\nCuando dos sentimientos contrarios conviven al mismo tiempo.\\n\\nEjemplo: «Sentí ambivalencia: quería descubrir el secreto de la película, pero tampoco quería que terminara»."
+      },
+      "buenasNoches": {
+        "titulo": "Después de los créditos",
+        "contenido": "Buenas noches, corazón. Ojalá la película les deje una conversación interesante y no una discusión sobre quién adivinó primero el giro. Aunque si alguien acierta todo, tendrá derecho a presumirlo durante exactamente un día."
+      }
+    },
+    "inspiracionCancion": "El título y el tono íntimo de la canción sirven como punto de partida para hablar de vínculos y elecciones, sin convertir la recomendación en una explicación de la película."
   },
   {
     "dia": 4,
     "fecha": "2026-10-19",
     "fechaTexto": "lun, 19 de oct",
-    "categoria": "La cara que pones al concentrarte",
-    "icono": "🎨",
-    "tono": "filosofica",
+    "categoria": "La cena se decide con una moneda",
+    "icono": "🥩",
+    "tono": "ambiente",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
@@ -91,17 +163,41 @@ const CALENDARIO = [
     ],
     "detalle": "Cuando estés concentrada en algo, no te apures por terminar solo para pasar a lo siguiente. Y si se te escapa una muequita o ese «jum» que haces cuando una idea te cuadra, que sepas que hasta esos gestos pequeños tienen encanto.",
     "buenasNoches": "Apaga un rato las exigencias y deja que la cabeza descanse. Me gusta imaginarte tranquila, sin tener que demostrar nada ni resolverlo todo antes de dormir.",
-    "cancionTitulo": "Show Me How",
-    "cancionArtista": "Men I Trust",
-    "youtubeId": "OZRYzH0Q0pU",
-    "cancionUrl": "https://www.youtube.com/watch?v=OZRYzH0Q0pU"
+    "cancionTitulo": "Are You That Somebody?",
+    "cancionArtista": "Aaliyah",
+    "youtubeId": "uTMuqL0qx08",
+    "cancionUrl": "https://www.youtube.com/watch?v=uTMuqL0qx08",
+    "palabraNueva": {
+      "palabra": "Dorar",
+      "significado": "Cocinar la superficie de un alimento hasta que adquiera un color tostado y sabor más intenso.",
+      "ejemplo": "Hay que dorar la carne por tandas para que selle en lugar de hervirse."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, chef",
+        "contenido": "Hoy la pregunta no es qué vamos a pedir, sino qué vamos a cocinar. Propongo que la moneda decida quién dirige la cena y quién se encarga de la música. La persona que dirige no puede delegar todo… sí, esa regla va por ti."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tiras de res con papas doradas y salsa cremosa",
+        "contenido": "RECETA PARA DOS · SIN HORNO\\n\\nIngredientes: 300 g de carne de res en tiras; 2 papas medianas; ½ cebolla; 1 diente de ajo; 100 ml de crema de leche; ½ cucharadita de mostaza; 1 cucharadita de paprika; 1 cucharada de aceite; sal y pimienta; perejil o cilantro opcional.\\n\\nPreparación:\\n1. Laven las papas y córtenlas en cubos pequeños. Hiérvanlas 7–9 minutos en agua con sal; escúrranlas y déjenlas secar un momento.\\n2. Calienten una sartén con la mitad del aceite. Doren las papas a fuego medio, moviéndolas de vez en cuando, hasta que estén crujientes y cocidas. Retiren y reserven.\\n3. Sazonen la carne con sal, pimienta y paprika. En la misma sartén bien caliente, dórenla en dos tandas para no amontonarla. Retiren.\\n4. Añadan el resto del aceite, la cebolla y el ajo; cocinen 2 minutos. Agreguen crema y mostaza, mezclen y devuelvan la carne para terminar la cocción.\\n5. Sirvan con las papas y hierbas frescas.\\n\\nREPARTO: quien dirige la cena prepara la carne; la otra persona se encarga de las papas y pone la mesa. A mitad de camino intercambian tareas. Compren la carne el mismo día y mantengan separados los utensilios de crudos y cocidos."
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra de cocina",
+        "contenido": "DORAR\\n\\nDar color tostado a la superficie con calor. Para lograrlo, la sartén debe estar caliente y la carne no debe quedar amontonada.\\n\\nEjemplo: «Dora la carne por tandas para que conserve mejor su textura»."
+      },
+      "buenasNoches": {
+        "titulo": "La última cucharada",
+        "contenido": "Que la noche termine con la cocina recogida a medias, una conversación larga y esa satisfacción de haber preparado algo juntos. Si quedó salsa, mañana puede convertirse en el motivo oficial para repetir el almuerzo."
+      }
+    },
+    "inspiracionCancion": "El ritmo atrevido de Aaliyah pone el tono de una cena con complicidad, baile improvisado mientras se cocina y cero solemnidad."
   },
   {
     "dia": 5,
     "fecha": "2026-10-20",
     "fechaTexto": "mar, 20 de oct",
-    "categoria": "Barro en las manos, ideas en marcha",
-    "icono": "🏺",
+    "categoria": "Un paisaje dibujado a cuatro manos",
+    "icono": "🖍️",
     "tono": "ambiente",
     "color": {
       "principal": "#e6a47d",
@@ -115,18 +211,42 @@ const CALENDARIO = [
     ],
     "detalle": "Si hoy vuelves a trabajar con barro, deja que tus manos se ensucien tranquilas. No todo tiene que salir perfecto a la primera; algunas cosas bonitas empiezan siendo un desastre pegajoso. A veces las personas también, y mira qué bien pueden terminar.",
     "buenasNoches": "Buenas noches, bonita. Que tus manos descansen de crear y tu cabeza también deje de inventarse pendientes. Lo que no se terminó hoy puede esperar un poquito.",
-    "cancionTitulo": "Rara Bien",
+    "cancionTitulo": "Me Manché de Tango",
     "cancionArtista": "Rupatrupa",
-    "youtubeId": "15ws-oAh3G0",
-    "cancionUrl": "https://www.youtube.com/watch?v=15ws-oAh3G0"
+    "youtubeId": "VY2nUJQ-SWM",
+    "cancionUrl": "https://www.youtube.com/watch?v=VY2nUJQ-SWM",
+    "palabraNueva": {
+      "palabra": "Perspectiva",
+      "significado": "Punto de vista desde el que se observa algo; en dibujo, técnica para representar profundidad.",
+      "ejemplo": "Cada uno dibujó el mismo árbol desde una perspectiva distinta."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Hoy el papel es territorio libre",
+        "contenido": "Buenos días. Busca marcadores, una hoja grande y a tu cómplice de dibujo. Hoy vamos a comprobar si podemos crear un paisaje entre dos sin terminar discutiendo por el tamaño de una nube."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto: un paisaje por turnos",
+        "contenido": "PLAN PARA DOS · 20 A 30 MINUTOS\\n\\nMateriales: una hoja grande, marcadores de varios colores y un temporizador.\\n\\nRonda 1: una persona dibuja el horizonte y el cielo durante dos minutos.\\nRonda 2: la otra añade un árbol, una casa o una montaña sin borrar nada.\\nRonda 3: alternen cada minuto para sumar un río, un camino, animales, una bebida gigante o cualquier elemento absurdo.\\nRonda 4: cada uno elige un detalle secreto para esconder en el paisaje y el otro debe encontrarlo.\\n\\nRegla especial: no se puede decir «eso está mal». Solo se puede añadir algo que haga funcionar la idea. Pónganle título al paisaje y firmen los dos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra que cambia el dibujo",
+        "contenido": "PERSPECTIVA\\n\\nEs el punto de vista desde el que miramos algo; en arte también permite crear sensación de distancia y profundidad.\\n\\nEjemplo: «Desde tu perspectiva, el árbol parece enorme; desde la mía, parece que está saludando»."
+      },
+      "buenasNoches": {
+        "titulo": "Museo doméstico",
+        "contenido": "Buenas noches, artistas. No importa si el paisaje terminó con tres soles y un pez volador. Lo importante es que quedó una pieza hecha por dos personas, con dos maneras de mirar y una sola hoja para guardar."
+      }
+    },
+    "inspiracionCancion": "La mezcla de ritmo y teatralidad inspira el paisaje: dibujen una escena que parezca el decorado de una película musical."
   },
   {
     "dia": 6,
     "fecha": "2026-10-21",
     "fechaTexto": "mié, 21 de oct",
-    "categoria": "El olor que anuncia que vas a pintar",
-    "icono": "🖌️",
-    "tono": "filosofica",
+    "categoria": "Una carta que no necesita ocasión",
+    "icono": "✉️",
+    "tono": "amor",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
@@ -139,18 +259,42 @@ const CALENDARIO = [
     ],
     "detalle": "Si te llega ese olor a pintura que tanto te gusta, ojalá te regale un ratito de paz. Me gusta imaginarte encontrando colores y posibilidades donde otros solo verían manchas en una mesa.",
     "buenasNoches": "Espero que termines el día con esa sensación de haber tenido un momento para ti. Y si no lo tuviste, que al menos la noche te lo regale.",
-    "cancionTitulo": "I Gotta Find Peace of Mind - Live",
-    "cancionArtista": "Ms. Lauryn Hill",
-    "youtubeId": "b2IbsMCgz4A",
-    "cancionUrl": "https://www.youtube.com/watch?v=b2IbsMCgz4A"
+    "cancionTitulo": "RATHER BE",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "Yd1smtHpxaY",
+    "cancionUrl": "https://www.youtube.com/watch?v=Yd1smtHpxaY",
+    "palabraNueva": {
+      "palabra": "Solaz",
+      "significado": "Consuelo, descanso o placer que proporciona una actividad o una compañía.",
+      "ejemplo": "Tu conversación fue un solaz después de un día lleno de ruido."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Un mensaje antes de que empiece todo",
+        "contenido": "Buenos días, Aleja. No traigo una misión, ni una lista de pendientes, ni una frase que pretenda arreglar el universo. Solo quería colarme un momento en tu mañana y recordarte que me gusta coincidir contigo."
+      },
+      "mensajePrincipal": {
+        "titulo": "Carta breve para leer despacio",
+        "contenido": "Hay algo que me gusta de los días normales contigo: no necesitan una fotografía perfecta para quedarse conmigo. A veces basta una conversación mientras hacemos cualquier cosa, una mirada que dura un segundo más o esa risa que aparece cuando ninguno de los dos estaba intentando ser gracioso.\\n\\nMe gusta la idea de seguir acumulando momentos así. Sin convertir cada uno en una promesa enorme; simplemente estando, prestando atención y eligiéndonos en las cosas pequeñas. Y si algún día no encontramos palabras, también podemos quedarnos cerca en silencio."
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra para el bolsillo",
+        "contenido": "SOLAZ\\n\\nConsuelo, descanso o placer que encontramos en algo o en alguien.\\n\\nEjemplo: «Leer tu carta fue un solaz en medio de una semana agotadora»."
+      },
+      "buenasNoches": {
+        "titulo": "Hasta mañana",
+        "contenido": "Que descanses, bonita. Ojalá la noche te deje respirar y te quite un poco del peso del día. Si mañana aparece otra oportunidad de reírnos por una tontería, yo voto por aprovecharla."
+      }
+    },
+    "inspiracionCancion": "El tono cálido y confesional del R&B inspira esta carta sobre la tranquilidad de elegir la compañía de alguien, sin tomar prestadas frases de la canción."
   },
   {
     "dia": 7,
     "fecha": "2026-10-22",
     "fechaTexto": "jue, 22 de oct",
-    "categoria": "Un minuto mirando el cielo",
-    "icono": "🌇",
-    "tono": "ambiente",
+    "categoria": "El bar de dos: una bebida con nombre propio",
+    "icono": "🍹",
+    "tono": "amor",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
@@ -163,10 +307,34 @@ const CALENDARIO = [
     ],
     "detalle": "Busca un instante para mirar el cielo, aunque sea entre una cosa y otra. No tienes que hacer una pausa dramática ni resolver la vida mirando las nubes; con levantar la vista un momento ya cuenta.",
     "buenasNoches": "Descansa, corazón. El cielo va a seguir ahí mañana, por si hoy no te alcanzó el tiempo para mirarlo. No tienes que encontrar belleza en todo; con encontrar un ratito de calma basta.",
-    "cancionTitulo": "Blue World",
-    "cancionArtista": "Mac Miller",
-    "youtubeId": "_GC2wFTCAGY",
-    "cancionUrl": "https://www.youtube.com/watch?v=_GC2wFTCAGY"
+    "cancionTitulo": "On Your Own",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "iXPygS94LME",
+    "cancionUrl": "https://www.youtube.com/watch?v=iXPygS94LME",
+    "palabraNueva": {
+      "palabra": "Efervescencia",
+      "significado": "Desprendimiento rápido de burbujas en un líquido; por extensión, entusiasmo o energía viva.",
+      "ejemplo": "La conversación tenía una efervescencia que hizo que la noche pasara volando."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, inventores de bebidas",
+        "contenido": "Hoy abrimos un bar diminuto en casa. No necesitamos uniforme ni carta elegante: solo dos vasos, hielo y ganas de inventar algo que tenga nombre propio. La persona que pierda el piedra, papel o tijera lava la coctelera."
+      },
+      "mensajePrincipal": {
+        "titulo": "Cóctel de mora, limón y ginebra (o versión sin alcohol)",
+        "contenido": "RECETA PARA DOS · SIN HORNO\\n\\nIngredientes: 80 g de moras; 60 ml de jugo de limón; 40 ml de jarabe simple (partes iguales de azúcar y agua, calentadas hasta disolver y enfriadas); 90 ml de ginebra; 180 ml de agua con gas; hielo. Para la versión sin alcohol, omitan la ginebra y agreguen 90 ml adicionales de agua con gas o tónica sin alcohol.\\n\\nPreparación:\\n1. Machaquen las moras con el jugo de limón y el jarabe.\\n2. Repartan la mezcla en dos vasos con bastante hielo.\\n3. Añadan 45 ml de ginebra a cada vaso (solo en la versión con alcohol).\\n4. Completen con agua con gas y mezclen suavemente.\\n5. Prueben y ajusten limón o jarabe. Decoren con una mora.\\n\\nReto de pareja: cada uno inventa un nombre para la bebida y diseña una mini etiqueta en papel. Si usan alcohol, midan las porciones, no conduzcan después y pueden elegir la versión sin alcohol sin cambiar el juego."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra burbujeante",
+        "contenido": "EFERVESCENCIA\\n\\nEs el movimiento de burbujas que se forman y suben en un líquido; también describe una energía contagiosa.\\n\\nEjemplo: «La efervescencia de la bebida combinaba con nuestras ganas de celebrar cualquier cosa»."
+      },
+      "buenasNoches": {
+        "titulo": "Cierre del bar",
+        "contenido": "Buenas noches. Que hoy hayan brindado por algo pequeño: una idea, una risa, una bebida nueva o simplemente por haber compartido el rato. El bar cierra, pero la crítica gastronómica de mañana sigue abierta."
+      }
+    },
+    "inspiracionCancion": "El aire ligero y nocturno del tema inspira el ambiente del bar casero: una mezcla sencilla, una conversación y una pequeña celebración."
   },
   {
     "dia": 8,
