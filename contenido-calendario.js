@@ -4054,10 +4054,10 @@ const CALENDARIO = [
     "buenosDias": "Hoy no hace falta explicar todo con palabras. Podemos traducir una emoción en color, forma y textura.",
     "poema": [
       "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?",
-      "Diferencia sutil en la manera en que se siente o expresa una emoción.: Un matiz emocional puede cambiar una escena de alegre a nostálgica. No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí."
+      "Matiz: Diferencia sutil en la manera en que se siente o expresa una emoción. Un matiz emocional puede cambiar una escena de alegre a nostálgica."
     ],
     "detalle": "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?",
-    "buenasNoches": "Lo que hoy tuvo color",
+    "buenasNoches": "No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí.",
     "cancionTitulo": "I Want You Around",
     "cancionArtista": "Snoh Aalegra",
     "youtubeId": "WdyPcNEA27M",
@@ -4074,16 +4074,17 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra del color",
-        "contenido": "Diferencia sutil en la manera en que se siente o expresa una emoción.: Un matiz emocional puede cambiar una escena de alegre a nostálgica. No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí."
+        "contenido": "Matiz: Diferencia sutil en la manera en que se siente o expresa una emoción. Un matiz emocional puede cambiar una escena de alegre a nostálgica."
       },
       "buenasNoches": {
-        "contenido": "Lo que hoy tuvo color"
+        "titulo": "Lo que hoy tuvo color",
+        "contenido": "No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí."
       }
     },
     "palabraNueva": {
-      "palabra": "Diferencia sutil en la manera en que se siente o expresa una emoción.",
-      "significado": "Un matiz emocional puede cambiar una escena de alegre a nostálgica.",
-      "ejemplo": "No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí."
+      "palabra": "Matiz",
+      "significado": "Diferencia sutil en la manera en que se siente o expresa una emoción.",
+      "ejemplo": "Un matiz emocional puede cambiar una escena de alegre a nostálgica."
     }
   },
   {
@@ -4101,10 +4102,10 @@ const CALENDARIO = [
     "buenosDias": "Hoy toca experimentar sin complicarse: una bebida fresca, con ingredientes sencillos y un nombre que no exista todavía.",
     "poema": [
       "Para dos vasos, elijan agua fría o con gas. Añadan fruta lavada en trozos —fresas, durazno o moras—, unas gotas de limón y hierbabuena si tienen. Aplasten suavemente un poco de fruta con una cuchara, agreguen agua y hielo si quieren, y prueben antes de endulzar. Preparen dos combinaciones y denles nombres de cafetería imaginaria. Prueben primero una pequeña cantidad y tengan en cuenta alergias e ingredientes que prefieran evitar. Cambien solo una cosa en la segunda versión. Al final, elijan cuál repetirían y dibujen una etiqueta en papel. ¿Cómo llamarías a tu creación?",
-      "Unión de dos o más elementos para crear un resultado.: Una combinación de fruta y hierbabuena puede dar una bebida fresca. A veces lo divertido no es encontrar la receta perfecta, sino probar algo sencillo y terminar riéndose del nombre que le pusimos."
+      "Combinación: Unión de dos o más elementos para crear un resultado. Una combinación de fruta y hierbabuena puede dar una bebida fresca."
     ],
     "detalle": "Para dos vasos, elijan agua fría o con gas. Añadan fruta lavada en trozos —fresas, durazno o moras—, unas gotas de limón y hierbabuena si tienen. Aplasten suavemente un poco de fruta con una cuchara, agreguen agua y hielo si quieren, y prueben antes de endulzar. Preparen dos combinaciones y denles nombres de cafetería imaginaria. Prueben primero una pequeña cantidad y tengan en cuenta alergias e ingredientes que prefieran evitar. Cambien solo una cosa en la segunda versión. Al final, elijan cuál repetirían y dibujen una etiqueta en papel. ¿Cómo llamarías a tu creación?",
-    "buenasNoches": "Una receta inventada por ustedes",
+    "buenasNoches": "A veces lo divertido no es encontrar la receta perfecta, sino probar algo sencillo y terminar riéndose del nombre que le pusimos.",
     "cancionTitulo": "I'll Be Seeing You",
     "cancionArtista": "Billie Holiday",
     "youtubeId": "3C5zYKIuoxg",
@@ -4121,16 +4122,17 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de experimentar",
-        "contenido": "Unión de dos o más elementos para crear un resultado.: Una combinación de fruta y hierbabuena puede dar una bebida fresca. A veces lo divertido no es encontrar la receta perfecta, sino probar algo sencillo y terminar riéndose del nombre que le pusimos."
+        "contenido": "Combinación: Unión de dos o más elementos para crear un resultado. Una combinación de fruta y hierbabuena puede dar una bebida fresca."
       },
       "buenasNoches": {
-        "contenido": "Una receta inventada por ustedes"
+        "titulo": "Una receta inventada por ustedes",
+        "contenido": "A veces lo divertido no es encontrar la receta perfecta, sino probar algo sencillo y terminar riéndose del nombre que le pusimos."
       }
     },
     "palabraNueva": {
-      "palabra": "Unión de dos o más elementos para crear un resultado.",
-      "significado": "Una combinación de fruta y hierbabuena puede dar una bebida fresca.",
-      "ejemplo": "A veces lo divertido no es encontrar la receta perfecta, sino probar algo sencillo y terminar riéndose del nombre que le pusimos."
+      "palabra": "Combinación",
+      "significado": "Unión de dos o más elementos para crear un resultado.",
+      "ejemplo": "Una combinación de fruta y hierbabuena puede dar una bebida fresca."
     }
   },
   {
@@ -4148,10 +4150,10 @@ const CALENDARIO = [
     "buenosDias": "Un poquito de coqueteo sin frases prefabricadas: prestar atención a algo concreto que de verdad te gusta de la otra persona.",
     "poema": [
       "Por turnos, completen tres frases: «Me hizo sonreír cuando…», «Admiro cómo…» y «Hay algo pequeño que haces y me gusta…». Mencionen una situación real, no una cualidad genérica. Quien escucha puede agradecer o simplemente sonreír; no tiene que devolver un cumplido en el acto. Si una frase se siente demasiado personal, pueden cambiarla o pasarla. Para terminar, inventen un cumplido absurdo y cariñoso, como si premiaran una habilidad cotidiana. La idea es expresar aprecio, no convertirlo en examen ni obligación. ¿Qué gesto sencillo suele alegrarte el día?",
-      "Cualidad de expresar lo que se piensa o siente sin fingimiento.: Un cumplido sincero suele recordar un detalle real, no una frase automática. Un detalle auténtico no necesita ser enorme. A veces una observación pequeña demuestra que alguien estaba prestando atención."
+      "Sinceridad: Cualidad de expresar lo que se piensa o siente sin fingimiento. Un cumplido sincero suele recordar un detalle real, no una frase automática."
     ],
     "detalle": "Por turnos, completen tres frases: «Me hizo sonreír cuando…», «Admiro cómo…» y «Hay algo pequeño que haces y me gusta…». Mencionen una situación real, no una cualidad genérica. Quien escucha puede agradecer o simplemente sonreír; no tiene que devolver un cumplido en el acto. Si una frase se siente demasiado personal, pueden cambiarla o pasarla. Para terminar, inventen un cumplido absurdo y cariñoso, como si premiaran una habilidad cotidiana. La idea es expresar aprecio, no convertirlo en examen ni obligación. ¿Qué gesto sencillo suele alegrarte el día?",
-    "buenasNoches": "Decirlo porque lo sientes",
+    "buenasNoches": "Un detalle auténtico no necesita ser enorme. A veces una observación pequeña demuestra que alguien estaba prestando atención.",
     "cancionTitulo": "Three Little Birds",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "HNBCVM4KbUM",
@@ -4168,16 +4170,17 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de decirlo de verdad",
-        "contenido": "Cualidad de expresar lo que se piensa o siente sin fingimiento.: Un cumplido sincero suele recordar un detalle real, no una frase automática. Un detalle auténtico no necesita ser enorme. A veces una observación pequeña demuestra que alguien estaba prestando atención."
+        "contenido": "Sinceridad: Cualidad de expresar lo que se piensa o siente sin fingimiento. Un cumplido sincero suele recordar un detalle real, no una frase automática."
       },
       "buenasNoches": {
-        "contenido": "Decirlo porque lo sientes"
+        "titulo": "Decirlo porque lo sientes",
+        "contenido": "Un detalle auténtico no necesita ser enorme. A veces una observación pequeña demuestra que alguien estaba prestando atención."
       }
     },
     "palabraNueva": {
-      "palabra": "Cualidad de expresar lo que se piensa o siente sin fingimiento.",
-      "significado": "Un cumplido sincero suele recordar un detalle real, no una frase automática.",
-      "ejemplo": "Un detalle auténtico no necesita ser enorme. A veces una observación pequeña demuestra que alguien estaba prestando atención."
+      "palabra": "Sinceridad",
+      "significado": "Cualidad de expresar lo que se piensa o siente sin fingimiento.",
+      "ejemplo": "Un cumplido sincero suele recordar un detalle real, no una frase automática."
     }
   },
   {
@@ -4195,10 +4198,10 @@ const CALENDARIO = [
     "buenosDias": "Hoy la cocina se queda práctica: una comida cálida, preparada en sartén y sin necesidad de horno.",
     "poema": [
       "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?",
-      "Equilibrio de sabores y aromas que caracteriza una preparación.: La sazón puede cambiar mucho con un toque de pimienta o hierbas. Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo."
+      "Sazón: Equilibrio de sabores y aromas que caracteriza una preparación. La sazón puede cambiar mucho con un toque de pimienta o hierbas."
     ],
     "detalle": "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?",
-    "buenasNoches": "Algo rico sin hacer un gran lío",
+    "buenasNoches": "Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo.",
     "cancionTitulo": "Don't Know Why",
     "cancionArtista": "Norah Jones",
     "youtubeId": "tO4dxvguQDk",
@@ -4215,16 +4218,17 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de los sabores",
-        "contenido": "Equilibrio de sabores y aromas que caracteriza una preparación.: La sazón puede cambiar mucho con un toque de pimienta o hierbas. Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo."
+        "contenido": "Sazón: Equilibrio de sabores y aromas que caracteriza una preparación. La sazón puede cambiar mucho con un toque de pimienta o hierbas."
       },
       "buenasNoches": {
-        "contenido": "Algo rico sin hacer un gran lío"
+        "titulo": "Algo rico sin hacer un gran lío",
+        "contenido": "Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo."
       }
     },
     "palabraNueva": {
-      "palabra": "Equilibrio de sabores y aromas que caracteriza una preparación.",
-      "significado": "La sazón puede cambiar mucho con un toque de pimienta o hierbas.",
-      "ejemplo": "Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo."
+      "palabra": "Sazón",
+      "significado": "Equilibrio de sabores y aromas que caracteriza una preparación.",
+      "ejemplo": "La sazón puede cambiar mucho con un toque de pimienta o hierbas."
     }
   },
   {
@@ -4242,10 +4246,10 @@ const CALENDARIO = [
     "buenosDias": "Si a ambos les provoca y el clima acompaña, pueden reservar unas horas para ver cómo cambia el cielo. No hace falta convertirlo en una excursión larga.",
     "poema": [
       "Elijan un parque, mirador público o espacio abierto conocido, con acceso seguro y ruta de regreso clara. Revisen pronóstico, hora de la puesta de sol, transporte, iluminación al volver y presupuesto. Pueden llevar agua o una bebida y sentarse un rato, eligiendo cada uno un color del cielo para describirlo. No es necesario que sea un lugar famoso ni que salgan este fin de semana; háganlo cuando les funcione a ambos. Si el sitio está lleno o el clima cambia, regresen o cambien a un café cercano. La idea es compartir unas horas, no pasar la noche fuera. ¿Te gusta mirar el cielo en silencio o comentarlo?",
-      "Luz suave del cielo antes de que salga el sol o después de que se oculte.: El crepúsculo tiñó las nubes de tonos rosados y naranjas. Hay momentos que no necesitan demasiadas fotos ni palabras. A veces basta con mirar el cielo un rato y volver a casa con calma."
+      "Crepúsculo: Luz suave del cielo antes de que salga el sol o después de que se oculte. El crepúsculo tiñó las nubes de tonos rosados y naranjas."
     ],
     "detalle": "Elijan un parque, mirador público o espacio abierto conocido, con acceso seguro y ruta de regreso clara. Revisen pronóstico, hora de la puesta de sol, transporte, iluminación al volver y presupuesto. Pueden llevar agua o una bebida y sentarse un rato, eligiendo cada uno un color del cielo para describirlo. No es necesario que sea un lugar famoso ni que salgan este fin de semana; háganlo cuando les funcione a ambos. Si el sitio está lleno o el clima cambia, regresen o cambien a un café cercano. La idea es compartir unas horas, no pasar la noche fuera. ¿Te gusta mirar el cielo en silencio o comentarlo?",
-    "buenasNoches": "Un cielo que no se puede guardar",
+    "buenasNoches": "Hay momentos que no necesitan demasiadas fotos ni palabras. A veces basta con mirar el cielo un rato y volver a casa con calma.",
     "cancionTitulo": "Freedom",
     "cancionArtista": "Pharrell Williams",
     "youtubeId": "LlY90lG_Fuw",
@@ -4262,16 +4266,17 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra del cielo",
-        "contenido": "Luz suave del cielo antes de que salga el sol o después de que se oculte.: El crepúsculo tiñó las nubes de tonos rosados y naranjas. Hay momentos que no necesitan demasiadas fotos ni palabras. A veces basta con mirar el cielo un rato y volver a casa con calma."
+        "contenido": "Crepúsculo: Luz suave del cielo antes de que salga el sol o después de que se oculte. El crepúsculo tiñó las nubes de tonos rosados y naranjas."
       },
       "buenasNoches": {
-        "contenido": "Un cielo que no se puede guardar"
+        "titulo": "Un cielo que no se puede guardar",
+        "contenido": "Hay momentos que no necesitan demasiadas fotos ni palabras. A veces basta con mirar el cielo un rato y volver a casa con calma."
       }
     },
     "palabraNueva": {
-      "palabra": "Luz suave del cielo antes de que salga el sol o después de que se oculte.",
-      "significado": "El crepúsculo tiñó las nubes de tonos rosados y naranjas.",
-      "ejemplo": "Hay momentos que no necesitan demasiadas fotos ni palabras. A veces basta con mirar el cielo un rato y volver a casa con calma."
+      "palabra": "Crepúsculo",
+      "significado": "Luz suave del cielo antes de que salga el sol o después de que se oculte.",
+      "ejemplo": "El crepúsculo tiñó las nubes de tonos rosados y naranjas."
     }
   },
   {
@@ -4289,10 +4294,10 @@ const CALENDARIO = [
     "buenosDias": "Hoy la imaginación lleva el volante: una historia improvisada que puede terminar en comedia, misterio o cualquier cosa inesperada.",
     "poema": [
       "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?",
-      "Creación espontánea sin preparación detallada previa.: La improvisación convirtió una historia sencilla en una comedia inesperada. No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan."
+      "Improvisación: Creación espontánea sin preparación detallada previa. La improvisación convirtió una historia sencilla en una comedia inesperada."
     ],
     "detalle": "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?",
-    "buenasNoches": "Que la imaginación siga jugando",
+    "buenasNoches": "No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan.",
     "cancionTitulo": "Bills, Bills, Bills",
     "cancionArtista": "Destiny's Child",
     "youtubeId": "NiF6-0UTqtc",
@@ -4309,16 +4314,17 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de inventar",
-        "contenido": "Creación espontánea sin preparación detallada previa.: La improvisación convirtió una historia sencilla en una comedia inesperada. No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan."
+        "contenido": "Improvisación: Creación espontánea sin preparación detallada previa. La improvisación convirtió una historia sencilla en una comedia inesperada."
       },
       "buenasNoches": {
-        "contenido": "Que la imaginación siga jugando"
+        "titulo": "Que la imaginación siga jugando",
+        "contenido": "No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan."
       }
     },
     "palabraNueva": {
-      "palabra": "Creación espontánea sin preparación detallada previa.",
-      "significado": "La improvisación convirtió una historia sencilla en una comedia inesperada.",
-      "ejemplo": "No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan."
+      "palabra": "Improvisación",
+      "significado": "Creación espontánea sin preparación detallada previa.",
+      "ejemplo": "La improvisación convirtió una historia sencilla en una comedia inesperada."
     }
   },
   {
@@ -4336,10 +4342,10 @@ const CALENDARIO = [
     "buenosDias": "Antes de pensar en grandes planes, podemos elegir pequeñas experiencias nuevas que no exijan mucho dinero ni demasiado tiempo.",
     "poema": [
       "Cada uno anota tres experiencias pequeñas que le gustaría probar: aprender una figura sencilla de origami, visitar una exposición gratuita, pintar con otra herramienta, escuchar un álbum completo sin mirar el teléfono o preparar una receta nueva. Junten las listas y escojan una idea que entusiasme a ambos, sin fijar una fecha obligatoria. Comprueben qué materiales, presupuesto y tiempo requiere; si no encaja ahora, guárdenla para más adelante. Añadan una séptima idea absurda solo por diversión. No es una lista de deberes ni una promesa de hacer todo juntos: es un menú de posibilidades. ¿Qué cosa pequeña nunca has probado y te da curiosidad?",
-      "Circunstancia de que algo pueda ocurrir o realizarse.: Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado. El futuro no necesita una agenda llena para sentirse emocionante. A veces basta con guardar una idea bonita y dejar que llegue su momento."
+      "Posibilidad: Circunstancia de que algo pueda ocurrir o realizarse. Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado."
     ],
     "detalle": "Cada uno anota tres experiencias pequeñas que le gustaría probar: aprender una figura sencilla de origami, visitar una exposición gratuita, pintar con otra herramienta, escuchar un álbum completo sin mirar el teléfono o preparar una receta nueva. Junten las listas y escojan una idea que entusiasme a ambos, sin fijar una fecha obligatoria. Comprueben qué materiales, presupuesto y tiempo requiere; si no encaja ahora, guárdenla para más adelante. Añadan una séptima idea absurda solo por diversión. No es una lista de deberes ni una promesa de hacer todo juntos: es un menú de posibilidades. ¿Qué cosa pequeña nunca has probado y te da curiosidad?",
-    "buenasNoches": "Lo que queda por probar",
+    "buenasNoches": "El futuro no necesita una agenda llena para sentirse emocionante. A veces basta con guardar una idea bonita y dejar que llegue su momento.",
     "cancionTitulo": "Shoop",
     "cancionArtista": "Salt-N-Pepa",
     "youtubeId": "4vaN01VLYSQ",
@@ -4356,16 +4362,17 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de lo posible",
-        "contenido": "Circunstancia de que algo pueda ocurrir o realizarse.: Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado. El futuro no necesita una agenda llena para sentirse emocionante. A veces basta con guardar una idea bonita y dejar que llegue su momento."
+        "contenido": "Posibilidad: Circunstancia de que algo pueda ocurrir o realizarse. Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado."
       },
       "buenasNoches": {
-        "contenido": "Lo que queda por probar"
+        "titulo": "Lo que queda por probar",
+        "contenido": "El futuro no necesita una agenda llena para sentirse emocionante. A veces basta con guardar una idea bonita y dejar que llegue su momento."
       }
     },
     "palabraNueva": {
-      "palabra": "Circunstancia de que algo pueda ocurrir o realizarse.",
-      "significado": "Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado.",
-      "ejemplo": "El futuro no necesita una agenda llena para sentirse emocionante. A veces basta con guardar una idea bonita y dejar que llegue su momento."
+      "palabra": "Posibilidad",
+      "significado": "Circunstancia de que algo pueda ocurrir o realizarse.",
+      "ejemplo": "Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado."
     }
   },
   {
