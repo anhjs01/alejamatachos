@@ -1684,169 +1684,337 @@ const CALENDARIO = [
     "dia": 36,
     "fecha": "2026-11-20",
     "fechaTexto": "vie, 20 de nov",
-    "categoria": "El antojo de mora que recuerdas",
-    "icono": "🍨",
-    "tono": "amor",
+    "categoria": "El laboratorio de bebidas del almuerzo",
+    "icono": "🥤",
+    "tono": "juego",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Ese antojo de mora con cobertura amarga merece una felicitación formal. No sé quién inventó esa combinación, pero claramente sabía lo que hacía.",
+    "buenosDias": "Hoy vamos a inventar una bebida para acompañar el almuerzo. La regla es sencilla: cada uno escoge un ingrediente sin decirle al otro y después descubrimos si nuestras elecciones combinan.",
     "poema": [
-      "Hay algo bonito en que alguien recuerde un antojo tan específico. No porque sea una gran hazaña, sino porque en medio de tantas cosas del día queda un espacio para pensar: «esto le gusta a ella».",
-      "Ojalá hoy te encuentres con algo que se te antoje de verdad, corazón. Y si no, queda pendiente la misión de conseguir esa combinación como debe ser."
+      "Compra una base para compartir: agua con gas, limonada o té frío sin azúcar; además, hielo, limón y fruta de temporada. Cada uno elige un ingrediente sorpresa: puede ser mora, fresa, uvas, durazno, pepino, hierbabuena o jengibre. Revelen las elecciones, mezclen primero una cantidad pequeña y ajusten el sabor. Pongan nombre a la bebida y escriban la receta para poder repetirla. Variante: preparen dos versiones y hagan una cata a ciegas. No hace falta alcohol para que sea especial; si ambos son adultos y quieren experimentar con una bebida alcohólica, háganlo en una ocasión aparte, con medida y sin conducir.",
+      "Maceración: dejar que frutas o hierbas aporten su aroma a un líquido. Unos minutos pueden cambiar por completo una bebida."
     ],
-    "detalle": "Si aparece esa mora con cubierta amarga que te gusta, disfrútala despacito. Me causa gracia que algo tan pequeño pueda tener una combinación tan específica; supongo que los gustos también tienen su carácter.",
-    "buenasNoches": "Que descanses, corazón. Espero que mañana puedas darte ese gusto que te encanta, con su mezcla exacta y sin que nadie intente corregirte la receta.",
-    "cancionTitulo": "Ring My Bell",
-    "cancionArtista": "Anita Ward",
-    "youtubeId": "r1UkZLT20TI",
-    "cancionUrl": "https://www.youtube.com/watch?v=r1UkZLT20TI"
+    "detalle": "Compra una base para compartir: agua con gas, limonada o té frío sin azúcar; además, hielo, limón y fruta de temporada. Cada uno elige un ingrediente sorpresa: puede ser mora, fresa, uvas, durazno, pepino, hierbabuena o jengibre. Revelen las elecciones, mezclen primero una cantidad pequeña y ajusten el sabor. Pongan nombre a la bebida y escriban la receta para poder repetirla. Variante: preparen dos versiones y hagan una cata a ciegas. No hace falta alcohol para que sea especial; si ambos son adultos y quieren experimentar con una bebida alcohólica, háganlo en una ocasión aparte, con medida y sin conducir.",
+    "buenasNoches": "Espero que nuestra mezcla haya quedado rica. Y si salió extraña, también cuenta: acabamos de inventar una receta que probablemente nadie más tiene.",
+    "cancionTitulo": "If I Ain't Got You",
+    "cancionArtista": "Alicia Keys",
+    "youtubeId": "Ju8Hr50Ckwk",
+    "cancionUrl": "https://www.youtube.com/watch?v=Ju8Hr50Ckwk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, bartender",
+        "contenido": "Hoy vamos a inventar una bebida para acompañar el almuerzo. La regla es sencilla: cada uno escoge un ingrediente sin decirle al otro y después descubrimos si nuestras elecciones combinan."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto de la bebida a cuatro manos",
+        "contenido": "Compra una base para compartir: agua con gas, limonada o té frío sin azúcar; además, hielo, limón y fruta de temporada. Cada uno elige un ingrediente sorpresa: puede ser mora, fresa, uvas, durazno, pepino, hierbabuena o jengibre. Revelen las elecciones, mezclen primero una cantidad pequeña y ajusten el sabor. Pongan nombre a la bebida y escriban la receta para poder repetirla. Variante: preparen dos versiones y hagan una cata a ciegas. No hace falta alcohol para que sea especial; si ambos son adultos y quieren experimentar con una bebida alcohólica, háganlo en una ocasión aparte, con medida y sin conducir."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra refrescante",
+        "contenido": "Maceración: dejar que frutas o hierbas aporten su aroma a un líquido. Unos minutos pueden cambiar por completo una bebida."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Espero que nuestra mezcla haya quedado rica. Y si salió extraña, también cuenta: acabamos de inventar una receta que probablemente nadie más tiene."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Maceración",
+      "significado": "Proceso de dejar frutas, hierbas o especias en un líquido para que este absorba parte de su aroma y sabor.",
+      "ejemplo": "Dejar unas fresas con hojas de hierbabuena en agua fría durante un rato es una maceración sencilla."
+    },
+    "inspiracionCancion": "Una canción para inventar una bebida fresca entre los dos, combinando ingredientes elegidos en secreto."
   },
   {
     "dia": 37,
     "fecha": "2026-11-21",
     "fechaTexto": "sáb, 21 de nov",
-    "categoria": "Tulipanes, margaritas y ninguna excusa",
-    "icono": "💐",
-    "tono": "amor",
+    "categoria": "Un ramo que no parece comprado",
+    "icono": "🌷",
+    "tono": "creativo",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "No se necesita una fecha especial para mandar una flor imaginaria: puede ser un tulipán o una margarita, tú escoges.",
+    "buenosDias": "Hoy quiero que hagamos algo con flores, pero sin comprar un ramo enorme. La idea es escoger pocas piezas y darles una composición que se sienta nuestra.",
     "poema": [
-      "Me gustan las flores que no vienen a resolver nada, solo a alegrar un rincón y recordarte que alguien pensó en ti un momento. A veces eso basta para cambiarle el tono a una tarde.",
-      "Si hoy pudieras elegir una para tener cerca, ¿cuál sería, corazón? Quiero saber si gana el tulipán elegante o la margarita que parece sonreír."
+      "Materiales: tres a cinco flores (pueden ser tulipanes o margaritas), dos ramas verdes, tijeras, un recipiente limpio y agua. Corten los tallos en diagonal. Elijan una flor protagonista y coloquen las demás a distintas alturas; dejen espacios vacíos para que cada forma respire. Añadan las ramas verdes al final y giren el recipiente para revisar la composición desde varios ángulos. Nivel 1: un arreglo pequeño. Nivel 2: uno asimétrico. Nivel 3: cada uno prepara uno para el otro usando una sola flor protagonista. Si no quieren comprar flores, pueden hacerlo con hojas, ramas caídas o flores de papel.",
+      "Ikebana: una forma de arreglo floral que valora tanto el espacio vacío como las flores. No se trata de llenar el recipiente, sino de encontrar equilibrio."
     ],
-    "detalle": "Si hoy alguien te regala una flor sin motivo, espero que te emociones con toda la libertad del mundo. No hace falta fingir que es algo pequeño si para ti se siente especial.",
-    "buenasNoches": "Buenas noches, amor. Si hoy no hubo flores, no pasa nada; ojalá al menos alguien haya tenido un gesto que te hiciera sentir presente en su pensamiento.",
-    "cancionTitulo": "Beautiful",
-    "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
-    "youtubeId": "_FE194VN6c4",
-    "cancionUrl": "https://www.youtube.com/watch?v=_FE194VN6c4"
+    "detalle": "Materiales: tres a cinco flores (pueden ser tulipanes o margaritas), dos ramas verdes, tijeras, un recipiente limpio y agua. Corten los tallos en diagonal. Elijan una flor protagonista y coloquen las demás a distintas alturas; dejen espacios vacíos para que cada forma respire. Añadan las ramas verdes al final y giren el recipiente para revisar la composición desde varios ángulos. Nivel 1: un arreglo pequeño. Nivel 2: uno asimétrico. Nivel 3: cada uno prepara uno para el otro usando una sola flor protagonista. Si no quieren comprar flores, pueden hacerlo con hojas, ramas caídas o flores de papel.",
+    "buenasNoches": "Que ese pequeño arreglo nos recuerde que no hace falta exagerar para hacer algo bonito.",
+    "cancionTitulo": "Drop It Like It's Hot",
+    "cancionArtista": "Snoop Dogg; Pharrell Williams",
+    "youtubeId": "GtUVQei3nX4",
+    "cancionUrl": "https://www.youtube.com/watch?v=GtUVQei3nX4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, florista",
+        "contenido": "Hoy quiero que hagamos algo con flores, pero sin comprar un ramo enorme. La idea es escoger pocas piezas y darles una composición que se sienta nuestra."
+      },
+      "mensajePrincipal": {
+        "titulo": "Taller de ramo asimétrico",
+        "contenido": "Materiales: tres a cinco flores (pueden ser tulipanes o margaritas), dos ramas verdes, tijeras, un recipiente limpio y agua. Corten los tallos en diagonal. Elijan una flor protagonista y coloquen las demás a distintas alturas; dejen espacios vacíos para que cada forma respire. Añadan las ramas verdes al final y giren el recipiente para revisar la composición desde varios ángulos. Nivel 1: un arreglo pequeño. Nivel 2: uno asimétrico. Nivel 3: cada uno prepara uno para el otro usando una sola flor protagonista. Si no quieren comprar flores, pueden hacerlo con hojas, ramas caídas o flores de papel."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra entre flores",
+        "contenido": "Ikebana: una forma de arreglo floral que valora tanto el espacio vacío como las flores. No se trata de llenar el recipiente, sino de encontrar equilibrio."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Que ese pequeño arreglo nos recuerde que no hace falta exagerar para hacer algo bonito."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Ikebana",
+      "significado": "Arte japonés de arreglo floral que busca equilibrio, espacio y armonía entre flores, tallos y ramas.",
+      "ejemplo": "Podemos inspirarnos en el ikebana para hacer un arreglo sencillo con pocas flores y mucho espacio."
+    },
+    "inspiracionCancion": "Una canción para crear un arreglo con personalidad, sin buscar que quede simétrico ni perfecto."
   },
   {
     "dia": 38,
     "fecha": "2026-11-22",
     "fechaTexto": "dom, 22 de nov",
-    "categoria": "Un rincón despejado para pensar",
-    "icono": "🗂️",
-    "tono": "filosofica",
+    "categoria": "Una salida corta a descubrir otro rincón",
+    "icono": "🧭",
+    "tono": "salida",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Si hoy todo parece desordenado, no tienes que resolverlo de una vez. Empieza por algo pequeño y luego respira.",
+    "buenosDias": "Hoy te propongo una salida un poquito más larga que ir por un café de siempre: escoger una zona de la ciudad que casi no recorramos y caminarla sin afán.",
     "poema": [
-      "A veces nos exigimos tanto que hasta descansar parece otra tarea pendiente. Ojalá hoy puedas dejar una cosa para después sin sentir que estás fallando por eso.",
-      "Cuídate un poquito, mi vida. No tienes que poder con todo al mismo tiempo para seguir siendo esa persona capaz y bonita que eres."
+      "Elijan una zona segura y accesible, revisen el clima y acuerden cuánto quieren gastar antes de salir. La misión tiene tres paradas posibles: un café o bebida, una tienda o espacio cultural que les llame la atención y un lugar agradable para sentarse o tomar fotografías. Cada uno debe encontrar algo que el otro probablemente no habría notado: una fachada, una textura, una librería, un mural o una vista. No hace falta completar las tres paradas si no provoca. Si hoy no se puede, guarden la idea para otro día y elijan juntos la zona cuando conozcan horarios y transporte.",
+      "Derrotero: el rumbo que guía un recorrido. A veces el mejor plan es tener una dirección general y dejar espacio para descubrir."
     ],
-    "detalle": "Ordena solo lo que te ayude a respirar mejor, no para cumplir una idea ajena de cómo debe verse todo. A veces despejar un rincón sirve más para la cabeza que para la fotografía.",
-    "buenasNoches": "Que la noche te encuentre con menos ruido alrededor y menos ruido por dentro. No todo se ordena hoy, y no pasa nada.",
-    "cancionTitulo": "93 'Til Infinity",
-    "cancionArtista": "Souls of Mischief",
-    "youtubeId": "fXJc2NYwHjw",
-    "cancionUrl": "https://www.youtube.com/watch?v=fXJc2NYwHjw"
+    "detalle": "Elijan una zona segura y accesible, revisen el clima y acuerden cuánto quieren gastar antes de salir. La misión tiene tres paradas posibles: un café o bebida, una tienda o espacio cultural que les llame la atención y un lugar agradable para sentarse o tomar fotografías. Cada uno debe encontrar algo que el otro probablemente no habría notado: una fachada, una textura, una librería, un mural o una vista. No hace falta completar las tres paradas si no provoca. Si hoy no se puede, guarden la idea para otro día y elijan juntos la zona cuando conozcan horarios y transporte.",
+    "buenasNoches": "Me gusta la idea de que todavía existan rincones por conocer. Ojalá encontremos uno que después se convierta en nuestro lugar.",
+    "cancionTitulo": "Get Low",
+    "cancionArtista": "Lil Jon & The East Side Boyz; Ying Yang Twins",
+    "youtubeId": "yUZeZNxiD-M",
+    "cancionUrl": "https://www.youtube.com/watch?v=yUZeZNxiD-M",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, exploradores urbanos",
+        "contenido": "Hoy te propongo una salida un poquito más larga que ir por un café de siempre: escoger una zona de la ciudad que casi no recorramos y caminarla sin afán."
+      },
+      "mensajePrincipal": {
+        "titulo": "Misión: tres descubrimientos",
+        "contenido": "Elijan una zona segura y accesible, revisen el clima y acuerden cuánto quieren gastar antes de salir. La misión tiene tres paradas posibles: un café o bebida, una tienda o espacio cultural que les llame la atención y un lugar agradable para sentarse o tomar fotografías. Cada uno debe encontrar algo que el otro probablemente no habría notado: una fachada, una textura, una librería, un mural o una vista. No hace falta completar las tres paradas si no provoca. Si hoy no se puede, guarden la idea para otro día y elijan juntos la zona cuando conozcan horarios y transporte."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de camino",
+        "contenido": "Derrotero: el rumbo que guía un recorrido. A veces el mejor plan es tener una dirección general y dejar espacio para descubrir."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Me gusta la idea de que todavía existan rincones por conocer. Ojalá encontremos uno que después se convierta en nuestro lugar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Derrotero",
+      "significado": "Camino, rumbo o plan de navegación que orienta un recorrido.",
+      "ejemplo": "Hoy podemos elegir un derrotero sencillo: caminar por una zona distinta y descubrir un lugar que no conocíamos."
+    },
+    "inspiracionCancion": "Una canción con energía para salir un rato de la rutina y explorar una zona diferente sin convertirlo en una obligación."
   },
   {
     "dia": 39,
     "fecha": "2026-11-23",
     "fechaTexto": "lun, 23 de nov",
-    "categoria": "Cuando una idea te enciende",
-    "icono": "🔥",
-    "tono": "filosofica",
+    "categoria": "El bar secreto: una bebida inventada para el otro",
+    "icono": "🍸",
+    "tono": "complicidad",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "A veces una idea llega con tanta fuerza que te dan ganas de levantarte a probarla antes de que se te olvide. Ojalá hoy te visite una de esas.",
+    "buenosDias": "Hoy sí vamos a jugar a tener un bar propio. Cada uno va a diseñar una bebida para el otro, intentando adivinar qué sabores le gustaría descubrir.",
     "poema": [
-      "Me gusta imaginarte con ese brillo de cuando algo te emociona de verdad. Es como si por un momento todo lo demás bajara el volumen y solo existiera lo que estás pensando hacer.",
-      "Hazle caso a esa chispa, corazón. Aunque solo puedas empezar un poquito, me encantará saber qué se te ocurrió esta vez."
+      "Antes de empezar, acuerden un presupuesto y compren hielo, limón, una fruta, una bebida para mezclar y algo aromático como hierbabuena o romero. Cada uno escoge en secreto un ingrediente principal para la bebida del otro. Intercambien los ingredientes y diseñen una receta con nombre, presentación y una pequeña historia. Para una versión sin alcohol, usen agua tónica, soda, ginger ale o té frío. Si ambos son mayores de edad y desean una versión alcohólica, pueden añadir una sola medida estándar de una bebida espirituosa a la receta, respetando la edad legal, sin presionar a nadie y sin buscar embriagarse. Tomen agua, coman algo y no conduzcan después de beber. Al final, cada uno califica sabor, presentación y cuánto sintió que la bebida fue pensada para él.",
+      "Equilibrio: la armonía entre sabores diferentes. Una bebida no necesita ser fuerte para tener personalidad."
     ],
-    "detalle": "Cuando te entusiasmes contando una idea, no te cortes por miedo a sonar demasiado emocionada. Esa chispa tuya merece espacio, incluso si todavía no sabes exactamente cómo va a terminar.",
-    "buenasNoches": "Descansa, mi vida. Las ideas buenas no desaparecen solo porque duermas; a veces vuelven mañana con más claridad.",
-    "cancionTitulo": "El Día de Mi Suerte",
-    "cancionArtista": "El Redcode",
-    "youtubeId": "ApqRPZ8xO6g",
-    "cancionUrl": "https://www.youtube.com/watch?v=ApqRPZ8xO6g"
+    "detalle": "Antes de empezar, acuerden un presupuesto y compren hielo, limón, una fruta, una bebida para mezclar y algo aromático como hierbabuena o romero. Cada uno escoge en secreto un ingrediente principal para la bebida del otro. Intercambien los ingredientes y diseñen una receta con nombre, presentación y una pequeña historia. Para una versión sin alcohol, usen agua tónica, soda, ginger ale o té frío. Si ambos son mayores de edad y desean una versión alcohólica, pueden añadir una sola medida estándar de una bebida espirituosa a la receta, respetando la edad legal, sin presionar a nadie y sin buscar embriagarse. Tomen agua, coman algo y no conduzcan después de beber. Al final, cada uno califica sabor, presentación y cuánto sintió que la bebida fue pensada para él.",
+    "buenasNoches": "Lo bonito del reto no es quién preparó la mejor bebida, sino haber pensado en los gustos del otro. Y siempre se vale elegir la versión sin alcohol.",
+    "cancionTitulo": "Las Tetas D.",
+    "cancionArtista": "Crack Family",
+    "youtubeId": "LQhERHd-k0E",
+    "cancionUrl": "https://www.youtube.com/watch?v=LQhERHd-k0E",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, cómplices",
+        "contenido": "Hoy sí vamos a jugar a tener un bar propio. Cada uno va a diseñar una bebida para el otro, intentando adivinar qué sabores le gustaría descubrir."
+      },
+      "mensajePrincipal": {
+        "titulo": "Desafío de coctelería por parejas",
+        "contenido": "Antes de empezar, acuerden un presupuesto y compren hielo, limón, una fruta, una bebida para mezclar y algo aromático como hierbabuena o romero. Cada uno escoge en secreto un ingrediente principal para la bebida del otro. Intercambien los ingredientes y diseñen una receta con nombre, presentación y una pequeña historia. Para una versión sin alcohol, usen agua tónica, soda, ginger ale o té frío. Si ambos son mayores de edad y desean una versión alcohólica, pueden añadir una sola medida estándar de una bebida espirituosa a la receta, respetando la edad legal, sin presionar a nadie y sin buscar embriagarse. Tomen agua, coman algo y no conduzcan después de beber. Al final, cada uno califica sabor, presentación y cuánto sintió que la bebida fue pensada para él."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de bartender",
+        "contenido": "Equilibrio: la armonía entre sabores diferentes. Una bebida no necesita ser fuerte para tener personalidad."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Lo bonito del reto no es quién preparó la mejor bebida, sino haber pensado en los gustos del otro. Y siempre se vale elegir la versión sin alcohol."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Equilibrio",
+      "significado": "Proporción adecuada entre elementos distintos para que ninguno domine por completo.",
+      "ejemplo": "En una bebida, el equilibrio aparece cuando lo dulce, lo ácido y lo aromático se acompañan sin competir."
+    },
+    "inspiracionCancion": "Una canción para montar nuestro pequeño bar de autor y preparar una bebida pensando en los gustos de la otra persona."
   },
   {
     "dia": 40,
     "fecha": "2026-11-24",
     "fechaTexto": "mar, 24 de nov",
-    "categoria": "La risa que rompe la seriedad",
-    "icono": "😊",
-    "tono": "amor",
+    "categoria": "El centro comercial convertido en tablero",
+    "icono": "🎯",
+    "tono": "juego",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Reto de hoy: encontrar algo ridículo que te haga reír de verdad, de esas tonterías que no se pueden explicar sin que pierdan la gracia.",
+    "buenosDias": "Hoy el centro comercial será nuestro tablero de juego. No vamos a comprar por comprar: tendremos misiones pequeñas, presupuesto acordado y permiso para pasar cualquier reto.",
     "poema": [
-      "Hay sonrisas bonitas y luego está esa que intentas esconder y no te sale. Las pecas aparecen, los ojos se te iluminan y quien esté cerca termina queriendo saber qué fue lo que pasó.",
-      "Si hoy te pasa, no la escondas, amor. Y si te ríes leyendo esto, por favor imagíname intentando hacerme el interesante y fallando con bastante dignidad."
+      "Vayan a un centro comercial que les quede cómodo y acuerden de antemano un presupuesto, incluso puede ser cero. Escriban cinco misiones en notas del celular: encontrar el objeto más extraño, elegir un accesorio que el otro usaría, descubrir un sabor nuevo, escoger un regalo simbólico por un valor máximo y encontrar un rincón bonito para una foto. Cada turno se elige una misión al azar. Se puede cambiar cualquier reto que incomode o implique gastar más de lo acordado. Al final, cada uno presenta su hallazgo favorito y explica por qué lo escogió.",
+      "Azar: aquello que sucede sin que podamos controlar del todo el resultado. Hoy lo usamos para sorprendernos, no para gastar sin pensar."
     ],
-    "detalle": "Si hoy te ríes en un momento serio, intenta no pedir perdón automáticamente. A veces una risa afloja el día; y si no era el momento, siempre puedes poner esa cara tuya de ‘yo no fui’.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá hoy te hayas reído en un momento inesperado. Y si te salió esa cara de inocente después, me habría encantado verla.",
-    "cancionTitulo": "Insane in the Brain",
-    "cancionArtista": "Cypress Hill",
-    "youtubeId": "RijB8wnJCN0",
-    "cancionUrl": "https://www.youtube.com/watch?v=RijB8wnJCN0"
+    "detalle": "Vayan a un centro comercial que les quede cómodo y acuerden de antemano un presupuesto, incluso puede ser cero. Escriban cinco misiones en notas del celular: encontrar el objeto más extraño, elegir un accesorio que el otro usaría, descubrir un sabor nuevo, escoger un regalo simbólico por un valor máximo y encontrar un rincón bonito para una foto. Cada turno se elige una misión al azar. Se puede cambiar cualquier reto que incomode o implique gastar más de lo acordado. Al final, cada uno presenta su hallazgo favorito y explica por qué lo escogió.",
+    "buenasNoches": "Ojalá hayamos descubierto algo inesperado. La mejor compra de hoy puede haber sido una historia para contar.",
+    "cancionTitulo": "POP DAT THANG",
+    "cancionArtista": "DaBaby",
+    "youtubeId": "syc4SzrubKY",
+    "cancionUrl": "https://www.youtube.com/watch?v=syc4SzrubKY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, estrategas",
+        "contenido": "Hoy el centro comercial será nuestro tablero de juego. No vamos a comprar por comprar: tendremos misiones pequeñas, presupuesto acordado y permiso para pasar cualquier reto."
+      },
+      "mensajePrincipal": {
+        "titulo": "Búsqueda de cinco misiones",
+        "contenido": "Vayan a un centro comercial que les quede cómodo y acuerden de antemano un presupuesto, incluso puede ser cero. Escriban cinco misiones en notas del celular: encontrar el objeto más extraño, elegir un accesorio que el otro usaría, descubrir un sabor nuevo, escoger un regalo simbólico por un valor máximo y encontrar un rincón bonito para una foto. Cada turno se elige una misión al azar. Se puede cambiar cualquier reto que incomode o implique gastar más de lo acordado. Al final, cada uno presenta su hallazgo favorito y explica por qué lo escogió."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra del juego",
+        "contenido": "Azar: aquello que sucede sin que podamos controlar del todo el resultado. Hoy lo usamos para sorprendernos, no para gastar sin pensar."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá hayamos descubierto algo inesperado. La mejor compra de hoy puede haber sido una historia para contar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Azar",
+      "significado": "Circunstancia o resultado que depende de la suerte y no de una decisión completamente controlada.",
+      "ejemplo": "Dejemos que el azar decida qué tienda visitamos primero, pero mantengamos claro el presupuesto."
+    },
+    "inspiracionCancion": "Una canción para convertir una salida común en un juego de elecciones inesperadas."
   },
   {
     "dia": 41,
     "fecha": "2026-11-25",
     "fechaTexto": "mié, 25 de nov",
-    "categoria": "La repetición que se vuelve favorita",
-    "icono": "🎵",
-    "tono": "ambiente",
+    "categoria": "Una mañana de fruta y postre frío",
+    "icono": "🍓",
+    "tono": "cocina",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Si hoy encuentras una canción que te haga volver al principio apenas termina, disfrútala sin justificar la repetición. Algunas melodías necesitan más de una vuelta para decir lo que uno sintió la primera vez.",
+    "buenosDias": "Hoy toca una mañana de fruta y postre frío. Vamos a escoger juntos los ingredientes y preparar porciones pequeñas para compartir o guardar.",
     "poema": [
-      "A veces el estribillo llega justo cuando uno lo necesita, aunque no estuviera buscando nada en particular. Me da curiosidad qué parte de una canción te hace volver una y otra vez.",
-      "Mándame una de esas canciones, mi vida. Quiero conocer ese pedacito de música al que vuelves cuando nadie te está recomendando nada."
+      "Compra: 1 taza de fresas, 1 taza de uvas sin semillas, 1 taza de yogur griego natural, 2 cucharadas de crema de leche (opcional), 1 cucharadita de miel o azúcar y unas gotas de limón. Lava y seca muy bien la fruta. Corta las fresas y parte las uvas por la mitad. Mezcla el yogur con la miel y el limón; si quieren una textura más suave, incorpora la crema. En dos vasos transparentes alternen capas de fruta y crema. Terminen con trocitos de fruta encima y refrigeren entre 20 y 30 minutos. Turno uno: lavar y cortar. Turno dos: preparar la crema y montar los vasos. Pueden cambiar la uva por durazno o mora según lo que encuentren.",
+      "Contraste: diferencia que hace que dos sabores o texturas destaquen. La fruta fresca y la crema suave se complementan precisamente porque no son iguales."
     ],
-    "detalle": "Pon otra vez esa canción si todavía te acompaña por dentro. No todo lo repetido se vuelve aburrido; algunas cosas se quedan porque todavía nos hacen sentir algo.",
-    "buenasNoches": "Que descanses, amor. Puedes escuchar esa canción una última vez si te hace bien, pero no hagas tratos imposibles con el botón de repetir cuando ya te estés quedando dormida.",
-    "cancionTitulo": "Put Your Records On",
-    "cancionArtista": "Corinne Bailey Rae",
-    "youtubeId": "oWQl00LWEwE",
-    "cancionUrl": "https://www.youtube.com/watch?v=oWQl00LWEwE"
+    "detalle": "Compra: 1 taza de fresas, 1 taza de uvas sin semillas, 1 taza de yogur griego natural, 2 cucharadas de crema de leche (opcional), 1 cucharadita de miel o azúcar y unas gotas de limón. Lava y seca muy bien la fruta. Corta las fresas y parte las uvas por la mitad. Mezcla el yogur con la miel y el limón; si quieren una textura más suave, incorpora la crema. En dos vasos transparentes alternen capas de fruta y crema. Terminen con trocitos de fruta encima y refrigeren entre 20 y 30 minutos. Turno uno: lavar y cortar. Turno dos: preparar la crema y montar los vasos. Pueden cambiar la uva por durazno o mora según lo que encuentren.",
+    "buenasNoches": "Espero que haya quedado un postre bonito y rico. Guarda la combinación que más te gustó para repetirla otro día.",
+    "cancionTitulo": "Ain't Shit",
+    "cancionArtista": "Doja Cat",
+    "youtubeId": "13MvatpPQv4",
+    "cancionUrl": "https://www.youtube.com/watch?v=13MvatpPQv4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, antojadizos",
+        "contenido": "Hoy toca una mañana de fruta y postre frío. Vamos a escoger juntos los ingredientes y preparar porciones pequeñas para compartir o guardar."
+      },
+      "mensajePrincipal": {
+        "titulo": "Vasitos de fresa, uva y crema de yogur",
+        "contenido": "Compra: 1 taza de fresas, 1 taza de uvas sin semillas, 1 taza de yogur griego natural, 2 cucharadas de crema de leche (opcional), 1 cucharadita de miel o azúcar y unas gotas de limón. Lava y seca muy bien la fruta. Corta las fresas y parte las uvas por la mitad. Mezcla el yogur con la miel y el limón; si quieren una textura más suave, incorpora la crema. En dos vasos transparentes alternen capas de fruta y crema. Terminen con trocitos de fruta encima y refrigeren entre 20 y 30 minutos. Turno uno: lavar y cortar. Turno dos: preparar la crema y montar los vasos. Pueden cambiar la uva por durazno o mora según lo que encuentren."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de sabor",
+        "contenido": "Contraste: diferencia que hace que dos sabores o texturas destaquen. La fruta fresca y la crema suave se complementan precisamente porque no son iguales."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Espero que haya quedado un postre bonito y rico. Guarda la combinación que más te gustó para repetirla otro día."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Contraste",
+      "significado": "Diferencia marcada entre dos elementos que hace que sus características se perciban mejor.",
+      "ejemplo": "La acidez de las fresas contrasta con la suavidad de una crema de yogur."
+    },
+    "inspiracionCancion": "Una canción para preparar un postre colorido, fresco y sencillo, mezclando texturas y sabores."
   },
   {
     "dia": 42,
     "fecha": "2026-11-26",
     "fechaTexto": "jue, 26 de nov",
-    "categoria": "Pasta a tu manera o arroz con huevo",
-    "icono": "🍳",
-    "tono": "amor",
+    "categoria": "Una tarde de mirador y merienda",
+    "icono": "🌄",
+    "tono": "salida",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Pregunta gastronómica del día: ¿pasta o arroz con huevo? No hay respuesta incorrecta, pero sí una regla importante: nada de sal añadida y nada de discutirle el antojo a la protagonista.",
+    "buenosDias": "Esta vez la propuesta sube un poquito: una tarde para ir a un mirador o parque alto, llevar una merienda y quedarnos un rato viendo cómo cambia la luz.",
     "poema": [
-      "Podemos discutir sobre salsas, puntos de cocción y cuál queda mejor un domingo perezoso, pero la decisión final la tiene quien se va a comer el plato. Es decir, tú.",
-      "Si algún día cocinamos, corazón, yo me encargo de ayudar y de probar la pasta con una seriedad de jurado gastronómico. No prometo que mis críticas sean útiles."
+      "Busquen un mirador o parque elevado que sea público, seguro y accesible desde donde estén. Revisen transporte, clima, horarios y si hay que reservar o pagar entrada antes de decidir. Lleven agua, una merienda sencilla, chaqueta ligera y el celular cargado. Al llegar, cada uno elige un detalle del paisaje que el otro debe encontrar. Después hagan tres fotos: una del panorama, una de un detalle pequeño y una de ustedes o de la merienda, solo si ambos quieren. Si el sitio queda lejos, conviértanlo en un plan para otro fin de semana; no hay que forzarlo ni improvisar un trayecto inseguro.",
+      "Panorama: una vista amplia que permite observar un lugar en conjunto. A veces cambiar de altura también cambia la forma de mirar lo conocido."
     ],
-    "detalle": "Si toca elegir entre pasta o arroz con huevo, no hay necesidad de enfrentar a los dos platos como si solo uno pudiera existir. Cada antojo tiene su día, y ambos merecen su oportunidad.",
-    "buenasNoches": "Buenas noches, mi vida. Mañana decides cuál antojo gana; esta noche no hace falta convocar una cumbre entre la pasta y el arroz con huevo.",
-    "cancionTitulo": "Feel So Good",
-    "cancionArtista": "Mase",
-    "youtubeId": "rIvEiTrq9kk",
-    "cancionUrl": "https://www.youtube.com/watch?v=rIvEiTrq9kk"
+    "detalle": "Busquen un mirador o parque elevado que sea público, seguro y accesible desde donde estén. Revisen transporte, clima, horarios y si hay que reservar o pagar entrada antes de decidir. Lleven agua, una merienda sencilla, chaqueta ligera y el celular cargado. Al llegar, cada uno elige un detalle del paisaje que el otro debe encontrar. Después hagan tres fotos: una del panorama, una de un detalle pequeño y una de ustedes o de la merienda, solo si ambos quieren. Si el sitio queda lejos, conviértanlo en un plan para otro fin de semana; no hay que forzarlo ni improvisar un trayecto inseguro.",
+    "buenasNoches": "Me gustaría que tengamos una tarde sin afán, con una buena vista y algo rico para compartir. Si no es este día, dejamos la idea guardada para cuando nos venga bien.",
+    "cancionTitulo": "Quién Pidió Pollo",
+    "cancionArtista": "Granuja; Doble Porcion",
+    "youtubeId": "hctMB2pQkyY",
+    "cancionUrl": "https://www.youtube.com/watch?v=hctMB2pQkyY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, caminantes",
+        "contenido": "Esta vez la propuesta sube un poquito: una tarde para ir a un mirador o parque alto, llevar una merienda y quedarnos un rato viendo cómo cambia la luz."
+      },
+      "mensajePrincipal": {
+        "titulo": "Plan de tarde: elegir la vista",
+        "contenido": "Busquen un mirador o parque elevado que sea público, seguro y accesible desde donde estén. Revisen transporte, clima, horarios y si hay que reservar o pagar entrada antes de decidir. Lleven agua, una merienda sencilla, chaqueta ligera y el celular cargado. Al llegar, cada uno elige un detalle del paisaje que el otro debe encontrar. Después hagan tres fotos: una del panorama, una de un detalle pequeño y una de ustedes o de la merienda, solo si ambos quieren. Si el sitio queda lejos, conviértanlo en un plan para otro fin de semana; no hay que forzarlo ni improvisar un trayecto inseguro."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de paisaje",
+        "contenido": "Panorama: una vista amplia que permite observar un lugar en conjunto. A veces cambiar de altura también cambia la forma de mirar lo conocido."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Me gustaría que tengamos una tarde sin afán, con una buena vista y algo rico para compartir. Si no es este día, dejamos la idea guardada para cuando nos venga bien."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Panorama",
+      "significado": "Vista amplia de un paisaje o de un conjunto de lugares que se observan desde un punto.",
+      "ejemplo": "Desde un mirador podemos disfrutar el panorama y reconocer la ciudad desde otra perspectiva."
+    },
+    "inspiracionCancion": "Una canción para cerrar esta semana con una salida que nos saque un poco más de la rutina y nos regale otra vista."
   },
   {
     "dia": 43,
