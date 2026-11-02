@@ -8242,5 +8242,327 @@ const CALENDARIO = [
       "significado": "Correspondencia mutua entre acciones, gestos o sentimientos.",
       "ejemplo": "La reciprocidad permite que los detalles y las iniciativas nazcan de ambas partes, sin presión."
     }
+  },
+  {
+    "dia": 189,
+    "fecha": "2027-04-22",
+    "fechaTexto": "jue, 22 de abr",
+    "categoria": "El museo de los recuerdos mínimos",
+    "icono": "🏛️",
+    "tono": "memoria y creatividad",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a montar un museo con recuerdos que normalmente pasarían desapercibidos.",
+    "poema": [
+      "Escoge tres recuerdos pequeños que no sean necesariamente grandes acontecimientos: una tarde lluviosa, una comida inesperada, una conversación que dio risa o una canción que sonaba en cierto lugar. Ponle a cada recuerdo un título de exposición y escribe una descripción de dos líneas como si fuera una pieza histórica. Si lo comparten, cada persona puede presentar una de sus piezas y contar por qué la conservaría.",
+      "En el lienzo, arma una pared de museo con los tres títulos, pequeñas ilustraciones y una entrada que diga «Colección de cosas que no queremos olvidar»."
+    ],
+    "detalle": "En el lienzo, arma una pared de museo con los tres títulos, pequeñas ilustraciones y una entrada que diga «Colección de cosas que no queremos olvidar».",
+    "buenasNoches": "Hay momentos que parecen sencillos mientras ocurren y después se vuelven tesoros.",
+    "cancionTitulo": "Falsedades",
+    "cancionArtista": "Tres Coronas",
+    "youtubeId": "n1dgZ5xnQWY",
+    "cancionUrl": "https://www.youtube.com/watch?v=n1dgZ5xnQWY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a montar un museo con recuerdos que normalmente pasarían desapercibidos."
+      },
+      "mensajePrincipal": {
+        "titulo": "El museo de los recuerdos mínimos",
+        "contenido": "Escoge tres recuerdos pequeños que no sean necesariamente grandes acontecimientos: una tarde lluviosa, una comida inesperada, una conversación que dio risa o una canción que sonaba en cierto lugar. Ponle a cada recuerdo un título de exposición y escribe una descripción de dos líneas como si fuera una pieza histórica. Si lo comparten, cada persona puede presentar una de sus piezas y contar por qué la conservaría."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra nostalgia",
+        "contenido": "Sentimiento de afecto o añoranza hacia momentos del pasado. La nostalgia puede aparecer al encontrar una foto, un olor o una canción que nos devuelve a otro momento."
+      },
+      "buenasNoches": {
+        "contenido": "Hay momentos que parecen sencillos mientras ocurren y después se vuelven tesoros."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Nostalgia",
+      "significado": "Sentimiento de afecto o añoranza hacia momentos del pasado.",
+      "ejemplo": "La nostalgia puede aparecer al encontrar una foto, un olor o una canción que nos devuelve a otro momento."
+    }
+  },
+  {
+    "dia": 190,
+    "fecha": "2027-04-23",
+    "fechaTexto": "vie, 23 de abr",
+    "categoria": "El intercambio de recomendaciones inesperadas",
+    "icono": "📚",
+    "tono": "descubrimiento compartido",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy cada quien tiene la misión de recomendar algo que el otro probablemente no buscaría por su cuenta.",
+    "poema": [
+      "Puede ser una canción, un episodio, una película, un libro, un canal o una actividad. La recomendación debe venir con tres pistas: qué tiene de especial, en qué momento disfrutarla y qué detalle debería observarse. La otra persona puede probarla cuando quiera y dar su opinión después; no hay obligación de que le guste. También vale recomendar algo muy distinto a los gustos habituales.",
+      "Guarden las recomendaciones en una lista compartida titulada «Cosas que quizá no habríamos descubierto solos»."
+    ],
+    "detalle": "Guarden las recomendaciones en una lista compartida titulada «Cosas que quizá no habríamos descubierto solos».",
+    "buenasNoches": "Descubrir algo nuevo también puede empezar por confiar un momento en el gusto de alguien más.",
+    "cancionTitulo": "Envidias",
+    "cancionArtista": "Tres Coronas",
+    "youtubeId": "KRS0wPv9esQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=KRS0wPv9esQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy cada quien tiene la misión de recomendar algo que el otro probablemente no buscaría por su cuenta."
+      },
+      "mensajePrincipal": {
+        "titulo": "El intercambio de recomendaciones inesperadas",
+        "contenido": "Puede ser una canción, un episodio, una película, un libro, un canal o una actividad. La recomendación debe venir con tres pistas: qué tiene de especial, en qué momento disfrutarla y qué detalle debería observarse. La otra persona puede probarla cuando quiera y dar su opinión después; no hay obligación de que le guste. También vale recomendar algo muy distinto a los gustos habituales."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra curaduría",
+        "contenido": "Selección y organización cuidadosa de obras, objetos o contenidos con un criterio propio. Una buena curaduría reúne recomendaciones que tienen algo especial para quien las descubre."
+      },
+      "buenasNoches": {
+        "contenido": "Descubrir algo nuevo también puede empezar por confiar un momento en el gusto de alguien más."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Curaduría",
+      "significado": "Selección y organización cuidadosa de obras, objetos o contenidos con un criterio propio.",
+      "ejemplo": "Una buena curaduría reúne recomendaciones que tienen algo especial para quien las descubre."
+    }
+  },
+  {
+    "dia": 191,
+    "fecha": "2027-04-24",
+    "fechaTexto": "sáb, 24 de abr",
+    "categoria": "Una cita con el arte cotidiano",
+    "icono": "🖼️",
+    "tono": "plan cultural y creativo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "La propuesta de hoy es salir a mirar con otros ojos, sin necesidad de gastar mucho.",
+    "poema": [
+      "Si ambos tienen tiempo, visiten una exposición gratuita, una biblioteca, una feria artesanal o un espacio cultural que les llame la atención. Elijan cada uno una obra, objeto o detalle y expliquen qué les transmite. Si no hay exposición cerca o no coincide el horario, hagan una galería improvisada con imágenes que encuentren en revistas o libros que ya tengan.",
+      "Pueden cerrar la salida con una bebida o una caminata corta. Acuerden transporte y presupuesto antes, y dejen el plan flexible."
+    ],
+    "detalle": "Pueden cerrar la salida con una bebida o una caminata corta. Acuerden transporte y presupuesto antes, y dejen el plan flexible.",
+    "buenasNoches": "El arte no siempre necesita explicación; a veces basta con detenerse frente a algo y sentir curiosidad.",
+    "cancionTitulo": "El Imaginario",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "VBnufgtjtxU",
+    "cancionUrl": "https://www.youtube.com/watch?v=VBnufgtjtxU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "La propuesta de hoy es salir a mirar con otros ojos, sin necesidad de gastar mucho."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una cita con el arte cotidiano",
+        "contenido": "Si ambos tienen tiempo, visiten una exposición gratuita, una biblioteca, una feria artesanal o un espacio cultural que les llame la atención. Elijan cada uno una obra, objeto o detalle y expliquen qué les transmite. Si no hay exposición cerca o no coincide el horario, hagan una galería improvisada con imágenes que encuentren en revistas o libros que ya tengan."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra estética",
+        "contenido": "Conjunto de características que hacen que algo se perciba como bello o expresivo. La estética de un lugar puede estar en sus colores, sonidos, formas y pequeños detalles."
+      },
+      "buenasNoches": {
+        "contenido": "El arte no siempre necesita explicación; a veces basta con detenerse frente a algo y sentir curiosidad."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Estética",
+      "significado": "Conjunto de características que hacen que algo se perciba como bello o expresivo.",
+      "ejemplo": "La estética de un lugar puede estar en sus colores, sonidos, formas y pequeños detalles."
+    }
+  },
+  {
+    "dia": 192,
+    "fecha": "2027-04-25",
+    "fechaTexto": "dom, 25 de abr",
+    "categoria": "El personaje que llevaríamos a nuestro equipo",
+    "icono": "🧙",
+    "tono": "fantasía y estrategia",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca armar un equipo de ficción para resolver una misión imposible.",
+    "poema": [
+      "Cada persona elige dos personajes de cualquier universo —pueden ser de Harry Potter, Jujutsu Kaisen u otra historia— y explica qué habilidad aportaría cada uno. Después inventen una misión: recuperar un objeto, salir de un laberinto o resolver un misterio. La regla es que ningún personaje puede resolverlo todo por sí solo; deben combinar sus fortalezas y aceptar alguna debilidad.",
+      "Dibujen el escudo del equipo en el lienzo y escriban su nombre, lema y la habilidad más inesperada."
+    ],
+    "detalle": "Dibujen el escudo del equipo en el lienzo y escriban su nombre, lema y la habilidad más inesperada.",
+    "buenasNoches": "Los buenos equipos no se construyen con personas iguales, sino con talentos que se complementan.",
+    "cancionTitulo": "Mi Barrio Es Mi Estado",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "UFmV2yg6Oao",
+    "cancionUrl": "https://www.youtube.com/watch?v=UFmV2yg6Oao",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca armar un equipo de ficción para resolver una misión imposible."
+      },
+      "mensajePrincipal": {
+        "titulo": "El personaje que llevaríamos a nuestro equipo",
+        "contenido": "Cada persona elige dos personajes de cualquier universo —pueden ser de Harry Potter, Jujutsu Kaisen u otra historia— y explica qué habilidad aportaría cada uno. Después inventen una misión: recuperar un objeto, salir de un laberinto o resolver un misterio. La regla es que ningún personaje puede resolverlo todo por sí solo; deben combinar sus fortalezas y aceptar alguna debilidad."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra arquetipo",
+        "contenido": "Modelo o patrón de personaje que representa un conjunto de rasgos reconocibles. Un arquetipo puede ser el explorador, la mente estratégica, el protector o quien siempre encuentra una salida."
+      },
+      "buenasNoches": {
+        "contenido": "Los buenos equipos no se construyen con personas iguales, sino con talentos que se complementan."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Arquetipo",
+      "significado": "Modelo o patrón de personaje que representa un conjunto de rasgos reconocibles.",
+      "ejemplo": "Un arquetipo puede ser el explorador, la mente estratégica, el protector o quien siempre encuentra una salida."
+    }
+  },
+  {
+    "dia": 193,
+    "fecha": "2027-04-26",
+    "fechaTexto": "lun, 26 de abr",
+    "categoria": "El detalle que cambia el ambiente",
+    "icono": "🕯️",
+    "tono": "cuidado y sensibilidad",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto es transformar un rincón sin comprar nada ni hacer grandes cambios.",
+    "poema": [
+      "Escoge un espacio pequeño: tu escritorio, una mesa o una esquina de la habitación. Cambia tres cosas usando lo que ya tienes: ordena un objeto, modifica la iluminación si es seguro, pon una canción o añade un color. Si quieres, toma una foto del antes y después. Si lo hacen juntos, cada quien propone un cambio y luego deciden cuál aporta más al ambiente.",
+      "Ponle un nombre a ese rincón como si fuera un café escondido o un pequeño refugio personal."
+    ],
+    "detalle": "Ponle un nombre a ese rincón como si fuera un café escondido o un pequeño refugio personal.",
+    "buenasNoches": "A veces el entorno cambia cuando le dedicamos unos minutos de atención.",
+    "cancionTitulo": "El Barman y el Chef",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "2fGU7PJCTpk",
+    "cancionUrl": "https://www.youtube.com/watch?v=2fGU7PJCTpk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto es transformar un rincón sin comprar nada ni hacer grandes cambios."
+      },
+      "mensajePrincipal": {
+        "titulo": "El detalle que cambia el ambiente",
+        "contenido": "Escoge un espacio pequeño: tu escritorio, una mesa o una esquina de la habitación. Cambia tres cosas usando lo que ya tienes: ordena un objeto, modifica la iluminación si es seguro, pon una canción o añade un color. Si quieres, toma una foto del antes y después. Si lo hacen juntos, cada quien propone un cambio y luego deciden cuál aporta más al ambiente."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra atmósfera",
+        "contenido": "Sensación o ambiente particular que transmite un espacio o una situación. La luz, la música y los pequeños detalles pueden transformar la atmósfera de una habitación."
+      },
+      "buenasNoches": {
+        "contenido": "A veces el entorno cambia cuando le dedicamos unos minutos de atención."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Atmósfera",
+      "significado": "Sensación o ambiente particular que transmite un espacio o una situación.",
+      "ejemplo": "La luz, la música y los pequeños detalles pueden transformar la atmósfera de una habitación."
+    }
+  },
+  {
+    "dia": 194,
+    "fecha": "2027-04-27",
+    "fechaTexto": "mar, 27 de abr",
+    "categoria": "La pregunta que merece una caminata",
+    "icono": "🚶",
+    "tono": "conversación y cercanía",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hay conversaciones que salen mejor cuando uno camina y no está pendiente de mirar una pantalla.",
+    "poema": [
+      "Si coinciden, den una caminata corta por un lugar agradable y seguro. Lleven esta pregunta: «¿Qué cosa te gustaría que la gente entendiera mejor de ti?». Cada quien responde hasta donde quiera y puede hacer una pregunta de vuelta. No hace falta convertirlo en una charla solemne; también se vale desviarse, reírse o simplemente disfrutar el paseo.",
+      "Si no pueden salir, hagan la pregunta durante una llamada o mientras toman algo. Lo importante es escuchar sin apurar la respuesta."
+    ],
+    "detalle": "Si no pueden salir, hagan la pregunta durante una llamada o mientras toman algo. Lo importante es escuchar sin apurar la respuesta.",
+    "buenasNoches": "Qué bonito cuando una conversación encuentra su propio ritmo.",
+    "cancionTitulo": "La Eterna - Remix",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "SBOcJT0BeJA",
+    "cancionUrl": "https://www.youtube.com/watch?v=SBOcJT0BeJA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hay conversaciones que salen mejor cuando uno camina y no está pendiente de mirar una pantalla."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pregunta que merece una caminata",
+        "contenido": "Si coinciden, den una caminata corta por un lugar agradable y seguro. Lleven esta pregunta: «¿Qué cosa te gustaría que la gente entendiera mejor de ti?». Cada quien responde hasta donde quiera y puede hacer una pregunta de vuelta. No hace falta convertirlo en una charla solemne; también se vale desviarse, reírse o simplemente disfrutar el paseo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sintonía",
+        "contenido": "Coincidencia o armonía entre personas, ideas o sentimientos. Hay sintonía cuando una conversación fluye sin que nadie tenga que forzarla."
+      },
+      "buenasNoches": {
+        "contenido": "Qué bonito cuando una conversación encuentra su propio ritmo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sintonía",
+      "significado": "Coincidencia o armonía entre personas, ideas o sentimientos.",
+      "ejemplo": "Hay sintonía cuando una conversación fluye sin que nadie tenga que forzarla."
+    }
+  },
+  {
+    "dia": 195,
+    "fecha": "2027-04-28",
+    "fechaTexto": "mié, 28 de abr",
+    "categoria": "El sobre para abrir cuando haga falta",
+    "icono": "✉️",
+    "tono": "detalle afectuoso y libre",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a preparar unas palabras para un día que todavía no conocemos.",
+    "poema": [
+      "Escribe una nota breve para guardar y leer en un día pesado. Puede incluir una frase que te gustaría recordar, una recomendación de canción, una anécdota graciosa o una invitación sencilla a descansar. Si quieres hacerla para alguien, evita prometer que siempre tendrás todas las respuestas; basta con ofrecer escucha y compañía cuando sea posible. La nota puede quedarse privada o compartirse si te nace.",
+      "Guárdala en un sobre o en una nota del celular con el título «Abrir cuando necesite un respiro»."
+    ],
+    "detalle": "Guárdala en un sobre o en una nota del celular con el título «Abrir cuando necesite un respiro».",
+    "buenasNoches": "No todos los días tienen que ser extraordinarios; algunos solo necesitan un poco de paciencia y cuidado.",
+    "cancionTitulo": "Házmelo Rap",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "P1qamoOHLYM",
+    "cancionUrl": "https://www.youtube.com/watch?v=P1qamoOHLYM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a preparar unas palabras para un día que todavía no conocemos."
+      },
+      "mensajePrincipal": {
+        "titulo": "El sobre para abrir cuando haga falta",
+        "contenido": "Escribe una nota breve para guardar y leer en un día pesado. Puede incluir una frase que te gustaría recordar, una recomendación de canción, una anécdota graciosa o una invitación sencilla a descansar. Si quieres hacerla para alguien, evita prometer que siempre tendrás todas las respuestas; basta con ofrecer escucha y compañía cuando sea posible. La nota puede quedarse privada o compartirse si te nace."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra amparo",
+        "contenido": "Protección, apoyo o consuelo que se ofrece a alguien en un momento difícil. Un mensaje de amparo puede recordar que no hace falta resolverlo todo en un solo día."
+      },
+      "buenasNoches": {
+        "contenido": "No todos los días tienen que ser extraordinarios; algunos solo necesitan un poco de paciencia y cuidado."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Amparo",
+      "significado": "Protección, apoyo o consuelo que se ofrece a alguien en un momento difícil.",
+      "ejemplo": "Un mensaje de amparo puede recordar que no hace falta resolverlo todo en un solo día."
+    }
   }
 ];
