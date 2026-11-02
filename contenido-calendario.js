@@ -5344,5 +5344,327 @@ const CALENDARIO = [
       "significado": "Que no puede tocarse físicamente, aunque pueda sentirse.",
       "ejemplo": "La confianza, un recuerdo y una emoción son intangibles."
     }
+  },
+  {
+    "dia": 126,
+    "fecha": "2027-02-18",
+    "fechaTexto": "jue, 18 de feb",
+    "categoria": "La receta de cinco minutos",
+    "icono": "🥣",
+    "tono": "cotidiano",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca una receta sencilla, sin horno y sin necesitar una cocina completa.",
+    "poema": [
+      "Prepara vasitos de yogur con fruta y crocante: necesitas yogur natural, banano o fresas, avena y miel. En un vaso coloca una capa de yogur, añade fruta picada, espolvorea avena y termina con un hilo de miel. Repite las capas. Si no hay nevera, prepara solo la porción que vayan a comer enseguida. Revisa etiquetas y posibles trazas; evita cualquier ingrediente con maní o riesgo de contaminación cruzada. También pueden inventar un nombre divertido para el postre.",
+      "Diseña en el lienzo una etiqueta para el postre: nombre, cuatro ingredientes y una ilustración de cómo se vería servido."
+    ],
+    "detalle": "Diseña en el lienzo una etiqueta para el postre: nombre, cuatro ingredientes y una ilustración de cómo se vería servido.",
+    "buenasNoches": "Que el día termine con algo rico y sencillo. A veces una buena idea cabe en un vaso.",
+    "cancionTitulo": "Runnin'",
+    "cancionArtista": "The Pharcyde",
+    "youtubeId": "jQ-RrGCSa2M",
+    "cancionUrl": "https://www.youtube.com/watch?v=jQ-RrGCSa2M",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca una receta sencilla, sin horno y sin necesitar una cocina completa."
+      },
+      "mensajePrincipal": {
+        "titulo": "La receta de cinco minutos",
+        "contenido": "Prepara vasitos de yogur con fruta y crocante: necesitas yogur natural, banano o fresas, avena y miel. En un vaso coloca una capa de yogur, añade fruta picada, espolvorea avena y termina con un hilo de miel. Repite las capas. Si no hay nevera, prepara solo la porción que vayan a comer enseguida. Revisa etiquetas y posibles trazas; evita cualquier ingrediente con maní o riesgo de contaminación cruzada. También pueden inventar un nombre divertido para el postre."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra emulsión",
+        "contenido": "Mezcla estable de dos líquidos que normalmente no se unen con facilidad. El aceite y el limón pueden formar una emulsión al mezclarse con energía."
+      },
+      "buenasNoches": {
+        "contenido": "Que el día termine con algo rico y sencillo. A veces una buena idea cabe en un vaso."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Emulsión",
+      "significado": "Mezcla estable de dos líquidos que normalmente no se unen con facilidad.",
+      "ejemplo": "El aceite y el limón pueden formar una emulsión al mezclarse con energía."
+    }
+  },
+  {
+    "dia": 127,
+    "fecha": "2027-02-19",
+    "fechaTexto": "vie, 19 de feb",
+    "categoria": "Una caminata con tres destinos posibles",
+    "icono": "🌳",
+    "tono": "plan tranquilo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "No todos los planes necesitan una reserva ni una agenda llena. A veces basta con salir a caminar un rato.",
+    "poema": [
+      "Propón una caminata de una hora por un parque o un sector agradable. Antes de salir, cada persona elige una opción sorpresa: encontrar un árbol curioso, descubrir una fachada bonita o escoger un lugar tranquilo para sentarse diez minutos. Si el paseo se alarga, pueden terminar con un café o una bebida que les guste. Elijan una ruta segura, pública y cómoda; el plan puede cambiar si el clima o el ánimo no acompañan.",
+      "En el lienzo, dibuja un mapa mínimo de la caminata con tres símbolos: el punto de partida, el hallazgo más curioso y el lugar donde harías una pausa."
+    ],
+    "detalle": "En el lienzo, dibuja un mapa mínimo de la caminata con tres símbolos: el punto de partida, el hallazgo más curioso y el lugar donde harías una pausa.",
+    "buenasNoches": "Hay recorridos que no necesitan llegar lejos para dejar una buena memoria.",
+    "cancionTitulo": "Ms. Fat Booty",
+    "cancionArtista": "Mos Def",
+    "youtubeId": "NAHuQSPE4Wk",
+    "cancionUrl": "https://www.youtube.com/watch?v=NAHuQSPE4Wk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "No todos los planes necesitan una reserva ni una agenda llena. A veces basta con salir a caminar un rato."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una caminata con tres destinos posibles",
+        "contenido": "Propón una caminata de una hora por un parque o un sector agradable. Antes de salir, cada persona elige una opción sorpresa: encontrar un árbol curioso, descubrir una fachada bonita o escoger un lugar tranquilo para sentarse diez minutos. Si el paseo se alarga, pueden terminar con un café o una bebida que les guste. Elijan una ruta segura, pública y cómoda; el plan puede cambiar si el clima o el ánimo no acompañan."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra deriva",
+        "contenido": "Desplazamiento gradual de un recorrido o una idea hacia otro punto. Caminar sin una ruta rígida permite descubrir lugares por deriva."
+      },
+      "buenasNoches": {
+        "contenido": "Hay recorridos que no necesitan llegar lejos para dejar una buena memoria."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Deriva",
+      "significado": "Desplazamiento gradual de un recorrido o una idea hacia otro punto.",
+      "ejemplo": "Caminar sin una ruta rígida permite descubrir lugares por deriva."
+    }
+  },
+  {
+    "dia": 128,
+    "fecha": "2027-02-20",
+    "fechaTexto": "sáb, 20 de feb",
+    "categoria": "El doblaje imposible",
+    "icono": "🎬",
+    "tono": "juego compartido",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a cambiarle por completo el sentido a una escena.",
+    "poema": [
+      "Elijan una escena corta de una película o serie que ambos conozcan y véanla sin sonido. Cada uno inventa en voz alta los diálogos, como si estuviera haciendo el doblaje. Pueden cambiar el género: una escena dramática se convierte en una entrevista de trabajo, una misión secreta o una discusión por la última empanada. Si están en lugares distintos, envíense una nota de voz con el doblaje. No graben ni compartan a otras personas sin su permiso.",
+      "Crea un póster alternativo de esa escena en el lienzo: nuevo título, género inesperado y una frase de estreno."
+    ],
+    "detalle": "Crea un póster alternativo de esa escena en el lienzo: nuevo título, género inesperado y una frase de estreno.",
+    "buenasNoches": "Si hoy te reíste de una escena que ya conocías, entonces la viste de una forma completamente nueva.",
+    "cancionTitulo": "Street Talkin'",
+    "cancionArtista": "Slick Rick; Outkast",
+    "youtubeId": "6u1Ps6ZlDxA",
+    "cancionUrl": "https://www.youtube.com/watch?v=6u1Ps6ZlDxA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a cambiarle por completo el sentido a una escena."
+      },
+      "mensajePrincipal": {
+        "titulo": "El doblaje imposible",
+        "contenido": "Elijan una escena corta de una película o serie que ambos conozcan y véanla sin sonido. Cada uno inventa en voz alta los diálogos, como si estuviera haciendo el doblaje. Pueden cambiar el género: una escena dramática se convierte en una entrevista de trabajo, una misión secreta o una discusión por la última empanada. Si están en lugares distintos, envíense una nota de voz con el doblaje. No graben ni compartan a otras personas sin su permiso."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra improvisación",
+        "contenido": "Creación espontánea a partir de una situación o estímulo. El doblaje improvisado convierte una escena conocida en algo inesperado."
+      },
+      "buenasNoches": {
+        "contenido": "Si hoy te reíste de una escena que ya conocías, entonces la viste de una forma completamente nueva."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Improvisación",
+      "significado": "Creación espontánea a partir de una situación o estímulo.",
+      "ejemplo": "El doblaje improvisado convierte una escena conocida en algo inesperado."
+    }
+  },
+  {
+    "dia": 129,
+    "fecha": "2027-02-21",
+    "fechaTexto": "dom, 21 de feb",
+    "categoria": "Una bebida con nombre de lugar secreto",
+    "icono": "🍹",
+    "tono": "creativo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a inventar una bebida refrescante y ponerle un nombre que parezca sacado de un mapa secreto.",
+    "poema": [
+      "En una jarra mezcla agua fría, rodajas de naranja, unas hojas de hierbabuena y hielo. Déjala reposar unos minutos para que tome aroma. Si prefieres, añade un poco de limón o endulza ligeramente. No necesitas licuadora ni cocina. Comprueba que los ingredientes y utensilios estén libres de maní y contaminación cruzada. Inventa un nombre para la bebida como «El mirador escondido», «Pausa azul» o «La esquina de las cinco».",
+      "Diseña en el lienzo la carta de una cafetería imaginaria e incluye tu bebida, su nombre y una descripción de una sola línea."
+    ],
+    "detalle": "Diseña en el lienzo la carta de una cafetería imaginaria e incluye tu bebida, su nombre y una descripción de una sola línea.",
+    "buenasNoches": "Que nunca falten pequeñas pausas para refrescar la cabeza y cambiar de ambiente.",
+    "cancionTitulo": "Got Your Money",
+    "cancionArtista": "Ol' Dirty Bastard; Kelis",
+    "youtubeId": "XXTzm5GtqVo",
+    "cancionUrl": "https://www.youtube.com/watch?v=XXTzm5GtqVo",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a inventar una bebida refrescante y ponerle un nombre que parezca sacado de un mapa secreto."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una bebida con nombre de lugar secreto",
+        "contenido": "En una jarra mezcla agua fría, rodajas de naranja, unas hojas de hierbabuena y hielo. Déjala reposar unos minutos para que tome aroma. Si prefieres, añade un poco de limón o endulza ligeramente. No necesitas licuadora ni cocina. Comprueba que los ingredientes y utensilios estén libres de maní y contaminación cruzada. Inventa un nombre para la bebida como «El mirador escondido», «Pausa azul» o «La esquina de las cinco»."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra infusión",
+        "contenido": "Bebida o preparación que obtiene sabor al dejar ingredientes en un líquido. El agua con hierbabuena y cítricos puede prepararse como una infusión fría."
+      },
+      "buenasNoches": {
+        "contenido": "Que nunca falten pequeñas pausas para refrescar la cabeza y cambiar de ambiente."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Infusión",
+      "significado": "Bebida o preparación que obtiene sabor al dejar ingredientes en un líquido.",
+      "ejemplo": "El agua con hierbabuena y cítricos puede prepararse como una infusión fría."
+    }
+  },
+  {
+    "dia": 130,
+    "fecha": "2027-02-22",
+    "fechaTexto": "lun, 22 de feb",
+    "categoria": "Tres preguntas que abren ventanas",
+    "icono": "🪟",
+    "tono": "conversación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hay conversaciones que empiezan con una pregunta distinta a «¿cómo estuvo tu día?».",
+    "poema": [
+      "Elijan una pregunta cada uno y respóndanla con calma: ¿qué lugar te gustaría volver a visitar?, ¿qué habilidad te gustaría aprender aunque no sirva para nada práctico?, ¿qué pequeño lujo cotidiano disfrutas mucho? Después hagan una pregunta de seguimiento, sin convertirlo en interrogatorio. Si alguna respuesta no quiere compartirse, se cambia de pregunta. El objetivo es descubrir perspectivas, no sacar conclusiones apresuradas.",
+      "Escribe en el lienzo una respuesta usando solo tres colores y tres formas. La otra persona puede intentar adivinar qué pregunta la inspiró."
+    ],
+    "detalle": "Escribe en el lienzo una respuesta usando solo tres colores y tres formas. La otra persona puede intentar adivinar qué pregunta la inspiró.",
+    "buenasNoches": "A veces una pregunta sencilla abre una ventana que no sabíamos que estaba ahí.",
+    "cancionTitulo": "You Never Knew",
+    "cancionArtista": "Hieroglyphics",
+    "youtubeId": "QWveXdj6oZU",
+    "cancionUrl": "https://www.youtube.com/watch?v=QWveXdj6oZU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hay conversaciones que empiezan con una pregunta distinta a «¿cómo estuvo tu día?»."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tres preguntas que abren ventanas",
+        "contenido": "Elijan una pregunta cada uno y respóndanla con calma: ¿qué lugar te gustaría volver a visitar?, ¿qué habilidad te gustaría aprender aunque no sirva para nada práctico?, ¿qué pequeño lujo cotidiano disfrutas mucho? Después hagan una pregunta de seguimiento, sin convertirlo en interrogatorio. Si alguna respuesta no quiere compartirse, se cambia de pregunta. El objetivo es descubrir perspectivas, no sacar conclusiones apresuradas."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra perspectiva",
+        "contenido": "Punto de vista desde el que se observa o interpreta algo. Cambiar de perspectiva puede hacer que una situación se vea diferente."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una pregunta sencilla abre una ventana que no sabíamos que estaba ahí."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Perspectiva",
+      "significado": "Punto de vista desde el que se observa o interpreta algo.",
+      "ejemplo": "Cambiar de perspectiva puede hacer que una situación se vea diferente."
+    }
+  },
+  {
+    "dia": 131,
+    "fecha": "2027-02-23",
+    "fechaTexto": "mar, 23 de feb",
+    "categoria": "La indirecta escondida en un poema",
+    "icono": "📝",
+    "tono": "coqueto sutil",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy las palabras van a jugar a las escondidas: no todo tiene que decirse de frente.",
+    "poema": [
+      "Escribe cuatro versos que describan una presencia agradable sin mencionar nombres ni usar la palabra «me gustas». Puedes hablar de una canción que mejora al sonar, de una tarde que se alarga o de una sonrisa que distrae. Ejemplo original: «Hay días que pasan de largo, / y otros que cambian de color; / no sé qué tienen ciertos instantes, / pero se quedan un poco mejor». Si quieres, comparte el poema y deja que la otra persona interprete lo que quiera, sin exigir una respuesta.",
+      "Diseña el poema en el lienzo como una pequeña portada editorial: título breve, tipografía expresiva y un detalle dibujado a mano."
+    ],
+    "detalle": "Diseña el poema en el lienzo como una pequeña portada editorial: título breve, tipografía expresiva y un detalle dibujado a mano.",
+    "buenasNoches": "No todas las cosas bonitas necesitan explicarse por completo.",
+    "cancionTitulo": "Time's Up",
+    "cancionArtista": "O.C.",
+    "youtubeId": "6gNmCGQRpcc",
+    "cancionUrl": "https://www.youtube.com/watch?v=6gNmCGQRpcc",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy las palabras van a jugar a las escondidas: no todo tiene que decirse de frente."
+      },
+      "mensajePrincipal": {
+        "titulo": "La indirecta escondida en un poema",
+        "contenido": "Escribe cuatro versos que describan una presencia agradable sin mencionar nombres ni usar la palabra «me gustas». Puedes hablar de una canción que mejora al sonar, de una tarde que se alarga o de una sonrisa que distrae. Ejemplo original: «Hay días que pasan de largo, / y otros que cambian de color; / no sé qué tienen ciertos instantes, / pero se quedan un poco mejor». Si quieres, comparte el poema y deja que la otra persona interprete lo que quiera, sin exigir una respuesta."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra alusión",
+        "contenido": "Referencia indirecta a una persona, idea o situación sin nombrarla de forma explícita. Una alusión permite sugerir algo sin decirlo literalmente."
+      },
+      "buenasNoches": {
+        "contenido": "No todas las cosas bonitas necesitan explicarse por completo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Alusión",
+      "significado": "Referencia indirecta a una persona, idea o situación sin nombrarla de forma explícita.",
+      "ejemplo": "Una alusión permite sugerir algo sin decirlo literalmente."
+    }
+  },
+  {
+    "dia": 132,
+    "fecha": "2027-02-24",
+    "fechaTexto": "mié, 24 de feb",
+    "categoria": "El reto de Atrapa estrellas: ruta limpia",
+    "icono": "⭐",
+    "tono": "interactivo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca volver a uno de los rincones interactivos de ALEJA®.",
+    "poema": [
+      "Entra a Atrapa estrellas y juega una partida intentando priorizar movimientos precisos en lugar de perseguir cada punto. Tu reto es superar tres niveles o llegar al siguiente jefe, lo que ocurra primero. Si la dificultad sube demasiado, pausa y vuelve a intentarlo después. No se trata de completar todo a la fuerza, sino de observar patrones y mejorar una decisión por partida.",
+      "Al terminar, abre el lienzo y dibuja la trayectoria que habría seguido tu nave en el nivel más difícil: usa flechas, curvas y tres anotaciones sobre tus movimientos."
+    ],
+    "detalle": "Al terminar, abre el lienzo y dibuja la trayectoria que habría seguido tu nave en el nivel más difícil: usa flechas, curvas y tres anotaciones sobre tus movimientos.",
+    "buenasNoches": "Cada intento deja una pista para el siguiente. Descansa la vista y celebra el avance, incluso si hoy no hubo récord.",
+    "cancionTitulo": "Definition",
+    "cancionArtista": "Black Star",
+    "youtubeId": "EuJaStSL0xM",
+    "cancionUrl": "https://www.youtube.com/watch?v=EuJaStSL0xM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca volver a uno de los rincones interactivos de ALEJA®."
+      },
+      "mensajePrincipal": {
+        "titulo": "El reto de Atrapa estrellas: ruta limpia",
+        "contenido": "Entra a Atrapa estrellas y juega una partida intentando priorizar movimientos precisos en lugar de perseguir cada punto. Tu reto es superar tres niveles o llegar al siguiente jefe, lo que ocurra primero. Si la dificultad sube demasiado, pausa y vuelve a intentarlo después. No se trata de completar todo a la fuerza, sino de observar patrones y mejorar una decisión por partida."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra trayectoria",
+        "contenido": "Camino que sigue un objeto al desplazarse. Una trayectoria puede cambiar de dirección sin perder continuidad."
+      },
+      "buenasNoches": {
+        "contenido": "Cada intento deja una pista para el siguiente. Descansa la vista y celebra el avance, incluso si hoy no hubo récord."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Trayectoria",
+      "significado": "Camino que sigue un objeto al desplazarse.",
+      "ejemplo": "Una trayectoria puede cambiar de dirección sin perder continuidad."
+    }
   }
 ];
