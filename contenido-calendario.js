@@ -83,7 +83,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El taller de los tres personajes",
-        "contenido": "PLAN PARA HACER JUNTOS\n\nMateriales: plastilina de varios colores, una base de cartón o papel grueso, palillos cortos para unir piezas (con cuidado), marcadores y una hoja para ponerles nombre.\n\n1. Cada uno crea un personaje sin mostrarlo hasta terminar.\n2. El tercero se construye entre los dos: uno hace el cuerpo y el otro la cabeza; después intercambian.\n3. Inventen para cada personaje un nombre, un talento inútil y un miedo ridículo.\n4. Pónganlos juntos en una escena y dibujen el fondo con marcadores.\n\nRegla: no se permite destruir una figura; solo se puede mejorar con una idea del otro. Al final elijan cuál tendría su propia serie."
+        "contenido": "PLAN PARA HACER JUNTOS\n\nMateriales: plastilina de varios colores, una base de cartón o papel grueso, palillos cortos para unir piezas (con cuidado), marcadores y una hoja para ponerles nombre.\n\n1. Cada uno crea un personaje sin mostrarlo hasta terminar.\n2. El tercero se construye entre los dos: uno hace el cuerpo y el otro la cabeza; después intercambian.\n3. Inventen para cada personaje un nombre, un talento inútil y un miedo ridículo.\n4. Pónganlos juntos en una escena y dibujen el fondo con marcadores.\n\nRegla: no se permite destruir una figura; solo se puede mejorar con una idea del otro. Al final elijan cuál tendría su propia serie.\n\nTIEMPO ESTIMADO: 25–35 MINUTOS. Dividan el trabajo: cada persona modela un personaje y entre los dos inventan el tercero."
       },
       "palabraNueva": {
         "titulo": "La palabra del taller",
@@ -131,7 +131,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Función privada: The One I Love",
-        "contenido": "PELÍCULA PARA VER JUNTOS\n\nThe One I Love (2014), dirigida por Charlie McDowell. Una pareja se retira a una casa para intentar recomponer su relación, pero el lugar empieza a introducir situaciones extrañas. Es una mezcla de drama romántico, misterio y ciencia ficción íntima.\n\nPropuesta: véanla sin leer más sobre la trama para no arruinar las sorpresas. Antes de empezar, cada uno diga qué cree que necesita una relación cuando algo deja de funcionar. Al terminar, comparen sus teorías y elijan la escena que más preguntas les dejó. No hace falta estar de acuerdo."
+        "contenido": "PELÍCULA PARA VER JUNTOS\n\nThe One I Love (2014), dirigida por Charlie McDowell. Una pareja se retira a una casa para intentar recomponer su relación, pero el lugar empieza a introducir situaciones extrañas. Es una mezcla de drama romántico, misterio y ciencia ficción íntima.\n\nPropuesta: véanla sin leer más sobre la trama para no arruinar las sorpresas. Antes de empezar, cada uno diga qué cree que necesita una relación cuando algo deja de funcionar. Al terminar, comparen sus teorías y elijan la escena que más preguntas les dejó. No hace falta estar de acuerdo.\n\nDURACIÓN DE LA PELÍCULA: aproximadamente 91 MINUTOS. Reserven otros 10 minutos para conversar al final; si prefieren verla otro día, la pregunta queda guardada."
       },
       "palabraNueva": {
         "titulo": "Una palabra para la sobremesa",
@@ -414,7 +414,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Nivel 1: silueta y color",
-        "contenido": "Materiales: papel grueso o cartulina, lápiz, borrador, pincel fino y mediano, agua y pinturas acrílicas o gouache en rosa, blanco, verde y un tono oscuro. Primero dibuja un óvalo central; alrededor agrega pétalos en capas, unos más cortos al centro y otros abiertos hacia afuera. Pinta primero la silueta con un tono claro, deja secar y marca la separación entre pétalos con un rosa más intenso. Añade dos hojas verdes debajo. Reto extra: mezcla tres tonos de rosa sin usar el color directamente del envase. Tutorial de referencia: Tutorial de referencia: busca en YouTube «flor de loto paso a paso en YouTube».. Cuando lo termines, guarda la foto: será la referencia para el nivel 2."
+        "contenido": "Materiales: papel grueso o cartulina, lápiz, borrador, pincel fino y mediano, agua y pinturas acrílicas o gouache en rosa, blanco, verde y un tono oscuro. Primero dibuja un óvalo central; alrededor agrega pétalos en capas, unos más cortos al centro y otros abiertos hacia afuera. Pinta primero la silueta con un tono claro, deja secar y marca la separación entre pétalos con un rosa más intenso. Añade dos hojas verdes debajo. Reto extra: mezcla tres tonos de rosa sin usar el color directamente del envase. Tutorial de referencia: Tutorial de referencia: busca en YouTube «flor de loto paso a paso en YouTube».. Cuando lo termines, guarda la foto: será la referencia para el nivel 2.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS para el nivel 1. Guarda la misma hoja: los siguientes niveles deben mejorar esta flor, no empezar otra desde cero."
       },
       "palabraNueva": {
         "titulo": "Palabra de taller",
@@ -461,7 +461,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una noche de cielo inventado",
-        "contenido": "Preparen un rincón cómodo con una manta, apaguen algunas luces y creen su propio cielo nocturno. Cada uno inventa tres constelaciones a partir de formas que vea en el techo o en dibujos: pónganles nombre, inventen qué historia cuentan y qué deseo escondería cada una. Si quieren, acompañen el momento con una bebida y una lista de canciones tranquilas. No hace falta que quede perfecto: la misión es construir un pequeño universo compartido."
+        "contenido": "Preparen un rincón cómodo con una manta, apaguen algunas luces y creen su propio cielo nocturno. Cada uno inventa tres constelaciones a partir de formas que vea en el techo o en dibujos: pónganles nombre, inventen qué historia cuentan y qué deseo escondería cada una. Si quieren, acompañen el momento con una bebida y una lista de canciones tranquilas. No hace falta que quede perfecto: la misión es construir un pequeño universo compartido.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cada persona inventa tres constelaciones y cuenta la historia de una; no hay que terminar las seis historias esta noche."
       },
       "palabraNueva": {
         "titulo": "Palabra de aventura",
@@ -509,7 +509,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La compra y la receta",
-        "contenido": "Compra para dos: 2 pimentones grandes, 250 g de carne molida, ½ taza de arroz cocido, ½ cebolla, 1 tomate, 1 diente de ajo, ½ taza de salsa de tomate, queso rallado opcional, aceite, sal, pimienta, comino y un poquito de agua o caldo. Preparación: 1) corta la parte superior de los pimentones y retira semillas; 2) sofríe cebolla y ajo picados; 3) añade la carne, sal, pimienta y comino, y cocina hasta que esté bien hecha; 4) mezcla con el arroz y parte de la salsa; 5) rellena los pimentones; 6) ponlos de pie en una sartén profunda con el resto de la salsa y un chorrito de agua; 7) tapa y cocina a fuego bajo unos 25–35 minutos, girando la sartén si hace falta, hasta que los pimentones estén tiernos y la carne alcance cocción completa. Añade queso al final y tapa dos minutos para fundirlo. Si son muy altos, córtalos por la mitad a lo largo y acomódalos acostados."
+        "contenido": "Compra para dos: 2 pimentones grandes, 250 g de carne molida, ½ taza de arroz cocido, ½ cebolla, 1 tomate, 1 diente de ajo, ½ taza de salsa de tomate, queso rallado opcional, aceite, sal, pimienta, comino y un poquito de agua o caldo. Preparación: 1) corta la parte superior de los pimentones y retira semillas; 2) sofríe cebolla y ajo picados; 3) añade la carne, sal, pimienta y comino, y cocina hasta que esté bien hecha; 4) mezcla con el arroz y parte de la salsa; 5) rellena los pimentones; 6) ponlos de pie en una sartén profunda con el resto de la salsa y un chorrito de agua; 7) tapa y cocina a fuego bajo unos 25–35 minutos, girando la sartén si hace falta, hasta que los pimentones estén tiernos y la carne alcance cocción completa. Añade queso al final y tapa dos minutos para fundirlo. Si son muy altos, córtalos por la mitad a lo largo y acomódalos acostados.\n\nTIEMPO ESTIMADO: 30–35 MINUTOS. Si esta receta será el almuerzo de mañana, acuerden hoy quién la prepara, revisen qué ingredientes faltan y compren lo necesario al salir del trabajo."
       },
       "palabraNueva": {
         "titulo": "Palabra de cocina",
@@ -604,7 +604,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una cafetería de clima cálido, pero en casa",
-        "contenido": "Preparen una bebida fría con agua, limón, naranja, hierbabuena y hielo. Añadan fruta cortada y armen una pequeña mesa como si fuera una cafetería junto al mar. Cada persona inventa el nombre de la bebida y diseña una tarjeta para el menú. Si quieren, elijan música que recuerde a un lugar cálido y creen una lista de tres destinos que les gustaría conocer algún día, sin poner fechas ni compromisos. Revisen siempre las etiquetas de los alimentos para descartar maní y trazas relevantes, y eviten la contaminación cruzada."
+        "contenido": "Preparen una bebida fría con agua, limón, naranja, hierbabuena y hielo. Añadan fruta cortada y armen una pequeña mesa como si fuera una cafetería junto al mar. Cada persona inventa el nombre de la bebida y diseña una tarjeta para el menú. Si quieren, elijan música que recuerde a un lugar cálido y creen una lista de tres destinos que les gustaría conocer algún día, sin poner fechas ni compromisos. Revisen siempre las etiquetas de los alimentos para descartar maní y trazas relevantes, y eviten la contaminación cruzada.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Preparar la bebida toma unos minutos; el resto es diseñar el nombre y la pequeña carta de esa cafetería imaginaria."
       },
       "palabraNueva": {
         "titulo": "Palabra para viajar",
@@ -652,7 +652,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tu ruta de progreso",
-        "contenido": "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: Abre YouTube y busca: acrílico luces y sombras flor de loto principiantes.. Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel."
+        "contenido": "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: Abre YouTube y busca: acrílico luces y sombras flor de loto principiantes.. Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel.\n\nTIEMPO SUGERIDO: 30–40 MINUTOS para completar los tres niveles. Si hoy solo hay tiempo para uno, termina el nivel actual y deja el siguiente como continuación."
       },
       "palabraNueva": {
         "titulo": "Palabra de progreso",
@@ -700,7 +700,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La cita: jurado de comedia",
-        "contenido": "Reglas: cada uno propone dos películas; antes de empezar, cada quien explica en veinte segundos por qué la eligió, sin contar el final. Vemos la ganadora y al terminar puntuamos tres cosas: carcajadas, escena más absurda y personaje que nos cayó mejor. Si no nos convence en los primeros veinte minutos, tenemos derecho a cambiarla sin culpa. Acompañamiento: algo para picar y bebidas que nos gusten. La misión secreta es descubrir qué tipo de humor nos hace reír a los dos."
+        "contenido": "Reglas: cada uno propone dos películas; antes de empezar, cada quien explica en veinte segundos por qué la eligió, sin contar el final. Vemos la ganadora y al terminar puntuamos tres cosas: carcajadas, escena más absurda y personaje que nos cayó mejor. Si no nos convence en los primeros veinte minutos, tenemos derecho a cambiarla sin culpa. Acompañamiento: algo para picar y bebidas que nos gusten. La misión secreta es descubrir qué tipo de humor nos hace reír a los dos.\n\nTIEMPO DEL PLAN: 10 MINUTOS para elegir y votar, más la duración de la película escogida (normalmente 90–120 MINUTOS). La conversación posterior puede durar otros 10 minutos."
       },
       "palabraNueva": {
         "titulo": "Palabra del día",
@@ -748,7 +748,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Juego: dos verdades y un futuro",
-        "contenido": "Cada uno dice tres frases: dos cosas que sí le gustaría vivir algún día y una que no le llama la atención. La otra persona debe adivinar cuál es la que no quiere. Después viene la segunda ronda: convertir una de las ideas en un plan posible. Ejemplos: aprender algo juntos, conocer un paisaje, hacer una escapada, probar una actividad nueva o crear una tradición. No se vale burlarse de las respuestas; se vale preguntar qué hay detrás de cada deseo. Si una idea necesita dinero o tiempo, la dejamos en la lista de futuro, sin presión."
+        "contenido": "Cada uno dice tres frases: dos cosas que sí le gustaría vivir algún día y una que no le llama la atención. La otra persona debe adivinar cuál es la que no quiere. Después viene la segunda ronda: convertir una de las ideas en un plan posible. Ejemplos: aprender algo juntos, conocer un paisaje, hacer una escapada, probar una actividad nueva o crear una tradición. No se vale burlarse de las respuestas; se vale preguntar qué hay detrás de cada deseo. Si una idea necesita dinero o tiempo, la dejamos en la lista de futuro, sin presión.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Si participan tres en la oficina, hagan una ronda de 5 minutos durante una pausa y dejen la parte más personal para otro momento."
       },
       "palabraNueva": {
         "titulo": "Palabra para pensar",
@@ -796,7 +796,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Compra y preparación para dos",
-        "contenido": "Compra: 2 arepas grandes, 2 huevos, ½ aguacate, ½ tomate, un puñado de espinaca, queso rallado, ½ limón, aceite, sal y pimienta. 1) Dora las arepas en sartén por ambos lados y resérvalas. 2) Saltea la espinaca y el tomate picado durante dos minutos. 3) Cocina los huevos revueltos o fritos, como prefiramos. 4) Machaca el aguacate con limón, sal y pimienta. 5) Abre las arepas sin separarlas del todo, añade queso para que se funda con el calor, incorpora huevo y vegetales y termina con aguacate. Salsa rápida: mezcla una cucharada de aceite con limón, sal y pimienta hasta emulsionar. No requiere horno. Turno de cocina: hoy cocinamos juntos y cada uno arma su arepa a su gusto."
+        "contenido": "Compra: 2 arepas grandes, 2 huevos, ½ aguacate, ½ tomate, un puñado de espinaca, queso rallado, ½ limón, aceite, sal y pimienta. 1) Dora las arepas en sartén por ambos lados y resérvalas. 2) Saltea la espinaca y el tomate picado durante dos minutos. 3) Cocina los huevos revueltos o fritos, como prefiramos. 4) Machaca el aguacate con limón, sal y pimienta. 5) Abre las arepas sin separarlas del todo, añade queso para que se funda con el calor, incorpora huevo y vegetales y termina con aguacate. Salsa rápida: mezcla una cucharada de aceite con limón, sal y pimienta hasta emulsionar. No requiere horno. Turno de cocina: hoy cocinamos juntos y cada uno arma su arepa a su gusto.\n\nTIEMPO ESTIMADO: 20–25 MINUTOS. Una persona prepara las arepas y la otra los huevos y vegetales; junten todo al final para que no se enfríe."
       },
       "palabraNueva": {
         "titulo": "Palabra de cocina",
@@ -891,7 +891,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La cita: tres rondas de conversación",
-        "contenido": "Preparamos algo sencillo o pedimos lo que nos provoque. Ponemos una vela segura o una lámpara cálida, servimos las bebidas que prefiramos y hacemos tres rondas: 1) un recuerdo pequeño que todavía nos haga sonreír; 2) algo nuevo que nos gustaría aprender o probar; 3) una pregunta que nunca nos hemos hecho. Cada uno puede pasar una pregunta si no le apetece responder. El objetivo no es interrogarse ni resolver nada, sino escucharnos. Música bajita y celulares lejos durante un rato."
+        "contenido": "Preparamos algo sencillo o pedimos lo que nos provoque. Ponemos una vela segura o una lámpara cálida, servimos las bebidas que prefiramos y hacemos tres rondas: 1) un recuerdo pequeño que todavía nos haga sonreír; 2) algo nuevo que nos gustaría aprender o probar; 3) una pregunta que nunca nos hemos hecho. Cada uno puede pasar una pregunta si no le apetece responder. El objetivo no es interrogarse ni resolver nada, sino escucharnos. Música bajita y celulares lejos durante un rato.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS, sin contar la comida. Pueden hacer una ronda corta si están cansados y dejar las otras dos para otra ocasión."
       },
       "palabraNueva": {
         "titulo": "Palabra de la noche",
@@ -939,7 +939,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Reto: el objeto imposible",
-        "contenido": "Materiales: hojas, lápiz, marcadores, cartón reciclado, cinta y tijeras. Paso 1: cada uno inventa un objeto que resuelva un problema cotidiano de una manera inesperada. Paso 2: dibuja tres vistas: frente, lado y arriba. Paso 3: ponle nombre y escribe qué hace en una frase. Paso 4: construye una maqueta sencilla con cartón o papel. Nivel 2: añade una función inesperada. Nivel 3: intercambien diseños y cada uno debe mejorar el prototipo del otro sin borrar su idea original. Al final hacemos una presentación de un minuto como si estuviéramos vendiendo el invento."
+        "contenido": "Materiales: hojas, lápiz, marcadores, cartón reciclado, cinta y tijeras. Paso 1: cada uno inventa un objeto que resuelva un problema cotidiano de una manera inesperada. Paso 2: dibuja tres vistas: frente, lado y arriba. Paso 3: ponle nombre y escribe qué hace en una frase. Paso 4: construye una maqueta sencilla con cartón o papel. Nivel 2: añade una función inesperada. Nivel 3: intercambien diseños y cada uno debe mejorar el prototipo del otro sin borrar su idea original. Al final hacemos una presentación de un minuto como si estuviéramos vendiendo el invento.\n\nTIEMPO SUGERIDO: 25–30 MINUTOS. Dediquen 5 minutos a la idea, 10 al boceto y el resto a explicar cómo funcionaría el objeto."
       },
       "palabraNueva": {
         "titulo": "Palabra de taller",
@@ -986,8 +986,8 @@ const CALENDARIO = [
         "contenido": "Para otro fin de semana libre, te propongo una pequeña ruta de cafés: no nombres concretos, sino buscar un sitio con buena luz, mesas cómodas, una ventana interesante y un ambiente donde podamos quedarnos dibujando."
       },
       "mensajePrincipal": {
-        "titulo": "Plan: café + cuaderno + diez dibujos",
-        "contenido": "Cuando elijamos el día, buscamos una cafetería abierta y revisamos horarios y presupuesto. Llevamos un cuaderno pequeño, lápiz, borrador y dos marcadores. Cada uno hace diez dibujos de dos minutos: una taza, una lámpara, una planta, una sombra, una silla, una fachada que se vea desde la ventana o cualquier objeto. No dibujamos a desconocidos de forma identificable. Después intercambiamos cuadernos y elegimos el dibujo más inesperado. Nivel extra: convertir uno de los bocetos en una ilustración a color en casa."
+        "titulo": "Café de escritorio y diez dibujos",
+        "contenido": "PLAN CREATIVO PARA DOS · 20–25 MINUTOS · EN CASA O EN LA PAUSA DEL ALMUERZO\n\nPreparen café, té o la bebida que ya tengan; no hace falta comprar nada. Busquen una hoja y un lápiz. Cada uno hará diez dibujos rápidos, de un minuto cada uno: una taza, una ventana, una planta, un zapato, una nube, una llave, una mascota, una comida, una sombra y un objeto inventado.\n\nDespués elijan el dibujo más extraño del otro y pónganle un título de exposición. Si están en la oficina, hagan solo tres dibujos durante una pausa de 5 minutos y guarden los otros para después. La idea del café fuera de casa queda como plan futuro, no como una salida que haya que organizar ahora.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS en casa; versión de oficina de 5 minutos con tres dibujos por persona."
       },
       "palabraNueva": {
         "titulo": "Palabra de hoy",
@@ -1083,7 +1083,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Actividad: carta y respuesta",
-        "contenido": "Materiales: dos hojas, sobres, bolígrafos y algo para decorar si queremos. Cada uno escribe durante diez minutos empezando con una de estas frases: «Algo tuyo que quizá no te digo suficiente…», «Un momento contigo que recuerdo con cariño…» o «Algo que me gustaría que hiciéramos algún día…». Intercambiamos las cartas y respondemos con otra hoja: no para corregir ni discutir, sino para contar qué nos hizo sentir y qué nos gustaría añadir. Podemos guardarlas en un sobre común y abrirlas dentro de un mes."
+        "contenido": "Materiales: dos hojas, sobres, bolígrafos y algo para decorar si queremos. Cada uno escribe durante diez minutos empezando con una de estas frases: «Algo tuyo que quizá no te digo suficiente…», «Un momento contigo que recuerdo con cariño…» o «Algo que me gustaría que hiciéramos algún día…». Intercambiamos las cartas y respondemos con otra hoja: no para corregir ni discutir, sino para contar qué nos hizo sentir y qué nos gustaría añadir. Podemos guardarlas en un sobre común y abrirlas dentro de un mes.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS: 10 para escribir, 5 para leer si ambos quieren y 5 para decorar o guardar las cartas."
       },
       "palabraNueva": {
         "titulo": "Palabra para compartir",
@@ -1131,7 +1131,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Reto en tres niveles: fotograma ilustrado",
-        "contenido": "Materiales: papel grueso, lápiz, borrador, regla opcional y marcadores o pinturas. Nivel 1: dibuja solo las formas grandes y ubica horizonte, personajes u objetos sin detalles. Nivel 2: limita la paleta a cuatro colores y trabaja luces y sombras. Nivel 3: cambia un elemento de la escena —la hora del día, el clima o el color dominante— para contar una emoción distinta. Tutorial: en YouTube busca «cómo dibujar composición de una escena cinematográfica para principiantes». Si lo hacemos juntos, cada uno elige un fotograma distinto de la misma película y comparamos cómo lo interpretamos."
+        "contenido": "Materiales: papel grueso, lápiz, borrador, regla opcional y marcadores o pinturas. Nivel 1: dibuja solo las formas grandes y ubica horizonte, personajes u objetos sin detalles. Nivel 2: limita la paleta a cuatro colores y trabaja luces y sombras. Nivel 3: cambia un elemento de la escena —la hora del día, el clima o el color dominante— para contar una emoción distinta. Tutorial: en YouTube busca «cómo dibujar composición de una escena cinematográfica para principiantes». Si lo hacemos juntos, cada uno elige un fotograma distinto de la misma película y comparamos cómo lo interpretamos.\n\nTIEMPO SUGERIDO: 30–45 MINUTOS. Nivel 1: 10 minutos; nivel 2: 10–15; nivel 3: el tiempo restante para luces, detalles y acabado."
       },
       "palabraNueva": {
         "titulo": "Palabra de taller",
@@ -1227,7 +1227,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Reto: miniatura en tres etapas",
-        "contenido": "Materiales: arcilla de secado al aire o plastilina, una base de cartón, palillo de modelado, un poco de agua si el fabricante lo permite, pintura acrílica y pinceles para terminar. Nivel 1: crea tres formas básicas —esfera, cilindro y cono— y únelas para formar el objeto. Nivel 2: añade detalles y texturas con el palillo. Nivel 3: pinta la pieza y construye un pequeño entorno sobre la base. Si usamos arcilla de secado al aire, sigue el tiempo de secado del empaque y no la hornees salvo que el fabricante lo indique. Podemos hacer piezas distintas que luego formen un mismo escenario."
+        "contenido": "Materiales: arcilla de secado al aire o plastilina, una base de cartón, palillo de modelado, un poco de agua si el fabricante lo permite, pintura acrílica y pinceles para terminar. Nivel 1: crea tres formas básicas —esfera, cilindro y cono— y únelas para formar el objeto. Nivel 2: añade detalles y texturas con el palillo. Nivel 3: pinta la pieza y construye un pequeño entorno sobre la base. Si usamos arcilla de secado al aire, sigue el tiempo de secado del empaque y no la hornees salvo que el fabricante lo indique. Podemos hacer piezas distintas que luego formen un mismo escenario.\n\nTIEMPO SUGERIDO: 30–40 MINUTOS para modelar. El secado y la pintura se hacen después, según las indicaciones del material."
       },
       "palabraNueva": {
         "titulo": "Palabra de taller",
@@ -1275,7 +1275,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Compra y receta para dos",
-        "contenido": "Compra: 300 g de carne de res en cubos o tiras, 1 taza de arroz, 2 tomates maduros, ½ cebolla, 1 diente de ajo, ½ pimentón, 1 zanahoria pequeña, aceite, sal, pimienta, comino y cilantro opcional. Para la carne: sofríe cebolla, ajo y pimentón; añade la carne y dórala por tandas. Incorpora tomate picado, zanahoria, comino, sal y un chorrito de agua. Tapa y cocina a fuego bajo hasta que la carne esté tierna, agregando agua si hace falta. Destapa al final y deja reducir la salsa hasta que espese. Para el arroz: lava una taza, sofríela brevemente con una cucharadita de aceite, agrega dos tazas de agua y sal; cocina tapado a fuego bajo hasta que se absorba. Acompaña con tomate y pepino en cubos con limón. Ajusta el tiempo según el corte de carne y verifica que esté bien cocida."
+        "contenido": "Compra: 300 g de carne de res en cubos o tiras, 1 taza de arroz, 2 tomates maduros, ½ cebolla, 1 diente de ajo, ½ pimentón, 1 zanahoria pequeña, aceite, sal, pimienta, comino y cilantro opcional. Para la carne: sofríe cebolla, ajo y pimentón; añade la carne y dórala por tandas. Incorpora tomate picado, zanahoria, comino, sal y un chorrito de agua. Tapa y cocina a fuego bajo hasta que la carne esté tierna, agregando agua si hace falta. Destapa al final y deja reducir la salsa hasta que espese. Para el arroz: lava una taza, sofríela brevemente con una cucharadita de aceite, agrega dos tazas de agua y sal; cocina tapado a fuego bajo hasta que se absorba. Acompaña con tomate y pepino en cubos con limón. Ajusta el tiempo según el corte de carne y verifica que esté bien cocida.\n\nTIEMPO ESTIMADO: 35–40 MINUTOS. Si será el almuerzo de mañana, decidan la noche anterior qué tienen y qué falta; la compra puede hacerse al salir del trabajo."
       },
       "palabraNueva": {
         "titulo": "Palabra de cocina",
@@ -1322,8 +1322,8 @@ const CALENDARIO = [
         "contenido": "Para el próximo día despejado, armemos un picnic sencillo. No necesitamos escoger ahora un parque específico: busquemos cuando llegue la fecha un espacio público permitido, con sombra, baños cercanos y condiciones seguras."
       },
       "mensajePrincipal": {
-        "titulo": "Plan y reto fotográfico",
-        "contenido": "Llevamos una manta, agua, fruta, sándwiches o algo fácil de compartir, servilletas, bolsa para residuos y protector solar. Al llegar, hacemos seis fotos con temas: una textura, una sombra, algo amarillo, una vista amplia, un detalle que casi nadie notaría y una foto que represente cómo se siente el día. No fotografiamos personas identificables sin permiso. Nivel extra: cada uno elige una foto del otro y le escribe un título como si fuera una obra de museo. Si el clima no acompaña, podemos hacer el mismo reto en casa junto a una ventana."
+        "titulo": "Seis fotografías sin salir de casa",
+        "contenido": "RETO FOTOGRÁFICO · 20–25 MINUTOS · COSTO CERO\n\nNo hace falta organizar un picnic ni desplazarse. Con el celular, busquen seis imágenes dentro de casa o desde una ventana: una textura, una sombra, algo amarillo, un reflejo, un objeto que use mucho alguien de la casa y un detalle que normalmente pase inadvertido.\n\nRegla: no fotografíen a nadie sin su permiso y eviten mostrar información privada. Después elijan una foto cada uno y escriban una frase que cuente algo distinto de lo que se ve. Si quieren, guarden las seis imágenes para convertirlas más adelante en una pequeña salida fotográfica, cuando coincidan las ganas y el presupuesto."
       },
       "palabraNueva": {
         "titulo": "Palabra del día",
@@ -1371,7 +1371,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El museo de tres piezas",
-        "contenido": "Cada uno elige tres objetos: uno que use mucho, uno que guarde por cariño y uno que parezca no tener importancia. Los ponemos sobre una mesa y escribimos una ficha para cada uno: nombre de la pieza, año aproximado, por qué la conservamos y qué diría un visitante imaginario. Después hacemos una visita guiada de dos minutos por el museo del otro. Regla: no se vale escoger algo que la otra persona no quiera compartir. Nivel extra: fotografiamos las piezas con luz de ventana y hacemos una mini exposición digital."
+        "contenido": "Cada uno elige tres objetos: uno que use mucho, uno que guarde por cariño y uno que parezca no tener importancia. Los ponemos sobre una mesa y escribimos una ficha para cada uno: nombre de la pieza, año aproximado, por qué la conservamos y qué diría un visitante imaginario. Después hacemos una visita guiada de dos minutos por el museo del otro. Regla: no se vale escoger algo que la otra persona no quiera compartir. Nivel extra: fotografiamos las piezas con luz de ventana y hacemos una mini exposición digital.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres objetos por persona; máximo dos minutos para presentar cada pieza."
       },
       "palabraNueva": {
         "titulo": "Palabra de museo",
@@ -1419,7 +1419,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Cápsula de voz para abrir en seis meses",
-        "contenido": "Materiales: un celular con grabadora, dos audífonos si queremos escuchar juntos y una nota para recordar la fecha. Grabamos un audio de máximo tres minutos cada uno respondiendo: ¿qué me tiene ilusionado?, ¿qué me preocupa un poquito?, ¿qué plan me gustaría que ya hubiéramos hecho dentro de seis meses? Después grabamos un mensaje compartido con una predicción divertida sobre nosotros. Guárdenlo en una carpeta o dispositivo al que ambos tengan acceso y pongan un recordatorio para escucharlo en seis meses. No incluyan datos privados que no quieran conservar."
+        "contenido": "Materiales: un celular con grabadora, dos audífonos si queremos escuchar juntos y una nota para recordar la fecha. Grabamos un audio de máximo tres minutos cada uno respondiendo: ¿qué me tiene ilusionado?, ¿qué me preocupa un poquito?, ¿qué plan me gustaría que ya hubiéramos hecho dentro de seis meses? Después grabamos un mensaje compartido con una predicción divertida sobre nosotros. Guárdenlo en una carpeta o dispositivo al que ambos tengan acceso y pongan un recordatorio para escucharlo en seis meses. No incluyan datos privados que no quieran conservar.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS para grabar y guardar las notas. La cápsula se escucha dentro de seis meses, no hace falta revisarla antes."
       },
       "palabraNueva": {
         "titulo": "Palabra para el futuro",
@@ -1467,7 +1467,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Reto: nuestro color secreto",
-        "contenido": "Materiales: pintura acrílica o gouache en rojo, amarillo, azul y blanco; pincel, paleta o plato reutilizable, agua, papel grueso y etiquetas. Nivel 1: mezcla dos colores para obtener tres tonos distintos. Nivel 2: cambia la cantidad de blanco o del color complementario y observa cómo se transforma el matiz. Nivel 3: crea una paleta de cinco tonos que combinen con tu color secreto. Anota las proporciones aproximadas para poder repetirlo. Cada uno le pone un nombre al suyo y pinta una pequeña tarjeta de muestra. Tutorial de referencia: busca en YouTube «mezcla de colores acrílicos teoría del color para principiantes». Después intercambien las tarjetas y cada uno inventa una emoción o paisaje para el color del otro."
+        "contenido": "Materiales: pintura acrílica o gouache en rojo, amarillo, azul y blanco; pincel, paleta o plato reutilizable, agua, papel grueso y etiquetas. Nivel 1: mezcla dos colores para obtener tres tonos distintos. Nivel 2: cambia la cantidad de blanco o del color complementario y observa cómo se transforma el matiz. Nivel 3: crea una paleta de cinco tonos que combinen con tu color secreto. Anota las proporciones aproximadas para poder repetirlo. Cada uno le pone un nombre al suyo y pinta una pequeña tarjeta de muestra. Tutorial de referencia: busca en YouTube «mezcla de colores acrílicos teoría del color para principiantes». Después intercambien las tarjetas y cada uno inventa una emoción o paisaje para el color del otro.\n\nTIEMPO SUGERIDO: 25–30 MINUTOS. Reserva 5 minutos para mezclar, 10 para encontrar el tono y el resto para crear la tarjeta con su nombre."
       },
       "palabraNueva": {
         "titulo": "Palabra de color",
@@ -1514,8 +1514,8 @@ const CALENDARIO = [
         "contenido": "Para una noche despejada, quiero proponerte un plan sencillo: salir a mirar las estrellas. Puede ser desde un lugar seguro con poca contaminación lumínica o durante una escapada futura; no necesitamos decidir el sitio hoy."
       },
       "mensajePrincipal": {
-        "titulo": "Plan de observación del cielo",
-        "contenido": "Antes de salir, revisamos el pronóstico, la fase lunar y si el lugar permite permanecer de noche. Llevamos chaqueta, agua, linterna de luz tenue, manta y batería para el celular. Primero dejamos que los ojos se acostumbren a la oscuridad durante unos minutos. Después buscamos la Luna, planetas visibles y constelaciones con una aplicación de mapa celeste, sin depender de que aparezca un fenómeno especial. Reto: cada uno elige una estrella o constelación y le inventa un nombre propio. Si el lugar no es seguro o el clima cambia, hacemos la observación desde una ventana o aplazamos el plan."
+        "titulo": "El cielo visto desde nuestra ventana",
+        "contenido": "PLAN DE OBSERVACIÓN · 10–15 MINUTOS · DESDE CASA\n\nNo necesitamos salir de noche ni buscar un lugar especial. Elijan una ventana, balcón seguro o punto desde el que se vea una parte del cielo. Comprueben el pronóstico y observen durante unos minutos cómo cambia la luz.\n\n1. Encuentren la zona más clara y la más oscura.\n2. Busquen la Luna o una estrella visible, si las condiciones lo permiten.\n3. Cada uno inventa el nombre de una constelación a partir de las formas que imagina.\n4. Anoten una pregunta que les gustaría resolver sobre el cielo.\n\nSi algún día quieren convertirlo en una salida nocturna, será otra propuesta: solo si el clima, la seguridad, el transporte y las ganas acompañan."
       },
       "palabraNueva": {
         "titulo": "Palabra del cielo",
@@ -1563,7 +1563,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Juego: cinco escenas, cinco canciones",
-        "contenido": "Cada uno elige una canción para cinco escenas: una mañana tranquila, un viaje por carretera, una noche de baile, un momento difícil que logró superar y un día que quisiera repetir. No se muestran las elecciones hasta que ambos terminen. Después escuchamos fragmentos y explicamos por qué elegimos cada tema. Ronda extra: inventen el título y la canción de una película sobre su vida juntos. No hace falta que todas las elecciones coincidan; la gracia está en conocer las historias detrás de ellas."
+        "contenido": "Cada uno elige una canción para cinco escenas: una mañana tranquila, un viaje por carretera, una noche de baile, un momento difícil que logró superar y un día que quisiera repetir. No se muestran las elecciones hasta que ambos terminen. Después escuchamos fragmentos y explicamos por qué elegimos cada tema. Ronda extra: inventen el título y la canción de una película sobre su vida juntos. No hace falta que todas las elecciones coincidan; la gracia está en conocer las historias detrás de ellas.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una canción por escena y máximo un minuto para explicar cada elección."
       },
       "palabraNueva": {
         "titulo": "Palabra musical",
@@ -1611,7 +1611,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Compra y receta para dos",
-        "contenido": "Compra: 2 duraznos maduros pero firmes, 1 cucharada de mantequilla, 1½ cucharadas de azúcar morena, una pizca de canela, ½ limón y yogur griego o crema para servir. Lava y corta los duraznos en gajos. Derrite la mantequilla en una sartén a fuego medio, añade el azúcar y la canela y mezcla hasta que se disuelva. Incorpora los duraznos y cocínalos dos o tres minutos por lado, hasta que estén dorados y tiernos pero no deshechos. Añade unas gotas de limón al final. Sirve tibio sobre yogur o crema y, si quieres, agrega galleta triturada. Turno: uno se encarga de la sartén y el otro prepara los platos. Cuidado con el caramelo caliente; deja templar antes de probar."
+        "contenido": "Compra: 2 duraznos maduros pero firmes, 1 cucharada de mantequilla, 1½ cucharadas de azúcar morena, una pizca de canela, ½ limón y yogur griego o crema para servir. Lava y corta los duraznos en gajos. Derrite la mantequilla en una sartén a fuego medio, añade el azúcar y la canela y mezcla hasta que se disuelva. Incorpora los duraznos y cocínalos dos o tres minutos por lado, hasta que estén dorados y tiernos pero no deshechos. Añade unas gotas de limón al final. Sirve tibio sobre yogur o crema y, si quieres, agrega galleta triturada. Turno: uno se encarga de la sartén y el otro prepara los platos. Cuidado con el caramelo caliente; deja templar antes de probar.\n\nTIEMPO ESTIMADO: 15–20 MINUTOS. Cocina los duraznos a fuego medio y deja que se enfríen un poco antes de añadir el yogur o la crema."
       },
       "palabraNueva": {
         "titulo": "Palabra dulce",
@@ -1659,7 +1659,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Reto: tres rondas de baile",
-        "contenido": "Preparen una lista de seis canciones: dos que hagan mover el cuerpo, dos que les recuerden algo y dos elegidas por sorpresa. Ronda 1: cada uno inventa cuatro pasos sencillos y el otro los imita. Ronda 2: bailen treinta segundos usando solo movimientos de brazos y hombros; luego solo pasos pequeños. Ronda 3: inventen un saludo o movimiento que sea de ustedes. Si a alguno le da pena, pueden empezar sentados siguiendo el ritmo con las manos. Nivel extra: graben una coreografía de quince segundos solo si ambos quieren. Lo importante es divertirse, no hacerlo bien."
+        "contenido": "Preparen una lista de seis canciones: dos que hagan mover el cuerpo, dos que les recuerden algo y dos elegidas por sorpresa. Ronda 1: cada uno inventa cuatro pasos sencillos y el otro los imita. Ronda 2: bailen treinta segundos usando solo movimientos de brazos y hombros; luego solo pasos pequeños. Ronda 3: inventen un saludo o movimiento que sea de ustedes. Si a alguno le da pena, pueden empezar sentados siguiendo el ritmo con las manos. Nivel extra: graben una coreografía de quince segundos solo si ambos quieren. Lo importante es divertirse, no hacerlo bien.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres rondas de una canción cada una; pueden parar cuando quieran, no es una competencia física."
       },
       "palabraNueva": {
         "titulo": "Palabra para moverse",
@@ -1707,7 +1707,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Reto de la bebida a cuatro manos",
-        "contenido": "Compra una base para compartir: agua con gas, limonada o té frío sin azúcar; además, hielo, limón y fruta de temporada. Cada uno elige un ingrediente sorpresa: puede ser mora, fresa, uvas, durazno, pepino, hierbabuena o jengibre. Revelen las elecciones, mezclen primero una cantidad pequeña y ajusten el sabor. Pongan nombre a la bebida y escriban la receta para poder repetirla. Variante: preparen dos versiones y hagan una cata a ciegas. No hace falta alcohol para que sea especial; si ambos son adultos y quieren experimentar con una bebida alcohólica, háganlo en una ocasión aparte, con medida y sin conducir."
+        "contenido": "Compra una base para compartir: agua con gas, limonada o té frío sin azúcar; además, hielo, limón y fruta de temporada. Cada uno elige un ingrediente sorpresa: puede ser mora, fresa, uvas, durazno, pepino, hierbabuena o jengibre. Revelen las elecciones, mezclen primero una cantidad pequeña y ajusten el sabor. Pongan nombre a la bebida y escriban la receta para poder repetirla. Variante: preparen dos versiones y hagan una cata a ciegas. No hace falta alcohol para que sea especial; si ambos son adultos y quieren experimentar con una bebida alcohólica, háganlo en una ocasión aparte, con medida y sin conducir.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Para el almuerzo de oficina, preparen la base por la mañana y lleven hielo y fruta aparte; mezclen al servir."
       },
       "palabraNueva": {
         "titulo": "Palabra refrescante",
@@ -1755,7 +1755,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Taller de ramo asimétrico",
-        "contenido": "Materiales: tres a cinco flores (pueden ser tulipanes o margaritas), dos ramas verdes, tijeras, un recipiente limpio y agua. Corten los tallos en diagonal. Elijan una flor protagonista y coloquen las demás a distintas alturas; dejen espacios vacíos para que cada forma respire. Añadan las ramas verdes al final y giren el recipiente para revisar la composición desde varios ángulos. Nivel 1: un arreglo pequeño. Nivel 2: uno asimétrico. Nivel 3: cada uno prepara uno para el otro usando una sola flor protagonista. Si no quieren comprar flores, pueden hacerlo con hojas, ramas caídas o flores de papel."
+        "contenido": "Materiales: tres a cinco flores (pueden ser tulipanes o margaritas), dos ramas verdes, tijeras, un recipiente limpio y agua. Corten los tallos en diagonal. Elijan una flor protagonista y coloquen las demás a distintas alturas; dejen espacios vacíos para que cada forma respire. Añadan las ramas verdes al final y giren el recipiente para revisar la composición desde varios ángulos. Nivel 1: un arreglo pequeño. Nivel 2: uno asimétrico. Nivel 3: cada uno prepara uno para el otro usando una sola flor protagonista. Si no quieren comprar flores, pueden hacerlo con hojas, ramas caídas o flores de papel.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Si no quieren comprar flores, pueden usar ramas y hojas disponibles o hacer una versión con flores de papel."
       },
       "palabraNueva": {
         "titulo": "Palabra entre flores",
@@ -1897,8 +1897,8 @@ const CALENDARIO = [
         "contenido": "Hoy el centro comercial será nuestro tablero de juego. No vamos a comprar por comprar: tendremos misiones pequeñas, presupuesto acordado y permiso para pasar cualquier reto."
       },
       "mensajePrincipal": {
-        "titulo": "Búsqueda de cinco misiones",
-        "contenido": "Vayan a un centro comercial que les quede cómodo y acuerden de antemano un presupuesto, incluso puede ser cero. Escriban cinco misiones en notas del celular: encontrar el objeto más extraño, elegir un accesorio que el otro usaría, descubrir un sabor nuevo, escoger un regalo simbólico por un valor máximo y encontrar un rincón bonito para una foto. Cada turno se elige una misión al azar. Se puede cambiar cualquier reto que incomode o implique gastar más de lo acordado. Al final, cada uno presenta su hallazgo favorito y explica por qué lo escogió."
+        "titulo": "Cinco misiones para una pausa compartida",
+        "contenido": "JUEGO PARA TRES · 10–15 MINUTOS · EN OFICINA O EN CASA · COSTO CERO\n\nNo hace falta ir a un centro comercial. En una pausa que no interrumpa el trabajo, escriban cinco misiones en una nota: encontrar el objeto más extraño del escritorio, inventar un nombre para una planta, descubrir algo azul, recomendar una canción y crear un anuncio de diez segundos para un objeto común.\n\nCada persona elige una misión y tiene un minuto para resolverla. Si están ocupados, hagan solo una ronda y dejen las demás para otro día. No hay compras ni premios necesarios: gana la explicación más ingeniosa."
       },
       "palabraNueva": {
         "titulo": "Palabra del juego",
@@ -1993,8 +1993,8 @@ const CALENDARIO = [
         "contenido": "Esta vez la propuesta sube un poquito: una tarde para ir a un mirador o parque alto, llevar una merienda y quedarnos un rato viendo cómo cambia la luz."
       },
       "mensajePrincipal": {
-        "titulo": "Plan de tarde: elegir la vista",
-        "contenido": "Busquen un mirador o parque elevado que sea público, seguro y accesible desde donde estén. Revisen transporte, clima, horarios y si hay que reservar o pagar entrada antes de decidir. Lleven agua, una merienda sencilla, chaqueta ligera y el celular cargado. Al llegar, cada uno elige un detalle del paisaje que el otro debe encontrar. Después hagan tres fotos: una del panorama, una de un detalle pequeño y una de ustedes o de la merienda, solo si ambos quieren. Si el sitio queda lejos, conviértanlo en un plan para otro fin de semana; no hay que forzarlo ni improvisar un trayecto inseguro."
+        "titulo": "Diseñemos la vista de una futura tarde",
+        "contenido": "IDEA PARA UN PLAN FUTURO · 10–15 MINUTOS DE DISEÑO\n\nHoy no vamos a salir ni a reservar nada. Imaginen una tarde en un mirador o parque alto, pero sin escoger todavía un sitio concreto. Cada persona dibuja o describe la vista que le gustaría encontrar, qué llevaría para compartir y cuánto tiempo querría quedarse.\n\nDespués hagan una lista breve de lo que habría que comprobar antes de convertirlo en plan: transporte, clima, acceso seguro, horarios, presupuesto y hora de regreso. La propuesta queda guardada como posibilidad; se hace únicamente si a ambos les apetece y resulta viable."
       },
       "palabraNueva": {
         "titulo": "Palabra de paisaje",
@@ -2042,7 +2042,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Galería de cinco momentos",
-        "contenido": "Cada uno selecciona cinco fotos de su celular: un lugar, una comida, un objeto, una persona o mascota importante y un momento espontáneo. No tienen que ser fotos tomadas juntos. Armen una galería en orden y pónganle un título. Después cada uno presenta sus cinco imágenes como si estuviera guiando una exposición: qué estaba pasando, qué detalle recuerda y por qué la eligió. Si quieren, impriman una sola foto y escriban detrás una frase para conservarla. No revisen carpetas privadas ni compartan imágenes que el otro no quiera mostrar."
+        "contenido": "Cada uno selecciona cinco fotos de su celular: un lugar, una comida, un objeto, una persona o mascota importante y un momento espontáneo. No tienen que ser fotos tomadas juntos. Armen una galería en orden y pónganle un título. Después cada uno presenta sus cinco imágenes como si estuviera guiando una exposición: qué estaba pasando, qué detalle recuerda y por qué la eligió. Si quieren, impriman una sola foto y escriban detrás una frase para conservarla. No revisen carpetas privadas ni compartan imágenes que el otro no quiera mostrar.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Cada uno selecciona cinco imágenes y dedica una frase a la que más le sorprenda."
       },
       "palabraNueva": {
         "titulo": "Palabra para guardar",
@@ -2090,7 +2090,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El juego de las preguntas cuidadosas",
-        "contenido": "Busquen un momento sin pantallas y alternen estas preguntas: ¿qué cosa pequeña te ha estado ocupando la cabeza?, ¿qué te hace sentir acompañado?, ¿qué plan te gustaría intentar aunque todavía no sepas cómo?, ¿qué límite te gustaría que entendiera mejor? Cada persona puede responder o pasar una pregunta sin tener que justificarse. Quien escucha no interrumpe para corregir ni solucionar; primero pregunta si la otra persona quiere una opinión o solo ser escuchada. Cierren diciendo una cosa que agradecen del otro hoy. Si alguna pregunta incomoda, se cambia por otra."
+        "contenido": "Busquen un momento sin pantallas y alternen estas preguntas: ¿qué cosa pequeña te ha estado ocupando la cabeza?, ¿qué te hace sentir acompañado?, ¿qué plan te gustaría intentar aunque todavía no sepas cómo?, ¿qué límite te gustaría que entendiera mejor? Cada persona puede responder o pasar una pregunta sin tener que justificarse. Quien escucha no interrumpe para corregir ni solucionar; primero pregunta si la otra persona quiere una opinión o solo ser escuchada. Cierren diciendo una cosa que agradecen del otro hoy. Si alguna pregunta incomoda, se cambia por otra.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Si están los tres en la oficina, elijan una pregunta ligera y limiten la ronda a 5 minutos durante una pausa."
       },
       "palabraNueva": {
         "titulo": "Palabra para conversar",
@@ -2138,7 +2138,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Cata a ciegas, versión amable",
-        "contenido": "Preparen entre cuatro y seis ingredientes conocidos y seguros: trozos de fresa, durazno, uva, queso, galleta simple o chocolate. Revisen etiquetas y preferencias antes de servir. Una persona tapa sus ojos o simplemente mira hacia otro lado mientras la otra le ofrece un ingrediente y le da pistas sobre textura, temperatura y sabor; después cambian. No usen alimentos desconocidos, picantes extremos ni mezclas que puedan causar malestar. Ronda extra: describan cada sabor con un color, una canción y una textura. Al final inventen una combinación para un postre futuro."
+        "contenido": "Preparen entre cuatro y seis ingredientes conocidos y seguros: trozos de fresa, durazno, uva, queso, galleta simple o chocolate. Revisen etiquetas y preferencias antes de servir. Una persona tapa sus ojos o simplemente mira hacia otro lado mientras la otra le ofrece un ingrediente y le da pistas sobre textura, temperatura y sabor; después cambian. No usen alimentos desconocidos, picantes extremos ni mezclas que puedan causar malestar. Ronda extra: describan cada sabor con un color, una canción y una textura. Al final inventen una combinación para un postre futuro.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Preparen porciones pequeñas y permitan que cualquiera pase un ingrediente o cambie de turno sin explicar por qué."
       },
       "palabraNueva": {
         "titulo": "Palabra de los sentidos",
@@ -14211,8 +14211,8 @@ const CALENDARIO = [
         "contenido": "Hoy un papel cualquiera tiene que convertirse en algo que se sostenga por sí mismo."
       },
       "mensajePrincipal": {
-        "titulo": "El desafío del papel imposible",
-        "contenido": "Toma una hoja y construye una figura de origami o una estructura sencilla que pueda mantenerse de pie sin cinta ni pegamento. Puedes intentar una grulla, una caja o una pequeña torre. Si no conoces los pliegues, busca una referencia y sigue los pasos con paciencia; después intenta repetirlo sin mirar las instrucciones."
+        "titulo": "Origami: una flor de papel en tres niveles",
+        "contenido": "RETO DE ORIGAMI · 20–30 MINUTOS · UNA HOJA CUADRADA Y PAPEL VERDE OPCIONAL\n\nMateriales: una hoja cuadrada de 15 × 15 cm para la flor, otra hoja verde para el tallo si tienen, y una superficie plana.\n\nNIVEL 1 · TULIPÁN (10 MINUTOS)\n1. Coloca la hoja con el color hacia abajo y dóblala en diagonal para formar un triángulo.\n2. Pon el lado largo abajo y la punta del triángulo hacia arriba.\n3. Lleva la esquina inferior izquierda hacia arriba, pero déjala un poco separada de la punta superior.\n4. Repite con la esquina derecha. Se formarán dos pétalos; ajusta la inclinación para que queden equilibrados.\n5. Dobla ligeramente hacia atrás las puntas laterales para suavizar la silueta y voltea la figura.\n\nNIVEL 2 · TALLO Y HOJA (5–10 MINUTOS)\n1. Con papel verde, dobla una esquina hacia la opuesta para marcar una diagonal y vuelve a abrir.\n2. Lleva los dos bordes largos hacia la línea central.\n3. Dobla la pieza por la mitad a lo largo y estrecha un extremo para formar el tallo.\n4. Haz un pliegue lateral pequeño para que aparezca una hoja.\n\nNIVEL 3 · COMPOSICIÓN (5–10 MINUTOS)\nHaz una segunda flor de otro tamaño o color y crea una tarjeta con el nombre de tu especie inventada. Si no tienes papel verde, dibuja el tallo: la flor sigue siendo el reto principal.\n\nRETO EN PAREJA: cada persona crea una flor distinta y luego inventan el nombre de una especie que solo florece en una situación inesperada.\n\nTIEMPO TOTAL: 20–30 MINUTOS. El nivel 1 puede hacerse solo; los niveles 2 y 3 completan la composición."
       },
       "palabraNueva": {
         "titulo": "La palabra atisbo",
