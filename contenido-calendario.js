@@ -4043,169 +4043,330 @@ const CALENDARIO = [
     "dia": 85,
     "fecha": "2027-01-08",
     "fechaTexto": "vie, 8 de ene",
-    "categoria": "Una tarde para aprender a mirar el cielo",
-    "icono": "🌇",
-    "tono": "ambiente",
+    "categoria": "Mezclar colores y nombrar emociones",
+    "icono": "🎨",
+    "tono": "creativo",
     "color": {
-      "principal": "#9fc7d4",
-      "suave": "#e2f1f3",
-      "oscuro": "#17333b"
+      "principal": "#d69bb7",
+      "suave": "#f4dce8",
+      "oscuro": "#2f1722"
     },
-    "buenosDias": "Te propongo un plan sencillo: salir a un lugar desde donde se vea bien el cielo y quedarse un rato sin convertir la salida en una carrera por hacer cosas.",
+    "buenosDias": "Hoy no hace falta explicar todo con palabras. Podemos traducir una emoción en color, forma y textura.",
     "poema": [
-      "Lleva algo para tomar y una cámara. Haz tres fotografías del mismo lugar: cuando el cielo aún está iluminado, cuando cambian los colores y cuando aparece la primera luz de la noche.",
-      "Compara cómo cambió el paisaje sin que ustedes se movieran demasiado. Puedes hacerlo sola o convertirlo en una salida compartida si algún día te provoca."
+      "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?",
+      "Diferencia sutil en la manera en que se siente o expresa una emoción.: Un matiz emocional puede cambiar una escena de alegre a nostálgica. No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí."
     ],
-    "detalle": "Guarda las tres fotografías juntas y ponles un título que no describa el paisaje, sino cómo se sintió ese rato.",
-    "buenasNoches": "Buenas noches. A veces basta con quedarse el tiempo suficiente para descubrir lo que estaba pasando delante de nosotros.",
-    "cancionTitulo": "Shut Up",
-    "cancionArtista": "Black Eyed Peas",
-    "youtubeId": "KRzMtlZjXpU",
-    "cancionUrl": "https://www.youtube.com/watch?v=KRzMtlZjXpU"
+    "detalle": "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?",
+    "buenasNoches": "Lo que hoy tuvo color",
+    "cancionTitulo": "I Want You Around",
+    "cancionArtista": "Snoh Aalegra",
+    "youtubeId": "WdyPcNEA27M",
+    "cancionUrl": "https://www.youtube.com/watch?v=WdyPcNEA27M",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de mezclar colores y nombrar emociones.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, un color propio",
+        "contenido": "Hoy no hace falta explicar todo con palabras. Podemos traducir una emoción en color, forma y textura."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una paleta para un estado de ánimo",
+        "contenido": "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del color",
+        "contenido": "Diferencia sutil en la manera en que se siente o expresa una emoción.: Un matiz emocional puede cambiar una escena de alegre a nostálgica. No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí."
+      },
+      "buenasNoches": {
+        "contenido": "Lo que hoy tuvo color"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Diferencia sutil en la manera en que se siente o expresa una emoción.",
+      "significado": "Un matiz emocional puede cambiar una escena de alegre a nostálgica.",
+      "ejemplo": "No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí."
+    }
   },
   {
     "dia": 86,
     "fecha": "2027-01-09",
     "fechaTexto": "sáb, 9 de ene",
-    "categoria": "Una pregunta sin sí ni no",
-    "icono": "❔",
-    "tono": "filosofica",
+    "categoria": "El reto de inventar una bebida",
+    "icono": "🥤",
+    "tono": "juguetón",
     "color": {
-      "principal": "#91a9c7",
-      "suave": "#e1eaf4",
-      "oscuro": "#17283c"
+      "principal": "#8fc9c0",
+      "suave": "#d9f0e9",
+      "oscuro": "#102a26"
     },
-    "buenosDias": "Hay preguntas que parecen sencillas, pero revelan muchísimo de una persona.",
+    "buenosDias": "Hoy toca experimentar sin complicarse: una bebida fresca, con ingredientes sencillos y un nombre que no exista todavía.",
     "poema": [
-      "Si pudieras conservar para siempre una sola sensación de tu vida actual —no un recuerdo ni una fotografía, sino una sensación—, ¿cuál elegirías?",
-      "Puede ser la tranquilidad de estar en casa, la emoción de comenzar algo, la libertad de caminar sin rumbo o cualquier otra que tenga sentido para ti."
+      "Para dos vasos, elijan agua fría o con gas. Añadan fruta lavada en trozos —fresas, durazno o moras—, unas gotas de limón y hierbabuena si tienen. Aplasten suavemente un poco de fruta con una cuchara, agreguen agua y hielo si quieren, y prueben antes de endulzar. Preparen dos combinaciones y denles nombres de cafetería imaginaria. Prueben primero una pequeña cantidad y tengan en cuenta alergias e ingredientes que prefieran evitar. Cambien solo una cosa en la segunda versión. Al final, elijan cuál repetirían y dibujen una etiqueta en papel. ¿Cómo llamarías a tu creación?",
+      "Unión de dos o más elementos para crear un resultado.: Una combinación de fruta y hierbabuena puede dar una bebida fresca. A veces lo divertido no es encontrar la receta perfecta, sino probar algo sencillo y terminar riéndose del nombre que le pusimos."
     ],
-    "detalle": "No tienes que contestarla inmediatamente. A veces las mejores respuestas aparecen cuando dejamos de buscarlas.",
-    "buenasNoches": "Buenas noches. Que mañana encuentres algo que todavía no sabías que necesitabas.",
-    "cancionTitulo": "Keep Ya Head Up",
-    "cancionArtista": "2Pac",
-    "youtubeId": "36pJ8WrqUMQ",
-    "cancionUrl": "https://www.youtube.com/watch?v=36pJ8WrqUMQ"
+    "detalle": "Para dos vasos, elijan agua fría o con gas. Añadan fruta lavada en trozos —fresas, durazno o moras—, unas gotas de limón y hierbabuena si tienen. Aplasten suavemente un poco de fruta con una cuchara, agreguen agua y hielo si quieren, y prueben antes de endulzar. Preparen dos combinaciones y denles nombres de cafetería imaginaria. Prueben primero una pequeña cantidad y tengan en cuenta alergias e ingredientes que prefieran evitar. Cambien solo una cosa en la segunda versión. Al final, elijan cuál repetirían y dibujen una etiqueta en papel. ¿Cómo llamarías a tu creación?",
+    "buenasNoches": "Una receta inventada por ustedes",
+    "cancionTitulo": "I'll Be Seeing You",
+    "cancionArtista": "Billie Holiday",
+    "youtubeId": "3C5zYKIuoxg",
+    "cancionUrl": "https://www.youtube.com/watch?v=3C5zYKIuoxg",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de el reto de inventar una bebida.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, laboratorio abierto",
+        "contenido": "Hoy toca experimentar sin complicarse: una bebida fresca, con ingredientes sencillos y un nombre que no exista todavía."
+      },
+      "mensajePrincipal": {
+        "titulo": "El laboratorio de bebidas caseras",
+        "contenido": "Para dos vasos, elijan agua fría o con gas. Añadan fruta lavada en trozos —fresas, durazno o moras—, unas gotas de limón y hierbabuena si tienen. Aplasten suavemente un poco de fruta con una cuchara, agreguen agua y hielo si quieren, y prueben antes de endulzar. Preparen dos combinaciones y denles nombres de cafetería imaginaria. Prueben primero una pequeña cantidad y tengan en cuenta alergias e ingredientes que prefieran evitar. Cambien solo una cosa en la segunda versión. Al final, elijan cuál repetirían y dibujen una etiqueta en papel. ¿Cómo llamarías a tu creación?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de experimentar",
+        "contenido": "Unión de dos o más elementos para crear un resultado.: Una combinación de fruta y hierbabuena puede dar una bebida fresca. A veces lo divertido no es encontrar la receta perfecta, sino probar algo sencillo y terminar riéndose del nombre que le pusimos."
+      },
+      "buenasNoches": {
+        "contenido": "Una receta inventada por ustedes"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Unión de dos o más elementos para crear un resultado.",
+      "significado": "Una combinación de fruta y hierbabuena puede dar una bebida fresca.",
+      "ejemplo": "A veces lo divertido no es encontrar la receta perfecta, sino probar algo sencillo y terminar riéndose del nombre que le pusimos."
+    }
   },
   {
     "dia": 87,
     "fecha": "2027-01-10",
     "fechaTexto": "dom, 10 de ene",
-    "categoria": "Vínculo",
-    "icono": "🪢",
-    "tono": "filosofica",
+    "categoria": "Una ronda de cumplidos específicos",
+    "icono": "💌",
+    "tono": "coqueto",
     "color": {
-      "principal": "#91a9c7",
-      "suave": "#e1eaf4",
-      "oscuro": "#17283c"
+      "principal": "#d9a0b8",
+      "suave": "#f6dce8",
+      "oscuro": "#321625"
     },
-    "buenosDias": "Hoy quiero dejarte una palabra que tiene muchas formas de existir: vínculo. Es aquello que conecta personas, lugares, recuerdos o etapas de nuestra vida.",
+    "buenosDias": "Un poquito de coqueteo sin frases prefabricadas: prestar atención a algo concreto que de verdad te gusta de la otra persona.",
     "poema": [
-      "No siempre necesita grandes demostraciones. A veces se construye con una conversación que se alarga, una canción compartida o la confianza de guardar silencio sin incomodidad.",
-      "Piensa en tres vínculos que hayan influido positivamente en tu vida. No tienen que ser personas: puede ser una actividad, un lugar o una costumbre. Completa: «Algo que aprendí gracias a ese vínculo fue…»."
+      "Por turnos, completen tres frases: «Me hizo sonreír cuando…», «Admiro cómo…» y «Hay algo pequeño que haces y me gusta…». Mencionen una situación real, no una cualidad genérica. Quien escucha puede agradecer o simplemente sonreír; no tiene que devolver un cumplido en el acto. Si una frase se siente demasiado personal, pueden cambiarla o pasarla. Para terminar, inventen un cumplido absurdo y cariñoso, como si premiaran una habilidad cotidiana. La idea es expresar aprecio, no convertirlo en examen ni obligación. ¿Qué gesto sencillo suele alegrarte el día?",
+      "Cualidad de expresar lo que se piensa o siente sin fingimiento.: Un cumplido sincero suele recordar un detalle real, no una frase automática. Un detalle auténtico no necesita ser enorme. A veces una observación pequeña demuestra que alguien estaba prestando atención."
     ],
-    "detalle": "Conocer lo que te gusta, reconocer tus límites y aprender a estar contigo también son maneras de construir un vínculo contigo misma.",
-    "buenasNoches": "Buenas noches. Cuida aquello que te permite ser tú sin tener que interpretar ningún papel.",
-    "cancionTitulo": "Hail Mary",
-    "cancionArtista": "2Pac",
-    "youtubeId": "x9bPGZIBt7Y",
-    "cancionUrl": "https://www.youtube.com/watch?v=x9bPGZIBt7Y"
+    "detalle": "Por turnos, completen tres frases: «Me hizo sonreír cuando…», «Admiro cómo…» y «Hay algo pequeño que haces y me gusta…». Mencionen una situación real, no una cualidad genérica. Quien escucha puede agradecer o simplemente sonreír; no tiene que devolver un cumplido en el acto. Si una frase se siente demasiado personal, pueden cambiarla o pasarla. Para terminar, inventen un cumplido absurdo y cariñoso, como si premiaran una habilidad cotidiana. La idea es expresar aprecio, no convertirlo en examen ni obligación. ¿Qué gesto sencillo suele alegrarte el día?",
+    "buenasNoches": "Decirlo porque lo sientes",
+    "cancionTitulo": "Three Little Birds",
+    "cancionArtista": "Bob Marley & The Wailers",
+    "youtubeId": "HNBCVM4KbUM",
+    "cancionUrl": "https://www.youtube.com/watch?v=HNBCVM4KbUM",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una ronda de cumplidos específicos.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, un detalle sincero",
+        "contenido": "Un poquito de coqueteo sin frases prefabricadas: prestar atención a algo concreto que de verdad te gusta de la otra persona."
+      },
+      "mensajePrincipal": {
+        "titulo": "El cumplido que tiene una historia",
+        "contenido": "Por turnos, completen tres frases: «Me hizo sonreír cuando…», «Admiro cómo…» y «Hay algo pequeño que haces y me gusta…». Mencionen una situación real, no una cualidad genérica. Quien escucha puede agradecer o simplemente sonreír; no tiene que devolver un cumplido en el acto. Si una frase se siente demasiado personal, pueden cambiarla o pasarla. Para terminar, inventen un cumplido absurdo y cariñoso, como si premiaran una habilidad cotidiana. La idea es expresar aprecio, no convertirlo en examen ni obligación. ¿Qué gesto sencillo suele alegrarte el día?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de decirlo de verdad",
+        "contenido": "Cualidad de expresar lo que se piensa o siente sin fingimiento.: Un cumplido sincero suele recordar un detalle real, no una frase automática. Un detalle auténtico no necesita ser enorme. A veces una observación pequeña demuestra que alguien estaba prestando atención."
+      },
+      "buenasNoches": {
+        "contenido": "Decirlo porque lo sientes"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Cualidad de expresar lo que se piensa o siente sin fingimiento.",
+      "significado": "Un cumplido sincero suele recordar un detalle real, no una frase automática.",
+      "ejemplo": "Un detalle auténtico no necesita ser enorme. A veces una observación pequeña demuestra que alguien estaba prestando atención."
+    }
   },
   {
     "dia": 88,
     "fecha": "2027-01-11",
     "fechaTexto": "lun, 11 de ene",
-    "categoria": "El museo de las cosas que todavía no has vivido",
-    "icono": "🏛️",
-    "tono": "ambiente",
+    "categoria": "Una receta salada en una sola sartén",
+    "icono": "🍝",
+    "tono": "casero",
     "color": {
-      "principal": "#9fc7d4",
-      "suave": "#e2f1f3",
-      "oscuro": "#17333b"
+      "principal": "#e5a47d",
+      "suave": "#f7dfd0",
+      "oscuro": "#321b12"
     },
-    "buenosDias": "Imagina un museo dedicado exclusivamente a acontecimientos que todavía no han ocurrido.",
+    "buenosDias": "Hoy la cocina se queda práctica: una comida cálida, preparada en sartén y sin necesidad de horno.",
     "poema": [
-      "En una sala hay una fotografía de un viaje que aún no has hecho. En otra, una taza de una cafetería que todavía no conoces. En una vitrina, una escultura representa una habilidad que aún no has aprendido.",
-      "Diseña tres piezas: algo que quieras experimentar, algo que quieras aprender y algo que no sabes si deseas, pero te da curiosidad. Describe cada pieza como un objeto real."
+      "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?",
+      "Equilibrio de sabores y aromas que caracteriza una preparación.: La sazón puede cambiar mucho con un toque de pimienta o hierbas. Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo."
     ],
-    "detalle": "Al final existe una habitación vacía. Su placa dice: «Esta sala está reservada para algo que todavía no puedes imaginar». No tienes que llenarla hoy.",
-    "buenasNoches": "Buenas noches. Todavía hay recuerdos que no existen y lugares que no conocen tu nombre.",
-    "cancionTitulo": "Nuthin' But A \"G\" Thang",
-    "cancionArtista": "Dr. Dre; Snoop Dogg",
-    "youtubeId": "8GliyDgAGQI",
-    "cancionUrl": "https://www.youtube.com/watch?v=8GliyDgAGQI"
+    "detalle": "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?",
+    "buenasNoches": "Algo rico sin hacer un gran lío",
+    "cancionTitulo": "Don't Know Why",
+    "cancionArtista": "Norah Jones",
+    "youtubeId": "tO4dxvguQDk",
+    "cancionUrl": "https://www.youtube.com/watch?v=tO4dxvguQDk",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una receta salada en una sola sartén.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, cocina sencilla",
+        "contenido": "Hoy la cocina se queda práctica: una comida cálida, preparada en sartén y sin necesidad de horno."
+      },
+      "mensajePrincipal": {
+        "titulo": "Arroz cremoso con huevo y verduras",
+        "contenido": "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de los sabores",
+        "contenido": "Equilibrio de sabores y aromas que caracteriza una preparación.: La sazón puede cambiar mucho con un toque de pimienta o hierbas. Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo."
+      },
+      "buenasNoches": {
+        "contenido": "Algo rico sin hacer un gran lío"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Equilibrio de sabores y aromas que caracteriza una preparación.",
+      "significado": "La sazón puede cambiar mucho con un toque de pimienta o hierbas.",
+      "ejemplo": "Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo."
+    }
   },
   {
     "dia": 89,
     "fecha": "2027-01-12",
     "fechaTexto": "mar, 12 de ene",
-    "categoria": "La técnica maldita: Contratiempo",
-    "icono": "⏱️",
-    "tono": "ambiente",
+    "categoria": "Una salida breve para ver el atardecer",
+    "icono": "🌇",
+    "tono": "aventura",
     "color": {
-      "principal": "#9fc7d4",
-      "suave": "#e2f1f3",
-      "oscuro": "#17333b"
+      "principal": "#e6a078",
+      "suave": "#f9dfcf",
+      "oscuro": "#321b12"
     },
-    "buenosDias": "En un expediente aparece una técnica maldita que no sirve para atacar directamente. Su nombre es Contratiempo.",
+    "buenosDias": "Si a ambos les provoca y el clima acompaña, pueden reservar unas horas para ver cómo cambia el cielo. No hace falta convertirlo en una excursión larga.",
     "poema": [
-      "Su usuario altera durante unos segundos el ritmo de los movimientos cercanos. No detiene el tiempo ni controla personas: cambia el intervalo entre acciones. Su debilidad es que cuanto más la usa, más difícil le resulta mantener su propio ritmo.",
-      "Diseña una expansión de dominio: cómo es el espacio, qué regla impone, cuál es su punto débil y qué tendría que hacer el rival para escapar. La técnica no puede ser invencible."
+      "Elijan un parque, mirador público o espacio abierto conocido, con acceso seguro y ruta de regreso clara. Revisen pronóstico, hora de la puesta de sol, transporte, iluminación al volver y presupuesto. Pueden llevar agua o una bebida y sentarse un rato, eligiendo cada uno un color del cielo para describirlo. No es necesario que sea un lugar famoso ni que salgan este fin de semana; háganlo cuando les funcione a ambos. Si el sitio está lleno o el clima cambia, regresen o cambien a un café cercano. La idea es compartir unas horas, no pasar la noche fuera. ¿Te gusta mirar el cielo en silencio o comentarlo?",
+      "Luz suave del cielo antes de que salga el sol o después de que se oculte.: El crepúsculo tiñó las nubes de tonos rosados y naranjas. Hay momentos que no necesitan demasiadas fotos ni palabras. A veces basta con mirar el cielo un rato y volver a casa con calma."
     ],
-    "detalle": "Dibuja el dominio como una escena de manga. Es una creación original inspirada en Jujutsu Kaisen, sin spoilers.",
-    "buenasNoches": "Buenas noches. Incluso el poder más impresionante necesita encontrar su propio equilibrio.",
-    "cancionTitulo": "Ella",
-    "cancionArtista": "Kafu Banton; Almirante",
-    "youtubeId": "quToM5By41k",
-    "cancionUrl": "https://www.youtube.com/watch?v=quToM5By41k"
+    "detalle": "Elijan un parque, mirador público o espacio abierto conocido, con acceso seguro y ruta de regreso clara. Revisen pronóstico, hora de la puesta de sol, transporte, iluminación al volver y presupuesto. Pueden llevar agua o una bebida y sentarse un rato, eligiendo cada uno un color del cielo para describirlo. No es necesario que sea un lugar famoso ni que salgan este fin de semana; háganlo cuando les funcione a ambos. Si el sitio está lleno o el clima cambia, regresen o cambien a un café cercano. La idea es compartir unas horas, no pasar la noche fuera. ¿Te gusta mirar el cielo en silencio o comentarlo?",
+    "buenasNoches": "Un cielo que no se puede guardar",
+    "cancionTitulo": "Freedom",
+    "cancionArtista": "Pharrell Williams",
+    "youtubeId": "LlY90lG_Fuw",
+    "cancionUrl": "https://www.youtube.com/watch?v=LlY90lG_Fuw",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una salida breve para ver el atardecer.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, si te apetece",
+        "contenido": "Si a ambos les provoca y el clima acompaña, pueden reservar unas horas para ver cómo cambia el cielo. No hace falta convertirlo en una excursión larga."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un lugar tranquilo y una bebida",
+        "contenido": "Elijan un parque, mirador público o espacio abierto conocido, con acceso seguro y ruta de regreso clara. Revisen pronóstico, hora de la puesta de sol, transporte, iluminación al volver y presupuesto. Pueden llevar agua o una bebida y sentarse un rato, eligiendo cada uno un color del cielo para describirlo. No es necesario que sea un lugar famoso ni que salgan este fin de semana; háganlo cuando les funcione a ambos. Si el sitio está lleno o el clima cambia, regresen o cambien a un café cercano. La idea es compartir unas horas, no pasar la noche fuera. ¿Te gusta mirar el cielo en silencio o comentarlo?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del cielo",
+        "contenido": "Luz suave del cielo antes de que salga el sol o después de que se oculte.: El crepúsculo tiñó las nubes de tonos rosados y naranjas. Hay momentos que no necesitan demasiadas fotos ni palabras. A veces basta con mirar el cielo un rato y volver a casa con calma."
+      },
+      "buenasNoches": {
+        "contenido": "Un cielo que no se puede guardar"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Luz suave del cielo antes de que salga el sol o después de que se oculte.",
+      "significado": "El crepúsculo tiñó las nubes de tonos rosados y naranjas.",
+      "ejemplo": "Hay momentos que no necesitan demasiadas fotos ni palabras. A veces basta con mirar el cielo un rato y volver a casa con calma."
+    }
   },
   {
     "dia": 90,
     "fecha": "2027-01-13",
     "fechaTexto": "mié, 13 de ene",
-    "categoria": "El retrato de una emoción que cambia de forma",
-    "icono": "🖌️",
-    "tono": "ambiente",
+    "categoria": "El juego de la historia por turnos",
+    "icono": "🎭",
+    "tono": "juguetón",
     "color": {
-      "principal": "#9fc7d4",
-      "suave": "#e2f1f3",
-      "oscuro": "#17333b"
+      "principal": "#b6a4df",
+      "suave": "#e6def7",
+      "oscuro": "#201632"
     },
-    "buenosDias": "Hoy vas a pintar algo que no necesita parecerse a nadie. Escoge una emoción reciente, sin necesidad de decir cuál es.",
+    "buenosDias": "Hoy la imaginación lleva el volante: una historia improvisada que puede terminar en comedia, misterio o cualquier cosa inesperada.",
     "poema": [
-      "Imagina que tiene una temperatura, una textura, un peso, una forma y una combinación de tres colores.",
-      "Pinta manchas y formas sin intentar construir una imagen reconocible. Cuando termines, agrega una sola línea que represente lo que esa emoción necesita."
+      "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?",
+      "Creación espontánea sin preparación detallada previa.: La improvisación convirtió una historia sencilla en una comedia inesperada. No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan."
     ],
-    "detalle": "No borres las partes imperfectas: pueden ser las que le den personalidad a la obra. Título sugerido: «Lo que no supe decir».",
-    "buenasNoches": "Buenas noches. No todas las emociones necesitan explicarse con palabras.",
-    "cancionTitulo": "Escapism.",
-    "cancionArtista": "RAYE; 070 Shake",
-    "youtubeId": "Dll6VJ2C7wo",
-    "cancionUrl": "https://www.youtube.com/watch?v=Dll6VJ2C7wo"
+    "detalle": "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?",
+    "buenasNoches": "Que la imaginación siga jugando",
+    "cancionTitulo": "Bills, Bills, Bills",
+    "cancionArtista": "Destiny's Child",
+    "youtubeId": "NiF6-0UTqtc",
+    "cancionUrl": "https://www.youtube.com/watch?v=NiF6-0UTqtc",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de el juego de la historia por turnos.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, que empiece la historia",
+        "contenido": "Hoy la imaginación lleva el volante: una historia improvisada que puede terminar en comedia, misterio o cualquier cosa inesperada."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una frase cada uno",
+        "contenido": "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de inventar",
+        "contenido": "Creación espontánea sin preparación detallada previa.: La improvisación convirtió una historia sencilla en una comedia inesperada. No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan."
+      },
+      "buenasNoches": {
+        "contenido": "Que la imaginación siga jugando"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Creación espontánea sin preparación detallada previa.",
+      "significado": "La improvisación convirtió una historia sencilla en una comedia inesperada.",
+      "ejemplo": "No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan."
+    }
   },
   {
     "dia": 91,
     "fecha": "2027-01-14",
     "fechaTexto": "jue, 14 de ene",
-    "categoria": "La vida secreta de Walter Mitty",
-    "icono": "🎬",
-    "tono": "ambiente",
+    "categoria": "Una lista de pequeñas primeras veces",
+    "icono": "✨",
+    "tono": "cercano",
     "color": {
-      "principal": "#9fc7d4",
-      "suave": "#e2f1f3",
-      "oscuro": "#17333b"
+      "principal": "#a4b3e2",
+      "suave": "#e3e8f8",
+      "oscuro": "#171d36"
     },
-    "buenosDias": "Te dejo una película para cuando tengas ganas de descubrir una historia sobre imaginación, aventura y salir de la rutina.",
+    "buenosDias": "Antes de pensar en grandes planes, podemos elegir pequeñas experiencias nuevas que no exijan mucho dinero ni demasiado tiempo.",
     "poema": [
-      "La vida secreta de Walter Mitty (2013) cuenta la historia de un hombre que pasa buena parte de su vida imaginando grandes aventuras, hasta que una situación inesperada lo lleva a salir de su rutina.",
-      "La recomiendo por su fotografía, sus paisajes y la idea de que el mundo puede ser mucho más grande de lo que vemos desde nuestros lugares habituales. Puedes verla sola o compartirla si algún día te provoca."
+      "Cada uno anota tres experiencias pequeñas que le gustaría probar: aprender una figura sencilla de origami, visitar una exposición gratuita, pintar con otra herramienta, escuchar un álbum completo sin mirar el teléfono o preparar una receta nueva. Junten las listas y escojan una idea que entusiasme a ambos, sin fijar una fecha obligatoria. Comprueben qué materiales, presupuesto y tiempo requiere; si no encaja ahora, guárdenla para más adelante. Añadan una séptima idea absurda solo por diversión. No es una lista de deberes ni una promesa de hacer todo juntos: es un menú de posibilidades. ¿Qué cosa pequeña nunca has probado y te da curiosidad?",
+      "Circunstancia de que algo pueda ocurrir o realizarse.: Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado. El futuro no necesita una agenda llena para sentirse emocionante. A veces basta con guardar una idea bonita y dejar que llegue su momento."
     ],
-    "detalle": "Una pregunta para después: ¿qué diferencia hay entre imaginar una vida que te gustaría tener y comenzar a construirla? No hace falta responderla si prefieres simplemente disfrutar la película.",
-    "buenasNoches": "Buenas noches. Que siempre haya alguna historia capaz de recordarte que el mundo sigue siendo enorme.",
-    "cancionTitulo": "Not Afraid",
-    "cancionArtista": "Eminem",
-    "youtubeId": "j5-yKhDd64s",
-    "cancionUrl": "https://www.youtube.com/watch?v=j5-yKhDd64s"
+    "detalle": "Cada uno anota tres experiencias pequeñas que le gustaría probar: aprender una figura sencilla de origami, visitar una exposición gratuita, pintar con otra herramienta, escuchar un álbum completo sin mirar el teléfono o preparar una receta nueva. Junten las listas y escojan una idea que entusiasme a ambos, sin fijar una fecha obligatoria. Comprueben qué materiales, presupuesto y tiempo requiere; si no encaja ahora, guárdenla para más adelante. Añadan una séptima idea absurda solo por diversión. No es una lista de deberes ni una promesa de hacer todo juntos: es un menú de posibilidades. ¿Qué cosa pequeña nunca has probado y te da curiosidad?",
+    "buenasNoches": "Lo que queda por probar",
+    "cancionTitulo": "Shoop",
+    "cancionArtista": "Salt-N-Pepa",
+    "youtubeId": "4vaN01VLYSQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=4vaN01VLYSQ",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una lista de pequeñas primeras veces.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, nuevas posibilidades",
+        "contenido": "Antes de pensar en grandes planes, podemos elegir pequeñas experiencias nuevas que no exijan mucho dinero ni demasiado tiempo."
+      },
+      "mensajePrincipal": {
+        "titulo": "Siete primeras veces posibles",
+        "contenido": "Cada uno anota tres experiencias pequeñas que le gustaría probar: aprender una figura sencilla de origami, visitar una exposición gratuita, pintar con otra herramienta, escuchar un álbum completo sin mirar el teléfono o preparar una receta nueva. Junten las listas y escojan una idea que entusiasme a ambos, sin fijar una fecha obligatoria. Comprueben qué materiales, presupuesto y tiempo requiere; si no encaja ahora, guárdenla para más adelante. Añadan una séptima idea absurda solo por diversión. No es una lista de deberes ni una promesa de hacer todo juntos: es un menú de posibilidades. ¿Qué cosa pequeña nunca has probado y te da curiosidad?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de lo posible",
+        "contenido": "Circunstancia de que algo pueda ocurrir o realizarse.: Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado. El futuro no necesita una agenda llena para sentirse emocionante. A veces basta con guardar una idea bonita y dejar que llegue su momento."
+      },
+      "buenasNoches": {
+        "contenido": "Lo que queda por probar"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Circunstancia de que algo pueda ocurrir o realizarse.",
+      "significado": "Una posibilidad se vuelve plan cuando ambas personas quieren explorarla y encuentran el momento adecuado.",
+      "ejemplo": "El futuro no necesita una agenda llena para sentirse emocionante. A veces basta con guardar una idea bonita y dejar que llegue su momento."
+    }
   },
   {
     "dia": 92,
