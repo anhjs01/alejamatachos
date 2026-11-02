@@ -3183,7 +3183,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy una fruta puede convertirse en un postre sencillo, sin horno y sin llenar la cocina de complicaciones.",
     "poema": [
       "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?",
-      "Caramelizar: Calentar azúcar o alimentos con azúcares hasta que se doren y desarrollen sabor. La fruta puede caramelizarse ligeramente en una sartén sin necesidad de horno."
+      "Dorar: Cocinar un alimento hasta que su superficie tome un tono dorado. Dorar los duraznos unos minutos ayuda a intensificar su sabor."
     ],
     "detalle": "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?",
     "buenasNoches": "A veces el mejor postre no necesita una receta complicada, solo algo rico, una sartén y alguien con quien compartirlo.",
@@ -3203,7 +3203,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de la cocina",
-        "contenido": "Caramelizar: Calentar azúcar o alimentos con azúcares hasta que se doren y desarrollen sabor. La fruta puede caramelizarse ligeramente en una sartén sin necesidad de horno."
+        "contenido": "Dorar: Cocinar un alimento hasta que su superficie tome un tono dorado. Dorar los duraznos unos minutos ayuda a intensificar su sabor."
       },
       "buenasNoches": {
         "titulo": "Dulce y sencillo",
@@ -3211,9 +3211,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Caramelizar",
-      "significado": "Calentar azúcar o alimentos con azúcares hasta que se doren y desarrollen sabor.",
-      "ejemplo": "La fruta puede caramelizarse ligeramente en una sartén sin necesidad de horno."
+      "palabra": "Dorar",
+      "significado": "Cocinar un alimento hasta que su superficie tome un tono dorado.",
+      "ejemplo": "Dorar los duraznos unos minutos ayuda a intensificar su sabor."
     }
   },
   {
@@ -3231,7 +3231,7 @@ const CALENDARIO = [
     "buenosDias": "No todos los planes necesitan ocupar un fin de semana entero. A veces unas horas bien elegidas son suficientes para cambiar de ambiente.",
     "poema": [
       "Elijan un café que les llame la atención y un parque, plazoleta o calle peatonal segura que quede razonablemente cerca. Antes de salir, revisen los horarios, el clima, cómo llegar, si el lugar es accesible y cuánto quieren gastar. La idea es reservar unas horas, no convertirlo en una excursión obligatoria: pueden tomar algo, caminar un rato y buscar tres detalles que normalmente pasarían por alto, como una fachada bonita, una combinación de colores o una planta curiosa. Cada uno escoge una pequeña parada y cuenta por qué le llamó la atención. Si el sitio está lleno, llueve o el ambiente no convence, cambien el recorrido o vuelvan a casa; el plan debe adaptarse a ustedes. No hace falta comprar nada más ni llenar todo el tiempo de actividades. ¿Prefieres empezar por el café o por el paseo?",
-      "Itinerario: Plan ordenado de un recorrido o de las actividades que se harán. Un itinerario flexible deja espacio para descubrir algo inesperado."
+      "Recorrido: Trayecto que se realiza al pasar por distintos lugares. Un recorrido corto puede dejar espacio para detenerse cuando algo llama la atención."
     ],
     "detalle": "Elijan un café que les llame la atención y un parque, plazoleta o calle peatonal segura que quede razonablemente cerca. Antes de salir, revisen los horarios, el clima, cómo llegar, si el lugar es accesible y cuánto quieren gastar. La idea es reservar unas horas, no convertirlo en una excursión obligatoria: pueden tomar algo, caminar un rato y buscar tres detalles que normalmente pasarían por alto, como una fachada bonita, una combinación de colores o una planta curiosa. Cada uno escoge una pequeña parada y cuenta por qué le llamó la atención. Si el sitio está lleno, llueve o el ambiente no convence, cambien el recorrido o vuelvan a casa; el plan debe adaptarse a ustedes. No hace falta comprar nada más ni llenar todo el tiempo de actividades. ¿Prefieres empezar por el café o por el paseo?",
     "buenasNoches": "Me gusta la idea de una salida que termina a tiempo y aun así deja una conversación, una foto o ganas de volver a un lugar.",
@@ -3251,7 +3251,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra del recorrido",
-        "contenido": "Itinerario: Plan ordenado de un recorrido o de las actividades que se harán. Un itinerario flexible deja espacio para descubrir algo inesperado."
+        "contenido": "Recorrido: Trayecto que se realiza al pasar por distintos lugares. Un recorrido corto puede dejar espacio para detenerse cuando algo llama la atención."
       },
       "buenasNoches": {
         "titulo": "Volver con algo pequeño",
@@ -3259,9 +3259,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Itinerario",
-      "significado": "Plan ordenado de un recorrido o de las actividades que se harán.",
-      "ejemplo": "Un itinerario flexible deja espacio para descubrir algo inesperado."
+      "palabra": "Recorrido",
+      "significado": "Trayecto que se realiza al pasar por distintos lugares.",
+      "ejemplo": "Un recorrido corto puede dejar espacio para detenerse cuando algo llama la atención."
     }
   },
   {
@@ -3327,7 +3327,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy podemos guardar algo más que una fotografía: un pequeño registro de las cosas que hemos ido descubriendo sin apurar el camino.",
     "poema": [
       "Busquen una caja pequeña o un sobre resistente y tres papeles por persona. En el primero, escriban una cosa que les hizo reír recientemente; en el segundo, una actividad sencilla que les gustaría probar algún día; en el tercero, una pregunta que les gustaría conversar cuando se dé el momento. Añadan un dibujo, una entrada o una foto solo si les apetece y si ambos están de acuerdo. Lean en voz alta únicamente lo que quieran compartir; las preguntas privadas pueden quedarse dobladas. Pongan una fecha futura para abrir la cápsula, quizá dentro de uno o dos meses, sin convertirla en una promesa obligatoria. Guárdenla en un lugar seco y seguro. No tiene que ser un recuerdo solemne: puede ser una manera ligera de notar cómo cambian las ideas y los gustos con el tiempo. ¿Qué pequeño hallazgo te gustaría guardar hoy?",
-      "Cápsula: Recipiente que conserva objetos o mensajes para abrirlos en otro momento. Una cápsula del tiempo guarda pequeñas señales de lo que nos importaba en una etapa."
+      "Registro: Anotación o conjunto de datos que permite conservar información de algo. Un pequeño registro guarda detalles del presente para releerlos más adelante."
     ],
     "detalle": "Busquen una caja pequeña o un sobre resistente y tres papeles por persona. En el primero, escriban una cosa que les hizo reír recientemente; en el segundo, una actividad sencilla que les gustaría probar algún día; en el tercero, una pregunta que les gustaría conversar cuando se dé el momento. Añadan un dibujo, una entrada o una foto solo si les apetece y si ambos están de acuerdo. Lean en voz alta únicamente lo que quieran compartir; las preguntas privadas pueden quedarse dobladas. Pongan una fecha futura para abrir la cápsula, quizá dentro de uno o dos meses, sin convertirla en una promesa obligatoria. Guárdenla en un lugar seco y seguro. No tiene que ser un recuerdo solemne: puede ser una manera ligera de notar cómo cambian las ideas y los gustos con el tiempo. ¿Qué pequeño hallazgo te gustaría guardar hoy?",
     "buenasNoches": "No hace falta saber cómo será todo más adelante. A veces basta con guardar una pequeña parte del presente y dejar que el resto llegue a su ritmo.",
@@ -3347,7 +3347,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de los recuerdos",
-        "contenido": "Cápsula: Recipiente que conserva objetos o mensajes para abrirlos en otro momento. Una cápsula del tiempo guarda pequeñas señales de lo que nos importaba en una etapa."
+        "contenido": "Registro: Anotación o conjunto de datos que permite conservar información de algo. Un pequeño registro guarda detalles del presente para releerlos más adelante."
       },
       "buenasNoches": {
         "titulo": "Sin apurar el futuro",
@@ -3355,9 +3355,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Cápsula",
-      "significado": "Recipiente que conserva objetos o mensajes para abrirlos en otro momento.",
-      "ejemplo": "Una cápsula del tiempo guarda pequeñas señales de lo que nos importaba en una etapa."
+      "palabra": "Registro",
+      "significado": "Anotación o conjunto de datos que permite conservar información de algo.",
+      "ejemplo": "Un pequeño registro guarda detalles del presente para releerlos más adelante."
     }
   },
   {
