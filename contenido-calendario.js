@@ -3375,7 +3375,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy no se trata de hacer una obra maestra. Se trata de jugar un rato con los colores y ver qué aparece.",
     "poema": [
       "Materiales: papel grueso o cartulina, pinturas acrílicas o témperas, pincel, agua y algo para proteger la mesa. Elijan solo tres colores y hagan una pequeña obra sin dibujar primero el resultado. Pinten formas grandes y luego mezclen los colores para descubrir tonos nuevos. Pueden elegir un cielo al atardecer, una taza, una flor imaginaria o una emoción, o pintar de forma abstracta. Al terminar, cada uno pone un título a la obra del otro, sin corregirla ni intentar adivinar qué quiso representar. Dejen secar y limpien los materiales. ¿Qué tres colores escogerías para empezar?",
-      "Pigmento: Sustancia que aporta color a una pintura u otro material. Al mezclar pigmentos aparecen tonos que no estaban en la paleta original."
+      "Cromatismo: Conjunto de colores de una obra o efecto que producen al combinarse. El cromatismo de una pintura puede cambiar por completo su ambiente."
     ],
     "detalle": "Materiales: papel grueso o cartulina, pinturas acrílicas o témperas, pincel, agua y algo para proteger la mesa. Elijan solo tres colores y hagan una pequeña obra sin dibujar primero el resultado. Pinten formas grandes y luego mezclen los colores para descubrir tonos nuevos. Pueden elegir un cielo al atardecer, una taza, una flor imaginaria o una emoción, o pintar de forma abstracta. Al terminar, cada uno pone un título a la obra del otro, sin corregirla ni intentar adivinar qué quiso representar. Dejen secar y limpien los materiales. ¿Qué tres colores escogerías para empezar?",
     "buenasNoches": "No todo lo bonito tiene que salir como lo imaginábamos. A veces la parte más interesante aparece justo cuando dejamos de intentar controlarlo todo.",
@@ -3396,7 +3396,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra del color",
-        "contenido": "Pigmento: Sustancia que aporta color a una pintura u otro material. Al mezclar pigmentos aparecen tonos que no estaban en la paleta original."
+        "contenido": "Cromatismo: Conjunto de colores de una obra o efecto que producen al combinarse. El cromatismo de una pintura puede cambiar por completo su ambiente."
       },
       "buenasNoches": {
         "titulo": "Un poco de color para cerrar",
@@ -3404,9 +3404,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Pigmento",
-      "significado": "Sustancia que aporta color a una pintura u otro material.",
-      "ejemplo": "Al mezclar pigmentos aparecen tonos que no estaban en la paleta original."
+      "palabra": "Cromatismo",
+      "significado": "Conjunto de colores de una obra o efecto que producen al combinarse.",
+      "ejemplo": "El cromatismo de una pintura puede cambiar por completo su ambiente."
     }
   },
   {
