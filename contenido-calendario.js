@@ -3028,169 +3028,337 @@ const CALENDARIO = [
     "dia": 64,
     "fecha": "2026-12-18",
     "fechaTexto": "vie, 18 de dic",
-    "categoria": "El impulso de empezar",
-    "icono": "💥",
-    "tono": "filosofica",
-    "color": {
-      "principal": "#e9a3bd",
-      "suave": "#fbe0ea",
-      "oscuro": "#321222"
-    },
-    "buenosDias": "Si llevas una idea dando vueltas, prueba con un primer paso pequeño. No tienes que tener todo resuelto para empezar, y tampoco tienes que convertir cada entusiasmo en una obligación.",
-    "poema": [
-      "Sé que cuando algo te entusiasma puedes imaginar mil detalles de una vez. Pero también vale empezar con lo que tienes a mano y descubrir el resto sobre la marcha.",
-      "Me cuentas qué estás pensando, amor. Me gusta escucharte cuando algo te emociona, porque hasta la forma en que lo explicas cambia cuando de verdad te importa."
-    ],
-    "detalle": "Si tienes ganas de empezar algo, da un primer paso pequeño. No necesitas sentirte lista al cien por ciento; a veces la confianza llega después de comenzar.",
-    "buenasNoches": "Descansa, amor. Si hoy te quedó una idea rondando la cabeza, mañana puedes darle una oportunidad. Esta noche no tienes que perseguirla por toda la habitación.",
-    "cancionTitulo": "Tomorrow",
-    "cancionArtista": "Jorja Smith",
-    "youtubeId": "zMC5-M15je0",
-    "cancionUrl": "https://www.youtube.com/watch?v=zMC5-M15je0"
-  },
-  {
-    "dia": 65,
-    "fecha": "2026-12-19",
-    "fechaTexto": "sáb, 19 de dic",
-    "categoria": "La risa que llega de sorpresa",
-    "icono": "😆",
-    "tono": "amor",
-    "color": {
-      "principal": "#d6b36c",
-      "suave": "#f5e7c5",
-      "oscuro": "#2a1e0b"
-    },
-    "buenosDias": "Ojalá hoy te dé una risa de esas que te cambian la cara antes de que alcances a disimularla. Si intentas ponerte seria y te vuelve a dar, ya está: perdiste esa batalla.",
-    "poema": [
-      "Hay algo contagioso en la risa sincera, especialmente cuando no se puede explicar por qué empezó. Me imagino tus ojos cafés achinándose un poquito y las pecas apareciendo como invitadas que nunca faltan.",
-      "Si hoy te pasa, disfrútalo, corazón. La vida ya se pone seria demasiadas veces como para no aprovechar una tontería bien graciosa."
-    ],
-    "detalle": "Si hoy te sale una carcajada inesperada, ojalá nadie te pida que la bajes. Esas risas que desarman la seriedad hacen falta más de lo que uno cree.",
-    "buenasNoches": "Buenas noches, mi vida. Ojalá hoy te hayas reído con ganas; una risa genuina a veces es lo mejor que uno se lleva del día.",
-    "cancionTitulo": "Let's Get It Started - Spike Mix",
-    "cancionArtista": "Black Eyed Peas",
-    "youtubeId": "mRaQAdynxto",
-    "cancionUrl": "https://www.youtube.com/watch?v=mRaQAdynxto"
-  },
-  {
-    "dia": 66,
-    "fecha": "2026-12-20",
-    "fechaTexto": "dom, 20 de dic",
-    "categoria": "La canción que ya se siente tuya",
-    "icono": "🔁",
-    "tono": "ambiente",
-    "color": {
-      "principal": "#b9a4e5",
-      "suave": "#e7defa",
-      "oscuro": "#211631"
-    },
-    "buenosDias": "¿Hay una canción que repites tanto que ya parece tener un lugar reservado en tu día? Si te nace, compártemela; me da curiosidad saber qué tiene para que siempre vuelvas a ella.",
-    "poema": [
-      "Una canción puede quedarse pegada a una persona, a un lugar o a una época de la vida. Después suenan dos notas y uno vuelve ahí sin pedir permiso.",
-      "Compárteme una de esas, mi vida. Quiero conocer qué canciones guardas cerca del corazón y qué tienen para que siempre termines regresando a ellas."
-    ],
-    "detalle": "Si una canción ya se siente tuya, guárdala cerca. Hay melodías que terminan asociadas a un momento, a una persona o a una versión de uno mismo que da gusto recordar.",
-    "buenasNoches": "Que descanses, corazón. Hay canciones que se vuelven parte de nuestros recuerdos sin avisar. Quizá alguna de las tuyas esté guardando uno bonito para más adelante.",
-    "cancionTitulo": "I Want You Around",
-    "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "WdyPcNEA27M",
-    "cancionUrl": "https://www.youtube.com/watch?v=WdyPcNEA27M"
-  },
-  {
-    "dia": 67,
-    "fecha": "2026-12-21",
-    "fechaTexto": "lun, 21 de dic",
-    "categoria": "Saber lo que te gusta también cuenta",
-    "icono": "🍜",
-    "tono": "amor",
+    "categoria": "Una pequeña pieza hecha a mano",
+    "icono": "🪴",
+    "tono": "creativo",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hay algo muy tuyo en saber qué te gusta y decirlo sin demasiadas vueltas. Ojalá hoy puedas elegir lo que te hace bien sin tener que convertir cada preferencia en una explicación larga.",
+    "buenosDias": "Hoy podríamos hacer algo con las manos y dejar que el resultado tenga personalidad propia, incluso si no queda perfecto.",
     "poema": [
-      "No todo gusto necesita convencer a un jurado. A veces sabes qué te provoca, qué te incomoda o cómo prefieres las cosas, y eso basta para empezar. Escucharte también es una forma de tratarte con cariño.",
-      "Me gusta la idea de que puedas decir «así me gusta» con tranquilidad, sin sentir que tienes que disculparte por cada detalle. Y si alguien propone otra cosa, siempre se puede conversar; lo importante es que tu voz también tenga sitio."
+      "Consigan arcilla de secado al aire, una base que no se pegue, un poco de agua y herramientas sencillas como un palito o una tapa para marcar texturas. Cada uno elige una idea pequeña: un platito para anillos, un colgante decorativo, una figura abstracta o un mini recipiente. Amasen la arcilla hasta ablandarla, formen la pieza sin hacerla demasiado gruesa, alisen las grietas con los dedos apenas húmedos y añadan detalles con las herramientas. Pueden grabar una inicial, una línea o un símbolo que tenga sentido para ustedes. Déjenla secar siguiendo las instrucciones del envase; no necesita horno si es arcilla de secado al aire. Cuando esté completamente seca, pueden pintarla otro día con pintura acrílica. Protejan la mesa y lávense las manos al terminar. No importa que las piezas queden distintas: esa es parte de la gracia. ¿Qué objeto te gustaría intentar crear primero?",
+      "Modelar: Dar forma a un material flexible con las manos o con herramientas. Modelar una pieza pequeña permite probar ideas sin buscar la perfección."
     ],
-    "detalle": "Hoy fíjate en una preferencia pequeña que suelas defender: cómo te gusta el café, qué ropa te resulta cómoda o qué detalle te hace sentir a gusto. No tienes que justificarla ante nadie; conocer lo que te gusta también te ayuda a cuidar tu propio espacio.",
-    "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas podido elegir al menos una cosa a tu manera. No hace falta que todos entiendan cada gusto tuyo para que sea válido; basta con que tú puedas disfrutarlo en paz.",
-    "cancionTitulo": "You Know How We Do It",
-    "cancionArtista": "Ice Cube",
-    "youtubeId": "FXTh4XLm2VE",
-    "cancionUrl": "https://www.youtube.com/watch?v=FXTh4XLm2VE"
+    "detalle": "Consigan arcilla de secado al aire, una base que no se pegue, un poco de agua y herramientas sencillas como un palito o una tapa para marcar texturas. Cada uno elige una idea pequeña: un platito para anillos, un colgante decorativo, una figura abstracta o un mini recipiente. Amasen la arcilla hasta ablandarla, formen la pieza sin hacerla demasiado gruesa, alisen las grietas con los dedos apenas húmedos y añadan detalles con las herramientas. Pueden grabar una inicial, una línea o un símbolo que tenga sentido para ustedes. Déjenla secar siguiendo las instrucciones del envase; no necesita horno si es arcilla de secado al aire. Cuando esté completamente seca, pueden pintarla otro día con pintura acrílica. Protejan la mesa y lávense las manos al terminar. No importa que las piezas queden distintas: esa es parte de la gracia. ¿Qué objeto te gustaría intentar crear primero?",
+    "buenasNoches": "Me gusta pensar que algo hecho a mano guarda un poquito del tiempo que le dedicamos. Aunque sea imperfecto, puede terminar siendo especial.",
+    "cancionTitulo": "Lost & Found",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "9xZ6P4Sinvw",
+    "cancionUrl": "https://www.youtube.com/watch?v=9xZ6P4Sinvw",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una pequeña pieza hecha a mano.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, manos creativas",
+        "contenido": "Hoy podríamos hacer algo con las manos y dejar que el resultado tenga personalidad propia, incluso si no queda perfecto."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pieza que vamos a modelar",
+        "contenido": "Consigan arcilla de secado al aire, una base que no se pegue, un poco de agua y herramientas sencillas como un palito o una tapa para marcar texturas. Cada uno elige una idea pequeña: un platito para anillos, un colgante decorativo, una figura abstracta o un mini recipiente. Amasen la arcilla hasta ablandarla, formen la pieza sin hacerla demasiado gruesa, alisen las grietas con los dedos apenas húmedos y añadan detalles con las herramientas. Pueden grabar una inicial, una línea o un símbolo que tenga sentido para ustedes. Déjenla secar siguiendo las instrucciones del envase; no necesita horno si es arcilla de secado al aire. Cuando esté completamente seca, pueden pintarla otro día con pintura acrílica. Protejan la mesa y lávense las manos al terminar. No importa que las piezas queden distintas: esa es parte de la gracia. ¿Qué objeto te gustaría intentar crear primero?"
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra para crear",
+        "contenido": "Modelar: Dar forma a un material flexible con las manos o con herramientas. Modelar una pieza pequeña permite probar ideas sin buscar la perfección."
+      },
+      "buenasNoches": {
+        "titulo": "Dejar que se seque",
+        "contenido": "Me gusta pensar que algo hecho a mano guarda un poquito del tiempo que le dedicamos. Aunque sea imperfecto, puede terminar siendo especial."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Modelar",
+      "significado": "Dar forma a un material flexible con las manos o con herramientas.",
+      "ejemplo": "Modelar una pieza pequeña permite probar ideas sin buscar la perfección."
+    }
   },
   {
-    "dia": 68,
-    "fecha": "2026-12-22",
-    "fechaTexto": "mar, 22 de dic",
-    "categoria": "Escuchar es recordar la diferencia",
-    "icono": "🫙",
-    "tono": "filosofica",
+    "dia": 65,
+    "fecha": "2026-12-19",
+    "fechaTexto": "sáb, 19 de dic",
+    "categoria": "El duelo de los números simultáneos",
+    "icono": "🔢",
+    "tono": "juguetón",
+    "color": {
+      "principal": "#e9a3bd",
+      "suave": "#fbe0ea",
+      "oscuro": "#321222"
+    },
+    "buenosDias": "Hoy toca un juego rápido en el que pensar demasiado puede ser tan divertido como acertar.",
+    "poema": [
+      "Necesitan solo papel para anotar los puntos. En cada turno, cuenten «tres, dos, uno» y digan al mismo tiempo un número del 1 al 10 usando los dedos o la voz. Sumen mentalmente los dos números: quien diga primero el resultado correcto gana un punto. En la segunda ronda, cada uno elige un número del 1 al 5 y deben multiplicarlos; en la tercera, quien acierte el resultado también debe inventar una operación distinta que llegue al mismo número. Jueguen cinco turnos por ronda y cambien quién anuncia el inicio. Si hay empate, hagan una ronda final con números del 1 al 12. Nada de burlarse por equivocarse: pueden añadir un punto extra por la explicación más ingeniosa. El premio es elegir la próxima canción o la bebida de la pausa. ¿Te confiarías más en tu velocidad o en tu cálculo?",
+      "Agilidad: Capacidad para actuar o pensar con rapidez y facilidad. La agilidad mental mejora cuando practicamos sin miedo a equivocarnos."
+    ],
+    "detalle": "Necesitan solo papel para anotar los puntos. En cada turno, cuenten «tres, dos, uno» y digan al mismo tiempo un número del 1 al 10 usando los dedos o la voz. Sumen mentalmente los dos números: quien diga primero el resultado correcto gana un punto. En la segunda ronda, cada uno elige un número del 1 al 5 y deben multiplicarlos; en la tercera, quien acierte el resultado también debe inventar una operación distinta que llegue al mismo número. Jueguen cinco turnos por ronda y cambien quién anuncia el inicio. Si hay empate, hagan una ronda final con números del 1 al 12. Nada de burlarse por equivocarse: pueden añadir un punto extra por la explicación más ingeniosa. El premio es elegir la próxima canción o la bebida de la pausa. ¿Te confiarías más en tu velocidad o en tu cálculo?",
+    "buenasNoches": "No sé quién ganaría, pero sospecho que las discusiones sobre una suma mal hecha serían parte del entretenimiento.",
+    "cancionTitulo": "Fallin'",
+    "cancionArtista": "Alicia Keys",
+    "youtubeId": "Urdlvw0SSEc",
+    "cancionUrl": "https://www.youtube.com/watch?v=Urdlvw0SSEc",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de el duelo de los números simultáneos.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, mente rápida",
+        "contenido": "Hoy toca un juego rápido en el que pensar demasiado puede ser tan divertido como acertar."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tres rondas, cero calculadora",
+        "contenido": "Necesitan solo papel para anotar los puntos. En cada turno, cuenten «tres, dos, uno» y digan al mismo tiempo un número del 1 al 10 usando los dedos o la voz. Sumen mentalmente los dos números: quien diga primero el resultado correcto gana un punto. En la segunda ronda, cada uno elige un número del 1 al 5 y deben multiplicarlos; en la tercera, quien acierte el resultado también debe inventar una operación distinta que llegue al mismo número. Jueguen cinco turnos por ronda y cambien quién anuncia el inicio. Si hay empate, hagan una ronda final con números del 1 al 12. Nada de burlarse por equivocarse: pueden añadir un punto extra por la explicación más ingeniosa. El premio es elegir la próxima canción o la bebida de la pausa. ¿Te confiarías más en tu velocidad o en tu cálculo?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de la rapidez",
+        "contenido": "Agilidad: Capacidad para actuar o pensar con rapidez y facilidad. La agilidad mental mejora cuando practicamos sin miedo a equivocarnos."
+      },
+      "buenasNoches": {
+        "titulo": "La revancha puede esperar",
+        "contenido": "No sé quién ganaría, pero sospecho que las discusiones sobre una suma mal hecha serían parte del entretenimiento."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Agilidad",
+      "significado": "Capacidad para actuar o pensar con rapidez y facilidad.",
+      "ejemplo": "La agilidad mental mejora cuando practicamos sin miedo a equivocarnos."
+    }
+  },
+  {
+    "dia": 66,
+    "fecha": "2026-12-20",
+    "fechaTexto": "dom, 20 de dic",
+    "categoria": "Una pausa para descubrir los sentidos",
+    "icono": "🕯️",
+    "tono": "coqueto",
+    "color": {
+      "principal": "#b9a4e5",
+      "suave": "#e7defa",
+      "oscuro": "#211631"
+    },
+    "buenosDias": "A veces el ambiente cambia con detalles muy pequeños: una luz suave, una textura agradable o una canción elegida con intención.",
+    "poema": [
+      "Preparen tres opciones cómodas para los sentidos: dos canciones de ambientes distintos, dos telas o texturas agradables y, si ambos quieren, dos aromas suaves. Cada persona elige una opción sin explicar por qué y la otra intenta describir qué sensación le transmite: calma, curiosidad, confianza, misterio o diversión. Después intercambien los papeles y cuenten qué detalle les gustó. Pueden convertirlo en un momento coqueto diciendo qué ambiente les parece más atractivo para una cita, pero no hace falta contacto físico ni preguntas íntimas. Pregunten antes de usar aromas, tocar a la otra persona o acercarse; cualquiera puede saltarse una opción sin justificarlo. Terminen creando una combinación de música y luz que les gustaría repetir. ¿Qué detalle pequeño suele cambiarte el ánimo de inmediato?",
+      "Sensación: Impresión que algo produce en los sentidos o en el ánimo. Una canción puede despertar una sensación distinta según el momento."
+    ],
+    "detalle": "Preparen tres opciones cómodas para los sentidos: dos canciones de ambientes distintos, dos telas o texturas agradables y, si ambos quieren, dos aromas suaves. Cada persona elige una opción sin explicar por qué y la otra intenta describir qué sensación le transmite: calma, curiosidad, confianza, misterio o diversión. Después intercambien los papeles y cuenten qué detalle les gustó. Pueden convertirlo en un momento coqueto diciendo qué ambiente les parece más atractivo para una cita, pero no hace falta contacto físico ni preguntas íntimas. Pregunten antes de usar aromas, tocar a la otra persona o acercarse; cualquiera puede saltarse una opción sin justificarlo. Terminen creando una combinación de música y luz que les gustaría repetir. ¿Qué detalle pequeño suele cambiarte el ánimo de inmediato?",
+    "buenasNoches": "La complicidad también puede ser eso: aprender qué detalles le dan calma o curiosidad al otro, sin adivinar ni dar nada por sentado.",
+    "cancionTitulo": "Loose",
+    "cancionArtista": "Daniel Caesar",
+    "youtubeId": "46uADUAzt0k",
+    "cancionUrl": "https://www.youtube.com/watch?v=46uADUAzt0k",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una pausa para descubrir los sentidos.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, detalle coqueto",
+        "contenido": "A veces el ambiente cambia con detalles muy pequeños: una luz suave, una textura agradable o una canción elegida con intención."
+      },
+      "mensajePrincipal": {
+        "titulo": "Elegir, describir y dejarse sorprender",
+        "contenido": "Preparen tres opciones cómodas para los sentidos: dos canciones de ambientes distintos, dos telas o texturas agradables y, si ambos quieren, dos aromas suaves. Cada persona elige una opción sin explicar por qué y la otra intenta describir qué sensación le transmite: calma, curiosidad, confianza, misterio o diversión. Después intercambien los papeles y cuenten qué detalle les gustó. Pueden convertirlo en un momento coqueto diciendo qué ambiente les parece más atractivo para una cita, pero no hace falta contacto físico ni preguntas íntimas. Pregunten antes de usar aromas, tocar a la otra persona o acercarse; cualquiera puede saltarse una opción sin justificarlo. Terminen creando una combinación de música y luz que les gustaría repetir. ¿Qué detalle pequeño suele cambiarte el ánimo de inmediato?"
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra de los sentidos",
+        "contenido": "Sensación: Impresión que algo produce en los sentidos o en el ánimo. Una canción puede despertar una sensación distinta según el momento."
+      },
+      "buenasNoches": {
+        "titulo": "La complicidad sin prisa",
+        "contenido": "La complicidad también puede ser eso: aprender qué detalles le dan calma o curiosidad al otro, sin adivinar ni dar nada por sentado."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sensación",
+      "significado": "Impresión que algo produce en los sentidos o en el ánimo.",
+      "ejemplo": "Una canción puede despertar una sensación distinta según el momento."
+    }
+  },
+  {
+    "dia": 67,
+    "fecha": "2026-12-21",
+    "fechaTexto": "lun, 21 de dic",
+    "categoria": "Duraznos tibios en sartén",
+    "icono": "🍑",
+    "tono": "hogareño",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hay detalles que uno recuerda porque escuchó de verdad, no porque estuviera intentando memorizar una lista. También me acordé de Geto, uno de tus personajes favoritos de Jujutsu Kaisen; me da curiosidad qué parte de su historia te interesa más.",
+    "buenosDias": "Hoy una fruta puede convertirse en un postre sencillo, sin horno y sin llenar la cocina de complicaciones.",
     "poema": [
-      "Quiero seguir aprendiendo tus pequeños detalles sin dar por hecho que ya lo sé todo de ti. Las personas cambian de antojo, de canción favorita y de opinión; lo bonito es seguir preguntando.",
-      "Así que cuéntame, corazón, corrígeme y sorpréndeme. Conocerte no debería sentirse como terminar una tarea, sino como abrir un libro que todavía tiene páginas nuevas."
+      "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?",
+      "Caramelizar: Calentar azúcar o alimentos con azúcares hasta que se doren y desarrollen sabor. La fruta puede caramelizarse ligeramente en una sartén sin necesidad de horno."
     ],
-    "detalle": "Cuando alguien te cuente algo importante, intenta recordar ese detalle después. También me acordé de Geto, uno de tus personajes favoritos de Jujutsu Kaisen; me da curiosidad qué parte de su historia te gusta más. A veces, preguntar por algo que le importa a alguien es otra forma de escuchar de verdad.",
-    "buenasNoches": "Que duermas tranquila, mi vida. Acordarte de lo que alguien te cuenta es una manera preciosa de cuidar; y dejar que también se acuerden de ti lo es igual.",
-    "cancionTitulo": "Best Part (feat. H.E.R.)",
-    "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo",
-    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo"
-  },
-  {
-    "dia": 69,
-    "fecha": "2026-12-23",
-    "fechaTexto": "mié, 23 de dic",
-    "categoria": "Una conversación que encuentra su camino",
-    "icono": "🍇",
-    "tono": "amor",
-    "color": {
-      "principal": "#d68caa",
-      "suave": "#f6dce6",
-      "oscuro": "#2b1220"
+    "detalle": "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?",
+    "buenasNoches": "A veces el mejor postre no necesita una receta complicada, solo algo rico, una sartén y alguien con quien compartirlo.",
+    "cancionTitulo": "Where Did I Go?",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "meP1neJrguw",
+    "cancionUrl": "https://www.youtube.com/watch?v=meP1neJrguw",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de duraznos tibios en sartén.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, algo rico",
+        "contenido": "Hoy una fruta puede convertirse en un postre sencillo, sin horno y sin llenar la cocina de complicaciones."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un postre rápido con durazno",
+        "contenido": "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de la cocina",
+        "contenido": "Caramelizar: Calentar azúcar o alimentos con azúcares hasta que se doren y desarrollen sabor. La fruta puede caramelizarse ligeramente en una sartén sin necesidad de horno."
+      },
+      "buenasNoches": {
+        "titulo": "Dulce y sencillo",
+        "contenido": "A veces el mejor postre no necesita una receta complicada, solo algo rico, una sartén y alguien con quien compartirlo."
+      }
     },
-    "buenosDias": "Ojalá hoy tengas una conversación donde puedas hablar como eres: con tus gestos, tus cambios de tema, tus risas y también tus opiniones firmes. No necesitas editarte para caer bien.",
-    "poema": [
-      "A veces el silencio también cae bien cuando no hay presión por llenarlo. Puedes estar hablando de cualquier cosa, mirar por la ventana un momento y volver al tema como si nada.",
-      "Me gustan esas charlas, amor. Las que no se sienten como una entrevista ni como una obligación, sino como un lugarcito donde da gusto quedarse."
-    ],
-    "detalle": "Si una charla se pone seria, puedes ser tierna sin dejar de decir lo que piensas. Me gusta esa combinación: palabras cuidadosas, pero una idea clara que no se esconde detrás de adornos.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá hoy hayas podido decir lo que pensabas sin tener que esconderlo y también hayas encontrado a alguien que supiera escucharte.",
-    "cancionTitulo": "Fui Silencio",
-    "cancionArtista": "Sofía Gabanna; Jazzmind",
-    "youtubeId": "KV2ECDqPyuY",
-    "cancionUrl": "https://www.youtube.com/watch?v=KV2ECDqPyuY"
+    "palabraNueva": {
+      "palabra": "Caramelizar",
+      "significado": "Calentar azúcar o alimentos con azúcares hasta que se doren y desarrollen sabor.",
+      "ejemplo": "La fruta puede caramelizarse ligeramente en una sartén sin necesidad de horno."
+    }
   },
   {
-    "dia": 70,
-    "fecha": "2026-12-24",
-    "fechaTexto": "jue, 24 de dic",
-    "categoria": "La luz que cambia tus ojos",
-    "icono": "👀",
-    "tono": "amor",
+    "dia": 68,
+    "fecha": "2026-12-22",
+    "fechaTexto": "mar, 22 de dic",
+    "categoria": "Una tarde de café y paseo",
+    "icono": "☕",
+    "tono": "aventura",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Hoy me fijé en un detalle muy tuyo: tus ojos cafés, las pecas que se notan más cuando sonríes y esa expresión espontánea que hace difícil no sonreír también. Solo quería dejarte el cumplido, sin pedirte nada a cambio.",
+    "buenosDias": "No todos los planes necesitan ocupar un fin de semana entero. A veces unas horas bien elegidas son suficientes para cambiar de ambiente.",
     "poema": [
-      "Es un detalle precioso, mi vida. No porque tengas que verte de cierta forma, sino porque cuando sonríes aparece una versión de tu cara que se siente muy tuya, espontánea y difícil de olvidar.",
-      "Guárdate este piropo para cuando el día esté medio gris: tienes una sonrisa que merece salir muchas veces y unas pecas que parecen esperar justo ese momento para hacerse notar."
+      "Elijan un café que les llame la atención y un parque, plazoleta o calle peatonal segura que quede razonablemente cerca. Antes de salir, revisen los horarios, el clima, cómo llegar, si el lugar es accesible y cuánto quieren gastar. La idea es reservar unas horas, no convertirlo en una excursión obligatoria: pueden tomar algo, caminar un rato y buscar tres detalles que normalmente pasarían por alto, como una fachada bonita, una combinación de colores o una planta curiosa. Cada uno escoge una pequeña parada y cuenta por qué le llamó la atención. Si el sitio está lleno, llueve o el ambiente no convence, cambien el recorrido o vuelvan a casa; el plan debe adaptarse a ustedes. No hace falta comprar nada más ni llenar todo el tiempo de actividades. ¿Prefieres empezar por el café o por el paseo?",
+      "Itinerario: Plan ordenado de un recorrido o de las actividades que se harán. Un itinerario flexible deja espacio para descubrir algo inesperado."
     ],
-    "detalle": "Si hoy te da el sol en los ojos y se ven más cálidos, ojalá alguien tenga la suerte de notarlo. Y si sonríes y aparecen tus pecas, bueno, que esa persona intente continuar la conversación con normalidad.",
-    "buenasNoches": "Descansa, bonita. Tus ojos, tu sonrisa y esas pecas pueden esperar hasta mañana; esta noche no tienes que iluminarle el día a nadie. Solo descansar.",
-    "cancionTitulo": "Best Part (feat. H.E.R.)",
-    "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo",
-    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo"
+    "detalle": "Elijan un café que les llame la atención y un parque, plazoleta o calle peatonal segura que quede razonablemente cerca. Antes de salir, revisen los horarios, el clima, cómo llegar, si el lugar es accesible y cuánto quieren gastar. La idea es reservar unas horas, no convertirlo en una excursión obligatoria: pueden tomar algo, caminar un rato y buscar tres detalles que normalmente pasarían por alto, como una fachada bonita, una combinación de colores o una planta curiosa. Cada uno escoge una pequeña parada y cuenta por qué le llamó la atención. Si el sitio está lleno, llueve o el ambiente no convence, cambien el recorrido o vuelvan a casa; el plan debe adaptarse a ustedes. No hace falta comprar nada más ni llenar todo el tiempo de actividades. ¿Prefieres empezar por el café o por el paseo?",
+    "buenasNoches": "Me gusta la idea de una salida que termina a tiempo y aun así deja una conversación, una foto o ganas de volver a un lugar.",
+    "cancionTitulo": "Lifeboats (Freestyle)",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "90k8MvVphOw",
+    "cancionUrl": "https://www.youtube.com/watch?v=90k8MvVphOw",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una tarde de café y paseo.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, una pausa fuera",
+        "contenido": "No todos los planes necesitan ocupar un fin de semana entero. A veces unas horas bien elegidas son suficientes para cambiar de ambiente."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una ruta corta, sin afán",
+        "contenido": "Elijan un café que les llame la atención y un parque, plazoleta o calle peatonal segura que quede razonablemente cerca. Antes de salir, revisen los horarios, el clima, cómo llegar, si el lugar es accesible y cuánto quieren gastar. La idea es reservar unas horas, no convertirlo en una excursión obligatoria: pueden tomar algo, caminar un rato y buscar tres detalles que normalmente pasarían por alto, como una fachada bonita, una combinación de colores o una planta curiosa. Cada uno escoge una pequeña parada y cuenta por qué le llamó la atención. Si el sitio está lleno, llueve o el ambiente no convence, cambien el recorrido o vuelvan a casa; el plan debe adaptarse a ustedes. No hace falta comprar nada más ni llenar todo el tiempo de actividades. ¿Prefieres empezar por el café o por el paseo?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del recorrido",
+        "contenido": "Itinerario: Plan ordenado de un recorrido o de las actividades que se harán. Un itinerario flexible deja espacio para descubrir algo inesperado."
+      },
+      "buenasNoches": {
+        "titulo": "Volver con algo pequeño",
+        "contenido": "Me gusta la idea de una salida que termina a tiempo y aun así deja una conversación, una foto o ganas de volver a un lugar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Itinerario",
+      "significado": "Plan ordenado de un recorrido o de las actividades que se harán.",
+      "ejemplo": "Un itinerario flexible deja espacio para descubrir algo inesperado."
+    }
+  },
+  {
+    "dia": 69,
+    "fecha": "2026-12-23",
+    "fechaTexto": "mié, 23 de dic",
+    "categoria": "Inventar la cita imposible",
+    "icono": "🎟️",
+    "tono": "creativo",
+    "color": {
+      "principal": "#d6b36c",
+      "suave": "#f5e7c5",
+      "oscuro": "#2a1e0b"
+    },
+    "buenosDias": "Hoy no hace falta salir: vamos a diseñar una cita tan rara que probablemente no exista, pero que nos gustaría imaginar.",
+    "poema": [
+      "Cada uno escribe en papel tres lugares imaginarios, tres actividades y tres reglas absurdas pero inofensivas. Por ejemplo: una cafetería en una estación espacial, pintar un retrato con la mano no dominante o tener que hablar como presentadores de televisión durante cinco minutos. Saquen al azar un papel de cada grupo y armen una cita de una hora con esos ingredientes. Después intercambien la propuesta: cada persona añade un giro inesperado y una forma de hacerla más cómoda o divertida para ambos. Para cerrar, elijan qué parte sí podrían adaptar a una cita real de bajo presupuesto. No se trata de prometer que la harán ni de acertar lo que el otro quiere; es un ejercicio para imaginar y descubrir gustos. ¿Qué ingrediente absurdo pondrías en nuestra cita ficticia?",
+      "Premisa: Idea inicial que sirve como base para desarrollar una historia o propuesta. La premisa de la cita era sencilla: todo debía parecer una escena de película."
+    ],
+    "detalle": "Cada uno escribe en papel tres lugares imaginarios, tres actividades y tres reglas absurdas pero inofensivas. Por ejemplo: una cafetería en una estación espacial, pintar un retrato con la mano no dominante o tener que hablar como presentadores de televisión durante cinco minutos. Saquen al azar un papel de cada grupo y armen una cita de una hora con esos ingredientes. Después intercambien la propuesta: cada persona añade un giro inesperado y una forma de hacerla más cómoda o divertida para ambos. Para cerrar, elijan qué parte sí podrían adaptar a una cita real de bajo presupuesto. No se trata de prometer que la harán ni de acertar lo que el otro quiere; es un ejercicio para imaginar y descubrir gustos. ¿Qué ingrediente absurdo pondrías en nuestra cita ficticia?",
+    "buenasNoches": "Me gustan las ideas que nos hacen reír y, de paso, revelan algo nuevo sobre lo que nos gustaría vivir.",
+    "cancionTitulo": "Otra Canción Larga",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "aAwXhAV3LPE",
+    "cancionUrl": "https://www.youtube.com/watch?v=aAwXhAV3LPE",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de inventar la cita imposible.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, imaginación",
+        "contenido": "Hoy no hace falta salir: vamos a diseñar una cita tan rara que probablemente no exista, pero que nos gustaría imaginar."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tres ingredientes para un plan inventado",
+        "contenido": "Cada uno escribe en papel tres lugares imaginarios, tres actividades y tres reglas absurdas pero inofensivas. Por ejemplo: una cafetería en una estación espacial, pintar un retrato con la mano no dominante o tener que hablar como presentadores de televisión durante cinco minutos. Saquen al azar un papel de cada grupo y armen una cita de una hora con esos ingredientes. Después intercambien la propuesta: cada persona añade un giro inesperado y una forma de hacerla más cómoda o divertida para ambos. Para cerrar, elijan qué parte sí podrían adaptar a una cita real de bajo presupuesto. No se trata de prometer que la harán ni de acertar lo que el otro quiere; es un ejercicio para imaginar y descubrir gustos. ¿Qué ingrediente absurdo pondrías en nuestra cita ficticia?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de las historias",
+        "contenido": "Premisa: Idea inicial que sirve como base para desarrollar una historia o propuesta. La premisa de la cita era sencilla: todo debía parecer una escena de película."
+      },
+      "buenasNoches": {
+        "titulo": "Una idea que se queda",
+        "contenido": "Me gustan las ideas que nos hacen reír y, de paso, revelan algo nuevo sobre lo que nos gustaría vivir."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Premisa",
+      "significado": "Idea inicial que sirve como base para desarrollar una historia o propuesta.",
+      "ejemplo": "La premisa de la cita era sencilla: todo debía parecer una escena de película."
+    }
+  },
+  {
+    "dia": 70,
+    "fecha": "2026-12-24",
+    "fechaTexto": "jue, 24 de dic",
+    "categoria": "Una cápsula de pequeños hallazgos",
+    "icono": "📦",
+    "tono": "cercano",
+    "color": {
+      "principal": "#8fc6bd",
+      "suave": "#d7f0e9",
+      "oscuro": "#102925"
+    },
+    "buenosDias": "Hoy podemos guardar algo más que una fotografía: un pequeño registro de las cosas que hemos ido descubriendo sin apurar el camino.",
+    "poema": [
+      "Busquen una caja pequeña o un sobre resistente y tres papeles por persona. En el primero, escriban una cosa que les hizo reír recientemente; en el segundo, una actividad sencilla que les gustaría probar algún día; en el tercero, una pregunta que les gustaría conversar cuando se dé el momento. Añadan un dibujo, una entrada o una foto solo si les apetece y si ambos están de acuerdo. Lean en voz alta únicamente lo que quieran compartir; las preguntas privadas pueden quedarse dobladas. Pongan una fecha futura para abrir la cápsula, quizá dentro de uno o dos meses, sin convertirla en una promesa obligatoria. Guárdenla en un lugar seco y seguro. No tiene que ser un recuerdo solemne: puede ser una manera ligera de notar cómo cambian las ideas y los gustos con el tiempo. ¿Qué pequeño hallazgo te gustaría guardar hoy?",
+      "Cápsula: Recipiente que conserva objetos o mensajes para abrirlos en otro momento. Una cápsula del tiempo guarda pequeñas señales de lo que nos importaba en una etapa."
+    ],
+    "detalle": "Busquen una caja pequeña o un sobre resistente y tres papeles por persona. En el primero, escriban una cosa que les hizo reír recientemente; en el segundo, una actividad sencilla que les gustaría probar algún día; en el tercero, una pregunta que les gustaría conversar cuando se dé el momento. Añadan un dibujo, una entrada o una foto solo si les apetece y si ambos están de acuerdo. Lean en voz alta únicamente lo que quieran compartir; las preguntas privadas pueden quedarse dobladas. Pongan una fecha futura para abrir la cápsula, quizá dentro de uno o dos meses, sin convertirla en una promesa obligatoria. Guárdenla en un lugar seco y seguro. No tiene que ser un recuerdo solemne: puede ser una manera ligera de notar cómo cambian las ideas y los gustos con el tiempo. ¿Qué pequeño hallazgo te gustaría guardar hoy?",
+    "buenasNoches": "No hace falta saber cómo será todo más adelante. A veces basta con guardar una pequeña parte del presente y dejar que el resto llegue a su ritmo.",
+    "cancionTitulo": "Coctel Espacial",
+    "cancionArtista": "Lianna; Gambeta",
+    "youtubeId": "McpW-vn070k",
+    "cancionUrl": "https://www.youtube.com/watch?v=McpW-vn070k",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una cápsula de pequeños hallazgos.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, guardemos un detalle",
+        "contenido": "Hoy podemos guardar algo más que una fotografía: un pequeño registro de las cosas que hemos ido descubriendo sin apurar el camino."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una caja para abrir más adelante",
+        "contenido": "Busquen una caja pequeña o un sobre resistente y tres papeles por persona. En el primero, escriban una cosa que les hizo reír recientemente; en el segundo, una actividad sencilla que les gustaría probar algún día; en el tercero, una pregunta que les gustaría conversar cuando se dé el momento. Añadan un dibujo, una entrada o una foto solo si les apetece y si ambos están de acuerdo. Lean en voz alta únicamente lo que quieran compartir; las preguntas privadas pueden quedarse dobladas. Pongan una fecha futura para abrir la cápsula, quizá dentro de uno o dos meses, sin convertirla en una promesa obligatoria. Guárdenla en un lugar seco y seguro. No tiene que ser un recuerdo solemne: puede ser una manera ligera de notar cómo cambian las ideas y los gustos con el tiempo. ¿Qué pequeño hallazgo te gustaría guardar hoy?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de los recuerdos",
+        "contenido": "Cápsula: Recipiente que conserva objetos o mensajes para abrirlos en otro momento. Una cápsula del tiempo guarda pequeñas señales de lo que nos importaba en una etapa."
+      },
+      "buenasNoches": {
+        "titulo": "Sin apurar el futuro",
+        "contenido": "No hace falta saber cómo será todo más adelante. A veces basta con guardar una pequeña parte del presente y dejar que el resto llegue a su ritmo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Cápsula",
+      "significado": "Recipiente que conserva objetos o mensajes para abrirlos en otro momento.",
+      "ejemplo": "Una cápsula del tiempo guarda pequeñas señales de lo que nos importaba en una etapa."
+    }
   },
   {
     "dia": 71,
