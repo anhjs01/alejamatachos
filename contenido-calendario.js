@@ -3183,7 +3183,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy una fruta puede convertirse en un postre sencillo, sin horno y sin llenar la cocina de complicaciones.",
     "poema": [
       "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?",
-      "Dorar: Cocinar un alimento hasta que su superficie tome un tono dorado. Dorar los duraznos unos minutos ayuda a intensificar su sabor."
+      "Glaseado: Capa brillante que recubre un alimento, a menudo hecha con azúcar o con sus propios jugos. El glaseado ligero de los duraznos les da brillo sin ocultar su sabor."
     ],
     "detalle": "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?",
     "buenasNoches": "A veces el mejor postre no necesita una receta complicada, solo algo rico, una sartén y alguien con quien compartirlo.",
@@ -3203,7 +3203,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de la cocina",
-        "contenido": "Dorar: Cocinar un alimento hasta que su superficie tome un tono dorado. Dorar los duraznos unos minutos ayuda a intensificar su sabor."
+        "contenido": "Glaseado: Capa brillante que recubre un alimento, a menudo hecha con azúcar o con sus propios jugos. El glaseado ligero de los duraznos les da brillo sin ocultar su sabor."
       },
       "buenasNoches": {
         "titulo": "Dulce y sencillo",
@@ -3211,9 +3211,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Dorar",
-      "significado": "Cocinar un alimento hasta que su superficie tome un tono dorado.",
-      "ejemplo": "Dorar los duraznos unos minutos ayuda a intensificar su sabor."
+      "palabra": "Glaseado",
+      "significado": "Capa brillante que recubre un alimento, a menudo hecha con azúcar o con sus propios jugos.",
+      "ejemplo": "El glaseado ligero de los duraznos les da brillo sin ocultar su sabor."
     }
   },
   {
