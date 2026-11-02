@@ -340,169 +340,337 @@ const CALENDARIO = [
     "dia": 8,
     "fecha": "2026-10-23",
     "fechaTexto": "vie, 23 de oct",
-    "categoria": "Un bolero con saxofón al fondo",
-    "icono": "🎷",
-    "tono": "ambiente",
+    "categoria": "Un pueblo que todavía no conocemos",
+    "icono": "🏞️",
+    "tono": "aventura",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Hoy la mañana pide un bolero imaginario y un saxofón suave, de esos que convierten una escena cualquiera en algo que uno recuerda.",
+    "buenosDias": "Hoy quiero proponerte un viaje que todavía no tiene destino. No voy a escoger un pueblo al azar ni a prometerte un sitio concreto: quiero que imaginemos qué tendría que tener para que nos enamore. ¿Un lago enorme? ¿Un mirador con una vista que nos deje callados? ¿Calles bonitas, una iglesia que domine la plaza y rincones para caminar?",
     "poema": [
-      "Hay canciones que parecen hablar bajito para que uno se acerque a escuchar. Me pregunto cuál sería la tuya hoy, esa que te hace cerrar un poquito los ojos o sonreír antes de que llegue tu parte favorita.",
-      "Cuando encuentres una, mándamela. Quiero saber qué canción logra quedarse contigo después de terminar. Y si tiene saxofón, ya me imagino el ambiente; solo faltaría una conversación que nadie tenga ganas de acabar."
+      "Para una próxima escapada, hagamos una lista de tres cosas imprescindibles y dos caprichos. Por ejemplo: un paisaje de agua, un mirador para ver el atardecer y arquitectura bonita; como caprichos, una panadería pequeña y una calle empedrada. Después buscamos juntos un destino real que cumpla con eso y revisamos si sigue siendo viable cuando llegue el momento. La idea es elegir el lugar entre los dos, no casarnos hoy con uno.",
+      "Cartografía no es solo dibujar mapas: también podemos hacer el mapa de los lugares que soñamos conocer. Hoy nuestro mapa empieza con una vista que valga la caminata."
     ],
-    "detalle": "Si hoy suena un bolero con saxofón, déjalo acompañarte sin apuro. Hay músicas que parecen hablar bajito y, aun así, dicen más que una conversación entera.",
-    "buenasNoches": "Que la noche te trate suave, mi vida. Ojalá alguna melodía se te quede dando vueltas, de esas que no hacen ruido pero acompañan bonito.",
-    "cancionTitulo": "Solo Tú",
-    "cancionArtista": "Macha y el Bloque Depresivo; Álvaro Henríquez",
-    "youtubeId": "lxPDvuV9Z88",
-    "cancionUrl": "https://www.youtube.com/watch?v=lxPDvuV9Z88"
+    "detalle": "Para una próxima escapada, hagamos una lista de tres cosas imprescindibles y dos caprichos. Por ejemplo: un paisaje de agua, un mirador para ver el atardecer y arquitectura bonita; como caprichos, una panadería pequeña y una calle empedrada. Después buscamos juntos un destino real que cumpla con eso y revisamos si sigue siendo viable cuando llegue el momento. La idea es elegir el lugar entre los dos, no casarnos hoy con uno.",
+    "buenasNoches": "Guarda un paisaje en la cabeza para esta noche. Algún día vamos a cambiar la pantalla por una vista real, una bebida caliente y esa conversación que se alarga porque ninguno tiene prisa.",
+    "cancionTitulo": "Dime Si Valio la Pena",
+    "cancionArtista": "Gonzalo Genek; Don-J HH; A.C.O",
+    "youtubeId": "Ar6VVj4FUPQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=Ar6VVj4FUPQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, exploradora",
+        "contenido": "Hoy quiero proponerte un viaje que todavía no tiene destino. No voy a escoger un pueblo al azar ni a prometerte un sitio concreto: quiero que imaginemos qué tendría que tener para que nos enamore. ¿Un lago enorme? ¿Un mirador con una vista que nos deje callados? ¿Calles bonitas, una iglesia que domine la plaza y rincones para caminar?"
+      },
+      "mensajePrincipal": {
+        "titulo": "Nuestro próximo pueblo",
+        "contenido": "Para una próxima escapada, hagamos una lista de tres cosas imprescindibles y dos caprichos. Por ejemplo: un paisaje de agua, un mirador para ver el atardecer y arquitectura bonita; como caprichos, una panadería pequeña y una calle empedrada. Después buscamos juntos un destino real que cumpla con eso y revisamos si sigue siendo viable cuando llegue el momento. La idea es elegir el lugar entre los dos, no casarnos hoy con uno."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para llevar",
+        "contenido": "Cartografía no es solo dibujar mapas: también podemos hacer el mapa de los lugares que soñamos conocer. Hoy nuestro mapa empieza con una vista que valga la caminata."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Guarda un paisaje en la cabeza para esta noche. Algún día vamos a cambiar la pantalla por una vista real, una bebida caliente y esa conversación que se alarga porque ninguno tiene prisa."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Cartografía",
+      "significado": "El arte o la práctica de representar lugares y recorridos; también, la manera de construir un mapa propio.",
+      "ejemplo": "Hoy hacemos una cartografía de deseos: lago, mirador, calles bonitas, una iglesia imponente y un café donde sentarnos sin afán."
+    },
+    "inspiracionCancion": "Esta canción acompaña la idea de salir de la rutina y dejar que el camino nos sorprenda."
   },
   {
     "dia": 9,
     "fecha": "2026-10-24",
     "fechaTexto": "sáb, 24 de oct",
-    "categoria": "R&B para bajar el volumen del mundo",
-    "icono": "🎧",
-    "tono": "ambiente",
+    "categoria": "Reto de pintura: flor de loto · nivel 1",
+    "icono": "🪷",
+    "tono": "creativo",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Ponle un buen R&B al día, de esos que suenan en los audífonos y hacen que el mundo pueda esperar tres minutos.",
+    "buenosDias": "Hoy empieza un reto por niveles: vamos a pintar una flor de loto. No hace falta que salga perfecta ni que tengas un estudio; lo importante es que cada intento nos enseñe algo nuevo.",
     "poema": [
-      "Hay canciones que no arreglan nada, pero te hacen compañía mientras todo sigue en su sitio. Me gusta pensar que tienes varias así, guardadas para cuando necesitas bajar el volumen de afuera.",
-      "Si hoy encuentras una que te quede perfecta, compártela conmigo. Prometo escucharla con atención y no fingir que entendí la letra si me quedé pensando en otra cosa."
+      "Materiales: papel grueso o cartulina, lápiz, borrador, pincel fino y mediano, agua y pinturas acrílicas o gouache en rosa, blanco, verde y un tono oscuro. Primero dibuja un óvalo central; alrededor agrega pétalos en capas, unos más cortos al centro y otros abiertos hacia afuera. Pinta primero la silueta con un tono claro, deja secar y marca la separación entre pétalos con un rosa más intenso. Añade dos hojas verdes debajo. Reto extra: mezcla tres tonos de rosa sin usar el color directamente del envase. Tutorial de referencia: [buscar tutorial de flor de loto paso a paso en YouTube](https://www.youtube.com/results?search_query=flor+de+loto+pintura+acrilica+paso+a+paso+principiantes). Cuando lo termines, guarda la foto: será la referencia para el nivel 2.",
+      "Pigmento. En el siguiente nivel vamos a trabajar luces, sombras y profundidad; por ahora, concéntrate en reconocer cómo cambia el color cuando lo mezclas."
     ],
-    "detalle": "Pon esa canción de R&B que te acomoda el ánimo y haz tus cosas a tu ritmo. El mundo puede esperar unos minutos; tampoco es que vaya a aprender a organizarse mientras tú no lo miras.",
-    "buenasNoches": "Buenas noches. Deja que la música se apague cuando ya no la necesites y que el silencio también tenga su lugar. No tienes que llenar cada minuto de algo.",
-    "cancionTitulo": "Didn't Cha Know",
-    "cancionArtista": "Erykah Badu",
-    "youtubeId": "Np21rH7Ldto",
-    "cancionUrl": "https://www.youtube.com/watch?v=Np21rH7Ldto"
+    "detalle": "Materiales: papel grueso o cartulina, lápiz, borrador, pincel fino y mediano, agua y pinturas acrílicas o gouache en rosa, blanco, verde y un tono oscuro. Primero dibuja un óvalo central; alrededor agrega pétalos en capas, unos más cortos al centro y otros abiertos hacia afuera. Pinta primero la silueta con un tono claro, deja secar y marca la separación entre pétalos con un rosa más intenso. Añade dos hojas verdes debajo. Reto extra: mezcla tres tonos de rosa sin usar el color directamente del envase. Tutorial de referencia: [buscar tutorial de flor de loto paso a paso en YouTube](https://www.youtube.com/results?search_query=flor+de+loto+pintura+acrilica+paso+a+paso+principiantes). Cuando lo termines, guarda la foto: será la referencia para el nivel 2.",
+    "buenasNoches": "No borres los intentos que no te convenzan. Guárdalos: cuando lleguemos al nivel 3, vas a poder mirar atrás y notar cuánto mejoraste.",
+    "cancionTitulo": "Goodbyes",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "GJY5N0stFyU",
+    "cancionUrl": "https://www.youtube.com/watch?v=GJY5N0stFyU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, artista",
+        "contenido": "Hoy empieza un reto por niveles: vamos a pintar una flor de loto. No hace falta que salga perfecta ni que tengas un estudio; lo importante es que cada intento nos enseñe algo nuevo."
+      },
+      "mensajePrincipal": {
+        "titulo": "Nivel 1: silueta y color",
+        "contenido": "Materiales: papel grueso o cartulina, lápiz, borrador, pincel fino y mediano, agua y pinturas acrílicas o gouache en rosa, blanco, verde y un tono oscuro. Primero dibuja un óvalo central; alrededor agrega pétalos en capas, unos más cortos al centro y otros abiertos hacia afuera. Pinta primero la silueta con un tono claro, deja secar y marca la separación entre pétalos con un rosa más intenso. Añade dos hojas verdes debajo. Reto extra: mezcla tres tonos de rosa sin usar el color directamente del envase. Tutorial de referencia: [buscar tutorial de flor de loto paso a paso en YouTube](https://www.youtube.com/results?search_query=flor+de+loto+pintura+acrilica+paso+a+paso+principiantes). Cuando lo termines, guarda la foto: será la referencia para el nivel 2."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de taller",
+        "contenido": "Pigmento. En el siguiente nivel vamos a trabajar luces, sombras y profundidad; por ahora, concéntrate en reconocer cómo cambia el color cuando lo mezclas."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "No borres los intentos que no te convenzan. Guárdalos: cuando lleguemos al nivel 3, vas a poder mirar atrás y notar cuánto mejoraste."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Pigmento",
+      "significado": "Sustancia que aporta color a una pintura o material; su intensidad cambia según la cantidad de agua o medio que mezclemos.",
+      "ejemplo": "Prueba tres cantidades de pigmento rosa y observa cómo una misma flor puede tener pétalos muy distintos."
+    },
+    "inspiracionCancion": "Una canción para entrar en modo taller: sin afán, con las manos ocupadas y permiso para equivocarnos."
   },
   {
     "dia": 10,
     "fecha": "2026-10-25",
     "fechaTexto": "dom, 25 de oct",
-    "categoria": "Tu uniforme favorito: estar cómoda",
-    "icono": "🧥",
-    "tono": "filosofica",
+    "categoria": "Una noche de camping pendiente",
+    "icono": "⛺",
+    "tono": "aventura",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, bonita. Ponte esa ropa amplia que te encanta y sal a conquistar el día a tu manera. La comodidad también puede tener mucho estilo, especialmente cuando la llevas tú.",
+    "buenosDias": "Tengo una idea para un futuro fin de semana: irnos de camping. No tiene que ser mañana ni en un lugar improvisado; cuando tengamos fecha, buscamos un sitio habilitado, revisamos el clima y escogemos una opción segura.",
     "poema": [
-      "Hay gente que necesita vestirse para impresionar; tú puedes ponerte algo sencillo y aun así darle personalidad. No sé cómo haces, pero me parece que la ropa termina adaptándose a ti y no al revés.",
-      "Eso sí, si algún día me preguntas cómo te ves, probablemente responda que muy linda y después intente dar una explicación más elaborada. No prometo que me salga bien."
+      "La idea: llegar con luz, montar la carpa juntos, preparar una cena sencilla, llevar una manta extra y quedarnos un rato mirando el cielo. Lista inicial: carpa impermeable, aislantes o colchonetas, sacos de dormir adecuados al clima, linterna, batería externa, agua, botiquín, bolsas para residuos y comida fácil de preparar. Antes de reservar, confirmamos que el lugar permita fogatas (si no, no hacemos ninguna), que tenga baños o acceso seguro y que haya transporte de regreso. Si el clima no acompaña, cambiamos la fecha; la aventura no necesita hacerse a la fuerza.",
+      "Vivac. Hoy la usamos como inspiración, aunque nuestro plan puede ser en un camping establecido con todas las facilidades que necesitemos."
     ],
-    "detalle": "Vístete cómoda y como te dé la gana. No tienes que convertir cada día en un desfile, aunque admito que tienes esa habilidad sospechosa de hacer que lo sencillo te quede con personalidad.",
-    "buenasNoches": "Descansa cómoda, a tu manera y sin pedir permiso. Ojalá mañana te despiertes sintiéndote tan tú como cuando eliges ponerte lo que te gusta.",
-    "cancionTitulo": "Japanese Denim",
-    "cancionArtista": "Daniel Caesar",
-    "youtubeId": "4MXruqqZb8Q",
-    "cancionUrl": "https://www.youtube.com/watch?v=4MXruqqZb8Q"
+    "detalle": "La idea: llegar con luz, montar la carpa juntos, preparar una cena sencilla, llevar una manta extra y quedarnos un rato mirando el cielo. Lista inicial: carpa impermeable, aislantes o colchonetas, sacos de dormir adecuados al clima, linterna, batería externa, agua, botiquín, bolsas para residuos y comida fácil de preparar. Antes de reservar, confirmamos que el lugar permita fogatas (si no, no hacemos ninguna), que tenga baños o acceso seguro y que haya transporte de regreso. Si el clima no acompaña, cambiamos la fecha; la aventura no necesita hacerse a la fuerza.",
+    "buenasNoches": "Imagínate una noche sin notificaciones, con una bebida caliente y el sonido de los árboles. No tenemos que resolver hoy dónde será; basta con dejar la idea guardada para cuando llegue el fin de semana indicado.",
+    "cancionTitulo": "February 3rd",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "DI5fYHCk318",
+    "cancionUrl": "https://www.youtube.com/watch?v=DI5fYHCk318",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, aventureros",
+        "contenido": "Tengo una idea para un futuro fin de semana: irnos de camping. No tiene que ser mañana ni en un lugar improvisado; cuando tengamos fecha, buscamos un sitio habilitado, revisamos el clima y escogemos una opción segura."
+      },
+      "mensajePrincipal": {
+        "titulo": "Plan para una noche bajo las estrellas",
+        "contenido": "La idea: llegar con luz, montar la carpa juntos, preparar una cena sencilla, llevar una manta extra y quedarnos un rato mirando el cielo. Lista inicial: carpa impermeable, aislantes o colchonetas, sacos de dormir adecuados al clima, linterna, batería externa, agua, botiquín, bolsas para residuos y comida fácil de preparar. Antes de reservar, confirmamos que el lugar permita fogatas (si no, no hacemos ninguna), que tenga baños o acceso seguro y que haya transporte de regreso. Si el clima no acompaña, cambiamos la fecha; la aventura no necesita hacerse a la fuerza."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de aventura",
+        "contenido": "Vivac. Hoy la usamos como inspiración, aunque nuestro plan puede ser en un camping establecido con todas las facilidades que necesitemos."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Imagínate una noche sin notificaciones, con una bebida caliente y el sonido de los árboles. No tenemos que resolver hoy dónde será; basta con dejar la idea guardada para cuando llegue el fin de semana indicado."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Vivac",
+      "significado": "Forma sencilla de pasar la noche al aire libre, normalmente con equipo ligero y sin una instalación fija.",
+      "ejemplo": "Nuestro primer vivac podría ser una escapada planeada con tiempo, en un lugar permitido y seguro."
+    },
+    "inspiracionCancion": "Para imaginar una noche fuera de casa, con el cielo abierto y el ruido de la ciudad cada vez más lejos."
   },
   {
     "dia": 11,
     "fecha": "2026-10-26",
     "fechaTexto": "lun, 26 de oct",
-    "categoria": "Mora silvestre y cobertura amarga",
-    "icono": "🍦",
-    "tono": "amor",
+    "categoria": "Hoy toca cocinar: pimentones rellenos en sartén",
+    "icono": "🍽️",
+    "tono": "cocina",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Dato importante de hoy: la mora silvestre con cobertura amarga merece su propio lugar en la lista de antojos memorables. Hay gustos tan específicos que recordarlos se siente como guardar una pequeña contraseña.",
+    "buenosDias": "Hoy me encargo yo de cocinar y tú puedes elegir la música y ser la catadora oficial. Nada de horno: vamos a preparar pimentones rellenos de carne en una sartén profunda, con tapa.",
     "poema": [
-      "Me gusta aprender esas cositas tuyas que quizá para otra persona pasan desapercibidas. No porque haya que memorizar una lista, sino porque cuando alguien te importa, uno empieza a prestar atención sin proponérselo.",
-      "Si hoy se te antoja algo dulce, que sea eso que de verdad te gusta. Y si no aparece, queda pendiente una búsqueda seria de la combinación correcta. Hay asuntos importantes que requieren investigación."
+      "Compra para dos: 2 pimentones grandes, 250 g de carne molida, ½ taza de arroz cocido, ½ cebolla, 1 tomate, 1 diente de ajo, ½ taza de salsa de tomate, queso rallado opcional, aceite, sal, pimienta, comino y un poquito de agua o caldo. Preparación: 1) corta la parte superior de los pimentones y retira semillas; 2) sofríe cebolla y ajo picados; 3) añade la carne, sal, pimienta y comino, y cocina hasta que esté bien hecha; 4) mezcla con el arroz y parte de la salsa; 5) rellena los pimentones; 6) ponlos de pie en una sartén profunda con el resto de la salsa y un chorrito de agua; 7) tapa y cocina a fuego bajo unos 25–35 minutos, girando la sartén si hace falta, hasta que los pimentones estén tiernos y la carne alcance cocción completa. Añade queso al final y tapa dos minutos para fundirlo. Si son muy altos, córtalos por la mitad a lo largo y acomódalos acostados.",
+      "Sofreír. Es el primer paso que construye el sabor: cebolla y ajo suaves antes de que llegue la carne."
     ],
-    "detalle": "Si aparece el antojo de mora con su cubierta amarga, no dejes que nadie te cambie la combinación. Hay gustos que no necesitan defensa ante un jurado, y el tuyo ya tiene suficiente carácter.",
-    "buenasNoches": "Que descanses, amor. Si hoy tuviste uno de esos antojos que te arreglan el ánimo, espero que lo hayas disfrutado; si no, queda pendiente para otro día.",
-    "cancionTitulo": "I Want You Around",
-    "cancionArtista": "Snoh Aalegra",
-    "youtubeId": "WdyPcNEA27M",
-    "cancionUrl": "https://www.youtube.com/watch?v=WdyPcNEA27M"
+    "detalle": "Compra para dos: 2 pimentones grandes, 250 g de carne molida, ½ taza de arroz cocido, ½ cebolla, 1 tomate, 1 diente de ajo, ½ taza de salsa de tomate, queso rallado opcional, aceite, sal, pimienta, comino y un poquito de agua o caldo. Preparación: 1) corta la parte superior de los pimentones y retira semillas; 2) sofríe cebolla y ajo picados; 3) añade la carne, sal, pimienta y comino, y cocina hasta que esté bien hecha; 4) mezcla con el arroz y parte de la salsa; 5) rellena los pimentones; 6) ponlos de pie en una sartén profunda con el resto de la salsa y un chorrito de agua; 7) tapa y cocina a fuego bajo unos 25–35 minutos, girando la sartén si hace falta, hasta que los pimentones estén tiernos y la carne alcance cocción completa. Añade queso al final y tapa dos minutos para fundirlo. Si son muy altos, córtalos por la mitad a lo largo y acomódalos acostados.",
+    "buenasNoches": "Ojalá hoy haya quedado olor rico en la cocina y una receta nueva en nuestra lista. La próxima vez cambiamos los colores de los pimentones o hacemos una versión más picante.",
+    "cancionTitulo": "Don't Watch Me Cry",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "_iU1_WhMVjY",
+    "cancionUrl": "https://www.youtube.com/watch?v=_iU1_WhMVjY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, chef",
+        "contenido": "Hoy me encargo yo de cocinar y tú puedes elegir la música y ser la catadora oficial. Nada de horno: vamos a preparar pimentones rellenos de carne en una sartén profunda, con tapa."
+      },
+      "mensajePrincipal": {
+        "titulo": "La compra y la receta",
+        "contenido": "Compra para dos: 2 pimentones grandes, 250 g de carne molida, ½ taza de arroz cocido, ½ cebolla, 1 tomate, 1 diente de ajo, ½ taza de salsa de tomate, queso rallado opcional, aceite, sal, pimienta, comino y un poquito de agua o caldo. Preparación: 1) corta la parte superior de los pimentones y retira semillas; 2) sofríe cebolla y ajo picados; 3) añade la carne, sal, pimienta y comino, y cocina hasta que esté bien hecha; 4) mezcla con el arroz y parte de la salsa; 5) rellena los pimentones; 6) ponlos de pie en una sartén profunda con el resto de la salsa y un chorrito de agua; 7) tapa y cocina a fuego bajo unos 25–35 minutos, girando la sartén si hace falta, hasta que los pimentones estén tiernos y la carne alcance cocción completa. Añade queso al final y tapa dos minutos para fundirlo. Si son muy altos, córtalos por la mitad a lo largo y acomódalos acostados."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de cocina",
+        "contenido": "Sofreír. Es el primer paso que construye el sabor: cebolla y ajo suaves antes de que llegue la carne."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá hoy haya quedado olor rico en la cocina y una receta nueva en nuestra lista. La próxima vez cambiamos los colores de los pimentones o hacemos una versión más picante."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sofreír",
+      "significado": "Cocinar un alimento a fuego medio con un poco de grasa, removiendo para que se ablande y desarrolle sabor sin dorarse demasiado.",
+      "ejemplo": "Sofríe la cebolla y el ajo antes de añadir la carne para que el relleno tenga más sabor."
+    },
+    "inspiracionCancion": "Pon esta canción mientras cocinamos: una para picar ingredientes, probar la salsa y discutir quién se queda con el último bocado."
   },
   {
     "dia": 12,
     "fecha": "2026-10-27",
     "fechaTexto": "mar, 27 de oct",
-    "categoria": "Flores sin esperar una fecha",
-    "icono": "🌷",
-    "tono": "amor",
+    "categoria": "Pintar al aire libre, con el paisaje de modelo",
+    "icono": "🎨",
+    "tono": "creativo",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "No hace falta una fecha especial para que una flor alegre el día. Ojalá hoy aparezca un tulipán o una margarita sin motivo enorme y sin tener que explicar por qué te la mereces.",
+    "buenosDias": "Quiero que algún día hagamos un plan distinto: subir a un cerro o a un mirador permitido, llevar nuestros materiales y pintar el paisaje allí mismo. No tiene que ser una excursión complicada; buscamos un sitio accesible, seguro y donde esté permitido instalarse.",
     "poema": [
-      "Un tulipán, una margarita… cualquiera puede alegrar un rincón, pero me gusta más la idea de que alguien la escoja pensando en ti y en lo que te haría sonreír.",
-      "No hace falta que sea un ramo gigante, mi vida. A veces una sola flor y una nota escrita con cariño dicen mucho más de lo que cabe en un discurso."
+      "Lleva un cuaderno de acuarela o cartón entelado pequeño, lápiz HB, pinceles, acuarelas o acrílicos, recipiente de agua, paño, cinta, protector solar y una bolsa para llevarnos todos los residuos. Nivel 1: dibuja solo tres formas grandes del paisaje. Nivel 2: limita la paleta a cinco colores y mezcla los tonos que ves. Nivel 3: añade un detalle que haga reconocible el lugar: una silueta, una nube, una baranda o un árbol. No buscamos una postal perfecta; queremos dos versiones distintas del mismo paisaje. Si hace viento o llueve, hacemos el reto desde una ventana o una cafetería con vista.",
+      "En plein air: pintar frente al paisaje real, donde la luz cambia mientras trabajas. Es una forma preciosa de aprender a observar."
     ],
-    "detalle": "Si hoy ves tulipanes o margaritas, piensa que no hace falta una fecha especial para que una flor le mejore el día a alguien. Lo mismo pasa con los mensajes: a veces llegan porque sí, y justo por eso se sienten tan bonitos.",
-    "buenasNoches": "Buenas noches, mi vida. No hace falta que hoy haya sido una fecha especial para que merezcas un detalle bonito. Ojalá mañana alguien te sorprenda con uno.",
-    "cancionTitulo": "Kiss Of Life",
-    "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk",
-    "cancionUrl": "https://www.youtube.com/watch?v=MmOau-PMWJk"
+    "detalle": "Lleva un cuaderno de acuarela o cartón entelado pequeño, lápiz HB, pinceles, acuarelas o acrílicos, recipiente de agua, paño, cinta, protector solar y una bolsa para llevarnos todos los residuos. Nivel 1: dibuja solo tres formas grandes del paisaje. Nivel 2: limita la paleta a cinco colores y mezcla los tonos que ves. Nivel 3: añade un detalle que haga reconocible el lugar: una silueta, una nube, una baranda o un árbol. No buscamos una postal perfecta; queremos dos versiones distintas del mismo paisaje. Si hace viento o llueve, hacemos el reto desde una ventana o una cafetería con vista.",
+    "buenasNoches": "Guarda esta idea para un día despejado. Me gusta imaginar nuestros dos cuadros diferentes del mismo lugar: dos maneras de mirar exactamente el mismo paisaje.",
+    "cancionTitulo": "STRANGERS",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "lBw9WXJmdsU",
+    "cancionUrl": "https://www.youtube.com/watch?v=lBw9WXJmdsU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, pintora",
+        "contenido": "Quiero que algún día hagamos un plan distinto: subir a un cerro o a un mirador permitido, llevar nuestros materiales y pintar el paisaje allí mismo. No tiene que ser una excursión complicada; buscamos un sitio accesible, seguro y donde esté permitido instalarse."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto: paisaje en 30 minutos",
+        "contenido": "Lleva un cuaderno de acuarela o cartón entelado pequeño, lápiz HB, pinceles, acuarelas o acrílicos, recipiente de agua, paño, cinta, protector solar y una bolsa para llevarnos todos los residuos. Nivel 1: dibuja solo tres formas grandes del paisaje. Nivel 2: limita la paleta a cinco colores y mezcla los tonos que ves. Nivel 3: añade un detalle que haga reconocible el lugar: una silueta, una nube, una baranda o un árbol. No buscamos una postal perfecta; queremos dos versiones distintas del mismo paisaje. Si hace viento o llueve, hacemos el reto desde una ventana o una cafetería con vista."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de artista",
+        "contenido": "En plein air: pintar frente al paisaje real, donde la luz cambia mientras trabajas. Es una forma preciosa de aprender a observar."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Guarda esta idea para un día despejado. Me gusta imaginar nuestros dos cuadros diferentes del mismo lugar: dos maneras de mirar exactamente el mismo paisaje."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "En plein air",
+      "significado": "Expresión francesa para pintar al aire libre, trabajando directamente frente al paisaje y sus cambios de luz.",
+      "ejemplo": "Un día de pintura en un cerro sería nuestro primer intento de pintar en plein air."
+    },
+    "inspiracionCancion": "La música de hoy es para llevarla en audífonos mientras elegimos un rincón y dejamos que el paisaje nos dé los colores."
   },
   {
     "dia": 13,
     "fecha": "2026-10-28",
     "fechaTexto": "mié, 28 de oct",
-    "categoria": "La calma de encontrar cada cosa",
-    "icono": "📚",
-    "tono": "filosofica",
+    "categoria": "Una escapada de clima cálido",
+    "icono": "🌅",
+    "tono": "aventura",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Si hoy sientes que tienes mil cosas dando vueltas, empieza por una sola. No tienes que poner el universo en orden antes del almuerzo.",
+    "buenosDias": "Para una semana de descanso o una escapada futura, quiero proponerte otro tipo de destino: un lugar de clima cálido, con una piscina bonita, un paisaje abierto y espacio para descansar. No elijo un alojamiento específico todavía; primero definimos qué ambiente nos gustaría.",
     "poema": [
-      "Quisiera que a veces pudieras mirarte con la misma paciencia con la que miras los detalles de las cosas que haces. No tienes que resolverlo todo ni tener siempre la respuesta más bonita.",
-      "Haz una pausa cuando la necesites, corazón. No es perder tiempo; es darte un poquito del cuidado que tantas veces pones en lo demás."
+      "Imaginemos tres versiones: una casa pequeña con piscina privada; un alojamiento rodeado de naturaleza; o un lugar cerca del agua donde podamos alternar paseos y descanso. Cuando llegue la fecha, comparamos presupuesto, transporte, disponibilidad real, opiniones recientes y reglas del alojamiento. La idea es que el plan se adapte a nuestros días libres, no al revés. Cada uno puede escoger una cosa imprescindible y una sorpresa para el otro.",
+      "Horizonte. A veces basta con saber qué tipo de paisaje queremos encontrar para empezar a imaginar el viaje."
     ],
-    "detalle": "Regálate un rincón tranquilo, aunque solo sea por cinco minutos. No tienes que tener todo en orden para merecer un poco de calma, corazón.",
-    "buenasNoches": "Deja el día donde pertenece, corazón: en el día. No te lleves a la almohada cada cosa que quedó a medias; también mereces descansar sin hacer inventario de pendientes.",
-    "cancionTitulo": "El Sexto Sentido",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "tjHgj-p_XiI",
-    "cancionUrl": "https://www.youtube.com/watch?v=tjHgj-p_XiI"
+    "detalle": "Imaginemos tres versiones: una casa pequeña con piscina privada; un alojamiento rodeado de naturaleza; o un lugar cerca del agua donde podamos alternar paseos y descanso. Cuando llegue la fecha, comparamos presupuesto, transporte, disponibilidad real, opiniones recientes y reglas del alojamiento. La idea es que el plan se adapte a nuestros días libres, no al revés. Cada uno puede escoger una cosa imprescindible y una sorpresa para el otro.",
+    "buenasNoches": "Que hoy descanses pensando en un lugar donde el tiempo vaya más despacio. Ya encontraremos el sitio cuando tengamos los días y las ganas; por ahora, queda abierta la posibilidad.",
+    "cancionTitulo": "MUD",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "ePMLtiZmalg",
+    "cancionUrl": "https://www.youtube.com/watch?v=ePMLtiZmalg",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, viajera",
+        "contenido": "Para una semana de descanso o una escapada futura, quiero proponerte otro tipo de destino: un lugar de clima cálido, con una piscina bonita, un paisaje abierto y espacio para descansar. No elijo un alojamiento específico todavía; primero definimos qué ambiente nos gustaría."
+      },
+      "mensajePrincipal": {
+        "titulo": "Diseñemos la escapada",
+        "contenido": "Imaginemos tres versiones: una casa pequeña con piscina privada; un alojamiento rodeado de naturaleza; o un lugar cerca del agua donde podamos alternar paseos y descanso. Cuando llegue la fecha, comparamos presupuesto, transporte, disponibilidad real, opiniones recientes y reglas del alojamiento. La idea es que el plan se adapte a nuestros días libres, no al revés. Cada uno puede escoger una cosa imprescindible y una sorpresa para el otro."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para viajar",
+        "contenido": "Horizonte. A veces basta con saber qué tipo de paisaje queremos encontrar para empezar a imaginar el viaje."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Que hoy descanses pensando en un lugar donde el tiempo vaya más despacio. Ya encontraremos el sitio cuando tengamos los días y las ganas; por ahora, queda abierta la posibilidad."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Horizonte",
+      "significado": "Línea aparente donde el cielo y la tierra o el mar parecen encontrarse; también puede representar una posibilidad futura.",
+      "ejemplo": "Nuestro horizonte de viaje podría ser una piscina tranquila, clima cálido y una tarde sin horarios."
+    },
+    "inspiracionCancion": "Una canción para pensar en sol, agua y una escapada que no dependa de tener todo planeado desde ahora."
   },
   {
     "dia": 14,
     "fecha": "2026-10-29",
     "fechaTexto": "jue, 29 de oct",
-    "categoria": "La idea que no puede esperar",
-    "icono": "⚡",
-    "tono": "filosofica",
+    "categoria": "El reto de los tres niveles: una flor, tres estilos",
+    "icono": "🌸",
+    "tono": "creativo",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "A ver qué idea se te aparece hoy de esas que te hacen decir «espera, tengo que probar esto» y te hacen olvidar hasta qué ibas a hacer.",
+    "buenosDias": "Hoy no empezamos desde cero: retomamos la flor de loto del reto anterior. La idea es que cada nivel tenga un objetivo distinto y que puedas avanzar cuando te sientas lista, no por cumplir una fecha.",
     "poema": [
-      "Me gusta ese entusiasmo que aparece cuando algo te despierta la curiosidad. Las ideas no siempre llegan ordenadas; a veces aterrizan en medio del día y piden un poquito de espacio.",
-      "Hazle caso a una, aunque sea durante diez minutos. Y si termina en algo raro, al menos tendrás una historia para contarme. Ya sabes que me interesa escuchar tus ocurrencias."
+      "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: [buscar tutorial de luces y sombras para flores](https://www.youtube.com/results?search_query=acrilico+luces+y+sombras+flor+de+loto+principiantes). Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel.",
+      "Estilizar: transformar una forma hasta hacerla tuya. La meta final no es copiar el tutorial, sino encontrar tu propia manera de dibujar la flor."
     ],
-    "detalle": "Si se te ocurre una idea mientras estás haciendo otra cosa, anótala antes de que se escape. A veces tu cabeza parece tener varias pestañas abiertas y ninguna quiere cerrarse.",
-    "buenasNoches": "Que descanses y que esas ideas que no te dejaron quieta encuentren un rincón donde esperar hasta mañana. No tienen que resolverse todas a medianoche.",
-    "cancionTitulo": "Esta Va",
-    "cancionArtista": "Realidad Mental",
-    "youtubeId": "JVEN7Quzpeg",
-    "cancionUrl": "https://www.youtube.com/watch?v=JVEN7Quzpeg"
+    "detalle": "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: [buscar tutorial de luces y sombras para flores](https://www.youtube.com/results?search_query=acrilico+luces+y+sombras+flor+de+loto+principiantes). Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel.",
+    "buenasNoches": "Tres niveles, tres resultados y una misma flor. Me gusta que una actividad sencilla pueda convertirse en algo que vamos construyendo poco a poco. Guarda tus avances: aquí empieza tu pequeña colección.",
+    "cancionTitulo": "Redbone",
+    "cancionArtista": "Childish Gambino",
+    "youtubeId": "Kp7eSUU9oy8",
+    "cancionUrl": "https://www.youtube.com/watch?v=Kp7eSUU9oy8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, creadora",
+        "contenido": "Hoy no empezamos desde cero: retomamos la flor de loto del reto anterior. La idea es que cada nivel tenga un objetivo distinto y que puedas avanzar cuando te sientas lista, no por cumplir una fecha."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tu ruta de progreso",
+        "contenido": "Nivel 1: silueta y pétalos con colores planos. Nivel 2: luces y sombras, mezclando un tono claro, uno medio y uno oscuro por pétalo; observa un tutorial de sombreado de flores en acrílico: [buscar tutorial de luces y sombras para flores](https://www.youtube.com/results?search_query=acrilico+luces+y+sombras+flor+de+loto+principiantes). Nivel 3: crea tu propia versión: cambia la paleta, simplifica los pétalos, añade un fondo o convierte la flor en un diseño decorativo. Materiales: la misma pintura, pinceles fino/mediano, papel grueso, lápiz y una referencia fotográfica. Al final, compara las tres versiones y ponles nombre. Si quieres, yo te acompaño con una mini revisión de cada nivel."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de progreso",
+        "contenido": "Estilizar: transformar una forma hasta hacerla tuya. La meta final no es copiar el tutorial, sino encontrar tu propia manera de dibujar la flor."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Tres niveles, tres resultados y una misma flor. Me gusta que una actividad sencilla pueda convertirse en algo que vamos construyendo poco a poco. Guarda tus avances: aquí empieza tu pequeña colección."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Estilizar",
+      "significado": "Simplificar o transformar las formas de un objeto sin perder los rasgos que permiten reconocerlo.",
+      "ejemplo": "En el tercer nivel vamos a estilizar la flor de loto hasta convertirla en una ilustración propia."
+    },
+    "inspiracionCancion": "Una canción para cerrar la semana creativa y celebrar que cada intento puede convertirse en una versión distinta."
   },
   {
     "dia": 15,
