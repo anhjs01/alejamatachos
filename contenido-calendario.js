@@ -12752,5 +12752,329 @@ const CALENDARIO = [
         "ejemplo": "Una playlist versátil puede pasar de la calma a la euforia sin perder personalidad."
       }
     }
+  ],
+[
+    {
+      "dia": 287,
+      "fecha": "2027-07-29",
+      "fechaTexto": "jue, 29 de jul",
+      "categoria": "El mapa de un lugar que no existe",
+      "icono": "🗺️",
+      "tono": "imaginación y diseño",
+      "color": {
+        "principal": "#8db9c8",
+        "suave": "#e1f0f4",
+        "oscuro": "#1e3945"
+      },
+      "buenosDias": "Hoy vamos a inventar un sitio al que no se llega siguiendo Google Maps: toca dibujarlo desde cero.",
+      "poema": [
+        "En una hoja, crea el mapa de un lugar imaginario. Ponle nombre a tres zonas, inventa un camino que conecte todo y agrega un sitio secreto al que solo se pueda entrar cumpliendo una condición divertida. Puede ser una isla, un barrio, un bosque o una ciudad diminuta. No necesitas dibujar bien: usa símbolos, manchas de color y nombres curiosos.",
+        "Después explica qué se puede hacer en cada zona y cuál sería el lugar favorito para pasar una tarde. Si alguien más participa, que agregue un sitio nuevo sin borrar los que ya existen."
+      ],
+      "detalle": "Añade una leyenda con tres símbolos: un lugar tranquilo, uno peligroso y uno que todavía sea un misterio.",
+      "buenasNoches": "Los lugares más interesantes a veces empiezan como un dibujo en una hoja.",
+      "cancionTitulo": "Wake Me Up",
+      "cancionArtista": "Avicii",
+      "youtubeId": "5y_KJAg8bHI",
+      "cancionUrl": "https://www.youtube.com/watch?v=5y_KJAg8bHI",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a inventar un sitio al que no se llega siguiendo Google Maps: toca dibujarlo desde cero."
+        },
+        "mensajePrincipal": {
+          "titulo": "El mapa de un lugar que no existe",
+          "contenido": "En una hoja, crea el mapa de un lugar imaginario. Ponle nombre a tres zonas, inventa un camino que conecte todo y agrega un sitio secreto al que solo se pueda entrar cumpliendo una condición divertida. Puede ser una isla, un barrio, un bosque o una ciudad diminuta. No necesitas dibujar bien: usa símbolos, manchas de color y nombres curiosos."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra topografía",
+          "contenido": "Descripción detallada de la superficie y las formas de un terreno o lugar. La topografía de un mapa inventado también puede contar cómo es el mundo que imaginamos."
+        },
+        "buenasNoches": {
+          "contenido": "Los lugares más interesantes a veces empiezan como un dibujo en una hoja."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Topografía",
+        "significado": "Descripción detallada de la superficie y las formas de un terreno o lugar.",
+        "ejemplo": "La topografía de un mapa inventado también puede contar cómo es el mundo que imaginamos."
+      }
+    },
+    {
+      "dia": 288,
+      "fecha": "2027-07-30",
+      "fechaTexto": "vie, 30 de jul",
+      "categoria": "El museo de los pequeños detalles",
+      "icono": "🖼️",
+      "tono": "observación y sensibilidad",
+      "color": {
+        "principal": "#c7a5d5",
+        "suave": "#f0e7f5",
+        "oscuro": "#3e2c4a"
+      },
+      "buenosDias": "Hoy tienes una misión de curadora: elegir algo cotidiano y presentarlo como si fuera una pieza de museo.",
+      "poema": [
+        "Escoge un objeto común que tengas cerca: una taza, una llave, una libreta, una prenda o algo que uses mucho. Obsérvalo y escribe una ficha de exposición con un título, una descripción y una razón por la que merece estar ahí. La historia puede ser real, sentimental o completamente inventada, pero intenta encontrar un detalle que normalmente no notarías.",
+        "Si compartes la exposición con alguien, esa persona debe hacer una pregunta como visitante y tú responder como una guía de museo muy seria."
+      ],
+      "detalle": "Ponle al objeto una etiqueta de precio absurda y explica por qué sería una pieza invaluable.",
+      "buenasNoches": "Hasta lo más sencillo puede guardar una historia cuando nos detenemos a mirarlo.",
+      "cancionTitulo": "Can't Stop the Feeling!",
+      "cancionArtista": "Justin Timberlake",
+      "youtubeId": "ru0K8uYEZWw",
+      "cancionUrl": "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy tienes una misión de curadora: elegir algo cotidiano y presentarlo como si fuera una pieza de museo."
+        },
+        "mensajePrincipal": {
+          "titulo": "El museo de los pequeños detalles",
+          "contenido": "Escoge un objeto común que tengas cerca: una taza, una llave, una libreta, una prenda o algo que uses mucho. Obsérvalo y escribe una ficha de exposición con un título, una descripción y una razón por la que merece estar ahí. La historia puede ser real, sentimental o completamente inventada, pero intenta encontrar un detalle que normalmente no notarías."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra peculiaridad",
+          "contenido": "Cualidad de aquello que resulta particular o poco común. La peculiaridad de una marca o una textura puede volver especial un objeto corriente."
+        },
+        "buenasNoches": {
+          "contenido": "Hasta lo más sencillo puede guardar una historia cuando nos detenemos a mirarlo."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Peculiaridad",
+        "significado": "Cualidad de aquello que resulta particular o poco común.",
+        "ejemplo": "La peculiaridad de una marca o una textura puede volver especial un objeto corriente."
+      }
+    },
+    {
+      "dia": 289,
+      "fecha": "2027-07-31",
+      "fechaTexto": "sáb, 31 de jul",
+      "categoria": "Una carta para abrir en otro momento",
+      "icono": "✉️",
+      "tono": "introspectivo y afectuoso",
+      "color": {
+        "principal": "#dca8b5",
+        "suave": "#f6e5e9",
+        "oscuro": "#492a35"
+      },
+      "buenosDias": "Hoy no hace falta resolver nada: vamos a dejar un mensaje guardado para una versión futura de nosotros.",
+      "poema": [
+        "Escribe una carta breve para abrir dentro de un mes. Incluye algo que quieras recordar de esta etapa, una cosa que te gustaría haber intentado y una pregunta que todavía no tenga respuesta. No tiene que ser solemne ni hablar de grandes metas; también pueden aparecer una canción, una costumbre, una preocupación pequeña o una tontería que te haya hecho reír.",
+        "Dobla la carta, escribe la fecha de apertura por fuera y guárdala donde puedas encontrarla. Si decides compartirla, puedes leer solo una parte: el resto puede quedarse contigo."
+      ],
+      "detalle": "Añade al sobre una pequeña predicción sobre algo cotidiano que podría pasar antes de abrirlo.",
+      "buenasNoches": "Ojalá, cuando llegue el momento de abrirla, encuentres razones para sonreírle a quien eras hoy.",
+      "cancionTitulo": "Uptown Funk",
+      "cancionArtista": "Mark Ronson ft. Bruno Mars",
+      "youtubeId": "OPf0YbXqDm0",
+      "cancionUrl": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy no hace falta resolver nada: vamos a dejar un mensaje guardado para una versión futura de nosotros."
+        },
+        "mensajePrincipal": {
+          "titulo": "Una carta para abrir en otro momento",
+          "contenido": "Escribe una carta breve para abrir dentro de un mes. Incluye algo que quieras recordar de esta etapa, una cosa que te gustaría haber intentado y una pregunta que todavía no tenga respuesta. No tiene que ser solemne ni hablar de grandes metas; también pueden aparecer una canción, una costumbre, una preocupación pequeña o una tontería que te haya hecho reír."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra epístola",
+          "contenido": "Carta o comunicación escrita dirigida a una persona. Una epístola puede conservar pensamientos que el paso del tiempo suele volver borrosos."
+        },
+        "buenasNoches": {
+          "contenido": "Ojalá, cuando llegue el momento de abrirla, encuentres razones para sonreírle a quien eras hoy."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Epístola",
+        "significado": "Carta o comunicación escrita dirigida a una persona.",
+        "ejemplo": "Una epístola puede conservar pensamientos que el paso del tiempo suele volver borrosos."
+      }
+    },
+    {
+      "dia": 290,
+      "fecha": "2027-08-01",
+      "fechaTexto": "dom, 1 de ago",
+      "categoria": "El doblaje de una escena cotidiana",
+      "icono": "🎙️",
+      "tono": "humor y juego presencial",
+      "color": {
+        "principal": "#e7b47f",
+        "suave": "#faecd9",
+        "oscuro": "#49331d"
+      },
+      "buenosDias": "Hoy cualquier escena cotidiana puede convertirse en una producción dramática de alto presupuesto.",
+      "poema": [
+        "Elijan una acción sencilla —preparar una bebida, buscar las llaves o acomodar unos cojines— y represéntenla sin hablar. La otra persona debe ponerle voz en directo como si fuera una película de suspenso, una telenovela o un documental de naturaleza. Después intercambien los papeles y cambien de género.",
+        "La regla es mantener la improvisación durante treinta segundos sin romper el personaje. Si están a distancia, pueden grabar un video corto sin sonido y enviárselo al otro para que lo doble."
+      ],
+      "detalle": "Premio especial para la interpretación más exagerada de un objeto que no tiene ninguna importancia.",
+      "buenasNoches": "A veces basta cambiar la narración para que una tarea aburrida se vuelva una comedia.",
+      "cancionTitulo": "Viva La Vida",
+      "cancionArtista": "Coldplay",
+      "youtubeId": "dvgZkm1xWPE",
+      "cancionUrl": "https://www.youtube.com/watch?v=dvgZkm1xWPE",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy cualquier escena cotidiana puede convertirse en una producción dramática de alto presupuesto."
+        },
+        "mensajePrincipal": {
+          "titulo": "El doblaje de una escena cotidiana",
+          "contenido": "Elijan una acción sencilla —preparar una bebida, buscar las llaves o acomodar unos cojines— y represéntenla sin hablar. La otra persona debe ponerle voz en directo como si fuera una película de suspenso, una telenovela o un documental de naturaleza. Después intercambien los papeles y cambien de género."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra foley",
+          "contenido": "Técnica de crear y grabar sonidos cotidianos para incorporarlos a una producción audiovisual. El sonido de unos pasos o una puerta puede ser foley cuando se graba para una escena."
+        },
+        "buenasNoches": {
+          "contenido": "A veces basta cambiar la narración para que una tarea aburrida se vuelva una comedia."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Foley",
+        "significado": "Técnica de crear y grabar sonidos cotidianos para incorporarlos a una producción audiovisual.",
+        "ejemplo": "El sonido de unos pasos o una puerta puede ser foley cuando se graba para una escena."
+      }
+    },
+    {
+      "dia": 291,
+      "fecha": "2027-08-02",
+      "fechaTexto": "lun, 2 de ago",
+      "categoria": "La torre que no debería mantenerse en pie",
+      "icono": "🏗️",
+      "tono": "juego real y cooperación",
+      "color": {
+        "principal": "#9dbba6",
+        "suave": "#e5f0e8",
+        "oscuro": "#263e2d"
+      },
+      "buenosDias": "Hoy el desafío es construir algo que parezca imposible, pero que se sostenga al menos unos segundos.",
+      "poema": [
+        "Reúnan diez objetos seguros y livianos —vasos de papel, bloques, cajas pequeñas o piezas de construcción— y construyan una torre sin pegar ni sujetar las piezas. Tienen cinco minutos y pueden turnarse para colocar una sola pieza por turno. Si la torre cae, cambien la estrategia y vuelvan a intentarlo.",
+        "Para una segunda ronda, construyan la estructura más ancha posible usando la misma cantidad de piezas. No se trata de ganar, sino de descubrir qué decisiones ayudan a mantener la torre estable."
+      ],
+      "detalle": "Tomen una foto de la torre final antes de desmontarla y pónganle un nombre de edificio famoso.",
+      "buenasNoches": "No siempre gana quien construye más alto; a veces la mejor idea es la que consigue mantenerse en pie.",
+      "cancionTitulo": "Shut Up and Dance",
+      "cancionArtista": "WALK THE MOON",
+      "youtubeId": "6JCLY0Rlx6Q",
+      "cancionUrl": "https://www.youtube.com/watch?v=6JCLY0Rlx6Q",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy el desafío es construir algo que parezca imposible, pero que se sostenga al menos unos segundos."
+        },
+        "mensajePrincipal": {
+          "titulo": "La torre que no debería mantenerse en pie",
+          "contenido": "Reúnan diez objetos seguros y livianos —vasos de papel, bloques, cajas pequeñas o piezas de construcción— y construyan una torre sin pegar ni sujetar las piezas. Tienen cinco minutos y pueden turnarse para colocar una sola pieza por turno. Si la torre cae, cambien la estrategia y vuelvan a intentarlo."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra estabilidad",
+          "contenido": "Cualidad de aquello que se mantiene firme o cambia poco ante una alteración. En una construcción, la estabilidad depende de cómo se distribuye el peso."
+        },
+        "buenasNoches": {
+          "contenido": "No siempre gana quien construye más alto; a veces la mejor idea es la que consigue mantenerse en pie."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Estabilidad",
+        "significado": "Cualidad de aquello que se mantiene firme o cambia poco ante una alteración.",
+        "ejemplo": "En una construcción, la estabilidad depende de cómo se distribuye el peso."
+      }
+    },
+    {
+      "dia": 292,
+      "fecha": "2027-08-03",
+      "fechaTexto": "mar, 3 de ago",
+      "categoria": "Un brindis de colores sin ocasión especial",
+      "icono": "🥤",
+      "tono": "receta sencilla y sensorial",
+      "color": {
+        "principal": "#9fc8b7",
+        "suave": "#e4f2ec",
+        "oscuro": "#244237"
+      },
+      "buenosDias": "No necesitamos una celebración enorme para preparar algo bonito y refrescante. Hoy el vaso también puede ser parte del plan.",
+      "poema": [
+        "Prepara una bebida fría en un vaso transparente: mezcla agua con gas o agua fría con zumo de limón o naranja, agrega hielo y unas hojas de hierbabuena. Si quieres darle color, añade unas rodajas de fruta o un poco de pulpa de mora. Prueba el sabor antes de endulzar y ajusta a tu gusto. No requiere horno ni ingredientes complicados; revisa siempre las etiquetas y evita cualquier ingrediente que pueda contener maní o trazas si hay riesgo de alergia.",
+        "Sírvela como si fuera la bebida especial de un café inventado: elige un nombre, escribe sus ingredientes en una mini carta y brinda por algo pequeño que haya salido bien esta semana."
+      ],
+      "detalle": "Inventa una versión sin azúcar añadida y otra con fruta más ácida; decide cuál tiene mejor personalidad.",
+      "buenasNoches": "Que nunca nos falten motivos pequeños para celebrar sin esperar una fecha marcada.",
+      "cancionTitulo": "Rather Be",
+      "cancionArtista": "Clean Bandit ft. Jess Glynne",
+      "youtubeId": "m-M1Atrx大",
+      "cancionUrl": "https://www.youtube.com/watch?v=m-M1Atrx大",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "No necesitamos una celebración enorme para preparar algo bonito y refrescante. Hoy el vaso también puede ser parte del plan."
+        },
+        "mensajePrincipal": {
+          "titulo": "Un brindis de colores sin ocasión especial",
+          "contenido": "Prepara una bebida fría en un vaso transparente: mezcla agua con gas o agua fría con zumo de limón o naranja, agrega hielo y unas hojas de hierbabuena. Si quieres darle color, añade unas rodajas de fruta o un poco de pulpa de mora. Prueba el sabor antes de endulzar y ajusta a tu gusto. No requiere horno ni ingredientes complicados; revisa siempre las etiquetas y evita cualquier ingrediente que pueda contener maní o trazas si hay riesgo de alergia."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra burbujeo",
+          "contenido": "Formación o presencia de burbujas en un líquido. El burbujeo del agua con gas hace que una bebida sencilla se sienta festiva."
+        },
+        "buenasNoches": {
+          "contenido": "Que nunca nos falten motivos pequeños para celebrar sin esperar una fecha marcada."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Burbujeo",
+        "significado": "Formación o presencia de burbujas en un líquido.",
+        "ejemplo": "El burbujeo del agua con gas hace que una bebida sencilla se sienta festiva."
+      }
+    },
+    {
+      "dia": 293,
+      "fecha": "2027-08-04",
+      "fechaTexto": "mié, 4 de ago",
+      "categoria": "El radar de las miradas cómplices",
+      "icono": "👀",
+      "tono": "coqueto y ligero",
+      "color": {
+        "principal": "#d99fb8",
+        "suave": "#f6e4ed",
+        "oscuro": "#48273a"
+      },
+      "buenosDias": "Hay detalles que no necesitan un discurso entero. A veces una sonrisa a tiempo ya dice bastante.",
+      "poema": [
+        "Si coinciden en persona, jueguen a mantener una conversación normal mientras intentan descubrir tres momentos en los que el otro sonríe sin darse cuenta. No se trata de incomodar ni de sostener la mirada a la fuerza: si alguno se siente raro, cambien de reto. Si están a distancia, pueden hacerlo con una videollamada o convertirlo en una pregunta: ¿qué gesto pequeño te delata cuando alguien te cae especialmente bien?",
+        "Al terminar, cada uno puede decir cuál fue el gesto más bonito que notó. La respuesta puede ser sincera y un poquito coqueta, sin necesidad de exagerarla."
+      ],
+      "detalle": "La misión secreta: recordar ese gesto para la próxima vez que aparezca y comprobar si sigue teniendo el mismo efecto.",
+      "buenasNoches": "Cuidado con esa sonrisa: puede distraer incluso a quien estaba intentando concentrarse.",
+      "cancionTitulo": "Closer",
+      "cancionArtista": "The Chainsmokers ft. Halsey",
+      "youtubeId": "PT2_F-1esPk",
+      "cancionUrl": "https://www.youtube.com/watch?v=PT2_F-1esPk",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hay detalles que no necesitan un discurso entero. A veces una sonrisa a tiempo ya dice bastante."
+        },
+        "mensajePrincipal": {
+          "titulo": "El radar de las miradas cómplices",
+          "contenido": "Si coinciden en persona, jueguen a mantener una conversación normal mientras intentan descubrir tres momentos en los que el otro sonríe sin darse cuenta. No se trata de incomodar ni de sostener la mirada a la fuerza: si alguno se siente raro, cambien de reto. Si están a distancia, pueden hacerlo con una videollamada o convertirlo en una pregunta: ¿qué gesto pequeño te delata cuando alguien te cae especialmente bien?"
+        },
+        "palabraNueva": {
+          "titulo": "La palabra magnetismo",
+          "contenido": "Capacidad de atraer o despertar interés, en sentido literal o figurado. Hay personas cuyo magnetismo está en la manera espontánea de sonreír o escuchar."
+        },
+        "buenasNoches": {
+          "contenido": "Cuidado con esa sonrisa: puede distraer incluso a quien estaba intentando concentrarse."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Magnetismo",
+        "significado": "Capacidad de atraer o despertar interés, en sentido literal o figurado.",
+        "ejemplo": "Hay personas cuyo magnetismo está en la manera espontánea de sonreír o escuchar."
+      }
+    }
   ]
 ];
