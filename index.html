@@ -517,6 +517,31 @@ header{height:68px;display:flex;align-items:center;justify-content:space-between
 .welcome-hero .portrait-artwork .portrait-caption{z-index:9!important}
 .welcome-hero .portrait-artwork:after{z-index:8}
 
+
+/* ALEJA · integración orgánica del gato con el fondo artístico */
+.welcome-hero .portrait-artwork{background:radial-gradient(ellipse at 42% 48%,#09202a 0%,#05090b 68%);isolation:isolate}
+.welcome-hero .portrait-artwork .hero-cat-image{
+  z-index:6!important;
+  object-fit:cover;
+  object-position:center 44%;
+  -webkit-mask-image:radial-gradient(ellipse 79% 78% at 48% 47%,#000 47%,rgba(0,0,0,.96) 59%,rgba(0,0,0,.68) 72%,rgba(0,0,0,.22) 87%,transparent 100%);
+  mask-image:radial-gradient(ellipse 79% 78% at 48% 47%,#000 47%,rgba(0,0,0,.96) 59%,rgba(0,0,0,.68) 72%,rgba(0,0,0,.22) 87%,transparent 100%);
+}
+.welcome-hero .portrait-artwork .portrait-overlay{
+  z-index:7!important;
+  background:
+    radial-gradient(ellipse at 28% 45%,rgba(5,9,11,0) 25%,rgba(5,9,11,.10) 58%,rgba(5,9,11,.72) 100%),
+    linear-gradient(0deg,rgba(5,9,11,.46),transparent 28%,transparent 75%,rgba(5,9,11,.14));
+  pointer-events:none;
+}
+@media(max-width:760px){
+ .welcome-hero .portrait-artwork .hero-cat-image{
+  object-position:center 44%;
+  -webkit-mask-image:radial-gradient(ellipse 90% 84% at 50% 45%,#000 50%,rgba(0,0,0,.92) 68%,rgba(0,0,0,.42) 86%,transparent 100%);
+  mask-image:radial-gradient(ellipse 90% 84% at 50% 45%,#000 50%,rgba(0,0,0,.92) 68%,rgba(0,0,0,.42) 86%,transparent 100%);
+ }
+}
+
 </style>
 </head>
 <body>
