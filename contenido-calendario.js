@@ -11462,5 +11462,327 @@ const CALENDARIO = [
       "significado": "Asunto o tarea que se considera más importante y recibe atención primero.",
       "ejemplo": "Elegir una prioridad permite avanzar sin intentar hacerlo todo al mismo tiempo."
     }
+  },
+  {
+    "dia": 259,
+    "fecha": "2027-07-01",
+    "fechaTexto": "jue, 1 de jul",
+    "categoria": "La agencia de publicidad para objetos comunes",
+    "icono": "📣",
+    "tono": "creatividad y humor",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Arrancamos julio con una misión: vender lo que nadie sabía que necesitaba.",
+    "poema": [
+      "Escoge un objeto que tengas cerca —un gancho, una botella reutilizable, una media o una cuchara— y crea una campaña publicitaria de 20 segundos. Debe incluir nombre de marca, eslogan, una ventaja real y una ventaja completamente exagerada. Si hay más personas, cada una anuncia un objeto distinto y el resto hace de público exigente.",
+      "Cierra con una frase que suene convincente, aunque el producto sea absolutamente innecesario."
+    ],
+    "detalle": "Cierra con una frase que suene convincente, aunque el producto sea absolutamente innecesario.",
+    "buenasNoches": "La creatividad también aparece cuando nos tomamos en serio una idea disparatada.",
+    "cancionTitulo": "Partículas",
+    "cancionArtista": "Granuja",
+    "youtubeId": "E6oZorQDiN0",
+    "cancionUrl": "https://www.youtube.com/watch?v=E6oZorQDiN0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Arrancamos julio con una misión: vender lo que nadie sabía que necesitaba."
+      },
+      "mensajePrincipal": {
+        "titulo": "La agencia de publicidad para objetos comunes",
+        "contenido": "Escoge un objeto que tengas cerca —un gancho, una botella reutilizable, una media o una cuchara— y crea una campaña publicitaria de 20 segundos. Debe incluir nombre de marca, eslogan, una ventaja real y una ventaja completamente exagerada. Si hay más personas, cada una anuncia un objeto distinto y el resto hace de público exigente."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra eslogan",
+        "contenido": "Frase breve y fácil de recordar que identifica una idea o producto. Un buen eslogan puede convertir algo corriente en una propuesta memorable."
+      },
+      "buenasNoches": {
+        "contenido": "La creatividad también aparece cuando nos tomamos en serio una idea disparatada."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Eslogan",
+      "significado": "Frase breve y fácil de recordar que identifica una idea o producto.",
+      "ejemplo": "Un buen eslogan puede convertir algo corriente en una propuesta memorable."
+    }
+  },
+  {
+    "dia": 260,
+    "fecha": "2027-07-02",
+    "fechaTexto": "vie, 2 de jul",
+    "categoria": "El laboratorio de ilusiones ópticas",
+    "icono": "👁️",
+    "tono": "percepción y ciencia cotidiana",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a comprobar qué tanto nos engañan los ojos.",
+    "poema": [
+      "Dibuja dos líneas horizontales del mismo tamaño y agrega flechas hacia adentro en los extremos de una y hacia afuera en la otra. Obsérvalas desde cierta distancia: puede que una parezca más larga aunque midan lo mismo. Después busca otro ejemplo sencillo de ilusión óptica y explica qué crees que engaña al cerebro. No necesitas materiales especiales: papel y lápiz bastan.",
+      "La conclusión no tiene que ser científica ni perfecta; basta con contar qué te sorprendió y por qué."
+    ],
+    "detalle": "La conclusión no tiene que ser científica ni perfecta; basta con contar qué te sorprendió y por qué.",
+    "buenasNoches": "A veces mirar con más atención no significa ver lo que esperábamos.",
+    "cancionTitulo": "Aguanilé",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "983zfhMym8Q",
+    "cancionUrl": "https://www.youtube.com/watch?v=983zfhMym8Q",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a comprobar qué tanto nos engañan los ojos."
+      },
+      "mensajePrincipal": {
+        "titulo": "El laboratorio de ilusiones ópticas",
+        "contenido": "Dibuja dos líneas horizontales del mismo tamaño y agrega flechas hacia adentro en los extremos de una y hacia afuera en la otra. Obsérvalas desde cierta distancia: puede que una parezca más larga aunque midan lo mismo. Después busca otro ejemplo sencillo de ilusión óptica y explica qué crees que engaña al cerebro. No necesitas materiales especiales: papel y lápiz bastan."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra perspectiva",
+        "contenido": "Forma de observar algo desde un punto de vista determinado. Cambiar la perspectiva puede hacer que una misma figura parezca otra cosa."
+      },
+      "buenasNoches": {
+        "contenido": "A veces mirar con más atención no significa ver lo que esperábamos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Perspectiva",
+      "significado": "Forma de observar algo desde un punto de vista determinado.",
+      "ejemplo": "Cambiar la perspectiva puede hacer que una misma figura parezca otra cosa."
+    }
+  },
+  {
+    "dia": 261,
+    "fecha": "2027-07-03",
+    "fechaTexto": "sáb, 3 de jul",
+    "categoria": "Una tarde para cambiar de paisaje",
+    "icono": "🌄",
+    "tono": "salida tranquila de un día",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Este sábado la propuesta es salir un rato de la rutina y cambiar de paisaje.",
+    "poema": [
+      "Planea una salida de medio día o una tarde a un mirador, parque amplio o lugar con buena vista que quede a una distancia razonable. La idea es caminar sin afán, tomar algo, buscar un sitio cómodo para sentarse y escoger tres detalles del paisaje que normalmente pasarían desapercibidos. Revisa antes el clima, el transporte, los horarios y lleva agua; no hace falta convertirlo en un viaje largo ni llenar el día de actividades.",
+      "Si el clima no ayuda, cambia el plan por un recorrido cubierto y tranquilo; la intención es disfrutar el paseo, no cumplir una obligación."
+    ],
+    "detalle": "Si el clima no ayuda, cambia el plan por un recorrido cubierto y tranquilo; la intención es disfrutar el paseo, no cumplir una obligación.",
+    "buenasNoches": "Un plan sencillo también puede sentirse especial cuando dejamos espacio para disfrutarlo.",
+    "cancionTitulo": "I Get Money",
+    "cancionArtista": "50 Cent",
+    "youtubeId": "GO22Z0T3qPE",
+    "cancionUrl": "https://www.youtube.com/watch?v=GO22Z0T3qPE",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Este sábado la propuesta es salir un rato de la rutina y cambiar de paisaje."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una tarde para cambiar de paisaje",
+        "contenido": "Planea una salida de medio día o una tarde a un mirador, parque amplio o lugar con buena vista que quede a una distancia razonable. La idea es caminar sin afán, tomar algo, buscar un sitio cómodo para sentarse y escoger tres detalles del paisaje que normalmente pasarían desapercibidos. Revisa antes el clima, el transporte, los horarios y lleva agua; no hace falta convertirlo en un viaje largo ni llenar el día de actividades."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra mirador",
+        "contenido": "Lugar elevado desde el que se contempla un paisaje amplio. Un mirador invita a detenerse y observar el entorno desde otra perspectiva."
+      },
+      "buenasNoches": {
+        "contenido": "Un plan sencillo también puede sentirse especial cuando dejamos espacio para disfrutarlo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Mirador",
+      "significado": "Lugar elevado desde el que se contempla un paisaje amplio.",
+      "ejemplo": "Un mirador invita a detenerse y observar el entorno desde otra perspectiva."
+    }
+  },
+  {
+    "dia": 262,
+    "fecha": "2027-07-04",
+    "fechaTexto": "dom, 4 de jul",
+    "categoria": "El desafío de construir una historia con tres titulares",
+    "icono": "📰",
+    "tono": "narración e imaginación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a convertir tres titulares inventados en una historia inesperada.",
+    "poema": [
+      "Escribe tres titulares separados, sin relación entre sí: uno cotidiano, uno misterioso y uno ridículo. Por ejemplo: «Cierran una panadería por exceso de croissants», «Aparece una llave en el bolsillo de todos» y «Un loro gana una elección vecinal». El reto es unirlos en una historia de máximo diez líneas, donde los tres tengan sentido y el final no sea el primero que se te ocurra.",
+      "Ponle título a la historia y léela en voz alta: si provoca una sonrisa o una pregunta, ya cumplió su misión."
+    ],
+    "detalle": "Ponle título a la historia y léela en voz alta: si provoca una sonrisa o una pregunta, ya cumplió su misión.",
+    "buenasNoches": "Las historias más raras suelen empezar con una combinación que parecía no tener sentido.",
+    "cancionTitulo": "Síntomas de Popeye",
+    "cancionArtista": "Alcolirykoz; Titó; DJ Skizz",
+    "youtubeId": "PuIsNyrutFk",
+    "cancionUrl": "https://www.youtube.com/watch?v=PuIsNyrutFk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a convertir tres titulares inventados en una historia inesperada."
+      },
+      "mensajePrincipal": {
+        "titulo": "El desafío de construir una historia con tres titulares",
+        "contenido": "Escribe tres titulares separados, sin relación entre sí: uno cotidiano, uno misterioso y uno ridículo. Por ejemplo: «Cierran una panadería por exceso de croissants», «Aparece una llave en el bolsillo de todos» y «Un loro gana una elección vecinal». El reto es unirlos en una historia de máximo diez líneas, donde los tres tengan sentido y el final no sea el primero que se te ocurra."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra premisa",
+        "contenido": "Idea inicial que sirve de base para desarrollar una historia. Una premisa interesante despierta curiosidad antes de que empiece la historia."
+      },
+      "buenasNoches": {
+        "contenido": "Las historias más raras suelen empezar con una combinación que parecía no tener sentido."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Premisa",
+      "significado": "Idea inicial que sirve de base para desarrollar una historia.",
+      "ejemplo": "Una premisa interesante despierta curiosidad antes de que empiece la historia."
+    }
+  },
+  {
+    "dia": 263,
+    "fecha": "2027-07-05",
+    "fechaTexto": "lun, 5 de jul",
+    "categoria": "El menú de pequeños aprendizajes",
+    "icono": "🧠",
+    "tono": "curiosidad y aprendizaje",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy elige aprender una cosa pequeña que puedas contar después.",
+    "poema": [
+      "Busca una habilidad o dato que puedas explorar en quince minutos: hacer un nudo útil, reconocer una constelación, entender cómo funciona un código QR, aprender una palabra de otro idioma o descubrir por qué se produce un fenómeno cotidiano. Quédate con una fuente clara, practica o verifica lo aprendido y luego explícalo en tres frases como si se lo contaras a alguien que nunca ha oído hablar del tema.",
+      "No se trata de volverse experto en un día; el objetivo es salir con una idea nueva y comprobable."
+    ],
+    "detalle": "No se trata de volverse experto en un día; el objetivo es salir con una idea nueva y comprobable.",
+    "buenasNoches": "Aprender por gusto, sin examen ni presión, también alimenta la imaginación.",
+    "cancionTitulo": "Efectos Secundarios",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "MCynfdfmFSM",
+    "cancionUrl": "https://www.youtube.com/watch?v=MCynfdfmFSM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy elige aprender una cosa pequeña que puedas contar después."
+      },
+      "mensajePrincipal": {
+        "titulo": "El menú de pequeños aprendizajes",
+        "contenido": "Busca una habilidad o dato que puedas explorar en quince minutos: hacer un nudo útil, reconocer una constelación, entender cómo funciona un código QR, aprender una palabra de otro idioma o descubrir por qué se produce un fenómeno cotidiano. Quédate con una fuente clara, practica o verifica lo aprendido y luego explícalo en tres frases como si se lo contaras a alguien que nunca ha oído hablar del tema."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra curiosidad",
+        "contenido": "Deseo de conocer o descubrir algo nuevo. La curiosidad convierte unos minutos libres en una oportunidad para aprender."
+      },
+      "buenasNoches": {
+        "contenido": "Aprender por gusto, sin examen ni presión, también alimenta la imaginación."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Curiosidad",
+      "significado": "Deseo de conocer o descubrir algo nuevo.",
+      "ejemplo": "La curiosidad convierte unos minutos libres en una oportunidad para aprender."
+    }
+  },
+  {
+    "dia": 264,
+    "fecha": "2027-07-06",
+    "fechaTexto": "mar, 6 de jul",
+    "categoria": "El reto del plano secuencia casero",
+    "icono": "🎬",
+    "tono": "cine y puesta en escena",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a grabar una escena que parezca hecha en una sola toma.",
+    "poema": [
+      "Con el celular apoyado en un lugar estable, graba un video de 30 a 45 segundos sin detener la cámara. Cuenta una mini historia usando solo movimientos dentro del encuadre: alguien busca algo, encuentra una pista y resuelve una situación sencilla. Puedes usar dos objetos y cambiar el sentido de la escena con la posición de la cámara, la luz o el sonido ambiente. No hace falta mostrar rostros ni publicar el resultado.",
+      "Mira el video una vez y piensa qué entendió quien lo vio sin recibir ninguna explicación."
+    ],
+    "detalle": "Mira el video una vez y piensa qué entendió quien lo vio sin recibir ninguna explicación.",
+    "buenasNoches": "A veces una buena historia no necesita muchos efectos: solo una idea clara y una toma bien pensada.",
+    "cancionTitulo": "El Remate",
+    "cancionArtista": "Alcolirykoz; Armando Hernandez",
+    "youtubeId": "91MpFsZI9VA",
+    "cancionUrl": "https://www.youtube.com/watch?v=91MpFsZI9VA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a grabar una escena que parezca hecha en una sola toma."
+      },
+      "mensajePrincipal": {
+        "titulo": "El reto del plano secuencia casero",
+        "contenido": "Con el celular apoyado en un lugar estable, graba un video de 30 a 45 segundos sin detener la cámara. Cuenta una mini historia usando solo movimientos dentro del encuadre: alguien busca algo, encuentra una pista y resuelve una situación sencilla. Puedes usar dos objetos y cambiar el sentido de la escena con la posición de la cámara, la luz o el sonido ambiente. No hace falta mostrar rostros ni publicar el resultado."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra secuencia",
+        "contenido": "Serie de acciones o imágenes que forman una unidad dentro de una obra. Un plano secuencia cuenta una acción continua sin cortes de cámara."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una buena historia no necesita muchos efectos: solo una idea clara y una toma bien pensada."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Secuencia",
+      "significado": "Serie de acciones o imágenes que forman una unidad dentro de una obra.",
+      "ejemplo": "Un plano secuencia cuenta una acción continua sin cortes de cámara."
+    }
+  },
+  {
+    "dia": 265,
+    "fecha": "2027-07-07",
+    "fechaTexto": "mié, 7 de jul",
+    "categoria": "La guía para tener un día menos enredado",
+    "icono": "🧩",
+    "tono": "bienestar práctico y organización",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Mitad de semana: hoy vamos a quitarle un poco de enredo a una tarea.",
+    "poema": [
+      "Piensa en una tarea pequeña que repitas y que siempre te tome más tiempo del necesario: organizar el bolso, preparar lo que llevas al trabajo, encontrar archivos o dejar lista la ropa. Anota los pasos actuales y elimina uno que no aporte; luego prepara con anticipación lo que sí necesitas. Prueba el cambio una vez y comprueba si realmente te ahorra tiempo o esfuerzo.",
+      "Quédate con el ajuste que funcione y descarta el que solo añada otra regla a tu día."
+    ],
+    "detalle": "Quédate con el ajuste que funcione y descarta el que solo añada otra regla a tu día.",
+    "buenasNoches": "No todo tiene que optimizarse; a veces basta con hacer un poquito más fácil lo cotidiano.",
+    "cancionTitulo": "Los Legendarios",
+    "cancionArtista": "Alcolirykoz; Laberinto ELC",
+    "youtubeId": "vKd_CIhzoCY",
+    "cancionUrl": "https://www.youtube.com/watch?v=vKd_CIhzoCY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Mitad de semana: hoy vamos a quitarle un poco de enredo a una tarea."
+      },
+      "mensajePrincipal": {
+        "titulo": "La guía para tener un día menos enredado",
+        "contenido": "Piensa en una tarea pequeña que repitas y que siempre te tome más tiempo del necesario: organizar el bolso, preparar lo que llevas al trabajo, encontrar archivos o dejar lista la ropa. Anota los pasos actuales y elimina uno que no aporte; luego prepara con anticipación lo que sí necesitas. Prueba el cambio una vez y comprueba si realmente te ahorra tiempo o esfuerzo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra simplificar",
+        "contenido": "Hacer que algo sea más sencillo, claro o fácil de realizar. Simplificar no es hacer menos por descuido, sino quitar pasos que no aportan."
+      },
+      "buenasNoches": {
+        "contenido": "No todo tiene que optimizarse; a veces basta con hacer un poquito más fácil lo cotidiano."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Simplificar",
+      "significado": "Hacer que algo sea más sencillo, claro o fácil de realizar.",
+      "ejemplo": "Simplificar no es hacer menos por descuido, sino quitar pasos que no aportan."
+    }
   }
 ];
