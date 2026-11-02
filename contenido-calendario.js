@@ -2020,169 +2020,337 @@ const CALENDARIO = [
     "dia": 43,
     "fecha": "2026-11-27",
     "fechaTexto": "vie, 27 de nov",
-    "categoria": "Lo que parece pequeño también cuenta",
-    "icono": "🥄",
-    "tono": "filosofica",
+    "categoria": "Una pequeña exposición de lo que nos gusta",
+    "icono": "🖼️",
+    "tono": "creativo",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Hoy vale la pena prestar atención a una cosa pequeña: algo que alguien recuerde de ti, o un detalle tuyo que puedas devolverle a otra persona sin hacer ruido.",
+    "buenosDias": "Hoy vamos a crear una pequeña exposición personal. No se trata de mostrar cosas perfectas, sino de elegir detalles que digan algo de nosotros.",
     "poema": [
-      "No hace falta que el gesto sea enorme. A veces basta con que te guarden el último pedazo que te gusta, te manden una canción que te recuerda a algo o te pregunten por ese proyecto que mencionaste hace días.",
-      "Y si hoy eres tú quien nota algo pequeño de alguien, díselo. Los detalles también pueden ser una manera de decir «te presto atención»."
+      "Cada uno selecciona cinco fotos de su celular: un lugar, una comida, un objeto, una persona o mascota importante y un momento espontáneo. No tienen que ser fotos tomadas juntos. Armen una galería en orden y pónganle un título. Después cada uno presenta sus cinco imágenes como si estuviera guiando una exposición: qué estaba pasando, qué detalle recuerda y por qué la eligió. Si quieren, impriman una sola foto y escriban detrás una frase para conservarla. No revisen carpetas privadas ni compartan imágenes que el otro no quiera mostrar.",
+      "Antología: una selección de piezas que juntas cuentan algo. Hoy nuestras fotografías son pequeñas páginas de una historia más grande."
     ],
-    "detalle": "Si alguien tiene un gesto bonito contigo, permítete recibirlo sin minimizarlo. No tienes que decir ‘no era necesario’ tres veces; puedes sonreír y dejar que el cariño llegue.",
-    "buenasNoches": "Que duermas rico, corazón. No subestimes el efecto de un detalle recordado; a veces alguien demuestra cariño sin hacer ningún anuncio.",
-    "cancionTitulo": "Best Part (feat. H.E.R.)",
-    "cancionArtista": "Daniel Caesar; H.E.R.",
-    "youtubeId": "vBy7FaapGRo",
-    "cancionUrl": "https://www.youtube.com/watch?v=vBy7FaapGRo"
+    "detalle": "Cada uno selecciona cinco fotos de su celular: un lugar, una comida, un objeto, una persona o mascota importante y un momento espontáneo. No tienen que ser fotos tomadas juntos. Armen una galería en orden y pónganle un título. Después cada uno presenta sus cinco imágenes como si estuviera guiando una exposición: qué estaba pasando, qué detalle recuerda y por qué la eligió. Si quieren, impriman una sola foto y escriban detrás una frase para conservarla. No revisen carpetas privadas ni compartan imágenes que el otro no quiera mostrar.",
+    "buenasNoches": "Me gusta pensar que cada uno tiene una manera distinta de mirar el mundo. Gracias por enseñarme un poquito de la tuya.",
+    "cancionTitulo": "Beautiful",
+    "cancionArtista": "Snoop Dogg; Pharrell Williams; Charlie Wilson",
+    "youtubeId": "_FE194VN6c4",
+    "cancionUrl": "https://www.youtube.com/watch?v=_FE194VN6c4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, coleccionistas",
+        "contenido": "Hoy vamos a crear una pequeña exposición personal. No se trata de mostrar cosas perfectas, sino de elegir detalles que digan algo de nosotros."
+      },
+      "mensajePrincipal": {
+        "titulo": "Galería de cinco momentos",
+        "contenido": "Cada uno selecciona cinco fotos de su celular: un lugar, una comida, un objeto, una persona o mascota importante y un momento espontáneo. No tienen que ser fotos tomadas juntos. Armen una galería en orden y pónganle un título. Después cada uno presenta sus cinco imágenes como si estuviera guiando una exposición: qué estaba pasando, qué detalle recuerda y por qué la eligió. Si quieren, impriman una sola foto y escriban detrás una frase para conservarla. No revisen carpetas privadas ni compartan imágenes que el otro no quiera mostrar."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para guardar",
+        "contenido": "Antología: una selección de piezas que juntas cuentan algo. Hoy nuestras fotografías son pequeñas páginas de una historia más grande."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Me gusta pensar que cada uno tiene una manera distinta de mirar el mundo. Gracias por enseñarme un poquito de la tuya."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Antología",
+      "significado": "Colección de piezas escogidas que representan una selección o recorrido.",
+      "ejemplo": "Hagamos una antología de cinco fotografías que expliquen cómo se ve una semana desde nuestros ojos."
+    },
+    "inspiracionCancion": "Una canción para elegir momentos pequeños y convertirlos en una colección que valga la pena guardar."
   },
   {
     "dia": 44,
     "fecha": "2026-11-28",
     "fechaTexto": "sáb, 28 de nov",
-    "categoria": "Una charla que se alarga sin darse cuenta",
-    "icono": "🥂",
-    "tono": "amor",
+    "categoria": "Una conversación con preguntas que sí importan",
+    "icono": "💬",
+    "tono": "intimo",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Ojalá hoy te encuentres en una conversación que empiece con una bobada y termine tocando temas que no tenías pensado contar. Las buenas charlas suelen tomar sus propias rutas.",
+    "buenosDias": "Hoy propongo una conversación un poquito más profunda. No es una prueba ni una lista de cosas que debamos resolver: es un espacio para escucharnos con calma.",
     "poema": [
-      "Me gustan las charlas que se permiten cambiar de tema sin avisar: un chisme, una canción, una idea absurda, algo serio y otra vez una risa. Ahí es donde uno se va conociendo sin hacer entrevista.",
-      "Si hoy te pasa, quédate un poquito más, amor. Y si no, aquí queda la invitación a una conversación sin guion cuando te provoque."
+      "Busquen un momento sin pantallas y alternen estas preguntas: ¿qué cosa pequeña te ha estado ocupando la cabeza?, ¿qué te hace sentir acompañado?, ¿qué plan te gustaría intentar aunque todavía no sepas cómo?, ¿qué límite te gustaría que entendiera mejor? Cada persona puede responder o pasar una pregunta sin tener que justificarse. Quien escucha no interrumpe para corregir ni solucionar; primero pregunta si la otra persona quiere una opinión o solo ser escuchada. Cierren diciendo una cosa que agradecen del otro hoy. Si alguna pregunta incomoda, se cambia por otra.",
+      "Vulnerabilidad: mostrarnos con honestidad, incluso cuando no tenemos todo resuelto. Escuchar también es cuidar."
     ],
-    "detalle": "Si la conversación se alarga y de pronto ya pasó la hora, no siempre es tiempo perdido. A veces encontrarse con alguien con quien hablar sin estar mirando el reloj es un regalo raro.",
-    "buenasNoches": "Buenas noches, amor. Si la conversación de hoy se alargó sin que miraras la hora, quizá fue una buena manera de perder un poquito el tiempo.",
-    "cancionTitulo": "By Your Side",
-    "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4",
-    "cancionUrl": "https://www.youtube.com/watch?v=C8QJmI_V3j4"
+    "detalle": "Busquen un momento sin pantallas y alternen estas preguntas: ¿qué cosa pequeña te ha estado ocupando la cabeza?, ¿qué te hace sentir acompañado?, ¿qué plan te gustaría intentar aunque todavía no sepas cómo?, ¿qué límite te gustaría que entendiera mejor? Cada persona puede responder o pasar una pregunta sin tener que justificarse. Quien escucha no interrumpe para corregir ni solucionar; primero pregunta si la otra persona quiere una opinión o solo ser escuchada. Cierren diciendo una cosa que agradecen del otro hoy. Si alguna pregunta incomoda, se cambia por otra.",
+    "buenasNoches": "Ojalá la conversación nos haya dejado un poco más cerca. No necesitamos tener todas las respuestas hoy.",
+    "cancionTitulo": "Nas Is Like",
+    "cancionArtista": "Nas",
+    "youtubeId": "VC4ORS5n9Hg",
+    "cancionUrl": "https://www.youtube.com/watch?v=VC4ORS5n9Hg",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, sin afán",
+        "contenido": "Hoy propongo una conversación un poquito más profunda. No es una prueba ni una lista de cosas que debamos resolver: es un espacio para escucharnos con calma."
+      },
+      "mensajePrincipal": {
+        "titulo": "El juego de las preguntas cuidadosas",
+        "contenido": "Busquen un momento sin pantallas y alternen estas preguntas: ¿qué cosa pequeña te ha estado ocupando la cabeza?, ¿qué te hace sentir acompañado?, ¿qué plan te gustaría intentar aunque todavía no sepas cómo?, ¿qué límite te gustaría que entendiera mejor? Cada persona puede responder o pasar una pregunta sin tener que justificarse. Quien escucha no interrumpe para corregir ni solucionar; primero pregunta si la otra persona quiere una opinión o solo ser escuchada. Cierren diciendo una cosa que agradecen del otro hoy. Si alguna pregunta incomoda, se cambia por otra."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para conversar",
+        "contenido": "Vulnerabilidad: mostrarnos con honestidad, incluso cuando no tenemos todo resuelto. Escuchar también es cuidar."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá la conversación nos haya dejado un poco más cerca. No necesitamos tener todas las respuestas hoy."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Vulnerabilidad",
+      "significado": "Disposición a mostrarse con honestidad, reconociendo que no siempre tenemos todas las respuestas.",
+      "ejemplo": "Hablar de algo que nos cuesta sin sentirnos juzgados puede ser un gesto de vulnerabilidad."
+    },
+    "inspiracionCancion": "Una canción para acompañar una conversación honesta, sin convertirla en interrogatorio ni exigir respuestas inmediatas."
   },
   {
     "dia": 45,
     "fecha": "2026-11-29",
     "fechaTexto": "dom, 29 de nov",
-    "categoria": "Una mirada que no necesita explicación",
-    "icono": "👁️",
-    "tono": "amor",
+    "categoria": "Una cita de sentidos: probar sin mirar",
+    "icono": "🍇",
+    "tono": "juego",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Buenos días, bonita. Tus ojos cafés y tu sonrisa tienen una combinación bastante injusta: uno intenta mantener una conversación normal y de repente se le olvida la frase que estaba armando.",
+    "buenosDias": "Hoy vamos a jugar a reconocer sabores y texturas. La idea es sorprendernos, no poner a prueba a nadie: cada ingrediente se revisa antes y se puede rechazar sin problema.",
     "poema": [
-      "Y las pecas, corazón… aparecen justo cuando sonríes, como si supieran que ese es su mejor momento para robarse la atención. No sé si tú te das cuenta del efecto completo, pero yo quería dejar constancia.",
-      "No hace falta que respondas nada a este piropo. Solo léelo, sonríe si te nace y sigue con tu día sabiendo que alguien se fijó en esos detalles."
+      "Preparen entre cuatro y seis ingredientes conocidos y seguros: trozos de fresa, durazno, uva, queso, galleta simple o chocolate. Revisen etiquetas y preferencias antes de servir. Una persona tapa sus ojos o simplemente mira hacia otro lado mientras la otra le ofrece un ingrediente y le da pistas sobre textura, temperatura y sabor; después cambian. No usen alimentos desconocidos, picantes extremos ni mezclas que puedan causar malestar. Ronda extra: describan cada sabor con un color, una canción y una textura. Al final inventen una combinación para un postre futuro.",
+      "Sinestesia: asociación entre sensaciones de sentidos distintos. Hoy vamos a jugar a que un sabor pueda tener color o una textura pueda sonar a música."
     ],
-    "detalle": "Si alguien te mira con cariño, no tienes que descifrarlo todo en el acto. Hay gestos que se entienden mejor cuando uno los deja ser, sin interrogarlos como sospechosos.",
-    "buenasNoches": "Descansa, bonita. No tienes que descifrar cada mirada antes de dormir; algunas cosas pueden sentirse bonitas sin convertirse en un examen.",
-    "cancionTitulo": "Stuck On You",
-    "cancionArtista": "GIVĒON",
-    "youtubeId": "UlIgAGotomM",
-    "cancionUrl": "https://www.youtube.com/watch?v=UlIgAGotomM"
+    "detalle": "Preparen entre cuatro y seis ingredientes conocidos y seguros: trozos de fresa, durazno, uva, queso, galleta simple o chocolate. Revisen etiquetas y preferencias antes de servir. Una persona tapa sus ojos o simplemente mira hacia otro lado mientras la otra le ofrece un ingrediente y le da pistas sobre textura, temperatura y sabor; después cambian. No usen alimentos desconocidos, picantes extremos ni mezclas que puedan causar malestar. Ronda extra: describan cada sabor con un color, una canción y una textura. Al final inventen una combinación para un postre futuro.",
+    "buenasNoches": "Ojalá hoy hayamos descubierto una combinación inesperada. A veces compartir una experiencia sencilla abre una conversación nueva.",
+    "cancionTitulo": "Real Hip-Hop",
+    "cancionArtista": "Das EFX",
+    "youtubeId": "LvNOVqaz75c",
+    "cancionUrl": "https://www.youtube.com/watch?v=LvNOVqaz75c",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, curiosos",
+        "contenido": "Hoy vamos a jugar a reconocer sabores y texturas. La idea es sorprendernos, no poner a prueba a nadie: cada ingrediente se revisa antes y se puede rechazar sin problema."
+      },
+      "mensajePrincipal": {
+        "titulo": "Cata a ciegas, versión amable",
+        "contenido": "Preparen entre cuatro y seis ingredientes conocidos y seguros: trozos de fresa, durazno, uva, queso, galleta simple o chocolate. Revisen etiquetas y preferencias antes de servir. Una persona tapa sus ojos o simplemente mira hacia otro lado mientras la otra le ofrece un ingrediente y le da pistas sobre textura, temperatura y sabor; después cambian. No usen alimentos desconocidos, picantes extremos ni mezclas que puedan causar malestar. Ronda extra: describan cada sabor con un color, una canción y una textura. Al final inventen una combinación para un postre futuro."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de los sentidos",
+        "contenido": "Sinestesia: asociación entre sensaciones de sentidos distintos. Hoy vamos a jugar a que un sabor pueda tener color o una textura pueda sonar a música."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá hoy hayamos descubierto una combinación inesperada. A veces compartir una experiencia sencilla abre una conversación nueva."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sinestesia",
+      "significado": "Asociación entre sentidos diferentes, como relacionar un sonido con un color o un sabor con una textura.",
+      "ejemplo": "En nuestro juego, cada uno puede describir qué color le recuerda el sabor de una fruta."
+    },
+    "inspiracionCancion": "Una canción para jugar con los sentidos y descubrir asociaciones inesperadas."
   },
   {
     "dia": 46,
     "fecha": "2026-11-30",
     "fechaTexto": "lun, 30 de nov",
-    "categoria": "Hacer algo solo para ver qué pasa",
-    "icono": "🧵",
-    "tono": "filosofica",
+    "categoria": "Una receta que inventamos desde cero",
+    "icono": "🍽️",
+    "tono": "cocina",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy puedes probar algo sin convertirlo en un proyecto perfecto. Una mezcla de colores, una idea manual o cualquier ocurrencia que te dé curiosidad ya cuenta como un buen comienzo.",
+    "buenosDias": "Hoy vamos a cocinar con una regla distinta: no seguir una receta completa. Vamos a escoger una base, dos ingredientes y una sazón para crear un plato propio.",
     "poema": [
-      "La curiosidad también merece espacio sin convertirse en productividad. Probar una cosa, reírse si sale mal y aprender algo que no estaba en el plan puede ser suficiente.",
-      "Así que improvisa un poquito, mi vida. Y si haces un experimento extraño, necesito una foto o por lo menos una explicación con todo el drama."
+      "Elijan una base: arroz, papas cocidas o pasta. Cada uno escoge en secreto un ingrediente principal para sumar: pollo, champiñones, tomate, espinaca, maíz, pimentón o queso. Revelen las elecciones y construyan un plato que combine ambos. Para dos personas, usen una taza de arroz crudo o una porción equivalente de la base, una proteína o legumbre, verduras, ajo, cebolla, aceite y condimentos al gusto. Cocinen primero la proteína en sartén hasta que esté bien hecha; retiren, salteen las verduras, incorporen la base ya cocida y devuelvan la proteína. Ajusten sal, pimienta y limón. Uno dirige la sartén y el otro prepara ingredientes y mesa. Anoten cantidades para poder repetir el experimento.",
+      "Experimentación: probar, observar y ajustar. Una receta propia empieza cuando nos atrevemos a cambiar una cosa y prestar atención al resultado."
     ],
-    "detalle": "Prueba hoy algo sin planear cada resultado. No porque todo tenga que salir bien, sino porque a veces lo inesperado también merece un espacio en tu día.",
-    "buenasNoches": "Que tengas una noche suave, mi vida. Ojalá mañana te permitas probar algo sin exigirte saber desde el comienzo cómo va a salir.",
-    "cancionTitulo": "Déjame Entrar",
-    "cancionArtista": "Cultura Profética",
-    "youtubeId": "IAhVESdwvIU",
-    "cancionUrl": "https://www.youtube.com/watch?v=IAhVESdwvIU"
+    "detalle": "Elijan una base: arroz, papas cocidas o pasta. Cada uno escoge en secreto un ingrediente principal para sumar: pollo, champiñones, tomate, espinaca, maíz, pimentón o queso. Revelen las elecciones y construyan un plato que combine ambos. Para dos personas, usen una taza de arroz crudo o una porción equivalente de la base, una proteína o legumbre, verduras, ajo, cebolla, aceite y condimentos al gusto. Cocinen primero la proteína en sartén hasta que esté bien hecha; retiren, salteen las verduras, incorporen la base ya cocida y devuelvan la proteína. Ajusten sal, pimienta y limón. Uno dirige la sartén y el otro prepara ingredientes y mesa. Anoten cantidades para poder repetir el experimento.",
+    "buenasNoches": "Si quedó delicioso, tenemos un nuevo plato de la casa. Si no, tenemos una anécdota y sabemos qué cambiar la próxima vez.",
+    "cancionTitulo": "Above The Clouds",
+    "cancionArtista": "Gang Starr; Inspectah Deck",
+    "youtubeId": "NqhNTA2VHqk",
+    "cancionUrl": "https://www.youtube.com/watch?v=NqhNTA2VHqk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, chefs",
+        "contenido": "Hoy vamos a cocinar con una regla distinta: no seguir una receta completa. Vamos a escoger una base, dos ingredientes y una sazón para crear un plato propio."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto de cocina: dos elecciones y una sartén",
+        "contenido": "Elijan una base: arroz, papas cocidas o pasta. Cada uno escoge en secreto un ingrediente principal para sumar: pollo, champiñones, tomate, espinaca, maíz, pimentón o queso. Revelen las elecciones y construyan un plato que combine ambos. Para dos personas, usen una taza de arroz crudo o una porción equivalente de la base, una proteína o legumbre, verduras, ajo, cebolla, aceite y condimentos al gusto. Cocinen primero la proteína en sartén hasta que esté bien hecha; retiren, salteen las verduras, incorporen la base ya cocida y devuelvan la proteína. Ajusten sal, pimienta y limón. Uno dirige la sartén y el otro prepara ingredientes y mesa. Anoten cantidades para poder repetir el experimento."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de cocina",
+        "contenido": "Experimentación: probar, observar y ajustar. Una receta propia empieza cuando nos atrevemos a cambiar una cosa y prestar atención al resultado."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Si quedó delicioso, tenemos un nuevo plato de la casa. Si no, tenemos una anécdota y sabemos qué cambiar la próxima vez."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Experimentación",
+      "significado": "Proceso de probar alternativas para observar qué funciona y aprender de los resultados.",
+      "ejemplo": "Cambiar una especia y comparar el resultado es una forma sencilla de experimentación en la cocina."
+    },
+    "inspiracionCancion": "Una canción para cocinar sin receta rígida y descubrir qué pasa cuando combinamos dos ideas."
   },
   {
     "dia": 47,
     "fecha": "2026-12-01",
     "fechaTexto": "mar, 1 de dic",
-    "categoria": "Que las palabras coincidan con los actos",
-    "icono": "🎯",
-    "tono": "filosofica",
+    "categoria": "Una salida con una misión fotográfica",
+    "icono": "📷",
+    "tono": "salida",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Te deseo vínculos donde las palabras no sean acertijos y los actos no contradigan lo que se dice. La claridad también puede ser tierna; no tiene que llegar en forma de discusión.",
+    "buenosDias": "Hoy subimos un poquito la apuesta: salir con una misión visual. No es solo caminar; vamos a volver con una pequeña serie de fotografías que tenga principio y final.",
     "poema": [
-      "El cariño bonito no debería ser una adivinanza eterna. Puede tener nervios, dudas y días complicados, claro, pero también tiene que saber hablar y escuchar sin jugar con lo que el otro siente.",
-      "No olvides eso, Aleja: mereces tranquilidad, respeto y un interés que se note. No tienes que conformarte con señales confusas para demostrar que sabes querer."
+      "Elijan un barrio, parque o zona cultural segura que puedan recorrer sin afán. Antes de salir acuerden transporte, presupuesto y duración. La misión: tomar siete fotos con temas distintos: una puerta, una textura, una sombra, algo azul, una escena de movimiento, una perspectiva inesperada y una imagen que represente el día. No fotografíen personas identificables sin su permiso ni entren a espacios privados. Al final elijan una foto de cada uno y armen una secuencia de dos imágenes: título, orden y una frase que conecte ambas. Si hoy no pueden salir, hagan la misión en casa o guárdenla para otro día.",
+      "Encuadre: los límites y la composición de lo que decidimos mostrar en una imagen. Cambiar el encuadre puede cambiar por completo la historia."
     ],
-    "detalle": "Fíjate en quién cumple lo que dice, incluso en las cosas pequeñas. Y procura rodearte de personas con las que no tengas que adivinar si el cariño está ahí: lo bonito también puede ser claro.",
-    "buenasNoches": "Buenas noches, corazón. Puedes ser cuidadosa con tus palabras y seguir siendo firme en lo que piensas. No tienes que escoger entre tu ternura y tu carácter.",
-    "cancionTitulo": "No Está en Venta",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Se6Cd4sW3ks",
-    "cancionUrl": "https://www.youtube.com/watch?v=Se6Cd4sW3ks"
+    "detalle": "Elijan un barrio, parque o zona cultural segura que puedan recorrer sin afán. Antes de salir acuerden transporte, presupuesto y duración. La misión: tomar siete fotos con temas distintos: una puerta, una textura, una sombra, algo azul, una escena de movimiento, una perspectiva inesperada y una imagen que represente el día. No fotografíen personas identificables sin su permiso ni entren a espacios privados. Al final elijan una foto de cada uno y armen una secuencia de dos imágenes: título, orden y una frase que conecte ambas. Si hoy no pueden salir, hagan la misión en casa o guárdenla para otro día.",
+    "buenasNoches": "Me gustaría ver cuál fue tu fotografía favorita y qué descubriste al mirar con más atención.",
+    "cancionTitulo": "What They Do",
+    "cancionArtista": "The Roots",
+    "youtubeId": "_qzacv8dtb4",
+    "cancionUrl": "https://www.youtube.com/watch?v=_qzacv8dtb4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, fotógrafos",
+        "contenido": "Hoy subimos un poquito la apuesta: salir con una misión visual. No es solo caminar; vamos a volver con una pequeña serie de fotografías que tenga principio y final."
+      },
+      "mensajePrincipal": {
+        "titulo": "Ruta fotográfica de siete imágenes",
+        "contenido": "Elijan un barrio, parque o zona cultural segura que puedan recorrer sin afán. Antes de salir acuerden transporte, presupuesto y duración. La misión: tomar siete fotos con temas distintos: una puerta, una textura, una sombra, algo azul, una escena de movimiento, una perspectiva inesperada y una imagen que represente el día. No fotografíen personas identificables sin su permiso ni entren a espacios privados. Al final elijan una foto de cada uno y armen una secuencia de dos imágenes: título, orden y una frase que conecte ambas. Si hoy no pueden salir, hagan la misión en casa o guárdenla para otro día."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de fotografía",
+        "contenido": "Encuadre: los límites y la composición de lo que decidimos mostrar en una imagen. Cambiar el encuadre puede cambiar por completo la historia."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Me gustaría ver cuál fue tu fotografía favorita y qué descubriste al mirar con más atención."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Encuadre",
+      "significado": "Porción de la escena que decidimos incluir dentro de una fotografía o imagen.",
+      "ejemplo": "Un encuadre bajo puede convertir una calle común en una fotografía completamente distinta."
+    },
+    "inspiracionCancion": "Una canción para salir con ojos de fotógrafo y encontrar belleza en lugares que ya conocemos."
   },
   {
     "dia": 48,
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
-    "categoria": "Un café que no endulza el día a la fuerza",
-    "icono": "🫗",
-    "tono": "ambiente",
+    "categoria": "Una merienda que se convierte en plan",
+    "icono": "☕",
+    "tono": "salida",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Que tu tinto salga fuerte y sin azúcar, pero que el día no tenga que saber igual. Si la mañana se tuerce, ve resolviendo una cosa a la vez y no le exijas dulzura a la taza.",
+    "buenosDias": "Hoy la propuesta es salir a tomar algo y no mirar el reloj cada cinco minutos. Busquemos un café o lugar de merienda que nos guste por su ambiente, no solo por la bebida.",
     "poema": [
-      "Me imagino el primer sorbo, el silencio de antes de que arranque el día y tú mirando la taza como si todavía estuvieras negociando con el sueño.",
-      "Si pudiera dejarte una nota al lado, diría: «corazón, no tienes que correr desde el primer minuto». Y probablemente dibujaría un café pequeño que me quedaría bastante mal."
+      "Elijan un sitio real que les quede cómodo y revisen horarios, precios y transporte antes de salir. Cada uno escoge una bebida para el otro o recomienda algo que cree que le gustaría. Pidan una merienda para compartir si les provoca. Después hagan tres rondas de conversación: algo que les dio risa esta semana, algo nuevo que quieran aprender y un plan que les gustaría organizar antes de que termine el año. Si el lugar está lleno o no se ajusta al presupuesto, cambien de sitio o preparen la merienda en casa. La idea es tener tiempo, no cumplir una reserva.",
+      "Sobremesa: ese rato que se alarga después de comer, cuando la conversación se vuelve parte del plan."
     ],
-    "detalle": "Que el café no tenga azúcar no significa que el día tenga que ser amargo. Si la mañana viene torcida, ve por partes; no tienes que resolverla entera antes del primer sorbo.",
-    "buenasNoches": "Que descanses, amor. El café de mañana puede esperar hasta que abras los ojos; por ahora, no necesitas ganarle ninguna carrera al día.",
-    "cancionTitulo": "Antonia",
-    "cancionArtista": "Gondwana",
-    "youtubeId": "exxkGyu3G1Q",
-    "cancionUrl": "https://www.youtube.com/watch?v=exxkGyu3G1Q"
+    "detalle": "Elijan un sitio real que les quede cómodo y revisen horarios, precios y transporte antes de salir. Cada uno escoge una bebida para el otro o recomienda algo que cree que le gustaría. Pidan una merienda para compartir si les provoca. Después hagan tres rondas de conversación: algo que les dio risa esta semana, algo nuevo que quieran aprender y un plan que les gustaría organizar antes de que termine el año. Si el lugar está lleno o no se ajusta al presupuesto, cambien de sitio o preparen la merienda en casa. La idea es tener tiempo, no cumplir una reserva.",
+    "buenasNoches": "Ojalá hayamos tenido una tarde tranquila, de esas que no necesitan demasiadas actividades para sentirse especiales.",
+    "cancionTitulo": "Fall In Love",
+    "cancionArtista": "Slum Village",
+    "youtubeId": "s732BigTxZk",
+    "cancionUrl": "https://www.youtube.com/watch?v=s732BigTxZk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, amantes del café",
+        "contenido": "Hoy la propuesta es salir a tomar algo y no mirar el reloj cada cinco minutos. Busquemos un café o lugar de merienda que nos guste por su ambiente, no solo por la bebida."
+      },
+      "mensajePrincipal": {
+        "titulo": "Plan de sobremesa larga",
+        "contenido": "Elijan un sitio real que les quede cómodo y revisen horarios, precios y transporte antes de salir. Cada uno escoge una bebida para el otro o recomienda algo que cree que le gustaría. Pidan una merienda para compartir si les provoca. Después hagan tres rondas de conversación: algo que les dio risa esta semana, algo nuevo que quieran aprender y un plan que les gustaría organizar antes de que termine el año. Si el lugar está lleno o no se ajusta al presupuesto, cambien de sitio o preparen la merienda en casa. La idea es tener tiempo, no cumplir una reserva."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para quedarse",
+        "contenido": "Sobremesa: ese rato que se alarga después de comer, cuando la conversación se vuelve parte del plan."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá hayamos tenido una tarde tranquila, de esas que no necesitan demasiadas actividades para sentirse especiales."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sobremesa",
+      "significado": "Tiempo que se permanece conversando después de terminar una comida o bebida.",
+      "ejemplo": "Una sobremesa larga puede convertir un café sencillo en el mejor momento del día."
+    },
+    "inspiracionCancion": "Una canción para alargar una tarde, pedir algo rico y dejar que la conversación decida cuándo termina el plan."
   },
   {
     "dia": 49,
     "fecha": "2026-12-03",
     "fechaTexto": "jue, 3 de dic",
-    "categoria": "Dormir sin negociar con el reloj",
-    "icono": "🌻",
-    "tono": "amor",
+    "categoria": "Un día de escapada: elegir el destino juntos",
+    "icono": "🗺️",
+    "tono": "aventura",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Ojalá hoy tengas permiso de dormir lo que necesitas, sin convertir el descanso en una carrera ni sentir que tienes que ganarte el derecho a parar.",
+    "buenosDias": "Hoy la propuesta crece un poco: no vamos a salir necesariamente hoy, sino a diseñar una escapada real para un próximo fin de semana. La decisión del destino será de los dos.",
     "poema": [
-      "Hay algo bonito en poder cerrar los ojos y dejar que el mundo siga un rato sin ti. No todo momento tiene que convertirse en una tarea, una idea o algo que tachar de una lista.",
-      "Si hoy el sueño te gana un poquito, no lo tomes como una derrota, corazón. A veces descansar también es la manera más sensata de cuidarse; hasta las personas más inquietas necesitan apagar el ruido."
+      "Cada uno propone un tipo de destino: un pueblo con arquitectura bonita, un lugar junto al agua, una zona de clima cálido, un mirador o un recorrido gastronómico. Comparen las ideas y elijan una favorita sin comprometerse todavía. Después revisen distancia, transporte, presupuesto, clima, horarios y lugares abiertos en la fecha que les convenga. Armen un itinerario flexible: salida por la mañana, una actividad principal, almuerzo, paseo tranquilo y regreso antes de que sea demasiado tarde. Anoten cuánto costaría y qué habría que reservar. Si la propuesta no convence a alguno, se cambia; también pueden guardar dos destinos finalistas y decidir más adelante. La pregunta importante: ¿cuál de estas escapadas sí te emociona hacer conmigo?",
+      "Itinerario: un plan de recorrido que ordena las paradas y los tiempos. El mejor itinerario deja margen para descubrir algo que no estaba previsto."
     ],
-    "detalle": "Si tienes un rato libre y el cuerpo te pide descansar, regálatelo sin culpa. Puedes dejar el teléfono a un lado, acomodarte como más te guste y permitir que el día espere un poco.",
-    "buenasNoches": "Buenas noches, bonita. Ojalá hoy hayas podido descansar de verdad, aunque fuera un ratito. Que la almohada esté cómoda, la cabeza baje el volumen y mañana llegue sin exigirte que resuelvas todo apenas despiertes.",
-    "cancionTitulo": "La Noche y Tú",
-    "cancionArtista": "Barbaro el Urbano Vargas",
-    "youtubeId": "XSN_8UblItk",
-    "cancionUrl": "https://www.youtube.com/watch?v=XSN_8UblItk"
+    "detalle": "Cada uno propone un tipo de destino: un pueblo con arquitectura bonita, un lugar junto al agua, una zona de clima cálido, un mirador o un recorrido gastronómico. Comparen las ideas y elijan una favorita sin comprometerse todavía. Después revisen distancia, transporte, presupuesto, clima, horarios y lugares abiertos en la fecha que les convenga. Armen un itinerario flexible: salida por la mañana, una actividad principal, almuerzo, paseo tranquilo y regreso antes de que sea demasiado tarde. Anoten cuánto costaría y qué habría que reservar. Si la propuesta no convence a alguno, se cambia; también pueden guardar dos destinos finalistas y decidir más adelante. La pregunta importante: ¿cuál de estas escapadas sí te emociona hacer conmigo?",
+    "buenasNoches": "Me gusta que los planes grandes empiecen con una conversación. Ojalá encontremos un destino que nos ilusione a los dos, sin prisa y sin obligación.",
+    "cancionTitulo": "Camino de Tu Ombligo",
+    "cancionArtista": "Rupatrupa",
+    "youtubeId": "ekfybvh0TRo",
+    "cancionUrl": "https://www.youtube.com/watch?v=ekfybvh0TRo",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, viajeros",
+        "contenido": "Hoy la propuesta crece un poco: no vamos a salir necesariamente hoy, sino a diseñar una escapada real para un próximo fin de semana. La decisión del destino será de los dos."
+      },
+      "mensajePrincipal": {
+        "titulo": "Diseñemos una escapada de un día",
+        "contenido": "Cada uno propone un tipo de destino: un pueblo con arquitectura bonita, un lugar junto al agua, una zona de clima cálido, un mirador o un recorrido gastronómico. Comparen las ideas y elijan una favorita sin comprometerse todavía. Después revisen distancia, transporte, presupuesto, clima, horarios y lugares abiertos en la fecha que les convenga. Armen un itinerario flexible: salida por la mañana, una actividad principal, almuerzo, paseo tranquilo y regreso antes de que sea demasiado tarde. Anoten cuánto costaría y qué habría que reservar. Si la propuesta no convence a alguno, se cambia; también pueden guardar dos destinos finalistas y decidir más adelante. La pregunta importante: ¿cuál de estas escapadas sí te emociona hacer conmigo?"
+      },
+      "palabraNueva": {
+        "titulo": "Palabra viajera",
+        "contenido": "Itinerario: un plan de recorrido que ordena las paradas y los tiempos. El mejor itinerario deja margen para descubrir algo que no estaba previsto."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Me gusta que los planes grandes empiecen con una conversación. Ojalá encontremos un destino que nos ilusione a los dos, sin prisa y sin obligación."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Itinerario",
+      "significado": "Plan organizado de un recorrido, con actividades y tiempos aproximados.",
+      "ejemplo": "Podemos diseñar un itinerario flexible para una escapada de un día y dejar espacio para improvisar."
+    },
+    "inspiracionCancion": "Una canción para empezar a imaginar una escapada juntos y convertir una idea en un plan que podamos ajustar entre los dos."
   },
   {
     "dia": 50,
