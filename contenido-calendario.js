@@ -9208,5 +9208,327 @@ const CALENDARIO = [
       "significado": "Resumen breve que presenta de qué trata una obra sin contar todos sus detalles.",
       "ejemplo": "Una buena sinopsis despierta curiosidad sin revelar el final."
     }
+  },
+  {
+    "dia": 210,
+    "fecha": "2027-05-13",
+    "fechaTexto": "jue, 13 de may",
+    "categoria": "El objeto con una segunda vida",
+    "icono": "♻️",
+    "tono": "ingenio y reutilización",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a mirar un objeto común y pensar qué otra vida podría tener.",
+    "poema": [
+      "Elijan algo limpio que normalmente terminaría guardado o en reciclaje: una caja, un frasco, una bolsa de tela o un retazo de papel. Imaginen dos usos nuevos y dibujen o describan cómo quedaría. No hace falta comprar materiales ni hacer una manualidad complicada; basta con una idea útil, bonita o inesperada. Si el objeto no está en buen estado, no lo reutilicen para algo que pueda ser inseguro.",
+      "Pónganle nombre al invento y expliquen en una frase por qué vale la pena darle otra oportunidad."
+    ],
+    "detalle": "Pónganle nombre al invento y expliquen en una frase por qué vale la pena darle otra oportunidad.",
+    "buenasNoches": "A veces cambiar de función es una manera sencilla de descubrir valor donde antes no lo veíamos.",
+    "cancionTitulo": "Clapzz",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "W486I2dtYA8",
+    "cancionUrl": "https://www.youtube.com/watch?v=W486I2dtYA8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a mirar un objeto común y pensar qué otra vida podría tener."
+      },
+      "mensajePrincipal": {
+        "titulo": "El objeto con una segunda vida",
+        "contenido": "Elijan algo limpio que normalmente terminaría guardado o en reciclaje: una caja, un frasco, una bolsa de tela o un retazo de papel. Imaginen dos usos nuevos y dibujen o describan cómo quedaría. No hace falta comprar materiales ni hacer una manualidad complicada; basta con una idea útil, bonita o inesperada. Si el objeto no está en buen estado, no lo reutilicen para algo que pueda ser inseguro."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra reutilizar",
+        "contenido": "Volver a utilizar algo, dándole el mismo uso u otro diferente. Reutilizar no es guardar por guardar: es encontrarle una función nueva a algo."
+      },
+      "buenasNoches": {
+        "contenido": "A veces cambiar de función es una manera sencilla de descubrir valor donde antes no lo veíamos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Reutilizar",
+      "significado": "Volver a utilizar algo, dándole el mismo uso u otro diferente.",
+      "ejemplo": "Reutilizar no es guardar por guardar: es encontrarle una función nueva a algo."
+    }
+  },
+  {
+    "dia": 211,
+    "fecha": "2027-05-14",
+    "fechaTexto": "vie, 14 de may",
+    "categoria": "El duelo de los gustos culposos",
+    "icono": "🎤",
+    "tono": "humor y gustos personales",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy se vale confesar ese gusto que uno defiende aunque los demás no entiendan.",
+    "poema": [
+      "Cada quien comparte tres gustos inesperados: una canción que canta a todo pulmón, una película que ha repetido demasiadas veces, una combinación de comida poco popular o un programa que ve para desconectarse. La otra persona puede hacer preguntas, pero no burlarse: la idea es descubrir gustos curiosos y encontrar coincidencias improbables.",
+      "Den un premio inventado al gusto más inesperado: «clásico secreto», «placer inexplicable» o «himno personal»."
+    ],
+    "detalle": "Den un premio inventado al gusto más inesperado: «clásico secreto», «placer inexplicable» o «himno personal».",
+    "buenasNoches": "Disfrutar algo con tranquilidad también es una forma de tener criterio propio.",
+    "cancionTitulo": "El Sexto Sentido",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "tjHgj-p_XiI",
+    "cancionUrl": "https://www.youtube.com/watch?v=tjHgj-p_XiI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy se vale confesar ese gusto que uno defiende aunque los demás no entiendan."
+      },
+      "mensajePrincipal": {
+        "titulo": "El duelo de los gustos culposos",
+        "contenido": "Cada quien comparte tres gustos inesperados: una canción que canta a todo pulmón, una película que ha repetido demasiadas veces, una combinación de comida poco popular o un programa que ve para desconectarse. La otra persona puede hacer preguntas, pero no burlarse: la idea es descubrir gustos curiosos y encontrar coincidencias improbables."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra guilty pleasure",
+        "contenido": "Expresión en inglés para un gusto que alguien disfruta aunque le dé un poco de pena admitirlo. Un gusto no necesita aprobación para ser disfrutado."
+      },
+      "buenasNoches": {
+        "contenido": "Disfrutar algo con tranquilidad también es una forma de tener criterio propio."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Guilty pleasure",
+      "significado": "Expresión en inglés para un gusto que alguien disfruta aunque le dé un poco de pena admitirlo.",
+      "ejemplo": "Un gusto no necesita aprobación para ser disfrutado."
+    }
+  },
+  {
+    "dia": 212,
+    "fecha": "2027-05-15",
+    "fechaTexto": "sáb, 15 de may",
+    "categoria": "La ruta de un plan cultural",
+    "icono": "🎨",
+    "tono": "salida cultural de un día",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a imaginar una salida de un día que mezcle curiosidad y tiempo libre.",
+    "poema": [
+      "Diseñen una ruta cultural sencilla para un día: una exposición o museo, una pausa para tomar algo y un segundo lugar que les dé curiosidad, como una librería, un jardín o un mirador. No elijan establecimientos concretos ni pongan fecha todavía; calculen cuánto tiempo dedicarían a cada parte y dejen un margen para improvisar. La salida solo se convierte en plan real si a ambos les provoca y les cuadra el tiempo.",
+      "Pónganle un nombre a la ruta y elijan cuál sería la parada que más esperan."
+    ],
+    "detalle": "Pónganle un nombre a la ruta y elijan cuál sería la parada que más esperan.",
+    "buenasNoches": "Un buen plan no necesita estar lleno de actividades; también importa poder disfrutarlo sin afán.",
+    "cancionTitulo": "La Revancha de los Timidos",
+    "cancionArtista": "Alcolirykoz; Jannyval",
+    "youtubeId": "SFMtkR0iSj0",
+    "cancionUrl": "https://www.youtube.com/watch?v=SFMtkR0iSj0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a imaginar una salida de un día que mezcle curiosidad y tiempo libre."
+      },
+      "mensajePrincipal": {
+        "titulo": "La ruta de un plan cultural",
+        "contenido": "Diseñen una ruta cultural sencilla para un día: una exposición o museo, una pausa para tomar algo y un segundo lugar que les dé curiosidad, como una librería, un jardín o un mirador. No elijan establecimientos concretos ni pongan fecha todavía; calculen cuánto tiempo dedicarían a cada parte y dejen un margen para improvisar. La salida solo se convierte en plan real si a ambos les provoca y les cuadra el tiempo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra itinerario",
+        "contenido": "Plan ordenado de actividades o lugares que se quieren recorrer. Un itinerario flexible deja espacio para detenerse donde algo nos llame la atención."
+      },
+      "buenasNoches": {
+        "contenido": "Un buen plan no necesita estar lleno de actividades; también importa poder disfrutarlo sin afán."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Itinerario",
+      "significado": "Plan ordenado de actividades o lugares que se quieren recorrer.",
+      "ejemplo": "Un itinerario flexible deja espacio para detenerse donde algo nos llame la atención."
+    }
+  },
+  {
+    "dia": 213,
+    "fecha": "2027-05-16",
+    "fechaTexto": "dom, 16 de may",
+    "categoria": "El minuto de improvisación",
+    "icono": "🎭",
+    "tono": "juego de creatividad verbal",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a inventar una escena sin libreto y con tres palabras obligatorias.",
+    "poema": [
+      "Escojan tres palabras al azar —por ejemplo, paraguas, astronauta y empanada—. Una persona empieza una historia de treinta segundos y la otra debe continuarla incorporando las tres palabras sin romper la escena. Luego cambien los papeles y suban la dificultad con palabras más extrañas. Si están lejos, pueden mandarse audios cortos.",
+      "Elijan la escena más absurda y pónganle título como si fuera una obra de teatro."
+    ],
+    "detalle": "Elijan la escena más absurda y pónganle título como si fuera una obra de teatro.",
+    "buenasNoches": "No siempre hay que tener la respuesta lista; a veces lo mejor aparece jugando con lo inesperado.",
+    "cancionTitulo": "Let My People",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "Kjbc9C9ZQAA",
+    "cancionUrl": "https://www.youtube.com/watch?v=Kjbc9C9ZQAA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a inventar una escena sin libreto y con tres palabras obligatorias."
+      },
+      "mensajePrincipal": {
+        "titulo": "El minuto de improvisación",
+        "contenido": "Escojan tres palabras al azar —por ejemplo, paraguas, astronauta y empanada—. Una persona empieza una historia de treinta segundos y la otra debe continuarla incorporando las tres palabras sin romper la escena. Luego cambien los papeles y suban la dificultad con palabras más extrañas. Si están lejos, pueden mandarse audios cortos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra improvisar",
+        "contenido": "Hacer algo sin prepararlo de antemano, resolviendo sobre la marcha. Improvisar es escuchar lo que aparece y construir algo a partir de ello."
+      },
+      "buenasNoches": {
+        "contenido": "No siempre hay que tener la respuesta lista; a veces lo mejor aparece jugando con lo inesperado."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Improvisar",
+      "significado": "Hacer algo sin prepararlo de antemano, resolviendo sobre la marcha.",
+      "ejemplo": "Improvisar es escuchar lo que aparece y construir algo a partir de ello."
+    }
+  },
+  {
+    "dia": 214,
+    "fecha": "2027-05-17",
+    "fechaTexto": "lun, 17 de may",
+    "categoria": "Una pausa para cuidar la energía",
+    "icono": "☁️",
+    "tono": "bienestar cotidiano sin exigencias",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la propuesta es bajar un poco el ritmo, sin convertir el descanso en otra tarea.",
+    "poema": [
+      "Regálense una pausa breve de diez minutos: dejar el celular a un lado, tomar agua, estirar el cuerpo suavemente o sentarse cerca de una ventana. Después, si quieren compartirlo, completen esta frase: «Últimamente me vendría bien un poco más de…». No hay que justificar la respuesta ni dar consejos si la otra persona solo quiere contar cómo se siente.",
+      "Pueden guardar una idea pequeña que les ayude a recuperar energía en días ocupados."
+    ],
+    "detalle": "Pueden guardar una idea pequeña que les ayude a recuperar energía en días ocupados.",
+    "buenasNoches": "Descansar también cuenta; no hay que ganarse el derecho a hacer una pausa.",
+    "cancionTitulo": "El Toque Personal",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "Ml_6S52AEFc",
+    "cancionUrl": "https://www.youtube.com/watch?v=Ml_6S52AEFc",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la propuesta es bajar un poco el ritmo, sin convertir el descanso en otra tarea."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una pausa para cuidar la energía",
+        "contenido": "Regálense una pausa breve de diez minutos: dejar el celular a un lado, tomar agua, estirar el cuerpo suavemente o sentarse cerca de una ventana. Después, si quieren compartirlo, completen esta frase: «Últimamente me vendría bien un poco más de…». No hay que justificar la respuesta ni dar consejos si la otra persona solo quiere contar cómo se siente."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sosiego",
+        "contenido": "Calma profunda o tranquilidad, especialmente después de una situación agitada. Buscar sosiego no es perder el tiempo: es darle espacio a la mente para respirar."
+      },
+      "buenasNoches": {
+        "contenido": "Descansar también cuenta; no hay que ganarse el derecho a hacer una pausa."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sosiego",
+      "significado": "Calma profunda o tranquilidad, especialmente después de una situación agitada.",
+      "ejemplo": "Buscar sosiego no es perder el tiempo: es darle espacio a la mente para respirar."
+    }
+  },
+  {
+    "dia": 215,
+    "fecha": "2027-05-18",
+    "fechaTexto": "mar, 18 de may",
+    "categoria": "El personaje que sería buen compañero de viaje",
+    "icono": "🧳",
+    "tono": "ficción y decisiones divertidas",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca escoger un compañero de viaje entre personajes de ficción.",
+    "poema": [
+      "Cada quien elige un personaje de cualquier universo —puede ser de Harry Potter, Jujutsu Kaisen u otra historia— para una excursión de un día. Expliquen qué tarea le confiarían: orientarse, organizar la comida, resolver imprevistos o mantener el ánimo. Después nombren un personaje que definitivamente no llevarían y cuenten por qué, con argumentos divertidos.",
+      "Armen el equipo ideal de tres personajes y asignen a cada uno una función concreta."
+    ],
+    "detalle": "Armen el equipo ideal de tres personajes y asignen a cada uno una función concreta.",
+    "buenasNoches": "Elegir bien la compañía puede cambiar por completo la experiencia, incluso en una aventura imaginaria.",
+    "cancionTitulo": "Aero-Soul",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "jk9S5ca0Oh0",
+    "cancionUrl": "https://www.youtube.com/watch?v=jk9S5ca0Oh0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca escoger un compañero de viaje entre personajes de ficción."
+      },
+      "mensajePrincipal": {
+        "titulo": "El personaje que sería buen compañero de viaje",
+        "contenido": "Cada quien elige un personaje de cualquier universo —puede ser de Harry Potter, Jujutsu Kaisen u otra historia— para una excursión de un día. Expliquen qué tarea le confiarían: orientarse, organizar la comida, resolver imprevistos o mantener el ánimo. Después nombren un personaje que definitivamente no llevarían y cuenten por qué, con argumentos divertidos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra compatibilidad",
+        "contenido": "Cualidad de dos o más cosas o personas que funcionan bien juntas. La compatibilidad no significa ser iguales, sino poder complementarse."
+      },
+      "buenasNoches": {
+        "contenido": "Elegir bien la compañía puede cambiar por completo la experiencia, incluso en una aventura imaginaria."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Compatibilidad",
+      "significado": "Cualidad de dos o más cosas o personas que funcionan bien juntas.",
+      "ejemplo": "La compatibilidad no significa ser iguales, sino poder complementarse."
+    }
+  },
+  {
+    "dia": 216,
+    "fecha": "2027-05-19",
+    "fechaTexto": "mié, 19 de may",
+    "categoria": "La postal de un futuro posible",
+    "icono": "💌",
+    "tono": "imaginación y escritura",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a escribir una postal desde un día cualquiera del futuro.",
+    "poema": [
+      "Imaginen que dentro de un año se encuentran en un día tranquilo que salió mejor de lo esperado. Escriban una postal de cinco líneas contando dónde están, qué detalle les alegra el día y qué aprendieron durante ese año. Puede ser completamente individual y no tiene que incluir planes compartidos ni promesas; la idea es imaginar una versión posible y amable del futuro.",
+      "Guarden la postal con la fecha de hoy. Si les nace, pueden compartir una línea, pero también puede quedarse privada."
+    ],
+    "detalle": "Guarden la postal con la fecha de hoy. Si les nace, pueden compartir una línea, pero también puede quedarse privada.",
+    "buenasNoches": "El futuro no necesita estar decidido para que podamos imaginarlo con ilusión.",
+    "cancionTitulo": "Así No Más",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "phFWgKphgc0",
+    "cancionUrl": "https://www.youtube.com/watch?v=phFWgKphgc0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a escribir una postal desde un día cualquiera del futuro."
+      },
+      "mensajePrincipal": {
+        "titulo": "La postal de un futuro posible",
+        "contenido": "Imaginen que dentro de un año se encuentran en un día tranquilo que salió mejor de lo esperado. Escriban una postal de cinco líneas contando dónde están, qué detalle les alegra el día y qué aprendieron durante ese año. Puede ser completamente individual y no tiene que incluir planes compartidos ni promesas; la idea es imaginar una versión posible y amable del futuro."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra porvenir",
+        "contenido": "Tiempo futuro; aquello que está por venir. Imaginar el porvenir no obliga a tener todo resuelto, solo permite abrir posibilidades."
+      },
+      "buenasNoches": {
+        "contenido": "El futuro no necesita estar decidido para que podamos imaginarlo con ilusión."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Porvenir",
+      "significado": "Tiempo futuro; aquello que está por venir.",
+      "ejemplo": "Imaginar el porvenir no obliga a tener todo resuelto, solo permite abrir posibilidades."
+    }
   }
 ];
