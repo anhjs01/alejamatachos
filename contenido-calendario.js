@@ -1009,7 +1009,7 @@ const CALENDARIO = [
     "dia": 22,
     "fecha": "2026-11-06",
     "fechaTexto": "vie, 6 de nov",
-    "categoria": "Una noche de bebidas de autor, música y complicidad",
+    "categoria": "El laboratorio de bebidas por temperatura",
     "icono": "🍸",
     "tono": "amor",
     "color": {
@@ -1031,11 +1031,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, brindis pendiente",
-        "contenido": "Te propongo una noche de bebidas sin alcohol para cuando tengamos un rato libre: música, luz bajita, algo sencillo para picar y dos mezclas preparadas con cariño. Cada uno diseña una para el otro; la sorpresa está en adivinar qué sabores le gustaría descubrir."
+        "contenido": "Hoy vamos a comparar dos bebidas sin alcohol: una caliente y otra fría. La idea es descubrir cuál acompaña mejor una mañana, un almuerzo de oficina o una salida, usando ingredientes sencillos."
       },
       "mensajePrincipal": {
-        "titulo": "Nuestro pequeño bar sin alcohol",
-        "contenido": "PLAN PARA DOS · 25 A 30 MINUTOS · SIN ALCOHOL\n\nCompra para dos: 2 limones, 1 naranja, agua con gas, hielo, hierbabuena, jarabe simple (azúcar disuelta en igual cantidad de agua y enfriada) y frutos rojos o moras. Para picar, elijan algo sencillo que ya tengan o puedan comprar dentro del presupuesto: queso, aceitunas, uvas o papas preparadas en sartén.\n\nPreparación:\n1. Machaca suavemente tres moras por vaso con 15 ml de limón y 15 ml de jarabe.\n2. Añade hielo y completa con agua con gas.\n3. Prepara la segunda versión con zumo de naranja, limón y hierbabuena.\n4. Decoren ambos vasos y prueben cuál combinación les gusta más.\n\nRETO · 10 MINUTOS: cada uno inventa el nombre de una bebida para el otro y formula tres preguntas curiosas. Si la preparan para el almuerzo en la oficina, dejen la fruta y el hielo aparte y mezclen al servir; si es para una salida, lleven la base en una botella fría. No hace falta comprar todo: adapten la receta a lo que ya tengan."
+        "titulo": "El laboratorio de bebidas por temperatura",
+        "contenido": "RETO DE BEBIDAS SIN ALCOHOL · 20–25 MINUTOS\n\nPreparen dos versiones pequeñas con lo que ya tengan:\n- VERSIÓN CALIENTE: agua caliente, una bolsita de té o una infusión conocida, una rodaja de limón o naranja y una hierba aromática apta.\n- VERSIÓN FRÍA: agua fría o con gas, fruta cortada, hielo y unas hojas de hierbabuena.\n\n1. Preparen primero la infusión caliente y déjenla reposar el tiempo indicado.\n2. Armen la versión fría en otro vaso y ajusten el cítrico poco a poco.\n3. Prueben ambas y describan cuál encaja mejor con una mañana tranquila, un almuerzo en la oficina o una salida.\n4. Inventen un nombre para cada versión.\n\nPara llevar la bebida fría al trabajo o a una salida, transporten la base en una botella limpia y añadan el hielo al servir. La versión caliente se prepara en casa y se lleva solo en un recipiente térmico seguro. No hace falta comprar ingredientes especiales."
       },
       "palabraNueva": {
         "titulo": "Palabra de bar",
@@ -1043,7 +1043,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Quiero que sea una noche para conversar, reírnos y brindar por algo pequeño. No necesitamos una ocasión especial ni una compra grande: la complicidad también cabe en dos vasos preparados con lo que ya tenemos."
+        "contenido": "Dos temperaturas, dos ambientes y una pequeña elección para otro día. Me gusta que una idea sencilla pueda adaptarse a distintos momentos sin convertirse en una obligación."
       }
     },
     "palabraNueva": {
@@ -1249,7 +1249,7 @@ const CALENDARIO = [
     "dia": 27,
     "fecha": "2026-11-11",
     "fechaTexto": "mié, 11 de nov",
-    "categoria": "Carne en salsa de tomate con arroz y ensalada",
+    "categoria": "Garbanzos guisados con tomate, espinaca y arroz",
     "icono": "🍅",
     "tono": "cocina",
     "color": {
@@ -1271,11 +1271,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, chef",
-        "contenido": "Hoy propongo una comida completa sin horno: carne en salsa de tomate con arroz y una ensalada fresca. Esta vez yo preparo la carne y tú puedes encargarte del arroz o elegir la música; si preferimos, intercambiamos."
+        "contenido": "Hoy cambiamos la carne por una receta vegetariana, sencilla y completa: garbanzos guisados con tomate y espinaca, acompañados de arroz. Podemos repartir tareas y dejar el almuerzo listo para mañana si nos conviene."
       },
       "mensajePrincipal": {
-        "titulo": "Carne en salsa de tomate con arroz y ensalada",
-        "contenido": "Compra: 300 g de carne de res en cubos o tiras, 1 taza de arroz, 2 tomates maduros, ½ cebolla, 1 diente de ajo, ½ pimentón, 1 zanahoria pequeña, aceite, sal, pimienta, comino y cilantro opcional. Para la carne: sofríe cebolla, ajo y pimentón; añade la carne y dórala por tandas. Incorpora tomate picado, zanahoria, comino, sal y un chorrito de agua. Tapa y cocina a fuego bajo hasta que la carne esté tierna, agregando agua si hace falta. Destapa al final y deja reducir la salsa hasta que espese. Para el arroz: lava una taza, sofríela brevemente con una cucharadita de aceite, agrega dos tazas de agua y sal; cocina tapado a fuego bajo hasta que se absorba. Acompaña con tomate y pepino en cubos con limón. Ajusta el tiempo según el corte de carne y verifica que esté bien cocida.\n\nTIEMPO ESTIMADO: 35–40 MINUTOS. Si será el almuerzo de mañana, decidan la noche anterior qué tienen y qué falta; la compra puede hacerse al salir del trabajo."
+        "titulo": "Garbanzos guisados con tomate, espinaca y arroz",
+        "contenido": "RECETA VEGETARIANA PARA DOS · 30–35 MINUTOS · SIN HORNO\n\nIngredientes: una lata de garbanzos cocidos (escurridos y enjuagados), una taza de arroz, dos tomates maduros, media cebolla, un diente de ajo, un puñado de espinaca, comino, aceite, sal, pimienta y cilantro opcional.\n\nPreparación:\n1. Cocina el arroz con agua y sal según las instrucciones habituales.\n2. Sofríe cebolla y ajo picados con un poco de aceite.\n3. Añade tomate en cubos, comino, sal y pimienta; cocina hasta formar una salsa.\n4. Incorpora los garbanzos y un chorrito de agua. Tapa y cocina 8–10 minutos.\n5. Agrega la espinaca al final y mezcla hasta que se ablande.\n6. Sirve con el arroz y cilantro si tienen.\n\nSi será el almuerzo de mañana, acuerden la receta la noche anterior, revisen qué ingredientes faltan y compren al salir del trabajo."
       },
       "palabraNueva": {
         "titulo": "Palabra de cocina",
@@ -2399,7 +2399,7 @@ const CALENDARIO = [
     "dia": 51,
     "fecha": "2026-12-05",
     "fechaTexto": "sáb, 5 de dic",
-    "categoria": "Un postre frío hecho entre dos",
+    "categoria": "Ensalada fría de pasta con tomate, maíz y queso",
     "icono": "🍓",
     "tono": "dulce",
     "color": {
@@ -2424,8 +2424,8 @@ const CALENDARIO = [
         "contenido": "No necesitamos una ocasión especial para preparar algo rico y compartirlo."
       },
       "mensajePrincipal": {
-        "titulo": "Vasitos de fruta, crema y crocante",
-        "contenido": "Ingredientes para dos: una taza de fresas, una taza de uvas, un yogur griego natural, dos cucharadas de queso crema, una cucharadita de miel o azúcar, cuatro galletas sencillas y unas gotas de limón. Lava y corta las fresas y las uvas. Mezcla el yogur con el queso crema, la miel y unas gotas de limón hasta obtener una crema uniforme. Tritura las galletas con las manos, sin convertirlas en polvo. En dos vasos transparentes arma capas de fruta, crema y galleta; repite una vez y termina con fruta. Refrigera entre veinte y treinta minutos. Antes de servir, cada uno puede decorar el vaso del otro con una combinación de frutas. Si prefieren una versión menos dulce, omitan la miel. No necesita horno ni herramientas especiales. ¿Qué fruta agregarías para que este postre tuviera nuestra firma?\n\nTIEMPO DE PREPARACIÓN: 15 MINUTOS; REFRIGERACIÓN: 20–30 MINUTOS. Pueden preparar las capas mientras se enfrían las frutas."
+        "titulo": "Ensalada fría de pasta con tomate, maíz y queso",
+        "contenido": "RECETA PARA DOS · 20–25 MINUTOS · SIN HORNO\n\nIngredientes: 180 g de pasta corta, un tomate, ½ taza de maíz cocido, 80 g de queso en cubos, ¼ de pepino, limón, aceite de oliva, orégano, sal y pimienta.\n\nPreparación:\n1. Cocina la pasta en agua con sal según el tiempo del paquete. Escúrrela y enfríala con agua potable.\n2. Corta el tomate, el pepino y el queso en cubos pequeños.\n3. Mezcla limón, aceite, orégano, sal y pimienta para hacer el aderezo.\n4. Une la pasta con las verduras, el maíz y el queso. Añade el aderezo justo antes de servir.\n5. Prueba y ajusta el limón.\n\nPara llevarla al almuerzo de la oficina, conserva la ensalada refrigerada y transporta el aderezo aparte. Mezcla al momento de comer."
       },
       "palabraNueva": {
         "titulo": "La palabra del equilibrio",
@@ -3023,7 +3023,7 @@ const CALENDARIO = [
     "dia": 64,
     "fecha": "2026-12-18",
     "fechaTexto": "vie, 18 de dic",
-    "categoria": "Una pequeña pieza hecha a mano",
+    "categoria": "El móvil geométrico de papel",
     "icono": "🪴",
     "tono": "creativo",
     "color": {
@@ -3049,8 +3049,8 @@ const CALENDARIO = [
         "contenido": "Hoy podríamos hacer algo con las manos y dejar que el resultado tenga personalidad propia, incluso si no queda perfecto."
       },
       "mensajePrincipal": {
-        "titulo": "La pieza que vamos a modelar",
-        "contenido": "Consigan arcilla de secado al aire, una base que no se pegue, un poco de agua y herramientas sencillas como un palito o una tapa para marcar texturas. Cada uno elige una idea pequeña: un platito para anillos, un colgante decorativo, una figura abstracta o un mini recipiente. Amasen la arcilla hasta ablandarla, formen la pieza sin hacerla demasiado gruesa, alisen las grietas con los dedos apenas húmedos y añadan detalles con las herramientas. Pueden grabar una inicial, una línea o un símbolo que tenga sentido para ustedes. Déjenla secar siguiendo las instrucciones del envase; no necesita horno si es arcilla de secado al aire. Cuando esté completamente seca, pueden pintarla otro día con pintura acrílica. Protejan la mesa y lávense las manos al terminar. No importa que las piezas queden distintas: esa es parte de la gracia. ¿Qué objeto te gustaría intentar crear primero?\n\nTIEMPO SUGERIDO: 30–40 MINUTOS para modelar. El secado de la arcilla requiere tiempo adicional según el fabricante."
+        "titulo": "El móvil geométrico de papel",
+        "contenido": "RETO DE CREACIÓN · 30–40 MINUTOS\n\nMateriales: papel de colores o reutilizado, hilo, una pajilla de papel o dos palitos livianos, lápiz, regla, tijeras y cinta o pegamento.\n\n1. Dibuja seis formas geométricas de tamaños distintos: círculos, triángulos y rectángulos.\n2. Recórtalas y combina dos colores por forma.\n3. Organiza las piezas sobre la mesa hasta encontrar un equilibrio visual.\n4. Ata o pega cada forma a un hilo corto.\n5. Sujeta los hilos a la pajilla o los palitos, distribuyendo el peso para que el móvil quede equilibrado.\n6. Ajusta la posición de las piezas hasta que se muevan suavemente con el aire.\n\nNIVEL EXTRA: añade una figura central que represente algo importante para ti. Si no tienen hilo o palitos, conviértanlo en una composición plana sobre cartulina."
       },
       "palabraNueva": {
         "titulo": "Una palabra para crear",
@@ -3167,7 +3167,7 @@ const CALENDARIO = [
     "dia": 67,
     "fecha": "2026-12-21",
     "fechaTexto": "lun, 21 de dic",
-    "categoria": "Duraznos tibios en sartén",
+    "categoria": "Tortitas de avena y banano en sartén",
     "icono": "🍑",
     "tono": "hogareño",
     "color": {
@@ -3193,8 +3193,8 @@ const CALENDARIO = [
         "contenido": "Hoy una fruta puede convertirse en un postre sencillo, sin horno y sin llenar la cocina de complicaciones."
       },
       "mensajePrincipal": {
-        "titulo": "Un postre rápido con durazno",
-        "contenido": "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?\n\nTIEMPO ESTIMADO: 15–20 MINUTOS. La receta se hace en sartén; deja que el durazno pierda un poco de calor antes de añadir el yogur."
+        "titulo": "Tortitas de avena y banano en sartén",
+        "contenido": "RECETA PARA DOS · 15–20 MINUTOS · SIN HORNO\n\nIngredientes: un banano maduro, un huevo, cuatro cucharadas de avena, una pizca de canela y unas gotas de aceite. Para acompañar: yogur natural o fruta que ya tengan.\n\nPreparación:\n1. Machaca el banano con un tenedor.\n2. Añade el huevo, la avena y la canela; mezcla hasta obtener una masa espesa.\n3. Calienta una sartén antiadherente con unas gotas de aceite.\n4. Pon porciones pequeñas de mezcla y cocina a fuego medio-bajo durante 2–3 minutos por lado, hasta que estén firmes y doradas.\n5. Sirve con yogur o fruta.\n\nSi serán parte del desayuno, pueden dejar la mezcla seca preparada la noche anterior y añadir el huevo y el banano por la mañana."
       },
       "palabraNueva": {
         "titulo": "La palabra de la cocina",
@@ -3215,7 +3215,7 @@ const CALENDARIO = [
     "dia": 68,
     "fecha": "2026-12-22",
     "fechaTexto": "mar, 22 de dic",
-    "categoria": "Una cafetería improvisada",
+    "categoria": "La cabina de radio de tres minutos",
     "icono": "☕",
     "tono": "ritual cotidiano y cercanía",
     "color": {
@@ -3240,8 +3240,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a preparar un pequeño café en casa y dejar que la conversación haga el resto."
       },
       "mensajePrincipal": {
-        "titulo": "Una cafetería improvisada",
-        "contenido": "Elijan una bebida que les guste y preparen una merienda sencilla. Organicen una mesa con una servilleta, una nota escrita a mano y una canción de fondo. Cada persona propone una pregunta curiosa y una historia divertida para compartir. Si les gusta la idea, guarden una lista de cafeterías o lugares tranquilos que podrían visitar otro día, sin fijar fecha ni convertirlo en un compromiso. Revisen etiquetas para descartar maní y trazas relevantes y eviten la contaminación cruzada.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Pueden prepararlo para el almuerzo de oficina o dejarlo como merienda en casa; usen lo que ya tengan."
+        "titulo": "La cabina de radio de tres minutos",
+        "contenido": "RETO DE EXPRESIÓN · 15–20 MINUTOS\n\nHoy van a crear un programa de radio diminuto. No hace falta grabarlo ni usar una aplicación: basta con una hoja y la voz.\n\n1. Elijan un nombre para la emisora.\n2. Cada persona prepara una apertura de 15 segundos para presentar el programa.\n3. Inventen una noticia positiva y cotidiana, una recomendación cultural y una pregunta para quienes escuchan.\n4. Cierren con una frase que pueda convertirse en el lema de la emisora.\n5. Si quieren, graben una versión de tres minutos y guárdenla solo para ustedes.\n\nSi están tres en la oficina, pueden hacer una versión de 5–7 minutos durante una pausa: una persona presenta, otra comparte la noticia y la tercera recomienda algo. No interrumpan tareas ni graben a compañeros sin permiso."
       },
       "palabraNueva": {
         "titulo": "La palabra del recorrido",
@@ -3749,7 +3749,7 @@ const CALENDARIO = [
     "dia": 79,
     "fecha": "2027-01-02",
     "fechaTexto": "sáb, 2 de ene",
-    "categoria": "El juego de las respuestas simultáneas",
+    "categoria": "La escalera de palabras",
     "icono": "🔢",
     "tono": "juguetón",
     "color": {
@@ -3775,8 +3775,8 @@ const CALENDARIO = [
         "contenido": "Una pregunta, dos respuestas al mismo tiempo y una buena oportunidad para reírse cuando ninguno coincide."
       },
       "mensajePrincipal": {
-        "titulo": "Cuenta atrás y números a la vez",
-        "contenido": "Jueguen diez rondas. En cada una, alguien propone una categoría o una operación sencilla: «di un número del uno al cinco» o «¿cuánto es 7 + 4?». En las rondas de números, ambos muestran al mismo tiempo una cantidad con los dedos; si la consigna es sumar, cada uno elige un número y dicen el resultado a la vez. Si coinciden, ganan un punto; si no, cada quien explica su elección en una frase y siguen. Añadan dos rondas absurdas —un nombre de planeta inventado o un color que describa el lunes— para que no todo sea cálculo. No hay castigo por perder: quien gane elige el tema de la última ronda. ¿Crees que coincidiremos más de tres veces?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Jueguen diez rondas rápidas y cambien la categoría cada dos turnos."
+        "titulo": "La escalera de palabras",
+        "contenido": "JUEGO DE PALABRAS · 10–15 MINUTOS\n\nElijan una palabra corta de cuatro o cinco letras. Por turnos, cambien solo una letra para formar una palabra nueva; no se pueden añadir ni quitar letras. Cada palabra debe existir y tener un significado distinto.\n\nEjemplo: CASA → MASA → MESA. Si alguien se atasca, puede pedir una pista y pierde el turno, no la partida. Jueguen hasta completar diez cambios o hasta que ya no encuentren una opción válida."
       },
       "palabraNueva": {
         "titulo": "La palabra de coincidir",
@@ -4277,7 +4277,7 @@ const CALENDARIO = [
     "dia": 90,
     "fecha": "2027-01-13",
     "fechaTexto": "mié, 13 de ene",
-    "categoria": "El juego de la historia por turnos",
+    "categoria": "La cadena de dueños imposibles",
     "icono": "🎭",
     "tono": "juguetón",
     "color": {
@@ -4303,8 +4303,8 @@ const CALENDARIO = [
         "contenido": "Hoy la imaginación lleva el volante: una historia improvisada que puede terminar en comedia, misterio o cualquier cosa inesperada."
       },
       "mensajePrincipal": {
-        "titulo": "Una frase cada uno",
-        "contenido": "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tres personas pueden turnarse para construir la historia, una frase por turno."
+        "titulo": "La cadena de dueños imposibles",
+        "contenido": "JUEGO NARRATIVO · 10–15 MINUTOS\n\nElijan un objeto cotidiano: una llave, una taza, una moneda o un paraguas. Imaginen que pasa por las manos de cinco personajes distintos.\n\nLa primera persona inventa quién lo tuvo antes y por qué. La siguiente añade qué hizo el segundo dueño con el objeto. Continúen hasta llegar al quinto personaje, que debe revelar un detalle que conecte toda la cadena.\n\nNo tienen que escribir una historia larga: una frase por dueño basta. Si participan tres, cada uno interpreta más de un personaje."
       },
       "palabraNueva": {
         "titulo": "La palabra de inventar",
@@ -6391,7 +6391,7 @@ const CALENDARIO = [
     "dia": 135,
     "fecha": "2027-02-27",
     "fechaTexto": "sáb, 27 de feb",
-    "categoria": "La cata a ciegas de sabores cotidianos",
+    "categoria": "La historia que guarda una receta",
     "icono": "🍊",
     "tono": "juego sensorial",
     "color": {
@@ -6416,8 +6416,8 @@ const CALENDARIO = [
         "contenido": "Hoy el reto consiste en adivinar con los sentidos, no con la vista."
       },
       "mensajePrincipal": {
-        "titulo": "La cata a ciegas de sabores cotidianos",
-        "contenido": "Preparen tres bocados pequeños de alimentos seguros y conocidos, por ejemplo trozos de manzana, banano y galleta simple apta. Con los ojos abiertos pero sin mirar el plato, prueben uno a la vez y describan textura, aroma y sabor antes de adivinar. También pueden hacerlo con tres bebidas sin alcohol en vasos distintos. Comprueben ingredientes y contaminación cruzada: nada de maní ni productos con trazas dudosas. No usen alimentos desconocidos ni obliguen a probar nada.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Porciones pequeñas, ingredientes conocidos y turnos voluntarios; cualquiera puede pasar sin explicación."
+        "titulo": "La historia que guarda una receta",
+        "contenido": "RETO DE MEMORIA Y ESCRITURA · 15–20 MINUTOS\n\nPiensa en una comida que te recuerde a una persona, una etapa o un lugar. No tiene que ser una receta especial: puede ser un desayuno sencillo, una merienda o algo que preparabas en casa.\n\nEscribe tres cosas: qué ingredientes recuerdas, quién solía prepararla o compartirla y qué detalle hace que siga siendo importante. Si participan dos, cada persona cuenta una historia distinta y el otro puede hacer una pregunta. No hace falta cocinarla hoy; si algún día quieren recrearla, primero revisen tiempo y presupuesto."
       },
       "palabraNueva": {
         "titulo": "La palabra sensorial",
@@ -7049,7 +7049,7 @@ const CALENDARIO = [
     "dia": 149,
     "fecha": "2027-03-13",
     "fechaTexto": "sáb, 13 de mar",
-    "categoria": "El snack de tres capas",
+    "categoria": "Dip de yogur con bastones crujientes",
     "icono": "🍓",
     "tono": "receta sin horno",
     "color": {
@@ -7074,8 +7074,8 @@ const CALENDARIO = [
         "contenido": "Hoy toca preparar algo sencillo, fresco y sin encender el horno."
       },
       "mensajePrincipal": {
-        "titulo": "El snack de tres capas",
-        "contenido": "Arma un vasito por capas con yogur natural, banano en rodajas y fresas picadas. Si quieres, añade un poco de avena simple que sea segura. La gracia está en alternar las capas para que cada cucharada tenga distintas texturas. No requiere horno ni cocina. Por la alergia al maní, revisa las etiquetas de la avena y del yogur, y evita productos con advertencias de trazas o riesgo de contaminación cruzada. Puedes cambiar la fruta por otra que sepas que es segura.\n\nTIEMPO DE PREPARACIÓN: 5–10 MINUTOS. Arma solo las porciones que vayan a consumir y mantenlas refrigeradas si no se sirven enseguida."
+        "titulo": "Dip de yogur con bastones crujientes",
+        "contenido": "MERIENDA PARA DOS · 10–15 MINUTOS · SIN HORNO\n\nIngredientes: yogur natural espeso, unas gotas de limón, una pizca de sal, hierbas secas conocidas y verduras lavadas que puedan comerse crudas, como zanahoria y pepino. También pueden usar galletas saladas sencillas si tienen una opción adecuada.\n\nPreparación:\n1. Mezcla el yogur con limón, sal y una pequeña cantidad de hierbas.\n2. Lava y corta la zanahoria y el pepino en bastones.\n3. Sirve el dip en un recipiente pequeño y organiza los bastones alrededor.\n4. Prueba y ajusta el limón o las hierbas.\n\nPara una pausa en la oficina, lleva el dip refrigerado en un recipiente cerrado y las verduras lavadas en otro. No lo dejes varias horas a temperatura ambiente."
       },
       "palabraNueva": {
         "titulo": "La palabra contraste",
@@ -8109,7 +8109,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La receta de una tarde tranquila",
-        "contenido": "Prepara una limonada sencilla: mezcla agua fría, limón y azúcar o el endulzante que uses; agrega hielo y unas hojas de hierbabuena si tienes. Acompáñala con fruta picada o galletas sencillas. Si compartes alimentos, revisa las etiquetas y evita productos con maní o posibles trazas por contaminación cruzada. La actividad es sentarse diez minutos sin hacer otra cosa al mismo tiempo.\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS. Puedes prepararla por la mañana, llevarla fría al almuerzo o añadir hielo justo antes de una salida."
+        "contenido": "BEBIDA PARA DOS · 10–15 MINUTOS · SIN ALCOHOL\n\nPrepara una limonada sencilla con agua fría, zumo de limón, un poco de azúcar o el endulzante que utilices, hierbabuena y hielo. Mezcla primero el agua con el limón, añade el endulzante poco a poco y prueba antes de agregar más.\n\nPara acompañar, sirve fruta lavada o una merienda sencilla que ya tengan. Puedes prepararla por la mañana, llevarla fría al almuerzo o añadir hielo antes de una salida. Si la transportas, utiliza una botella limpia y mantenla fría.\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS. La bebida se prepara rápido; deja la fruta y el hielo aparte si la llevarás al trabajo."
       },
       "palabraNueva": {
         "titulo": "La palabra sosiego",
@@ -8363,7 +8363,7 @@ const CALENDARIO = [
     "dia": 177,
     "fecha": "2027-04-10",
     "fechaTexto": "sáb, 10 de abr",
-    "categoria": "Un taller de cerámica, color o formas",
+    "categoria": "Lettering: una palabra con personalidad propia",
     "icono": "🎨",
     "tono": "experiencia compartida",
     "color": {
@@ -8388,8 +8388,8 @@ const CALENDARIO = [
         "contenido": "Hay planes que se disfrutan más por lo que uno hace que por lo que termina llevando a casa."
       },
       "mensajePrincipal": {
-        "titulo": "Un taller de cerámica, color o formas",
-        "contenido": "Si tienen disponibilidad, busquen un taller de una sola sesión: cerámica, pintura de piezas, decoración de espejos o creación de figuras. La idea es probar algo con las manos, reírse de los resultados y llevarse una pequeña creación. Antes de elegir, revisen horarios, precio, ubicación y duración; no hace falta que sea un curso largo ni una salida de todo el día.\n\nDURACIÓN DEL TALLER: 1–2 HORAS por sesión. Comparen costos, materiales incluidos y transporte; también pueden replicar una versión casera de bajo costo. No hay que reservar hasta que ambos quieran."
+        "titulo": "Lettering: una palabra con personalidad propia",
+        "contenido": "RETO DE TIPOGRAFÍA · 25–35 MINUTOS · COSTO CERO\n\nMateriales: una hoja, lápiz, borrador y uno o dos marcadores. Elige una palabra que represente esta etapa: calma, impulso, curiosidad, valentía o cualquier otra.\n\nNIVEL 1 · 5 MINUTOS: escribe la palabra en letras de bloque, manteniendo el mismo tamaño.\nNIVEL 2 · 10 MINUTOS: cambia el grosor de algunas letras y crea contraste entre trazos finos y gruesos.\nNIVEL 3 · 10–15 MINUTOS: añade una sombra, un contorno o un detalle gráfico que refuerce el significado.\n\nTermina con una frase breve que explique por qué elegiste esa palabra. Si participan dos, cada uno diseña una versión y luego intercambian las hojas para añadir un detalle, siempre con permiso."
       },
       "palabraNueva": {
         "titulo": "La palabra artesanía",
@@ -10475,7 +10475,7 @@ const CALENDARIO = [
     "dia": 222,
     "fecha": "2027-05-25",
     "fechaTexto": "mar, 25 de may",
-    "categoria": "El laboratorio de nombres",
+    "categoria": "El catálogo de pequeñas costumbres",
     "icono": "🧪",
     "tono": "juego creativo y lenguaje",
     "color": {
@@ -10500,8 +10500,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a inventar palabras para situaciones que nos pasan a todos."
       },
       "mensajePrincipal": {
-        "titulo": "El laboratorio de nombres",
-        "contenido": "Creen tres palabras nuevas: una para cuando abres la nevera y olvidas qué buscabas, otra para cuando una canción se queda pegada todo el día y una tercera para esa sensación de que el fin de semana pasó en veinte minutos. Definan cada palabra y úsenla en una oración. Pueden mezclar sílabas, sonidos o palabras existentes.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres palabras, tres definiciones y una frase de ejemplo para cada una."
+        "titulo": "El catálogo de pequeñas costumbres",
+        "contenido": "RETO DE CURIOSIDAD · 10–15 MINUTOS\n\nAnota cinco costumbres pequeñas que forman parte de tu día y que quizá no notas: cómo eliges una canción, dónde dejas las llaves, qué haces mientras esperas, cómo organizas tu escritorio o qué revisas antes de salir.\n\nEscoge una y explica de dónde crees que viene. Si participan dos, cada persona intenta adivinar una costumbre del otro y luego comprueba si acertó. No se trata de juzgar hábitos, sino de descubrir detalles."
       },
       "palabraNueva": {
         "titulo": "La palabra neologismo",
@@ -11556,7 +11556,7 @@ const CALENDARIO = [
     "dia": 245,
     "fecha": "2027-06-17",
     "fechaTexto": "jue, 17 de jun",
-    "categoria": "El archivo de sonidos de una ciudad",
+    "categoria": "El plano de una plaza que invita a quedarse",
     "icono": "🎧",
     "tono": "escucha y exploración",
     "color": {
@@ -11581,8 +11581,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a escuchar el lugar donde estamos como si fuera una grabación especial."
       },
       "mensajePrincipal": {
-        "titulo": "El archivo de sonidos de una ciudad",
-        "contenido": "Durante cinco minutos, quédate en un sitio seguro y escucha sin poner música. Anota cinco sonidos distintos: uno constante, uno lejano, uno inesperado, uno natural y uno producido por personas. Después ordénalos como si fueran la banda sonora de una escena. No grabes conversaciones privadas ni a desconocidos.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Escucha desde un sitio seguro y anota sonidos del entorno sin grabar conversaciones privadas."
+        "titulo": "El plano de una plaza que invita a quedarse",
+        "contenido": "RETO DE DISEÑO URBANO · 20–25 MINUTOS\n\nImagina una plaza pequeña donde dé gusto pasar un rato. Dibuja un plano sencillo con tres zonas: un lugar con sombra, un espacio para sentarse y conversar y una zona abierta para caminar o jugar.\n\nAñade tres detalles que mejoren la experiencia: iluminación segura, accesibilidad, árboles, bebederos, señalización o recipientes para residuos. Después marca un recorrido que conecte las zonas sin obstáculos.\n\nNo hace falta visitar ningún sitio ni buscar una ubicación real. La misión es diseñar un espacio público acogedor y explicar qué problema resuelve cada decisión."
       },
       "palabraNueva": {
         "titulo": "La palabra paisaje sonoro",
@@ -13011,7 +13011,7 @@ const CALENDARIO = [
     "dia": 276,
     "fecha": "2027-07-18",
     "fechaTexto": "dom, 18 de jul",
-    "categoria": "El desafío de traducir emociones a colores",
+    "categoria": "El cartel tipográfico de una frase que te representa",
     "icono": "🌈",
     "tono": "expresión artística",
     "color": {
@@ -13036,8 +13036,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a representar una emoción sin escribir su nombre."
       },
       "mensajePrincipal": {
-        "titulo": "El desafío de traducir emociones a colores",
-        "contenido": "Elige una emoción —tranquilidad, entusiasmo, nostalgia, curiosidad o cualquier otra— y crea una paleta de cuatro colores que la represente. Puedes usar lápices, marcadores o una herramienta digital. Después asigna a cada color una función: fondo, acento, contraste y detalle. Muestra la composición sin decir qué emoción elegiste y deja que otra persona intente interpretarla.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Cuatro colores, una emoción y un título para la paleta."
+        "titulo": "El cartel tipográfico de una frase que te representa",
+        "contenido": "RETO DE DISEÑO GRÁFICO · 20–25 MINUTOS\n\nElige una frase breve que te represente en este momento. No tiene que ser motivacional: puede ser una observación, una idea divertida o una línea que te gustaría recordar.\n\n1. Escribe la frase en una hoja con letras sencillas.\n2. Escoge una palabra que deba llamar primero la atención.\n3. Haz esa palabra más grande y cambia el grosor de sus trazos.\n4. Añade una segunda tipografía para el resto de la frase.\n5. Utiliza un solo color de acento y deja espacio vacío alrededor.\n\nEl objetivo es que el diseño tenga jerarquía visual y se entienda de un vistazo. Puedes hacerlo en papel o en el lienzo digital."
       },
       "palabraNueva": {
         "titulo": "La palabra paleta",
@@ -13857,7 +13857,7 @@ const CALENDARIO = [
     "dia": 294,
     "fecha": "2027-08-05",
     "fechaTexto": "jue, 5 de ago",
-    "categoria": "El alfabeto de las cosas favoritas",
+    "categoria": "El inventario de cinco pequeños lujos",
     "icono": "🔤",
     "tono": "creatividad y expresión",
     "color": {
@@ -13882,8 +13882,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a convertir las letras en excusas para descubrir gustos inesperados."
       },
       "mensajePrincipal": {
-        "titulo": "El alfabeto de las cosas favoritas",
-        "contenido": "Escribe tu nombre en vertical y, junto a cada letra, anota algo que te guste: una comida, un sonido, una película, un lugar, un color o una pequeña costumbre. Si una letra se complica, inventa una respuesta absurda. Después elige tres palabras y conviértelas en un pequeño diseño usando tamaños, trazos y estilos distintos.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una palabra por letra; si el nombre es largo, elijan solo cinco letras."
+        "titulo": "El inventario de cinco pequeños lujos",
+        "contenido": "RETO DE OBSERVACIÓN PERSONAL · 10–15 MINUTOS\n\nHaz una lista de cinco pequeños lujos que no necesariamente cuestan dinero: tener unos minutos sin ruido, encontrar una canción perfecta, una bebida a la temperatura ideal, una conversación que no se siente forzada o terminar una tarea antes de lo esperado.\n\nJunto a cada uno, escribe cuándo suele aparecer y qué podrías hacer para darle un poco más de espacio en tu rutina. Elige uno para disfrutar esta semana, sin convertirlo en una obligación ni comprar nada."
       },
       "palabraNueva": {
         "titulo": "La palabra filigrana",
@@ -13951,7 +13951,7 @@ const CALENDARIO = [
     "dia": 296,
     "fecha": "2027-08-07",
     "fechaTexto": "sáb, 7 de ago",
-    "categoria": "La receta que cabe en una pausa",
+    "categoria": "Rollitos fríos de tortilla con queso y vegetales",
     "icono": "🍓",
     "tono": "cocina fácil y creatividad",
     "color": {
@@ -13976,8 +13976,8 @@ const CALENDARIO = [
         "contenido": "Una pausa también puede tener sabor. Hoy la misión es preparar algo rico sin encender el horno."
       },
       "mensajePrincipal": {
-        "titulo": "La receta que cabe en una pausa",
-        "contenido": "Prepara un vasito de yogur con fruta: coloca una capa de yogur natural, agrega trozos de banano o fresas, suma avena o cereal crujiente y termina con un poco de canela o miel si te gusta. Repite las capas en un vaso transparente para que se vean. Puedes cambiar las frutas según lo que tengas; revisa los ingredientes y las advertencias de posibles trazas si hay alergias alimentarias.\n\nTIEMPO DE PREPARACIÓN: 5–10 MINUTOS. Para una pausa de oficina, lleva la fruta lavada y el yogur frío; arma el vaso justo antes de comer."
+        "titulo": "Rollitos fríos de tortilla con queso y vegetales",
+        "contenido": "MERIENDA O ALMUERZO LIGERO · 10–15 MINUTOS · SIN HORNO\n\nIngredientes para dos: dos tortillas de trigo o maíz, queso en láminas, tomate sin semillas, hojas de espinaca lavadas y una salsa sencilla de yogur o la que ya tengan.\n\nPreparación:\n1. Extiende una tortilla y coloca el queso en el centro.\n2. Añade una capa fina de espinaca y tomate bien escurrido.\n3. Enrolla con firmeza y corta en tres o cuatro piezas.\n4. Repite con la segunda tortilla.\n5. Sirve con una salsa aparte.\n\nPara llevarlo al almuerzo, envuelve los rollitos y mantenlos refrigerados; transporta la salsa aparte para que no se humedezcan."
       },
       "palabraNueva": {
         "titulo": "La palabra umbral",
@@ -14233,7 +14233,7 @@ const CALENDARIO = [
     "dia": 302,
     "fecha": "2027-08-13",
     "fechaTexto": "vie, 13 de ago",
-    "categoria": "El anuncio de un objeto ordinario",
+    "categoria": "El objeto protagonista de una historia en tres escenas",
     "icono": "📣",
     "tono": "improvisación y humor",
     "color": {
@@ -14258,8 +14258,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a vender algo que nadie necesita como si fuera el invento del siglo."
       },
       "mensajePrincipal": {
-        "titulo": "El anuncio de un objeto ordinario",
-        "contenido": "Elige un objeto cercano y crea un anuncio de treinta segundos para convencer a alguien de que es extraordinario. Debes incluir un nombre comercial, una ventaja exagerada y un eslogan. La gracia está en usar argumentos creativos sin burlarte de nadie; puedes grabarlo como un comercial de televisión o presentarlo en vivo.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Nombre comercial, ventaja exagerada y anuncio de 30 segundos; versión de oficina de 5 minutos con un objeto del escritorio."
+        "titulo": "El objeto protagonista de una historia en tres escenas",
+        "contenido": "RETO DE ESCRITURA VISUAL · 15–20 MINUTOS\n\nElige un objeto cercano y conviértelo en protagonista de una historia de tres escenas.\n\n1. INICIO: ¿cómo llega el objeto a manos de alguien?\n2. GIRO: ¿qué situación inesperada cambia su función o su valor?\n3. FINAL: ¿dónde termina y qué deja como recuerdo?\n\nPuedes escribir tres párrafos breves o dibujar tres viñetas. Si participan dos, una persona inventa el inicio y la otra debe resolver el giro y el final."
       },
       "palabraNueva": {
         "titulo": "La palabra paradoja",
@@ -14844,7 +14844,7 @@ const CALENDARIO = [
     "dia": 315,
     "fecha": "2027-08-26",
     "fechaTexto": "jue, 26 de ago",
-    "categoria": "El museo de los objetos cotidianos",
+    "categoria": "El inventario de cinco objetos que cuentan una historia",
     "icono": "🖼️",
     "tono": "observación y creatividad",
     "color": {
@@ -14869,8 +14869,8 @@ const CALENDARIO = [
         "contenido": "Hoy cualquier objeto puede convertirse en una pieza digna de exposición."
       },
       "mensajePrincipal": {
-        "titulo": "El museo de los objetos cotidianos",
-        "contenido": "Escoge tres objetos comunes que tengas cerca: una llave, un vaso, un recibo, una piedra o cualquier cosa sencilla. Dales un nombre artístico y escribe una pequeña ficha de museo para cada uno: año de creación imaginario, material, función secreta y por qué merece estar expuesto. No vale describirlos solo por lo que son; inventa una historia para cada pieza.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres objetos y una ficha de museo por cada uno; pueden hacerlo en una mesa de casa o en la oficina."
+        "titulo": "El inventario de cinco objetos que cuentan una historia",
+        "contenido": "RETO DE ESCRITURA Y OBSERVACIÓN · 15–20 MINUTOS\n\nElige cinco objetos pequeños que tengas cerca y que normalmente pasarían inadvertidos. Para cada uno escribe una palabra que describa su función y otra que describa el recuerdo, la idea o la sensación que te provoca.\n\nDespués conecta los cinco objetos en una historia de seis líneas. No tienen que pertenecer a la misma época ni tener un valor especial; la gracia es descubrir qué relato aparece cuando los juntas."
       },
       "palabraNueva": {
         "titulo": "La palabra mesura",
@@ -15126,7 +15126,7 @@ const CALENDARIO = [
     "dia": 321,
     "fecha": "2027-09-01",
     "fechaTexto": "mié, 1 de sep",
-    "categoria": "El cumplido con evidencia",
+    "categoria": "Tres notas para un día largo",
     "icono": "💬",
     "tono": "coquetería y atención",
     "color": {
@@ -15151,8 +15151,8 @@ const CALENDARIO = [
         "contenido": "Hoy el reto es decir algo bonito, pero con una prueba concreta que lo respalde."
       },
       "mensajePrincipal": {
-        "titulo": "El cumplido con evidencia",
-        "contenido": "Piensa en una cualidad de alguien que te agrade: su creatividad, paciencia, sentido del humor, forma de escuchar o manera de resolver problemas. En vez de dejarlo en un simple «eres genial», menciona una situación específica en la que esa cualidad se notó. La clave es que el cumplido sea sincero y no una frase automática.\n\nTIEMPO SUGERIDO: 5–10 MINUTOS. Un cumplido y una evidencia real; no tiene que ser enviado si prefieres conservarlo."
+        "titulo": "Tres notas para un día largo",
+        "contenido": "RETO DE ESCRITURA · 10–15 MINUTOS\n\nEscribe tres notas breves para acompañar un día complicado:\n- Una para leer al comenzar la mañana.\n- Otra para una pausa a mitad del día.\n- Una última para cuando llegue la noche.\n\nCada nota debe ofrecer algo distinto: una idea práctica, una frase amable o un recordatorio de que no todo tiene que resolverse de inmediato. Puedes guardarlas para ti o compartir una si te nace; no son promesas ni una exigencia de respuesta."
       },
       "palabraNueva": {
         "titulo": "La palabra lumbre",
@@ -15596,7 +15596,7 @@ const CALENDARIO = [
     "dia": 331,
     "fecha": "2027-09-11",
     "fechaTexto": "sáb, 11 de sep",
-    "categoria": "El desafío de la receta a ciegas",
+    "categoria": "El chef de la despensa: tres ingredientes, una merienda",
     "icono": "🥄",
     "tono": "juego sensorial y cocina",
     "color": {
@@ -15618,11 +15618,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy el reto es descubrir sabores y texturas prestando atención a los detalles."
+        "contenido": "Hoy la cocina se convierte en un juego de ingenio: tres ingredientes conocidos, una merienda sencilla y un nombre que parezca de restaurante. La misión es aprovechar lo que ya tenemos."
       },
       "mensajePrincipal": {
-        "titulo": "El desafío de la receta a ciegas",
-        "contenido": "Prepara tres pequeñas muestras de alimentos seguros y conocidos, sin mezclarlos: por ejemplo, trozos de fruta, una galleta simple y yogur. Con los ojos cerrados o mirando hacia otro lado, prueba una muestra a la vez e intenta describir su textura, temperatura y sabor antes de adivinar qué es. No uses ingredientes desconocidos ni nada que pueda causar una reacción; también puedes hacer el reto solo con olores si prefieres.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Utiliza solo alimentos conocidos y seguros, revisa ingredientes y permite que cualquiera pase una muestra."
+        "titulo": "El chef de la despensa: tres ingredientes, una merienda",
+        "contenido": "RETO DE COCINA · 15–20 MINUTOS · SIN HORNO\n\nElijan tres ingredientes sencillos y conocidos que ya tengan disponibles. La combinación debe formar una merienda realista: por ejemplo, una base de arepa o pan, un ingrediente fresco y uno que aporte textura o sabor.\n\n1. Escriban los tres ingredientes antes de empezar.\n2. Piensen en una preparación que no necesite horno ni técnicas complicadas.\n3. Armen una porción pequeña y expliquen por qué combinaron esos sabores.\n4. Pónganle un nombre y anoten la receta en cuatro pasos.\n\nSi participan dos, cada uno propone un ingrediente y el tercero se elige en conjunto. No compren nada especial: adapten el reto a lo que ya haya y a las preferencias de quienes vayan a comer."
       },
       "palabraNueva": {
         "titulo": "La palabra cautela",
@@ -17006,7 +17006,7 @@ const CALENDARIO = [
     "dia": 361,
     "fecha": "2027-10-11",
     "fechaTexto": "lun, 11 de oct",
-    "categoria": "El álbum de las pequeñas pruebas",
+    "categoria": "El archivo de cuatro decisiones pequeñas",
     "icono": "📸",
     "tono": "memoria y creatividad",
     "color": {
@@ -17035,8 +17035,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a reunir pruebas de que los días normales también tienen escenas memorables."
       },
       "mensajePrincipal": {
-        "titulo": "El álbum de las pequeñas pruebas",
-        "contenido": "Elige cuatro fotografías: una de algo que te hizo reír, otra de un lugar, otra de una creación y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al verla. También puedes hacer dibujos u objetos que representen cada momento.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cuatro fotografías y una frase de recuerdo para cada una."
+        "titulo": "El archivo de cuatro decisiones pequeñas",
+        "contenido": "RETO DE REFLEXIÓN · 15–20 MINUTOS\n\nRecuerda cuatro decisiones pequeñas que hayas tomado últimamente: una que te facilitó el día, una que te hizo cambiar de opinión, una que repetirías y una que todavía no sabes cómo evaluar.\n\nEscribe una línea sobre cada una y marca cuál dependió más de ti. No hace falta juzgar si fueron buenas o malas; el objetivo es reconocer cómo se construyen los días a partir de decisiones pequeñas."
       },
       "palabraNueva": {
         "titulo": "La palabra evocación",
