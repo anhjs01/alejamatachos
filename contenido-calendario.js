@@ -2229,7 +2229,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy la cámara tiene una misión, pero no necesita salir de casa."
+        "contenido": "Hoy la cámara tiene una misión, pero no necesita salir de casa. Encuentra tres detalles que normalmente ignoras y elige uno para convertirlo en la imagen principal del día."
       },
       "mensajePrincipal": {
         "titulo": "El safari fotográfico de interiores",
@@ -3736,7 +3736,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Las cosas hechas a mano guardan algo de quien las creó: sus decisiones, sus pequeñas imperfecciones y el tiempo que les dedicó.",
-        "contenido": "Hecho a mano, a su manera"
+        "contenido": "Hecho a mano, a su manera. Guarda la pieza y mírala mañana con ojos nuevos; quizá descubras un detalle que hoy se te escapó."
       }
     },
     "palabraNueva": {
@@ -3784,7 +3784,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "A veces coincidir es cuestión de suerte; otras veces, de conocerse un poquito. Y cuando no pasa, también hay algo que descubrir.",
-        "contenido": "¿Pensamos igual o nada que ver?"
+        "contenido": "¿Pensamos igual o nada que ver? Si las palabras nos llevaron por caminos distintos, mejor: también se aprende descubriendo cómo piensa alguien más."
       }
     },
     "palabraNueva": {
@@ -3832,7 +3832,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "La confianza no se mide por cuánto cuenta alguien, sino por la libertad que siente para elegir qué compartir y cuándo hacerlo.",
-        "contenido": "Escuchar también es acercarse"
+        "contenido": "Escuchar también es acercarse. No hace falta contar todo para construir confianza; basta con respetar el ritmo y cuidar lo que el otro decide compartir."
       }
     },
     "palabraNueva": {
@@ -3880,7 +3880,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Compartir algo preparado con cuidado no necesita una ocasión especial. A veces la sencillez también se siente como un detalle.",
-        "contenido": "Un sabor sencillo para terminar"
+        "contenido": "Un sabor sencillo para terminar. Si algo quedó pendiente en la receta, mañana se puede ajustar; lo importante fue el rato que se dieron para prepararla."
       }
     },
     "palabraNueva": {
@@ -3928,7 +3928,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "El mundo no siempre cambia cuando lo miramos distinto, pero nuestra experiencia sí puede cambiar bastante.",
-        "contenido": "Hay belleza en los detalles"
+        "contenido": "Hay belleza en los detalles. Ojalá mañana vuelvas a mirar un lugar conocido y encuentres algo que siempre estuvo ahí, esperando que lo notaras."
       }
     },
     "palabraNueva": {
@@ -3976,7 +3976,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Un cumplido bonito no debería ser una deuda ni una prueba. Puede ser simplemente una forma honesta de decir: eso que haces tiene valor para mí.",
-        "contenido": "Un detalle que merece ser dicho"
+        "contenido": "Un detalle que merece ser dicho. Si decides compartirlo, que sea porque nace de verdad y no porque esperas una respuesta determinada."
       }
     },
     "palabraNueva": {
@@ -4024,7 +4024,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Ojalá siempre haya canciones que acompañen tus días sin pedirte que sientas algo específico. A veces basta con dejar que suenen.",
-        "contenido": "Que la música acompañe"
+        "contenido": "Que la música acompañe. No tiene que explicar lo que sientes ni resolver nada; a veces basta con dejar que una canción haga compañía."
       }
     },
     "palabraNueva": {
@@ -4488,7 +4488,7 @@ const CALENDARIO = [
     "cancionUrl": "https://www.youtube.com/watch?v=Wt88GMJmVk0",
     "cartas": {
       "buenosDias": {
-        "contenido": "Te dejo una pregunta sencilla para cerrar el día.",
+        "contenido": "Hoy tienes una tarde con espacio para elegir. Antes de llenarla de pendientes, piensa qué te haría bien hacer por gusto y no por obligación.",
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
@@ -5240,7 +5240,7 @@ const CALENDARIO = [
     "cancionUrl": "https://www.youtube.com/watch?v=5D3crqpClPY",
     "cartas": {
       "buenosDias": {
-        "contenido": "Te dejo una última pregunta para hoy.",
+        "contenido": "Imagina que dentro de veinte años vuelves a mirar una fotografía de hoy. ¿Qué detalle pequeño te gustaría reconocer enseguida? Esa es la pista que vamos a buscar.",
         "titulo": "Buenos días"
       },
       "mensajePrincipal": {
@@ -5569,7 +5569,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a mirar el cielo sin necesidad de ir a ningún sitio."
+        "contenido": "Hoy vamos a mirar el cielo sin necesidad de ir a ningún sitio. Observa tres momentos desde la misma ventana y descubre cómo cambia la luz."
       },
       "mensajePrincipal": {
         "titulo": "Tres cielos desde una misma ventana",
@@ -5663,7 +5663,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy tienes un pequeño caso por resolver."
+        "contenido": "Hoy tienes un pequeño caso por resolver. Lee las tres pistas con calma y no te apresures a adivinar: la explicación más sencilla puede estar escondida en un detalle."
       },
       "mensajePrincipal": {
         "titulo": "El expediente de las tres pistas",
@@ -5674,7 +5674,7 @@ const CALENDARIO = [
         "contenido": "Razonar a partir de indicios. Si ves huellas mojadas, deduces que alguien entró bajo la lluvia."
       },
       "buenasNoches": {
-        "contenido": "Caso cerrado por hoy. Descansa tu detective interior.",
+        "contenido": "Caso cerrado por hoy. Descansa tu detective interior; mañana habrá otras pistas y no tienes que resolverlas todas esta noche.",
         "titulo": "Buenas noches"
       }
     },
@@ -5721,7 +5721,7 @@ const CALENDARIO = [
         "contenido": "Que surge naturalmente, sin preparación. Una risa espontánea aparece cuando algo sorprende de verdad."
       },
       "buenasNoches": {
-        "contenido": "Ojalá hoy haya aparecido una razón pequeña para sonreír.",
+        "contenido": "Ojalá hoy haya aparecido una razón pequeña para sonreír. Si no apareció, no pasa nada: mañana puede traer una distinta y no tienes que forzarla.",
         "titulo": "Buenas noches"
       }
     },
@@ -5862,7 +5862,7 @@ const CALENDARIO = [
         "contenido": "Unir piezas para formar un conjunto. Un rompecabezas ensambla partes distintas en una imagen."
       },
       "buenasNoches": {
-        "contenido": "Cada pieza encontró su lugar a su tiempo.",
+        "contenido": "Cada pieza encontró su lugar a su tiempo. Quédate con la satisfacción de haber probado otra estrategia cuando el rompecabezas parecía no avanzar.",
         "titulo": "Buenas noches"
       }
     },
@@ -6085,7 +6085,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a cambiarle por completo el sentido a una escena."
+        "contenido": "Hoy vamos a cambiarle por completo el sentido a una escena. La misma acción puede convertirse en comedia, misterio o drama según la voz que la acompañe."
       },
       "mensajePrincipal": {
         "titulo": "El doblaje imposible",
@@ -6237,7 +6237,7 @@ const CALENDARIO = [
         "contenido": "Referencia indirecta a una persona, idea o situación sin nombrarla de forma explícita. Una alusión permite sugerir algo sin decirlo literalmente."
       },
       "buenasNoches": {
-        "contenido": "No todas las cosas bonitas necesitan explicarse por completo.",
+        "contenido": "No todas las cosas bonitas necesitan explicarse por completo. Deja que el poema conserve una parte de misterio; no toda indirecta necesita una traducción.",
         "titulo": "Buenas noches"
       }
     },
@@ -6273,7 +6273,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy toca volver a uno de los rincones interactivos de ALEJA®."
+        "contenido": "Hoy toca volver a uno de los rincones interactivos de ALEJA®. Elige una ruta que puedas disfrutar y céntrate en jugar con precisión, no en terminar rápido."
       },
       "mensajePrincipal": {
         "titulo": "El reto de Atrapa estrellas: ruta limpia",
@@ -6601,7 +6601,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy tenemos un reto por etapas dentro de ALEJA®."
+        "contenido": "Hoy tenemos un reto por etapas dentro de ALEJA®. Cada nivel añade una dificultad distinta, así que celebra el avance pequeño antes de pasar al siguiente."
       },
       "mensajePrincipal": {
         "titulo": "El desafío de siete niveles",
@@ -6742,7 +6742,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy el reto es mirar el entorno como si fuera la primera vez."
+        "contenido": "Hoy el reto es mirar el entorno como si fuera la primera vez. Busca cinco detalles sin desviarte de tu ruta habitual ni dejar de prestar atención a lo que te rodea."
       },
       "mensajePrincipal": {
         "titulo": "La búsqueda de cinco detalles",
@@ -6789,7 +6789,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Se abrió un caso absurdo y necesitamos resolverlo."
+        "contenido": "Se abrió un caso absurdo y necesitamos resolverlo. Cada quien tendrá una coartada y una pista; escucha antes de decidir quién parece más sospechoso."
       },
       "mensajePrincipal": {
         "titulo": "El caso de la coartada imposible",
@@ -6836,7 +6836,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a cambiar una sola decisión de una historia conocida."
+        "contenido": "Hoy abrimos una biblioteca de mundos que todavía no existen. Inventa tres títulos y elige uno para descubrir qué regla extraña gobierna ese lugar."
       },
       "mensajePrincipal": {
         "titulo": "La biblioteca de mundos posibles",
@@ -6847,7 +6847,7 @@ const CALENDARIO = [
         "contenido": "Relato que imagina cómo habría sido la historia si un hecho hubiera ocurrido de otra manera. Una ucronía cambia una decisión y explora sus consecuencias."
       },
       "buenasNoches": {
-        "contenido": "A veces una sola decisión abre un mundo completamente distinto.",
+        "contenido": "A veces una sola decisión abre un mundo completamente distinto. Guarda el mundo que inventaste: quizá merezca una segunda página otro día.",
         "titulo": "Buenas noches"
       }
     },
@@ -7024,7 +7024,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy cualquier objeto puede convertirse en una pieza de museo."
+        "contenido": "Hoy cualquier objeto puede convertirse en una pieza de museo. Escoge uno que tengas cerca y descubre qué historia podría contar si alguien lo mirara con atención."
       },
       "mensajePrincipal": {
         "titulo": "El museo de objetos cotidianos",
@@ -7035,7 +7035,7 @@ const CALENDARIO = [
         "contenido": "Selección y organización de objetos o piezas para contar una idea o historia. La curaduría convierte objetos comunes en una exposición con sentido."
       },
       "buenasNoches": {
-        "contenido": "Mirar de otra manera también es una forma de descubrir.",
+        "contenido": "Mirar de otra manera también es una forma de descubrir. Que mañana un objeto cotidiano te recuerde que las historias no siempre se anuncian a primera vista.",
         "titulo": "Buenas noches"
       }
     },
@@ -7071,7 +7071,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy toca preparar algo sencillo, fresco y sin encender el horno."
+        "contenido": "Hoy toca preparar algo sencillo, fresco y sin encender el horno. La misión es organizar una merienda pequeña y disfrutarla sin convertirla en una tarea complicada."
       },
       "mensajePrincipal": {
         "titulo": "Dip de yogur con bastones crujientes",
@@ -7082,7 +7082,7 @@ const CALENDARIO = [
         "contenido": "Diferencia notable entre dos o más elementos que ayuda a distinguirlos. El contraste de texturas hace más interesante una preparación sencilla."
       },
       "buenasNoches": {
-        "contenido": "Que algo sea sencillo no significa que no pueda quedar bonito.",
+        "contenido": "Que algo sea sencillo no significa que no pueda quedar bonito. Guarda la receta y recuerda que una pausa pequeña también merece cuidado.",
         "titulo": "Buenas noches"
       }
     },
@@ -7176,7 +7176,7 @@ const CALENDARIO = [
         "contenido": "Falta de correspondencia entre dos elementos que normalmente esperaríamos juntos. La disonancia entre una voz alegre y una escena seria puede crear humor."
       },
       "buenasNoches": {
-        "contenido": "Ojalá hoy te hayas regalado aunque sea una risa inesperada.",
+        "contenido": "Ojalá hoy te hayas regalado aunque sea una risa inesperada. Las escenas más simples a veces se vuelven memorables cuando alguien les presta una voz.",
         "titulo": "Buenas noches"
       }
     },
@@ -7411,7 +7411,7 @@ const CALENDARIO = [
         "contenido": "Proporción adecuada entre elementos diferentes. El equilibrio entre sabores hace que una receta sencilla funcione."
       },
       "buenasNoches": {
-        "contenido": "Las mejores soluciones a veces caben entre dos tajadas de pan.",
+        "contenido": "Las mejores soluciones a veces caben entre dos tajadas de pan. Descansa; mañana habrá otra oportunidad de inventar algo rico con lo que ya tienes.",
         "titulo": "Buenas noches"
       }
     },
@@ -7787,7 +7787,7 @@ const CALENDARIO = [
         "contenido": "Combinación de elementos que se complementan, especialmente sabores y bebidas. Un buen maridaje busca que dos sabores se acompañen sin competir."
       },
       "buenasNoches": {
-        "contenido": "Hay ideas que saben bien incluso antes de llegar a la mesa.",
+        "contenido": "Hay ideas que saben bien incluso antes de llegar a la mesa. Guarda el menú imaginario: quizá una de sus combinaciones inspire algo real más adelante.",
         "titulo": "Buenas noches"
       }
     },
@@ -7834,7 +7834,7 @@ const CALENDARIO = [
         "contenido": "Reconocimiento de que una emoción, experiencia o punto de vista merece ser escuchado. A veces una frase de validación ayuda más que un consejo inmediato."
       },
       "buenasNoches": {
-        "contenido": "Saber qué nos hace bien también es una forma de cuidarnos.",
+        "contenido": "Saber qué nos hace bien también es una forma de cuidarnos. No tienes que compartir todas tus respuestas; algunas pueden quedarse contigo.",
         "titulo": "Buenas noches"
       }
     },
@@ -7881,7 +7881,7 @@ const CALENDARIO = [
         "contenido": "Momento muy breve que se percibe como una unidad dentro del tiempo. Una fotografía puede conservar un instante que de otra forma pasaría desapercibido."
       },
       "buenasNoches": {
-        "contenido": "Qué curioso todo lo que puede caber en un solo instante.",
+        "contenido": "Qué curioso todo lo que puede caber en un solo instante. Guarda la escena antes de que se escape y deja que mañana aparezca otra.",
         "titulo": "Buenas noches"
       }
     },
@@ -7917,7 +7917,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy cada quien trae una curiosidad que le haya dejado pensando."
+        "contenido": "Hoy cada quien trae una curiosidad que le haya dejado pensando. No hace falta saber la respuesta: a veces una buena pregunta abre una conversación mejor."
       },
       "mensajePrincipal": {
         "titulo": "Una curiosidad que merece conversación",
@@ -7975,7 +7975,7 @@ const CALENDARIO = [
         "contenido": "Idea previa que se forma sobre algo o alguien antes de conocerlo suficientemente. Una primera impresión puede ser curiosa, pero conocer mejor a alguien permite corregir cualquier prejuicio."
       },
       "buenasNoches": {
-        "contenido": "No todo lo que parece obvio cuenta la historia completa.",
+        "contenido": "No todo lo que parece obvio cuenta la historia completa. A veces basta una pregunta amable para descubrir una parte que todavía no conocíamos.",
         "titulo": "Buenas noches"
       }
     },
@@ -8058,7 +8058,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy una misma escena tendrá dos bandas sonoras muy diferentes."
+        "contenido": "Hoy una misma escena tendrá dos bandas sonoras muy diferentes. Elige una canción y descubre cómo cambia la emoción cuando cambias el ritmo."
       },
       "mensajePrincipal": {
         "titulo": "El duelo de las bandas sonoras",
@@ -8116,7 +8116,7 @@ const CALENDARIO = [
         "contenido": "Estado de calma y tranquilidad, sin agitación ni preocupación. Un rato de sosiego puede aparecer con una bebida fresca y una conversación sin afán."
       },
       "buenasNoches": {
-        "contenido": "Descansar también cuenta como hacer algo bueno por el día.",
+        "contenido": "Descansar también cuenta como hacer algo bueno por el día. Si quedó limonada, consérvala fría; si no, mañana se puede preparar otra vez.",
         "titulo": "Buenas noches"
       }
     },
@@ -8302,7 +8302,7 @@ const CALENDARIO = [
         "contenido": "Comprensión repentina de algo que antes no se veía con claridad. Una epifanía puede aparecer en medio de una conversación o de una experiencia cotidiana."
       },
       "buenasNoches": {
-        "contenido": "Que nunca se vuelva costumbre dejar de mirar con atención.",
+        "contenido": "Que nunca se vuelva costumbre dejar de mirar con atención. Hay detalles pequeños que cambian de significado cuando les damos un momento.",
         "titulo": "Buenas noches"
       }
     },
@@ -8760,7 +8760,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy toca defender una elección que no tiene respuesta perfecta."
+        "contenido": "Hoy toca defender una elección que no tiene respuesta perfecta. Escucha el argumento contrario antes de preparar el tuyo; quizá termines cambiando de opinión."
       },
       "mensajePrincipal": {
         "titulo": "El debate de las decisiones imposibles",
@@ -9381,7 +9381,7 @@ const CALENDARIO = [
         "contenido": "Primera versión de una idea que permite probar cómo podría funcionar. Un prototipo sirve para experimentar sin exigir que el resultado salga perfecto."
       },
       "buenasNoches": {
-        "contenido": "Las ideas raras a veces son las que más nos hacen reír y pensar.",
+        "contenido": "Las ideas raras a veces son las que más nos hacen reír y pensar. Guarda la más inesperada; quizá sea la primera pieza de una creación nueva.",
         "titulo": "Buenas noches"
       }
     },
@@ -9605,7 +9605,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy el reto es mirar la ciudad como si fuera la primera vez."
+        "contenido": "Hoy el reto es mirar la ciudad como si fuera la primera vez. Hazlo desde un trayecto que ya debas recorrer y no te desvíes ni te detengas en zonas inseguras."
       },
       "mensajePrincipal": {
         "titulo": "La ciudad vista con otros ojos",
@@ -9699,7 +9699,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy tenemos un juicio ficticio y un personaje en el banquillo."
+        "contenido": "Hoy tenemos un juicio ficticio y un personaje en el banquillo. Cada quien presentará una pista y una defensa; el veredicto puede cambiar cuando aparezca un nuevo detalle."
       },
       "mensajePrincipal": {
         "titulo": "El juicio de un personaje",
@@ -10367,7 +10367,7 @@ const CALENDARIO = [
         "contenido": "Conjunto de decisiones pensadas para alcanzar un objetivo. En un juego, una buena estrategia también necesita saber cuándo cambiar de plan."
       },
       "buenasNoches": {
-        "contenido": "A veces una hoja y un lápiz alcanzan para crear un buen rato.",
+        "contenido": "A veces una hoja y un lápiz alcanzan para crear un buen rato. No hace falta pantalla, premio ni resultado perfecto para disfrutarlo.",
         "titulo": "Buenas noches"
       }
     },
@@ -10414,7 +10414,7 @@ const CALENDARIO = [
         "contenido": "Efecto o sensación que un sonido, una idea o una experiencia deja en alguien. Hay sonidos que tienen resonancia porque nos conectan con un lugar o un recuerdo."
       },
       "buenasNoches": {
-        "contenido": "Hay sonidos pequeños que hacen que un lugar se sienta como casa.",
+        "contenido": "Hay sonidos pequeños que hacen que un lugar se sienta como casa. Ojalá hoy hayas encontrado uno que quieras volver a escuchar.",
         "titulo": "Buenas noches"
       }
     },
@@ -10873,7 +10873,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a salir un momento de nuestra zona musical conocida."
+        "contenido": "Hoy vamos a salir un momento de nuestra zona musical conocida. Elige un género que casi nunca escuchas y dale unos minutos antes de decidir si te gusta."
       },
       "mensajePrincipal": {
         "titulo": "La invitación a probar un género nuevo",
@@ -10920,7 +10920,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a convertir tres objetos comunes en piezas de museo."
+        "contenido": "Hoy un objeto cotidiano va a contar su propia biografía. Escoge uno, imagina qué ha visto y deja que su historia empiece con una frase inesperada."
       },
       "mensajePrincipal": {
         "titulo": "La biografía secreta de un objeto",
@@ -10967,7 +10967,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy toca inventar una bebida sencilla con nombre propio."
+        "contenido": "Hoy toca inventar una bebida sencilla con nombre propio. La clave será ajustar el sabor poco a poco y pensar en cuándo la llevarías: mañana, al almuerzo o a una salida."
       },
       "mensajePrincipal": {
         "titulo": "La receta de una bebida de autor",
@@ -11014,7 +11014,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a ponerle voz a algo que nunca la tuvo."
+        "contenido": "Hoy vamos a ponerle voz a algo que nunca la tuvo. Elige una escena breve y descubre cuánto puede cambiar cuando alguien interpreta sus silencios."
       },
       "mensajePrincipal": {
         "titulo": "El doblaje de una escena muda",
@@ -11061,7 +11061,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a dibujar un mapa que no necesita direcciones exactas."
+        "contenido": "Hoy vamos a dibujar un mapa que no necesita direcciones exactas. Marca tres lugares que guarden una historia y conecta sus recuerdos con una línea."
       },
       "mensajePrincipal": {
         "titulo": "El mapa de lugares que cuentan historias",
@@ -11155,7 +11155,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a dejar que la curiosidad elija por una hora."
+        "contenido": "Hoy vamos a dejar que la curiosidad elija por una hora. Aparta las recomendaciones automáticas y escoge algo por una pista, una pregunta o una intuición propia."
       },
       "mensajePrincipal": {
         "titulo": "El experimento de una hora sin algoritmo",
@@ -11625,7 +11625,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy toca jugar a describir sin revelar la palabra clave."
+        "contenido": "Hoy toca jugar a describir sin revelar la palabra clave. Piensa en pistas claras, pero deja espacio para que la otra persona deduzca y se sorprenda."
       },
       "mensajePrincipal": {
         "titulo": "El reto de explicar algo sin decir su nombre",
@@ -11636,7 +11636,7 @@ const CALENDARIO = [
         "contenido": "Expresión de una idea mediante varias palabras en lugar de nombrarla directamente. Una perífrasis ingeniosa puede convertir una descripción sencilla en un acertijo."
       },
       "buenasNoches": {
-        "contenido": "Las palabras tienen muchas rutas para llegar a una misma idea.",
+        "contenido": "Las palabras tienen muchas rutas para llegar a una misma idea. Descansar también ayuda a encontrar una explicación más clara mañana.",
         "titulo": "Buenas noches"
       }
     },
@@ -11719,7 +11719,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a producir una película que todavía no existe."
+        "contenido": "Hoy vamos a producir una película que todavía no existe. Cada quien propone un personaje y una escena; después tendrán que encontrar un título que los una."
       },
       "mensajePrincipal": {
         "titulo": "El casting para una película inventada",
@@ -11858,7 +11858,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a diseñar una mini aventura que quepa en una tarde."
+        "contenido": "Hoy vamos a diseñar una mini aventura que quepa en una tarde. No fijamos destino ni fecha: primero elegimos una idea sencilla y una alternativa de bajo costo."
       },
       "mensajePrincipal": {
         "titulo": "El menú de una aventura de bolsillo",
@@ -11999,7 +11999,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a preparar algo fresco sin horno ni estufa."
+        "contenido": "Hoy vamos a preparar algo fresco sin horno ni estufa. Revisa qué ingredientes ya tienes y construye una receta que se pueda armar sin complicaciones."
       },
       "mensajePrincipal": {
         "titulo": "El recorrido de una receta sin estufa",
@@ -12046,7 +12046,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a dejar que el azar escoja el tema de conversación."
+        "contenido": "Hoy vamos a dejar que el azar escoja el tema de conversación. Cada pregunta abre una posibilidad nueva, pero cualquiera puede pasar si no quiere responder."
       },
       "mensajePrincipal": {
         "titulo": "La máquina de preguntas aleatorias",
@@ -12093,7 +12093,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a diseñar la portada de un álbum imaginario."
+        "contenido": "Hoy vamos a diseñar la portada de un álbum imaginario. Piensa en el sonido que tendría, elige una imagen central y crea un título que invite a escucharlo."
       },
       "mensajePrincipal": {
         "titulo": "El álbum de portadas que nunca existieron",
@@ -12151,7 +12151,7 @@ const CALENDARIO = [
         "contenido": "Capacidad de adaptarse y recuperarse ante una dificultad o cambio. La resiliencia no significa insistir en todo, sino aprender qué vale la pena intentar de nuevo."
       },
       "buenasNoches": {
-        "contenido": "Volver a empezar es una posibilidad, no una obligación.",
+        "contenido": "Volver a empezar es una posibilidad, no una obligación. Puedes dejar la lista guardada y retomarla solo cuando te resulte útil.",
         "titulo": "Buenas noches"
       }
     },
@@ -12187,7 +12187,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Cerramos junio con una brújula para orientar lo que viene."
+        "contenido": "Cerramos junio con una brújula para orientar lo que viene. Mira lo que ya hiciste y elige una sola cosa que quieras cuidar durante la siguiente etapa."
       },
       "mensajePrincipal": {
         "titulo": "La brújula de planes para mitad de año",
@@ -12281,7 +12281,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a comprobar qué tanto nos engañan los ojos."
+        "contenido": "Hoy vamos a comprobar qué tanto nos engañan los ojos. Observa primero, apuesta por una respuesta y después revisa qué detalle cambió tu percepción."
       },
       "mensajePrincipal": {
         "titulo": "El laboratorio de ilusiones ópticas",
@@ -12422,7 +12422,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy elige aprender una cosa pequeña que puedas contar después."
+        "contenido": "Hoy elige algo pequeño que ya sepas hacer y enséñalo con claridad. La prueba no es hacerlo perfecto, sino conseguir que otra persona entienda los pasos."
       },
       "mensajePrincipal": {
         "titulo": "El tutorial de algo que ya sabes hacer",
@@ -12704,7 +12704,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a recomendar algo sin escribir una reseña larguísima."
+        "contenido": "Hoy vamos a recomendar algo sin escribir una reseña larguísima. Una frase, una razón y una pista bastan para despertar curiosidad."
       },
       "mensajePrincipal": {
         "titulo": "El concurso de reseñas en una frase",
@@ -12845,7 +12845,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a cambiar el final de una historia que ya conocemos."
+        "contenido": "Hoy vamos a cambiar el final de una historia que ya conocemos. No hace falta reescribirlo todo: una decisión distinta puede transformar el desenlace."
       },
       "mensajePrincipal": {
         "titulo": "El laboratorio de finales alternativos",
@@ -12892,7 +12892,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a dibujar un lugar que no aparece en ningún mapa real."
+        "contenido": "Hoy vamos a dibujar un lugar que no aparece en ningún mapa real. Inventa una regla para sus habitantes y un secreto que solo se descubra al llegar."
       },
       "mensajePrincipal": {
         "titulo": "El laboratorio de mapas imaginarios",
@@ -12950,7 +12950,7 @@ const CALENDARIO = [
         "contenido": "Relación que la mente establece entre ideas, objetos o experiencias. Las asociaciones ayudan a recordar elementos conectándolos con una misma categoría."
       },
       "buenasNoches": {
-        "contenido": "La memoria también se entrena jugando y conectando ideas.",
+        "contenido": "La memoria también se entrena jugando y conectando ideas. Si hoy algo se te olvidó, no pasa nada: la próxima ronda puede ser distinta.",
         "titulo": "Buenas noches"
       }
     },
@@ -13033,7 +13033,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a representar una emoción sin escribir su nombre."
+        "contenido": "Hoy vamos a diseñar un cartel tipográfico con una frase que te represente. Elige una palabra protagonista y haz que el diseño la diga incluso antes de leerla."
       },
       "mensajePrincipal": {
         "titulo": "El cartel tipográfico de una frase que te representa",
@@ -13127,7 +13127,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a mirar de cerca algo que normalmente vemos de lejos."
+        "contenido": "Hoy vamos a mirar de cerca algo que normalmente vemos de lejos. Busca cinco detalles desde un lugar seguro y elige uno que merezca una fotografía."
       },
       "mensajePrincipal": {
         "titulo": "La misión de fotografiar detalles invisibles",
@@ -15019,7 +15019,7 @@ const CALENDARIO = [
         "contenido": "Que no está limitado a una época o moda determinada. Una combinación sencilla puede tener un encanto atemporal."
       },
       "buenasNoches": {
-        "contenido": "Los pequeños gustos también merecen su momento de presentación.",
+        "contenido": "Los pequeños gustos también merecen su momento de presentación. Guarda la receta y deja que la próxima merienda tenga su propio estilo.",
         "titulo": "Buenas noches"
       }
     },
@@ -15197,7 +15197,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy no vamos a jugar un juego: vamos a inventar uno desde cero."
+        "contenido": "Hoy no vamos a jugar un juego: vamos a inventarlo desde cero. Define el objetivo, una regla especial y una forma sencilla de ganar sin que nadie quede fuera."
       },
       "mensajePrincipal": {
         "titulo": "El juego de mesa inventado",
@@ -15386,7 +15386,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy toca reconocer sonidos sin ver qué los produce."
+        "contenido": "Hoy toca reconocer sonidos sin ver qué los produce. Escucha con atención, anota tus hipótesis y espera a que se revele el objeto."
       },
       "mensajePrincipal": {
         "titulo": "Adivina el sonido imposible",
@@ -15636,7 +15636,7 @@ const CALENDARIO = [
         "contenido": "Cuidado y atención para evitar riesgos o consecuencias no deseadas. Con cautela revisó los ingredientes antes de preparar la degustación."
       },
       "buenasNoches": {
-        "contenido": "La curiosidad también sabe respetar los límites de cada persona.",
+        "contenido": "La curiosidad también sabe respetar los límites de cada persona. Una buena receta se adapta a quienes van a compartirla, no al revés.",
         "titulo": "Buenas noches"
       }
     },
@@ -15672,7 +15672,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy la luz será el material principal de una pequeña obra."
+        "contenido": "Hoy el lápiz no se va a levantar del papel. Deja que una sola línea forme la figura y convierte cualquier error en parte del diseño."
       },
       "mensajePrincipal": {
         "titulo": "El dibujo de una línea que no se detiene",
@@ -16004,7 +16004,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vas a dibujar un lugar que no aparece en ningún mapa real."
+        "contenido": "Hoy vas a dibujar un lugar que no aparece en ningún mapa real. Elige qué lo hace distinto y deja una pista para que alguien más pueda imaginarlo."
       },
       "mensajePrincipal": {
         "titulo": "El mapa de un lugar inventado",
@@ -16098,7 +16098,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy el reto es describir un momento usando más que la vista."
+        "contenido": "Hoy el reto es describir un momento usando más que la vista. Piensa en sonidos, temperatura, textura y movimiento; los detalles harán aparecer la escena."
       },
       "mensajePrincipal": {
         "titulo": "La misión de los cinco sentidos",
@@ -16430,7 +16430,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a recomendar algo sin recurrir a lo de siempre."
+        "contenido": "Hoy vamos a reseñar una experiencia cotidiana como si fuera una película. Dale tres estrellas imaginarias y explica qué la hizo memorable o qué mejorarías."
       },
       "mensajePrincipal": {
         "titulo": "La crítica de lo cotidiano en tres estrellas",
@@ -16576,7 +16576,7 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Una pregunta bien elegida puede abrir una conversación preciosa."
+        "contenido": "Una pregunta bien elegida puede abrir una conversación preciosa. Hoy cada quien comparte tres frases sobre sí mismo y escucha sin apresurarse a completar las respuestas."
       },
       "mensajePrincipal": {
         "titulo": "El retrato hablado de alguien que aún estás descubriendo",
@@ -16870,7 +16870,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
-        "contenido": "Los planes bonitos también pueden esperar al momento adecuado."
+        "contenido": "Los planes bonitos también pueden esperar al momento adecuado. Guarda el mapa como inspiración y deja que la realidad decida cuándo tiene sentido."
       }
     },
     "inspiracionCancion": "La canción acompaña el tono de este día: planes futuros y descubrimiento, con una atmósfera propia y sin reproducir su letra."
@@ -16917,7 +16917,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
-        "contenido": "Una buena indirecta deja una sonrisa, no una obligación."
+        "contenido": "Una buena indirecta deja una sonrisa, no una obligación. Que el juego termine con complicidad y con espacio para decir lo que realmente se quiere."
       }
     },
     "inspiracionCancion": "La canción acompaña el tono de este día: coqueteo y humor, con una atmósfera propia y sin reproducir su letra."
@@ -17105,7 +17105,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
-        "contenido": "Una tarde sencilla puede ser exactamente lo que hacía falta."
+        "contenido": "Una tarde sencilla puede ser exactamente lo que hacía falta. Guarda la receta para otro momento y no conviertas el descanso en otra tarea."
       }
     },
     "inspiracionCancion": "La canción acompaña el tono de este día: ritual cotidiano y cocina, con una atmósfera propia y sin reproducir su letra."
