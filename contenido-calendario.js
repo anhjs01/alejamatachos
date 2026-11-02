@@ -1348,169 +1348,337 @@ const CALENDARIO = [
     "dia": 29,
     "fecha": "2026-11-13",
     "fechaTexto": "vie, 13 de nov",
-    "categoria": "Cuando el detalle sí importa",
-    "icono": "🖍️",
-    "tono": "filosofica",
+    "categoria": "Un pequeño museo de cosas cotidianas",
+    "icono": "🖼️",
+    "tono": "creativo",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Buenos días, Aleja. Hoy quería decirte algo que parece pequeño: me gusta fijarme en lo que te importa, incluso cuando no es algo que todo el mundo notaría.",
+    "buenosDias": "Hoy quiero que hagamos algo diferente: convertir nuestra casa en un museo diminuto. No necesitamos comprar nada; vamos a escoger objetos que ya tengan una historia.",
     "poema": [
-      "No quiero llenarte de cumplidos que podrían servirle a cualquiera. Prefiero decirte que me parece lindo cómo te metes en tus proyectos, cómo recuerdas tus gustos y cómo una sonrisa tuya cambia por completo la expresión de tu cara.",
-      "Así que este es un piropo sin mucha ceremonia, corazón: tienes detalles que dan ganas de conocer despacio, y eso me parece mucho más interesante que cualquier frase perfecta."
+      "Cada uno elige tres objetos: uno que use mucho, uno que guarde por cariño y uno que parezca no tener importancia. Los ponemos sobre una mesa y escribimos una ficha para cada uno: nombre de la pieza, año aproximado, por qué la conservamos y qué diría un visitante imaginario. Después hacemos una visita guiada de dos minutos por el museo del otro. Regla: no se vale escoger algo que la otra persona no quiera compartir. Nivel extra: fotografiamos las piezas con luz de ventana y hacemos una mini exposición digital.",
+      "Curaduría: elegir y ordenar piezas para que juntas cuenten algo. Hoy nuestros objetos son pequeños fragmentos de memoria."
     ],
-    "detalle": "Hoy presta atención a un detalle pequeño: alguien que se acuerda de algo que dijiste, una canción que llega justo a tiempo o un mensaje inesperado. A veces eso dice ‘te tengo presente’ sin escribirlo literalmente.",
-    "buenasNoches": "Descansa, amor. Si hoy alguien se acordó de un detalle que le contaste, ojalá hayas sentido lo bonito que es que te escuchen de verdad.",
-    "cancionTitulo": "If I Ain't Got You",
-    "cancionArtista": "Alicia Keys",
-    "youtubeId": "Ju8Hr50Ckwk",
-    "cancionUrl": "https://www.youtube.com/watch?v=Ju8Hr50Ckwk"
+    "detalle": "Cada uno elige tres objetos: uno que use mucho, uno que guarde por cariño y uno que parezca no tener importancia. Los ponemos sobre una mesa y escribimos una ficha para cada uno: nombre de la pieza, año aproximado, por qué la conservamos y qué diría un visitante imaginario. Después hacemos una visita guiada de dos minutos por el museo del otro. Regla: no se vale escoger algo que la otra persona no quiera compartir. Nivel extra: fotografiamos las piezas con luz de ventana y hacemos una mini exposición digital.",
+    "buenasNoches": "A veces lo cotidiano guarda historias que ni nosotros recordamos completas. Ojalá hoy encuentres un objeto que te devuelva un momento bonito.",
+    "cancionTitulo": "Love",
+    "cancionArtista": "Keyshia Cole",
+    "youtubeId": "9PBZy9j3H3I",
+    "cancionUrl": "https://www.youtube.com/watch?v=9PBZy9j3H3I",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, curador",
+        "contenido": "Hoy quiero que hagamos algo diferente: convertir nuestra casa en un museo diminuto. No necesitamos comprar nada; vamos a escoger objetos que ya tengan una historia."
+      },
+      "mensajePrincipal": {
+        "titulo": "El museo de tres piezas",
+        "contenido": "Cada uno elige tres objetos: uno que use mucho, uno que guarde por cariño y uno que parezca no tener importancia. Los ponemos sobre una mesa y escribimos una ficha para cada uno: nombre de la pieza, año aproximado, por qué la conservamos y qué diría un visitante imaginario. Después hacemos una visita guiada de dos minutos por el museo del otro. Regla: no se vale escoger algo que la otra persona no quiera compartir. Nivel extra: fotografiamos las piezas con luz de ventana y hacemos una mini exposición digital."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de museo",
+        "contenido": "Curaduría: elegir y ordenar piezas para que juntas cuenten algo. Hoy nuestros objetos son pequeños fragmentos de memoria."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "A veces lo cotidiano guarda historias que ni nosotros recordamos completas. Ojalá hoy encuentres un objeto que te devuelva un momento bonito."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Curaduría",
+      "significado": "Selección y organización de objetos u obras para construir una exposición con un sentido o una historia.",
+      "ejemplo": "Hagamos curaduría de tres objetos cotidianos y expliquemos por qué merecen estar en nuestro museo."
+    },
+    "inspiracionCancion": "Una canción para mirar con cariño los detalles pequeños que normalmente pasan desapercibidos."
   },
   {
     "dia": 30,
     "fecha": "2026-11-14",
     "fechaTexto": "sáb, 14 de nov",
-    "categoria": "Una pieza que solo tus manos podían hacer",
-    "icono": "🪴",
-    "tono": "ambiente",
+    "categoria": "Un audio que guardaremos para después",
+    "icono": "🎙️",
+    "tono": "amor",
     "color": {
       "principal": "#d6b36c",
       "suave": "#f5e7c5",
       "oscuro": "#2a1e0b"
     },
-    "buenosDias": "Manos a la obra, artista: ojalá hoy puedas hacer algo bonito, aunque sea una pieza pequeña, una prueba de color o algo que no tenías planeado.",
+    "buenosDias": "Hoy te propongo guardar algo que normalmente se pierde: nuestras voces hablando de este momento de la vida. No tiene que quedar perfecto ni sonar como un podcast.",
     "poema": [
-      "Me imagino tus manos trabajando y tú mirando la pieza desde todos los ángulos para decidir qué le falta. A veces quisiera ver el proceso completo, no solo el resultado, porque seguro hay muchas ideas tuyas escondidas entre un intento y otro.",
-      "Y si hoy algo no sale, no pasa nada, mi vida. No todo lo que haces tiene que convertirse en una obra maestra; también puedes crear por el puro gusto de hacerlo."
+      "Materiales: un celular con grabadora, dos audífonos si queremos escuchar juntos y una nota para recordar la fecha. Grabamos un audio de máximo tres minutos cada uno respondiendo: ¿qué me tiene ilusionado?, ¿qué me preocupa un poquito?, ¿qué plan me gustaría que ya hubiéramos hecho dentro de seis meses? Después grabamos un mensaje compartido con una predicción divertida sobre nosotros. Guárdenlo en una carpeta o dispositivo al que ambos tengan acceso y pongan un recordatorio para escucharlo en seis meses. No incluyan datos privados que no quieran conservar.",
+      "Cápsula: algo pequeño que guardamos para que el tiempo lo convierta en recuerdo. Hoy guardamos una voz, no una fotografía."
     ],
-    "detalle": "Si una pieza de cerámica no queda como la imaginabas, no la declares perdida enseguida. Quizá solo está encontrando una forma que no tenías planeada, como tantas cosas buenas.",
-    "buenasNoches": "Buenas noches, artista. No todas las piezas tienen que quedar listas hoy, ni todas las ideas tienen que convertirse enseguida en algo concreto. Deja que el proceso respire.",
-    "cancionTitulo": "Tomorrow",
-    "cancionArtista": "Jorja Smith",
-    "youtubeId": "zMC5-M15je0",
-    "cancionUrl": "https://www.youtube.com/watch?v=zMC5-M15je0"
+    "detalle": "Materiales: un celular con grabadora, dos audífonos si queremos escuchar juntos y una nota para recordar la fecha. Grabamos un audio de máximo tres minutos cada uno respondiendo: ¿qué me tiene ilusionado?, ¿qué me preocupa un poquito?, ¿qué plan me gustaría que ya hubiéramos hecho dentro de seis meses? Después grabamos un mensaje compartido con una predicción divertida sobre nosotros. Guárdenlo en una carpeta o dispositivo al que ambos tengan acceso y pongan un recordatorio para escucharlo en seis meses. No incluyan datos privados que no quieran conservar.",
+    "buenasNoches": "Ojalá dentro de seis meses escuchemos este audio y nos dé ternura reconocer nuestras voces y nuestras ideas de hoy.",
+    "cancionTitulo": "BLEEDING",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "7NCQ55HGOpU",
+    "cancionUrl": "https://www.youtube.com/watch?v=7NCQ55HGOpU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, voz bonita",
+        "contenido": "Hoy te propongo guardar algo que normalmente se pierde: nuestras voces hablando de este momento de la vida. No tiene que quedar perfecto ni sonar como un podcast."
+      },
+      "mensajePrincipal": {
+        "titulo": "Cápsula de voz para abrir en seis meses",
+        "contenido": "Materiales: un celular con grabadora, dos audífonos si queremos escuchar juntos y una nota para recordar la fecha. Grabamos un audio de máximo tres minutos cada uno respondiendo: ¿qué me tiene ilusionado?, ¿qué me preocupa un poquito?, ¿qué plan me gustaría que ya hubiéramos hecho dentro de seis meses? Después grabamos un mensaje compartido con una predicción divertida sobre nosotros. Guárdenlo en una carpeta o dispositivo al que ambos tengan acceso y pongan un recordatorio para escucharlo en seis meses. No incluyan datos privados que no quieran conservar."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para el futuro",
+        "contenido": "Cápsula: algo pequeño que guardamos para que el tiempo lo convierta en recuerdo. Hoy guardamos una voz, no una fotografía."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá dentro de seis meses escuchemos este audio y nos dé ternura reconocer nuestras voces y nuestras ideas de hoy."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Cápsula",
+      "significado": "Recipiente o formato que conserva algo para abrirlo o escucharlo en otro momento; una cápsula del tiempo guarda recuerdos para el futuro.",
+      "ejemplo": "Grabemos una cápsula de voz y escuchemos dentro de seis meses qué pensábamos hoy."
+    },
+    "inspiracionCancion": "Una canción para grabar una pequeña cápsula de voz que podamos volver a escuchar cuando haya pasado el tiempo."
   },
   {
     "dia": 31,
     "fecha": "2026-11-15",
     "fechaTexto": "dom, 15 de nov",
-    "categoria": "El color que aparece al mezclar",
-    "icono": "🌀",
-    "tono": "filosofica",
+    "categoria": "Un reto de color: crear un tono que no exista",
+    "icono": "🎨",
+    "tono": "creativo",
     "color": {
       "principal": "#77d9d8",
       "suave": "#dcf7f4",
       "oscuro": "#12343b"
     },
-    "buenosDias": "Me gusta pensar en los colores como en las ideas: mezclas dos y, de pronto, aparece uno que no estabas buscando, pero que te gusta tanto que cambias todo el plan por él.",
+    "buenosDias": "Hoy vamos a inventar un color propio. No vale escogerlo directamente del tubo: la gracia está en mezclarlo, repetirlo y encontrar un matiz que no habíamos conseguido antes.",
     "poema": [
-      "Me parece que crear tiene algo de magia y algo de terquedad: probar, mirar, mover un poquito más y de repente descubrir que la idea estaba esperando en otro lugar.",
-      "Si hoy encuentras un color así, guárdalo. Y luego me cuentas cómo lo llamarías, porque seguro tú le pondrías un nombre más bonito que «ese azul raro que salió»."
+      "Materiales: pintura acrílica o gouache en rojo, amarillo, azul y blanco; pincel, paleta o plato reutilizable, agua, papel grueso y etiquetas. Nivel 1: mezcla dos colores para obtener tres tonos distintos. Nivel 2: cambia la cantidad de blanco o del color complementario y observa cómo se transforma el matiz. Nivel 3: crea una paleta de cinco tonos que combinen con tu color secreto. Anota las proporciones aproximadas para poder repetirlo. Cada uno le pone un nombre al suyo y pinta una pequeña tarjeta de muestra. Tutorial de referencia: busca en YouTube «mezcla de colores acrílicos teoría del color para principiantes». Después intercambien las tarjetas y cada uno inventa una emoción o paisaje para el color del otro.",
+      "Matiz: una variación sutil que cambia la personalidad de un color. A veces un poquito de otro pigmento transforma toda la mezcla."
     ],
-    "detalle": "Mezcla colores por curiosidad, no por obligación. Si terminas con un tono inesperado, puedes llamarlo experimento artístico; si te gusta, lo llamamos genialidad y seguimos adelante.",
-    "buenasNoches": "Que descanses con la tranquilidad de no tener que acertar siempre a la primera. Hasta los colores encuentran su lugar después de varias pruebas.",
-    "cancionTitulo": "Blue World",
-    "cancionArtista": "Mac Miller",
-    "youtubeId": "_GC2wFTCAGY",
-    "cancionUrl": "https://www.youtube.com/watch?v=_GC2wFTCAGY"
+    "detalle": "Materiales: pintura acrílica o gouache en rojo, amarillo, azul y blanco; pincel, paleta o plato reutilizable, agua, papel grueso y etiquetas. Nivel 1: mezcla dos colores para obtener tres tonos distintos. Nivel 2: cambia la cantidad de blanco o del color complementario y observa cómo se transforma el matiz. Nivel 3: crea una paleta de cinco tonos que combinen con tu color secreto. Anota las proporciones aproximadas para poder repetirlo. Cada uno le pone un nombre al suyo y pinta una pequeña tarjeta de muestra. Tutorial de referencia: busca en YouTube «mezcla de colores acrílicos teoría del color para principiantes». Después intercambien las tarjetas y cada uno inventa una emoción o paisaje para el color del otro.",
+    "buenasNoches": "Guarda tu tarjeta de color. Quizá algún día la usemos para pintar algo más grande y podamos decir: este tono lo inventamos nosotros.",
+    "cancionTitulo": "KEEPER",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "2cuDp5ENoao",
+    "cancionUrl": "https://www.youtube.com/watch?v=2cuDp5ENoao",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, artista",
+        "contenido": "Hoy vamos a inventar un color propio. No vale escogerlo directamente del tubo: la gracia está en mezclarlo, repetirlo y encontrar un matiz que no habíamos conseguido antes."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto: nuestro color secreto",
+        "contenido": "Materiales: pintura acrílica o gouache en rojo, amarillo, azul y blanco; pincel, paleta o plato reutilizable, agua, papel grueso y etiquetas. Nivel 1: mezcla dos colores para obtener tres tonos distintos. Nivel 2: cambia la cantidad de blanco o del color complementario y observa cómo se transforma el matiz. Nivel 3: crea una paleta de cinco tonos que combinen con tu color secreto. Anota las proporciones aproximadas para poder repetirlo. Cada uno le pone un nombre al suyo y pinta una pequeña tarjeta de muestra. Tutorial de referencia: busca en YouTube «mezcla de colores acrílicos teoría del color para principiantes». Después intercambien las tarjetas y cada uno inventa una emoción o paisaje para el color del otro."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra de color",
+        "contenido": "Matiz: una variación sutil que cambia la personalidad de un color. A veces un poquito de otro pigmento transforma toda la mezcla."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Guarda tu tarjeta de color. Quizá algún día la usemos para pintar algo más grande y podamos decir: este tono lo inventamos nosotros."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Matiz",
+      "significado": "Variación de un color que depende de su tono, saturación y luminosidad.",
+      "ejemplo": "Dos mezclas pueden compartir el mismo color base y tener matices completamente distintos."
+    },
+    "inspiracionCancion": "Una canción para experimentar con mezclas, probar combinaciones y descubrir un color que termine llevando nuestro nombre."
   },
   {
     "dia": 32,
     "fecha": "2026-11-16",
     "fechaTexto": "lun, 16 de nov",
-    "categoria": "El cielo que no se repite",
-    "icono": "🌅",
-    "tono": "ambiente",
+    "categoria": "Una noche para mirar las estrellas",
+    "icono": "🌌",
+    "tono": "aventura",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Que el cielo te regale uno de esos atardeceres que parecen pintados con una paleta que ni siquiera sabías que existía.",
+    "buenosDias": "Para una noche despejada, quiero proponerte un plan sencillo: salir a mirar las estrellas. Puede ser desde un lugar seguro con poca contaminación lumínica o durante una escapada futura; no necesitamos decidir el sitio hoy.",
     "poema": [
-      "Me imagino señalando una nube y tú diciéndome que ese color no es naranja sino otra cosa mucho más precisa. Yo discutiría por molestar, tú defenderías tu punto y el cielo seguiría cambiando sin esperar nuestro veredicto.",
-      "Si hoy ves uno bonito, corazón, quédate un minuto. Y si te acuerdas de mí, me doy por afortunado."
+      "Antes de salir, revisamos el pronóstico, la fase lunar y si el lugar permite permanecer de noche. Llevamos chaqueta, agua, linterna de luz tenue, manta y batería para el celular. Primero dejamos que los ojos se acostumbren a la oscuridad durante unos minutos. Después buscamos la Luna, planetas visibles y constelaciones con una aplicación de mapa celeste, sin depender de que aparezca un fenómeno especial. Reto: cada uno elige una estrella o constelación y le inventa un nombre propio. Si el lugar no es seguro o el clima cambia, hacemos la observación desde una ventana o aplazamos el plan.",
+      "Astronomía: la ciencia que estudia el universo. No hace falta saber reconocer todas las constelaciones para disfrutar de mirar hacia arriba."
     ],
-    "detalle": "Si el cielo se pone bonito al final del día, regálate un momento para mirarlo. No hace falta sacar una conclusión profunda de cada atardecer; a veces basta con pensar ‘qué bonito’ y ya.",
-    "buenasNoches": "Buenas noches, corazón. Ojalá el cielo te haya regalado aunque sea un vistazo bonito. Si no, mañana tendrá otra oportunidad de impresionarte.",
-    "cancionTitulo": "Apocalypse",
-    "cancionArtista": "Cigarettes After Sex",
-    "youtubeId": "sElE_BfQ67s",
-    "cancionUrl": "https://www.youtube.com/watch?v=sElE_BfQ67s"
+    "detalle": "Antes de salir, revisamos el pronóstico, la fase lunar y si el lugar permite permanecer de noche. Llevamos chaqueta, agua, linterna de luz tenue, manta y batería para el celular. Primero dejamos que los ojos se acostumbren a la oscuridad durante unos minutos. Después buscamos la Luna, planetas visibles y constelaciones con una aplicación de mapa celeste, sin depender de que aparezca un fenómeno especial. Reto: cada uno elige una estrella o constelación y le inventa un nombre propio. Si el lugar no es seguro o el clima cambia, hacemos la observación desde una ventana o aplazamos el plan.",
+    "buenasNoches": "Ojalá algún día tengamos una noche despejada, una manta y tiempo para mirar el cielo sin tener que correr a ninguna parte.",
+    "cancionTitulo": "DON'T LEAVE",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "yQJjN0Kd5EI",
+    "cancionUrl": "https://www.youtube.com/watch?v=yQJjN0Kd5EI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, exploradores",
+        "contenido": "Para una noche despejada, quiero proponerte un plan sencillo: salir a mirar las estrellas. Puede ser desde un lugar seguro con poca contaminación lumínica o durante una escapada futura; no necesitamos decidir el sitio hoy."
+      },
+      "mensajePrincipal": {
+        "titulo": "Plan de observación del cielo",
+        "contenido": "Antes de salir, revisamos el pronóstico, la fase lunar y si el lugar permite permanecer de noche. Llevamos chaqueta, agua, linterna de luz tenue, manta y batería para el celular. Primero dejamos que los ojos se acostumbren a la oscuridad durante unos minutos. Después buscamos la Luna, planetas visibles y constelaciones con una aplicación de mapa celeste, sin depender de que aparezca un fenómeno especial. Reto: cada uno elige una estrella o constelación y le inventa un nombre propio. Si el lugar no es seguro o el clima cambia, hacemos la observación desde una ventana o aplazamos el plan."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra del cielo",
+        "contenido": "Astronomía: la ciencia que estudia el universo. No hace falta saber reconocer todas las constelaciones para disfrutar de mirar hacia arriba."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá algún día tengamos una noche despejada, una manta y tiempo para mirar el cielo sin tener que correr a ninguna parte."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Astronomía",
+      "significado": "Ciencia que estudia los cuerpos celestes y los fenómenos del universo.",
+      "ejemplo": "Una noche despejada lejos de las luces intensas puede ser una invitación a mirar el cielo con curiosidad astronómica."
+    },
+    "inspiracionCancion": "Una canción para acompañar una noche tranquila y recordar lo pequeño que se siente el mundo bajo un cielo despejado."
   },
   {
     "dia": 33,
     "fecha": "2026-11-17",
     "fechaTexto": "mar, 17 de nov",
-    "categoria": "Una melodía que se queda en el pecho",
-    "icono": "🎺",
-    "tono": "ambiente",
+    "categoria": "Un juego: la banda sonora de nuestra historia",
+    "icono": "🎼",
+    "tono": "juego",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Si una melodía te encuentra en el momento exacto, ojalá te haga sentir que alguien entendió algo que no sabías explicar.",
+    "buenosDias": "Hoy vamos a jugar con canciones y recuerdos. No importa si tenemos gustos distintos: queremos descubrir qué música asociamos con momentos, personas o planes.",
     "poema": [
-      "Hay melodías que se quedan pegadas a un recuerdo, a una tarde o a una persona. Después basta con escuchar los primeros segundos para que la cabeza vuelva ahí, incluso cuando uno está haciendo cualquier otra cosa.",
-      "Me gustaría conocer esas canciones tuyas que no cambiarías por nada. No para juzgar tus gustos, bonita; bueno, quizá para molestarte un poquito si me sorprendes, pero sobre todo para escucharte hablar de lo que te gusta."
+      "Cada uno elige una canción para cinco escenas: una mañana tranquila, un viaje por carretera, una noche de baile, un momento difícil que logró superar y un día que quisiera repetir. No se muestran las elecciones hasta que ambos terminen. Después escuchamos fragmentos y explicamos por qué elegimos cada tema. Ronda extra: inventen el título y la canción de una película sobre su vida juntos. No hace falta que todas las elecciones coincidan; la gracia está en conocer las historias detrás de ellas.",
+      "Resonancia: lo que permanece vibrando después de que el sonido termina. Algunas canciones siguen sonando en la memoria mucho después de apagarlas."
     ],
-    "detalle": "Si hoy te acompaña un bolero, deja que te encuentre donde estés. Me gusta que puedas disfrutar de algo con tanta historia sin tener que explicarle a nadie por qué te llega.",
-    "buenasNoches": "Que tengas una noche tranquila, mi vida. Hay canciones que acompañan incluso cuando ya terminaron; quizá hoy alguna se quede contigo de esa forma.",
-    "cancionTitulo": "Tararea",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "nmFdyBUAsfQ",
-    "cancionUrl": "https://www.youtube.com/watch?v=nmFdyBUAsfQ"
+    "detalle": "Cada uno elige una canción para cinco escenas: una mañana tranquila, un viaje por carretera, una noche de baile, un momento difícil que logró superar y un día que quisiera repetir. No se muestran las elecciones hasta que ambos terminen. Después escuchamos fragmentos y explicamos por qué elegimos cada tema. Ronda extra: inventen el título y la canción de una película sobre su vida juntos. No hace falta que todas las elecciones coincidan; la gracia está en conocer las historias detrás de ellas.",
+    "buenasNoches": "Que hoy una canción te acompañe un ratito. Y si escuchas una que te recuerde a nosotros, guárdala: quizá encuentre un lugar en nuestra banda sonora.",
+    "cancionTitulo": "You Got Me",
+    "cancionArtista": "The Roots; Tariq Trotter; Erykah Badu; Eve",
+    "youtubeId": "MJCHeEQV454",
+    "cancionUrl": "https://www.youtube.com/watch?v=MJCHeEQV454",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, melómanos",
+        "contenido": "Hoy vamos a jugar con canciones y recuerdos. No importa si tenemos gustos distintos: queremos descubrir qué música asociamos con momentos, personas o planes."
+      },
+      "mensajePrincipal": {
+        "titulo": "Juego: cinco escenas, cinco canciones",
+        "contenido": "Cada uno elige una canción para cinco escenas: una mañana tranquila, un viaje por carretera, una noche de baile, un momento difícil que logró superar y un día que quisiera repetir. No se muestran las elecciones hasta que ambos terminen. Después escuchamos fragmentos y explicamos por qué elegimos cada tema. Ronda extra: inventen el título y la canción de una película sobre su vida juntos. No hace falta que todas las elecciones coincidan; la gracia está en conocer las historias detrás de ellas."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra musical",
+        "contenido": "Resonancia: lo que permanece vibrando después de que el sonido termina. Algunas canciones siguen sonando en la memoria mucho después de apagarlas."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Que hoy una canción te acompañe un ratito. Y si escuchas una que te recuerde a nosotros, guárdala: quizá encuentre un lugar en nuestra banda sonora."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Resonancia",
+      "significado": "Persistencia o efecto que un sonido, una idea o una emoción deja después de haber ocurrido.",
+      "ejemplo": "Una canción puede tener resonancia porque nos devuelve a una conversación o a un día que creíamos olvidado."
+    },
+    "inspiracionCancion": "Una canción para recordar que algunas melodías se convierten en pequeñas marcas de nuestra historia."
   },
   {
     "dia": 34,
     "fecha": "2026-11-18",
     "fechaTexto": "mié, 18 de nov",
-    "categoria": "R&B para una tarde sin prisa",
-    "icono": "🎙️",
-    "tono": "ambiente",
+    "categoria": "Un postre de sartén para compartir",
+    "icono": "🍑",
+    "tono": "cocina",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Para una tarde sin tanta prisa, que el R&B te acompañe como una presencia tranquila: está ahí, suena bonito y deja que respires.",
+    "buenosDias": "Hoy toca postre sin horno: duraznos tibios caramelizados con yogur o crema. Es rápido, queda bonito y podemos prepararlo juntos.",
     "poema": [
-      "A veces uno no necesita consejos, solo una canción que le haga compañía y un rato sin tener que explicar el ánimo que trae. Espero que encuentres esos minutos para ti.",
-      "Y si hoy te provoca compartir música, mándame una. Me gusta descubrir qué escuchas cuando quieres bajar el ruido del mundo."
+      "Compra: 2 duraznos maduros pero firmes, 1 cucharada de mantequilla, 1½ cucharadas de azúcar morena, una pizca de canela, ½ limón y yogur griego o crema para servir. Lava y corta los duraznos en gajos. Derrite la mantequilla en una sartén a fuego medio, añade el azúcar y la canela y mezcla hasta que se disuelva. Incorpora los duraznos y cocínalos dos o tres minutos por lado, hasta que estén dorados y tiernos pero no deshechos. Añade unas gotas de limón al final. Sirve tibio sobre yogur o crema y, si quieres, agrega galleta triturada. Turno: uno se encarga de la sartén y el otro prepara los platos. Cuidado con el caramelo caliente; deja templar antes de probar.",
+      "Caramelizar: transformar el azúcar con calor hasta que toma un tono dorado y un sabor más profundo. En esta receta, el propio durazno aporta dulzor."
     ],
-    "detalle": "Busca una canción que te acompañe sin exigirte nada. Que esté de fondo mientras haces lo tuyo y no te quite espacio en la cabeza; la música también puede ser una buena compañía silenciosa.",
-    "buenasNoches": "Descansa, amor. No tienes que ponerle palabras a todo lo que sientes ni explicarle a nadie por qué una canción te toca. A veces basta con sentirla.",
-    "cancionTitulo": "Didn't Cha Know",
-    "cancionArtista": "Erykah Badu",
-    "youtubeId": "Np21rH7Ldto",
-    "cancionUrl": "https://www.youtube.com/watch?v=Np21rH7Ldto"
+    "detalle": "Compra: 2 duraznos maduros pero firmes, 1 cucharada de mantequilla, 1½ cucharadas de azúcar morena, una pizca de canela, ½ limón y yogur griego o crema para servir. Lava y corta los duraznos en gajos. Derrite la mantequilla en una sartén a fuego medio, añade el azúcar y la canela y mezcla hasta que se disuelva. Incorpora los duraznos y cocínalos dos o tres minutos por lado, hasta que estén dorados y tiernos pero no deshechos. Añade unas gotas de limón al final. Sirve tibio sobre yogur o crema y, si quieres, agrega galleta triturada. Turno: uno se encarga de la sartén y el otro prepara los platos. Cuidado con el caramelo caliente; deja templar antes de probar.",
+    "buenasNoches": "Ojalá te haya quedado un antojo feliz. Los postres pequeños también merecen su momento de celebración.",
+    "cancionTitulo": "Boombastic",
+    "cancionArtista": "Shaggy",
+    "youtubeId": "f0sVDGFoIOI",
+    "cancionUrl": "https://www.youtube.com/watch?v=f0sVDGFoIOI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, golosos",
+        "contenido": "Hoy toca postre sin horno: duraznos tibios caramelizados con yogur o crema. Es rápido, queda bonito y podemos prepararlo juntos."
+      },
+      "mensajePrincipal": {
+        "titulo": "Compra y receta para dos",
+        "contenido": "Compra: 2 duraznos maduros pero firmes, 1 cucharada de mantequilla, 1½ cucharadas de azúcar morena, una pizca de canela, ½ limón y yogur griego o crema para servir. Lava y corta los duraznos en gajos. Derrite la mantequilla en una sartén a fuego medio, añade el azúcar y la canela y mezcla hasta que se disuelva. Incorpora los duraznos y cocínalos dos o tres minutos por lado, hasta que estén dorados y tiernos pero no deshechos. Añade unas gotas de limón al final. Sirve tibio sobre yogur o crema y, si quieres, agrega galleta triturada. Turno: uno se encarga de la sartén y el otro prepara los platos. Cuidado con el caramelo caliente; deja templar antes de probar."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra dulce",
+        "contenido": "Caramelizar: transformar el azúcar con calor hasta que toma un tono dorado y un sabor más profundo. En esta receta, el propio durazno aporta dulzor."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá te haya quedado un antojo feliz. Los postres pequeños también merecen su momento de celebración."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Caramelizar",
+      "significado": "Calentar azúcar o alimentos con azúcares naturales hasta que toman color y desarrollan sabores más profundos.",
+      "ejemplo": "Podemos caramelizar duraznos en una sartén con mantequilla y un poco de azúcar, sin usar horno."
+    },
+    "inspiracionCancion": "Una canción con ritmo para preparar un postre sencillo, probarlo tibio y compartirlo directamente de la sartén."
   },
   {
     "dia": 35,
     "fecha": "2026-11-19",
     "fechaTexto": "jue, 19 de nov",
-    "categoria": "La comodidad también tiene estilo",
-    "icono": "👕",
-    "tono": "filosofica",
+    "categoria": "Una tarde de baile sin coreografía perfecta",
+    "icono": "🪩",
+    "tono": "juego",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "El código de vestuario de hoy es fácil: ponte esa ropa amplia que te deja existir sin estar acomodándote cada cinco segundos.",
+    "buenosDias": "Hoy no necesitamos saber bailar. Te propongo una tarde de música y movimiento, sin coreografía obligatoria y sin grabarnos si no queremos.",
     "poema": [
-      "Hay algo atractivo en la gente que se siente a gusto siendo ella misma. Tú tienes ese estilo relajado que parece decir «estoy bien así» y, sinceramente, le queda muy bien a tu manera de ser.",
-      "Ponte lo que te dé la gana, mi vida. Y si hoy te miras al espejo y te gusta lo que ves, no dejes que una voz quisquillosa te arruine el momento."
+      "Preparen una lista de seis canciones: dos que hagan mover el cuerpo, dos que les recuerden algo y dos elegidas por sorpresa. Ronda 1: cada uno inventa cuatro pasos sencillos y el otro los imita. Ronda 2: bailen treinta segundos usando solo movimientos de brazos y hombros; luego solo pasos pequeños. Ronda 3: inventen un saludo o movimiento que sea de ustedes. Si a alguno le da pena, pueden empezar sentados siguiendo el ritmo con las manos. Nivel extra: graben una coreografía de quince segundos solo si ambos quieren. Lo importante es divertirse, no hacerlo bien.",
+      "Improvisación: dejar que algo aparezca en el momento. Hoy el ritmo manda más que la técnica."
     ],
-    "detalle": "Que la ropa de hoy te deje moverte, respirar y sentirte tú. La comodidad no es falta de estilo; es saber lo que te gusta y no negociar con cada tendencia que pasa por la puerta.",
-    "buenasNoches": "Buenas noches, bonita. Ponte cómoda, deja el día atrás y no negocies con las opiniones imaginarias de nadie. Tu descanso no necesita aprobación.",
-    "cancionTitulo": "good denim",
-    "cancionArtista": "jalen chords",
-    "youtubeId": "_2Lnj5N9lCM",
-    "cancionUrl": "https://www.youtube.com/watch?v=_2Lnj5N9lCM"
+    "detalle": "Preparen una lista de seis canciones: dos que hagan mover el cuerpo, dos que les recuerden algo y dos elegidas por sorpresa. Ronda 1: cada uno inventa cuatro pasos sencillos y el otro los imita. Ronda 2: bailen treinta segundos usando solo movimientos de brazos y hombros; luego solo pasos pequeños. Ronda 3: inventen un saludo o movimiento que sea de ustedes. Si a alguno le da pena, pueden empezar sentados siguiendo el ritmo con las manos. Nivel extra: graben una coreografía de quince segundos solo si ambos quieren. Lo importante es divertirse, no hacerlo bien.",
+    "buenasNoches": "Ojalá hoy te hayas reído un poquito. No todas las citas tienen que ser elegantes; algunas solo necesitan una canción y ganas de jugar.",
+    "cancionTitulo": "Pony",
+    "cancionArtista": "Ginuwine",
+    "youtubeId": "lbnoG2dsUk0",
+    "cancionUrl": "https://www.youtube.com/watch?v=lbnoG2dsUk0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, bailarín",
+        "contenido": "Hoy no necesitamos saber bailar. Te propongo una tarde de música y movimiento, sin coreografía obligatoria y sin grabarnos si no queremos."
+      },
+      "mensajePrincipal": {
+        "titulo": "Reto: tres rondas de baile",
+        "contenido": "Preparen una lista de seis canciones: dos que hagan mover el cuerpo, dos que les recuerden algo y dos elegidas por sorpresa. Ronda 1: cada uno inventa cuatro pasos sencillos y el otro los imita. Ronda 2: bailen treinta segundos usando solo movimientos de brazos y hombros; luego solo pasos pequeños. Ronda 3: inventen un saludo o movimiento que sea de ustedes. Si a alguno le da pena, pueden empezar sentados siguiendo el ritmo con las manos. Nivel extra: graben una coreografía de quince segundos solo si ambos quieren. Lo importante es divertirse, no hacerlo bien."
+      },
+      "palabraNueva": {
+        "titulo": "Palabra para moverse",
+        "contenido": "Improvisación: dejar que algo aparezca en el momento. Hoy el ritmo manda más que la técnica."
+      },
+      "buenasNoches": {
+        "titulo": "Buenas noches",
+        "contenido": "Ojalá hoy te hayas reído un poquito. No todas las citas tienen que ser elegantes; algunas solo necesitan una canción y ganas de jugar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Improvisación",
+      "significado": "Creación espontánea sin un plan completamente definido, dejando que las ideas aparezcan mientras hacemos algo.",
+      "ejemplo": "En el baile, la improvisación permite moverse al ritmo sin preocuparse por recordar pasos exactos."
+    },
+    "inspiracionCancion": "Una canción para soltar la vergüenza, reírnos un poco y bailar sin preocuparnos por hacerlo perfecto."
   },
   {
     "dia": 36,
