@@ -10496,5 +10496,327 @@ const CALENDARIO = [
       "significado": "Actitud de respeto y atención hacia los sentimientos o necesidades de otras personas.",
       "ejemplo": "La consideración se nota en gestos pequeños que hacen más amable la convivencia."
     }
+  },
+  {
+    "dia": 238,
+    "fecha": "2027-06-10",
+    "fechaTexto": "jue, 10 de jun",
+    "categoria": "El noticiero de buenas noticias",
+    "icono": "📰",
+    "tono": "escritura creativa y optimismo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a publicar noticias que casi nunca llegan a los titulares.",
+    "poema": [
+      "Inventa un noticiero de tres titulares positivos, pero realistas: algo pequeño que salió bien, una persona que hizo un gesto amable y un descubrimiento curioso. Puedes basarte en cosas que viste hoy o inventarlas con humor. Escribe cada titular como si fuera una noticia urgente y añade una frase de contexto. La idea no es fingir que todo es perfecto, sino entrenar la mirada para registrar lo que también funciona.",
+      "Si lo compartes con alguien, cada uno puede presentar su noticiero en treinta segundos, con voz de presentador incluido."
+    ],
+    "detalle": "Si lo compartes con alguien, cada uno puede presentar su noticiero en treinta segundos, con voz de presentador incluido.",
+    "buenasNoches": "No todo lo bueno hace ruido; algunas noticias merecen que uno mismo les dé espacio.",
+    "cancionTitulo": "Equipo de Carretera",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "D7EthypSEF4",
+    "cancionUrl": "https://www.youtube.com/watch?v=D7EthypSEF4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a publicar noticias que casi nunca llegan a los titulares."
+      },
+      "mensajePrincipal": {
+        "titulo": "El noticiero de buenas noticias",
+        "contenido": "Inventa un noticiero de tres titulares positivos, pero realistas: algo pequeño que salió bien, una persona que hizo un gesto amable y un descubrimiento curioso. Puedes basarte en cosas que viste hoy o inventarlas con humor. Escribe cada titular como si fuera una noticia urgente y añade una frase de contexto. La idea no es fingir que todo es perfecto, sino entrenar la mirada para registrar lo que también funciona."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra optimismo",
+        "contenido": "Tendencia a reconocer posibilidades favorables sin ignorar la realidad. El optimismo también consiste en notar lo bueno que sí está pasando."
+      },
+      "buenasNoches": {
+        "contenido": "No todo lo bueno hace ruido; algunas noticias merecen que uno mismo les dé espacio."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Optimismo",
+      "significado": "Tendencia a reconocer posibilidades favorables sin ignorar la realidad.",
+      "ejemplo": "El optimismo también consiste en notar lo bueno que sí está pasando."
+    }
+  },
+  {
+    "dia": 239,
+    "fecha": "2027-06-11",
+    "fechaTexto": "vie, 11 de jun",
+    "categoria": "El laboratorio de sombras",
+    "icono": "🔦",
+    "tono": "experimento visual",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a jugar con la luz y las formas que aparecen cuando cambia el ángulo.",
+    "poema": [
+      "Con una lámpara o la linterna del celular y una pared, crea tres sombras usando objetos distintos. Mueve la luz para cambiar tamaño y dirección; luego combina dos objetos para formar una figura nueva. Si quieres, dibuja el contorno que más te guste y ponle un nombre como si fuera una criatura o un personaje de una historia.",
+      "Reto extra: intenta que alguien adivine qué objetos forman la sombra antes de revelarlos."
+    ],
+    "detalle": "Reto extra: intenta que alguien adivine qué objetos forman la sombra antes de revelarlos.",
+    "buenasNoches": "La luz no cambia los objetos, pero sí puede mostrarnos versiones que no habíamos notado.",
+    "cancionTitulo": "La Penúltima Cena",
+    "cancionArtista": "Alcolirykoz; Rocca",
+    "youtubeId": "4qzlwLeYG70",
+    "cancionUrl": "https://www.youtube.com/watch?v=4qzlwLeYG70",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a jugar con la luz y las formas que aparecen cuando cambia el ángulo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El laboratorio de sombras",
+        "contenido": "Con una lámpara o la linterna del celular y una pared, crea tres sombras usando objetos distintos. Mueve la luz para cambiar tamaño y dirección; luego combina dos objetos para formar una figura nueva. Si quieres, dibuja el contorno que más te guste y ponle un nombre como si fuera una criatura o un personaje de una historia."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra silueta",
+        "contenido": "Contorno que representa la forma de un objeto o cuerpo. Una silueta puede contar una historia incluso sin mostrar los detalles."
+      },
+      "buenasNoches": {
+        "contenido": "La luz no cambia los objetos, pero sí puede mostrarnos versiones que no habíamos notado."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Silueta",
+      "significado": "Contorno que representa la forma de un objeto o cuerpo.",
+      "ejemplo": "Una silueta puede contar una historia incluso sin mostrar los detalles."
+    }
+  },
+  {
+    "dia": 240,
+    "fecha": "2027-06-12",
+    "fechaTexto": "sáb, 12 de jun",
+    "categoria": "Una playlist para cada clima",
+    "icono": "🌦️",
+    "tono": "música y estados de ánimo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a elegir música como si estuviéramos diseñando el clima de una película.",
+    "poema": [
+      "Crea cuatro mini listas de una canción cada una: una para una mañana despejada, otra para una tarde de lluvia, otra para caminar de noche y otra para celebrar algo pequeño. No tienen que ser canciones que hablen literalmente del clima; elige por la sensación que producen. Ponle un título a cada lista y guarda las recomendaciones.",
+      "Si alguien participa, intercambien una de las listas y expliquen por qué esa canción encaja con ese clima."
+    ],
+    "detalle": "Si alguien participa, intercambien una de las listas y expliquen por qué esa canción encaja con ese clima.",
+    "buenasNoches": "La música es una forma de darle paisaje a momentos que todavía no tienen nombre.",
+    "cancionTitulo": "Artes Verbales",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "JlzEDJrOjLI",
+    "cancionUrl": "https://www.youtube.com/watch?v=JlzEDJrOjLI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a elegir música como si estuviéramos diseñando el clima de una película."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una playlist para cada clima",
+        "contenido": "Crea cuatro mini listas de una canción cada una: una para una mañana despejada, otra para una tarde de lluvia, otra para caminar de noche y otra para celebrar algo pequeño. No tienen que ser canciones que hablen literalmente del clima; elige por la sensación que producen. Ponle un título a cada lista y guarda las recomendaciones."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra atmósfera",
+        "contenido": "Sensación o ambiente que transmite un lugar, una obra o una situación. Una canción puede cambiar la atmósfera de una tarde sin mover nada de sitio."
+      },
+      "buenasNoches": {
+        "contenido": "La música es una forma de darle paisaje a momentos que todavía no tienen nombre."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Atmósfera",
+      "significado": "Sensación o ambiente que transmite un lugar, una obra o una situación.",
+      "ejemplo": "Una canción puede cambiar la atmósfera de una tarde sin mover nada de sitio."
+    }
+  },
+  {
+    "dia": 241,
+    "fecha": "2027-06-13",
+    "fechaTexto": "dom, 13 de jun",
+    "categoria": "El manual para sobrevivir a un día absurdo",
+    "icono": "📘",
+    "tono": "humor e imaginación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a escribir instrucciones para una situación completamente ridícula.",
+    "poema": [
+      "Inventa un manual de cinco pasos para sobrevivir a algo absurdo: una reunión con extraterrestres tímidos, una invasión de palomas organizadas o un lunes que se repite. Cada paso debe sonar exageradamente serio y tener una solución inesperada. Añade una advertencia final escrita como esas letras pequeñas de los empaques.",
+      "Lean el manual en voz alta con tono de documental científico y elijan el paso más disparatado."
+    ],
+    "detalle": "Lean el manual en voz alta con tono de documental científico y elijan el paso más disparatado.",
+    "buenasNoches": "Un poco de humor puede volver más liviano incluso el día más enredado.",
+    "cancionTitulo": "Changó",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "C2_WOBYxweE",
+    "cancionUrl": "https://www.youtube.com/watch?v=C2_WOBYxweE",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a escribir instrucciones para una situación completamente ridícula."
+      },
+      "mensajePrincipal": {
+        "titulo": "El manual para sobrevivir a un día absurdo",
+        "contenido": "Inventa un manual de cinco pasos para sobrevivir a algo absurdo: una reunión con extraterrestres tímidos, una invasión de palomas organizadas o un lunes que se repite. Cada paso debe sonar exageradamente serio y tener una solución inesperada. Añade una advertencia final escrita como esas letras pequeñas de los empaques."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra parodia",
+        "contenido": "Imitación humorística que exagera rasgos de algo conocido. La parodia permite reírnos de las complicaciones sin negar que existen."
+      },
+      "buenasNoches": {
+        "contenido": "Un poco de humor puede volver más liviano incluso el día más enredado."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Parodia",
+      "significado": "Imitación humorística que exagera rasgos de algo conocido.",
+      "ejemplo": "La parodia permite reírnos de las complicaciones sin negar que existen."
+    }
+  },
+  {
+    "dia": 242,
+    "fecha": "2027-06-14",
+    "fechaTexto": "lun, 14 de jun",
+    "categoria": "El pequeño recorrido de arquitectura",
+    "icono": "🏙️",
+    "tono": "observación urbana",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la invitación es caminar mirando hacia arriba, hacia abajo y hacia los lados.",
+    "poema": [
+      "En un trayecto cotidiano y seguro, identifica tres detalles arquitectónicos que normalmente ignoras: una ventana particular, una textura, una reja, un balcón, un patrón del piso o una combinación de colores. No necesitas entrar a ningún lugar ni fotografiar personas. Elige uno y descríbelo como si estuvieras recomendándolo en una guía de ciudad.",
+      "Si no puedes salir, haz el recorrido visual desde una ventana o con imágenes de una ciudad que te dé curiosidad."
+    ],
+    "detalle": "Si no puedes salir, haz el recorrido visual desde una ventana o con imágenes de una ciudad que te dé curiosidad.",
+    "buenasNoches": "Los lugares conocidos también guardan sorpresas para quien se detiene a observar.",
+    "cancionTitulo": "Los Genios de la Botella - Remix Gambeta",
+    "cancionArtista": "Alcolirykoz; Gambeta",
+    "youtubeId": "9BcpsAIRYyQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=9BcpsAIRYyQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la invitación es caminar mirando hacia arriba, hacia abajo y hacia los lados."
+      },
+      "mensajePrincipal": {
+        "titulo": "El pequeño recorrido de arquitectura",
+        "contenido": "En un trayecto cotidiano y seguro, identifica tres detalles arquitectónicos que normalmente ignoras: una ventana particular, una textura, una reja, un balcón, un patrón del piso o una combinación de colores. No necesitas entrar a ningún lugar ni fotografiar personas. Elige uno y descríbelo como si estuvieras recomendándolo en una guía de ciudad."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra perspectiva",
+        "contenido": "Punto de vista desde el que se observa o interpreta algo. Mirar un lugar desde otra perspectiva puede revelar detalles que siempre estuvieron ahí."
+      },
+      "buenasNoches": {
+        "contenido": "Los lugares conocidos también guardan sorpresas para quien se detiene a observar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Perspectiva",
+      "significado": "Punto de vista desde el que se observa o interpreta algo.",
+      "ejemplo": "Mirar un lugar desde otra perspectiva puede revelar detalles que siempre estuvieron ahí."
+    }
+  },
+  {
+    "dia": 243,
+    "fecha": "2027-06-15",
+    "fechaTexto": "mar, 15 de jun",
+    "categoria": "La entrevista a tu yo experto",
+    "icono": "🎙️",
+    "tono": "reflexión y reconocimiento",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a hacer una entrevista breve a alguien que sabe más de lo que cree: tú.",
+    "poema": [
+      "Responde como si te entrevistaran para un podcast: ¿qué cosa sabes hacer mejor que hace dos años?, ¿qué aprendiste por pura necesidad?, ¿qué consejo práctico podrías darle a alguien que empieza desde cero? Si te cuesta responder, piensa en habilidades pequeñas: resolver un trámite, cocinar algo, escuchar, organizarte o explicar un tema.",
+      "Cierra la entrevista con un titular que resuma una habilidad que antes no reconocías en ti."
+    ],
+    "detalle": "Cierra la entrevista con un titular que resuma una habilidad que antes no reconocías en ti.",
+    "buenasNoches": "A veces el progreso no se nota porque uno se acostumbra a lo que ya aprendió.",
+    "cancionTitulo": "93 'Til Infinity",
+    "cancionArtista": "Souls of Mischief",
+    "youtubeId": "fXJc2NYwHjw",
+    "cancionUrl": "https://www.youtube.com/watch?v=fXJc2NYwHjw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a hacer una entrevista breve a alguien que sabe más de lo que cree: tú."
+      },
+      "mensajePrincipal": {
+        "titulo": "La entrevista a tu yo experto",
+        "contenido": "Responde como si te entrevistaran para un podcast: ¿qué cosa sabes hacer mejor que hace dos años?, ¿qué aprendiste por pura necesidad?, ¿qué consejo práctico podrías darle a alguien que empieza desde cero? Si te cuesta responder, piensa en habilidades pequeñas: resolver un trámite, cocinar algo, escuchar, organizarte o explicar un tema."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra competencia",
+        "contenido": "Conjunto de conocimientos y habilidades que permiten realizar algo bien. Reconocer una competencia propia ayuda a entender todo lo que hemos aprendido."
+      },
+      "buenasNoches": {
+        "contenido": "A veces el progreso no se nota porque uno se acostumbra a lo que ya aprendió."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Competencia",
+      "significado": "Conjunto de conocimientos y habilidades que permiten realizar algo bien.",
+      "ejemplo": "Reconocer una competencia propia ayuda a entender todo lo que hemos aprendido."
+    }
+  },
+  {
+    "dia": 244,
+    "fecha": "2027-06-16",
+    "fechaTexto": "mié, 16 de jun",
+    "categoria": "El intercambio de recomendaciones improbables",
+    "icono": "🎁",
+    "tono": "descubrimiento y conversación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a recomendar algo que normalmente no sería la primera opción de la otra persona.",
+    "poema": [
+      "Piensa en una recomendación poco obvia: un documental corto, un canal curioso, una receta sencilla, un cómic, una canción de otro género o una actividad que te haya sorprendido. Explica en dos frases por qué crees que podría gustarle, sin venderla como obligación. Quien la recibe puede probarla cuando quiera y contar qué le pareció.",
+      "La regla es que la recomendación sea genuina, no necesariamente popular ni perfecta."
+    ],
+    "detalle": "La regla es que la recomendación sea genuina, no necesariamente popular ni perfecta.",
+    "buenasNoches": "Descubrir algo nuevo también puede empezar con una sugerencia inesperada.",
+    "cancionTitulo": "Electric Relaxation",
+    "cancionArtista": "A Tribe Called Quest",
+    "youtubeId": "WHRnvjCkTsw",
+    "cancionUrl": "https://www.youtube.com/watch?v=WHRnvjCkTsw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a recomendar algo que normalmente no sería la primera opción de la otra persona."
+      },
+      "mensajePrincipal": {
+        "titulo": "El intercambio de recomendaciones improbables",
+        "contenido": "Piensa en una recomendación poco obvia: un documental corto, un canal curioso, una receta sencilla, un cómic, una canción de otro género o una actividad que te haya sorprendido. Explica en dos frases por qué crees que podría gustarle, sin venderla como obligación. Quien la recibe puede probarla cuando quiera y contar qué le pareció."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra afinidad",
+        "contenido": "Coincidencia de gustos, intereses o maneras de disfrutar algo. La afinidad también puede aparecer al descubrir que alguien disfruta algo que no esperabas."
+      },
+      "buenasNoches": {
+        "contenido": "Descubrir algo nuevo también puede empezar con una sugerencia inesperada."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Afinidad",
+      "significado": "Coincidencia de gustos, intereses o maneras de disfrutar algo.",
+      "ejemplo": "La afinidad también puede aparecer al descubrir que alguien disfruta algo que no esperabas."
+    }
   }
 ];
