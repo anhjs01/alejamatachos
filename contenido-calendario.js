@@ -579,7 +579,7 @@ const CALENDARIO = [
     "dia": 13,
     "fecha": "2026-10-28",
     "fechaTexto": "mié, 28 de oct",
-    "categoria": "Una cafetería de clima cálido, pero en casa",
+    "categoria": "La postal de una tarde cálida",
     "icono": "🌅",
     "tono": "cocina y complicidad",
     "color": {
@@ -600,11 +600,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a traer un poquito de clima cálido a un plan sencillo, sin desplazamientos ni reservas."
+        "contenido": "Hoy no toca preparar una bebida ni organizar una salida: vamos a dibujar una tarde cálida que todavía no existe y convertirla en una postal de tres líneas."
       },
       "mensajePrincipal": {
-        "titulo": "Una cafetería de clima cálido, pero en casa",
-        "contenido": "Preparen una bebida fría con agua, limón, naranja, hierbabuena y hielo. Añadan fruta cortada y armen una pequeña mesa como si fuera una cafetería junto al mar. Cada persona inventa el nombre de la bebida y diseña una tarjeta para el menú. Si quieren, elijan música que recuerde a un lugar cálido y creen una lista de tres destinos que les gustaría conocer algún día, sin poner fechas ni compromisos. Revisen siempre las etiquetas de los alimentos para descartar maní y trazas relevantes, y eviten la contaminación cruzada.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Preparar la bebida toma unos minutos; el resto es diseñar el nombre y la pequeña carta de esa cafetería imaginaria."
+        "titulo": "La postal de una tarde cálida",
+        "contenido": "RETO DE ILUSTRACIÓN Y ESCRITURA · 15–20 MINUTOS\n\nMateriales: una hoja, lápiz y dos o tres colores. Imagina una tarde cálida que todavía no ha ocurrido. No tiene que ser un viaje ni un plan real: puede pasar en una terraza, una habitación luminosa, una biblioteca o un lugar inventado.\n\n1. Dibuja el fondo con tres formas grandes.\n2. Añade un detalle que represente el sonido de esa tarde.\n3. Elige dos colores para la luz y uno para la sombra.\n4. En el reverso, escribe una postal de tres líneas dirigida a alguien que te gustaría hacer sonreír.\n5. Ponle fecha imaginaria y un título.\n\nSi participan dos, cada persona dibuja una mitad de la tarde y luego intercambian las postales."
       },
       "palabraNueva": {
         "titulo": "Palabra para viajar",
@@ -612,7 +612,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "A veces cambiar el ambiente no requiere ir lejos; basta con crear algo distinto donde estamos."
+        "contenido": "Guarda la postal aunque el dibujo sea sencillo. A veces una tarde imaginada nos recuerda qué clase de momentos nos gustaría crear cuando se dé la oportunidad."
       }
     },
     "palabraNueva": {
@@ -10642,7 +10642,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El menú de una noche temática",
-        "contenido": "Elijan un tema —misterio, magia, cine de los noventa, espacio o noche tropical— y armen una propuesta sencilla: una película o capítulo, una bebida sin alcohol y un detalle de ambiente usando cosas que ya tengan. Si incluyen comida, que sea fácil y segura, revisando etiquetas por maní y contaminación cruzada. No hace falta hacerla hoy ni convertirla en una obligación.\n\nTIEMPO DE PREPARACIÓN: 15–20 MINUTOS. Elijan película o capítulo, bebida sin alcohol y un detalle de ambiente con objetos que ya tengan."
+        "contenido": "Elijan un tema —misterio, magia, cine de los noventa, espacio o noche tropical— y armen una propuesta sencilla: una película o capítulo, una bebida sin alcohol y un detalle de ambiente usando cosas que ya tengan. Si incluyen comida, que sea fácil y segura, revisando etiquetas por maní y contaminación cruzada. No hace falta hacerla hoy ni convertirla en una obligación.\n\nTIEMPO DE PREPARACIÓN: 15–20 MINUTOS. Elijan película o capítulo, bebida sin alcohol y un detalle de ambiente con objetos que ya tengan.\n\nDURACIÓN DE LA NOCHE: película de 90–120 MINUTOS o capítulo de 25–60 MINUTOS, según lo que elijan. Antes de empezar, cada uno propone una pregunta; al terminar, compartan una escena favorita y una idea que les dejó. Sin spoilers para quien no conozca la historia."
       },
       "palabraNueva": {
         "titulo": "La palabra ambientación",
@@ -14703,7 +14703,7 @@ const CALENDARIO = [
     "dia": 312,
     "fecha": "2027-08-23",
     "fechaTexto": "lun, 23 de ago",
-    "categoria": "El menú de una cafetería imaginaria",
+    "categoria": "El emblema de un club secreto",
     "icono": "☕",
     "tono": "diseño y creatividad cotidiana",
     "color": {
@@ -14725,18 +14725,18 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vas a diseñar un menú para una cafetería que solo existe en tu imaginación."
+        "contenido": "Hoy vamos a fundar un club secreto que no necesita dinero ni membresías: solo un nombre, un símbolo, un lema y tres reglas que tengan sentido para quienes lo inventen."
       },
       "mensajePrincipal": {
-        "titulo": "El menú de una cafetería imaginaria",
-        "contenido": "Crea una carta con tres bebidas y dos acompañamientos. Cada producto debe tener un nombre original, una descripción de una línea y un precio ficticio. Puedes inspirarte en colores, estados de ánimo, estaciones del año o personajes inventados. No hace falta preparar nada: el reto está en que el menú tenga una identidad visual coherente.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Tres bebidas y dos acompañamientos; añade precios ficticios y una identidad visual sencilla."
+        "titulo": "El emblema de un club secreto",
+        "contenido": "RETO DE DISEÑO GRÁFICO · 20–25 MINUTOS\n\nImaginen un club secreto que no necesita cuotas ni miembros exclusivos: puede ser un club de curiosidad, de personas que coleccionan historias, de amantes de los gatos o de quienes siempre encuentran una solución creativa.\n\nDiseña su identidad en una hoja:\n1. Elige un nombre corto.\n2. Crea un símbolo usando solo tres formas.\n3. Escribe un lema de máximo siete palabras.\n4. Diseña una tarjeta de miembro con un número y una fecha de ingreso ficticia.\n5. Define tres reglas divertidas y amables para pertenecer al club.\n\nSi participan dos, cada persona diseña un símbolo y luego combinan los elementos en una versión final."
       },
       "palabraNueva": {
         "titulo": "La palabra acierto",
         "contenido": "Acción de encontrar la respuesta correcta o tomar una decisión adecuada. El nombre de la bebida fue un acierto porque transmitía exactamente la sensación que buscaba el menú."
       },
       "buenasNoches": {
-        "contenido": "Una buena idea puede empezar con una hoja en blanco y terminar convertida en todo un universo.",
+        "contenido": "El club queda fundado, aunque todavía no tenga sede. Lo mejor es que sus reglas las escribieron quienes van a vivirlas.",
         "titulo": "Buenas noches"
       }
     },
