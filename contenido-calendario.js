@@ -173,4 +173,24 @@ const CALENDARIO = [
       buenasNoches: { titulo: "Créditos y una última opinión", contenido: "Que la noche termine con una escena favorita, una teoría sobre el final o una discusión amistosa sobre el personaje más interesante. Gracias por regalarle un espacio al descanso y a las historias. Buenas noches." }
     }
   }
+
+  ,
+  { dia: 15, categoria: "EL MISTERIO DE LOS OBJETOS", youtubeId: "u7ZjjFPF9wY", cancionTitulo: "AVALANCHE", cancionArtista: "GIVĒON", inspiracionCancion: "Ritmo para entrar en modo detectives.", palabraNueva: { palabra: "Deducción", significado: "Conectar pistas para llegar a una conclusión." }, cartas: {
+    buenosDias: { titulo: "Detective, tenemos un caso", contenido: "Buenos días. Hoy toca observar lo que normalmente pasa desapercibido. Cualquier objeto puede convertirse en una pista si alguien inventa una historia convincente." },
+    mensajePrincipal: { titulo: "Caso cerrado… si pueden", contenido: "Cada uno elige un objeto en secreto y escribe tres pistas: una verdadera y dos que despisten. El otro tiene cinco preguntas de sí o no para descubrirlo. Después inventen un robo ficticio: qué desapareció, tres sospechosos y la pista que revela al culpable. Tienen diez minutos y no pueden cambiar la pista final." },
+    palabraNueva: { titulo: "Deducción", contenido: "No es adivinar al azar: es reunir indicios, descartar opciones y explicar por qué una respuesta tiene sentido. Punto extra para la explicación más divertida." },
+    buenasNoches: { titulo: "El expediente queda abierto", contenido: "Espero que el caso terminara entre sospechas absurdas y una explicación inesperada. Si no encontraron al culpable, los mejores misterios siempre dejan secuela. Descansa, detective." }
+  }},
+  { dia: 16, categoria: "COCINA SIN HORNO", youtubeId: "uYV5MWwZgTE", cancionTitulo: "GOOD BAD UGLY", cancionArtista: "GIVĒON", inspiracionCancion: "Un ritmo tranquilo para cocinar en equipo.", palabraNueva: { palabra: "Montaje", significado: "La forma de organizar y presentar los elementos de un plato." }, cartas: {
+    buenosDias: { titulo: "Hoy el horno descansa", contenido: "Buenos días. La cocina también puede ser divertida sin prender el horno ni seguir veinte pasos. Hoy toca resolver con ingredientes sencillos y dejar que cada quien aporte una idea." },
+    mensajePrincipal: { titulo: "Wraps fríos a cuatro manos", contenido: "Preparen wraps con tortillas, pollo cocido desmechado o garbanzos, aguacate, tomate, pepino, hojas verdes y salsa de yogur natural con limón y hierbas. Cada uno arma uno clásico y otro con una combinación inventada por el compañero. Corten y presenten como si fueran de un café. Revisen etiquetas para evitar maní y trazas por contaminación cruzada; usen superficies y utensilios limpios. Ajusten el sodio con hierbas, limón y pimienta." },
+    palabraNueva: { titulo: "Montaje", contenido: "La presentación cambia la experiencia: colores, cortes y orden hacen que algo sencillo se vea apetitoso. Pongan nombre de menú a cada creación." },
+    buenasNoches: { titulo: "El restaurante cierra satisfecho", contenido: "Si quedó una combinación ganadora, anótenla. Si alguna fue un experimento dudoso, también merece registro: las mejores recetas a veces empiezan con una idea rara. Que descanses." }
+  }},
+  { dia: 17, categoria: "UN MAPA DE PLANES POSIBLES", youtubeId: "7NCQ55HGOpU", cancionTitulo: "BLEEDING", cancionArtista: "GIVĒON", inspiracionCancion: "Una pausa para imaginar experiencias futuras sin presión.", palabraNueva: { palabra: "Itinerario", significado: "Un recorrido organizado con paradas y tiempos flexibles." }, cartas: {
+    buenosDias: { titulo: "Hoy soñamos sin reservar nada", contenido: "Buenos días. Hay planes que empiezan con una conversación, una foto guardada o un lugar que alguien menciona. Hoy toca imaginar posibilidades sin ponerles fecha." },
+    mensajePrincipal: { titulo: "Diseñen tres escapadas de un día", contenido: "En una hoja hagan tres rutas de ida y regreso el mismo día: naturaleza (mirador, lago o sendero sencillo); creatividad (pintar, visitar una feria o hacer fotos); y calma (café, parque y caminata). Anoten transporte, presupuesto aproximado, duración, qué llevar y alternativa por lluvia. Cada uno elige una parada sorpresa para el otro. No hace falta decidir hoy: guarden las ideas para cuando ambos quieran." },
+    palabraNueva: { titulo: "Itinerario", contenido: "Sirve para orientarse, no para convertir el paseo en una carrera. Dejen espacio para detenerse, cambiar de ruta o quedarse donde estén a gusto." },
+    buenasNoches: { titulo: "Un plan guardado en el bolsillo", contenido: "Quizá hoy no salieron, pero ya tienen tres ideas esperando su momento. Imaginar algo juntos también acerca el futuro. Que descanses." }
+  }}
 ];
