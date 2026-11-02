@@ -322,8 +322,8 @@ const CALENDARIO = [
         "contenido": "Hoy abrimos un bar diminuto en casa. No necesitamos uniforme ni carta elegante: solo dos vasos, hielo y ganas de inventar algo que tenga nombre propio. La persona que pierda el piedra, papel o tijera lava la coctelera."
       },
       "mensajePrincipal": {
-        "titulo": "Cóctel de mora, limón y ginebra (o versión sin alcohol)",
-        "contenido": "RECETA PARA DOS · SIN HORNO\n\nIngredientes: 80 g de moras; 60 ml de jugo de limón; 40 ml de jarabe simple (partes iguales de azúcar y agua, calentadas hasta disolver y enfriadas); 90 ml de ginebra; 180 ml de agua con gas; hielo. Para la versión sin alcohol, omitan la ginebra y agreguen 90 ml adicionales de agua con gas o tónica sin alcohol.\n\nPreparación:\n1. Machaquen las moras con el jugo de limón y el jarabe.\n2. Repartan la mezcla en dos vasos con bastante hielo.\n3. Añadan 45 ml de ginebra a cada vaso (solo en la versión con alcohol).\n4. Completen con agua con gas y mezclen suavemente.\n5. Prueben y ajusten limón o jarabe. Decoren con una mora.\n\nReto de pareja: cada uno inventa un nombre para la bebida y diseña una mini etiqueta en papel. Si usan alcohol, midan las porciones, no conduzcan después y pueden elegir la versión sin alcohol sin cambiar el juego."
+        "titulo": "Bebida de mora, limón y hierbabuena",
+        "contenido": "RECETA PARA DOS · SIN ALCOHOL · 15 MINUTOS\n\nIngredientes: 80 g de moras; 60 ml de zumo de limón; 40 ml de jarabe simple (partes iguales de azúcar y agua, calentadas hasta disolver y enfriadas); 300 ml de agua con gas; hielo y hierbabuena.\n\nPreparación:\n1. Machaca suavemente las moras con el zumo de limón y el jarabe.\n2. Reparte la mezcla en dos vasos con hielo.\n3. Completa con agua con gas y remueve despacio.\n4. Añade hierbabuena y una mora para decorar.\n5. Prueba y ajusta el limón o el dulzor.\n\nRETO DE PAREJA · 10 MINUTOS: cada uno inventa un nombre para la bebida y diseña una mini etiqueta en papel. Después comparen cuál representa mejor el sabor. Pueden prepararla para el almuerzo, llevar la base fría en una botella o servirla durante una salida; el hielo y el agua con gas se añaden al final para conservar las burbujas."
       },
       "palabraNueva": {
         "titulo": "La palabra burbujeante",
@@ -1009,7 +1009,7 @@ const CALENDARIO = [
     "dia": 22,
     "fecha": "2026-11-06",
     "fechaTexto": "vie, 6 de nov",
-    "categoria": "Una noche de copas, música y complicidad",
+    "categoria": "Una noche de bebidas de autor, música y complicidad",
     "icono": "🍸",
     "tono": "amor",
     "color": {
@@ -1031,11 +1031,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, brindis pendiente",
-        "contenido": "Te propongo una noche de copas para cuando tengamos una noche libre: música, luz bajita, algo para picar y dos bebidas preparadas con cariño. Si tomamos alcohol, que sea con moderación, solo si ambos tenemos edad legal para hacerlo y sin conducir después. También habrá una versión sin alcohol igual de especial."
+        "contenido": "Te propongo una noche de bebidas sin alcohol para cuando tengamos un rato libre: música, luz bajita, algo sencillo para picar y dos mezclas preparadas con cariño. Cada uno diseña una para el otro; la sorpresa está en adivinar qué sabores le gustaría descubrir."
       },
       "mensajePrincipal": {
-        "titulo": "Nuestro pequeño bar en casa",
-        "contenido": "Compra para dos: 2 limones, 1 naranja, agua con gas, hielo, hierbabuena, jarabe simple (azúcar disuelta en igual cantidad de agua y enfriada), 120 ml de ginebra o ron claro para la versión alcohólica, y frutos rojos o moras. Para cada copa: machaca suavemente 3 moras con 15 ml de limón y 15 ml de jarabe; añade 60 ml de ginebra o ron, hielo y completa con agua con gas. Versión sin alcohol: cambia el destilado por más agua con gas y un chorrito de jugo de naranja. Decoren con hierbabuena. Para picar: queso, aceitunas, uvas, papas rústicas en sartén o una tabla sencilla. Juego de la noche: cada uno inventa el nombre de su bebida y hace tres preguntas curiosas al otro. Sirvan porciones pequeñas, alternen con agua y no mezclen bebidas por competir. Nada de cerveza ni aguardiente."
+        "titulo": "Nuestro pequeño bar sin alcohol",
+        "contenido": "PLAN PARA DOS · 25 A 30 MINUTOS · SIN ALCOHOL\n\nCompra para dos: 2 limones, 1 naranja, agua con gas, hielo, hierbabuena, jarabe simple (azúcar disuelta en igual cantidad de agua y enfriada) y frutos rojos o moras. Para picar, elijan algo sencillo que ya tengan o puedan comprar dentro del presupuesto: queso, aceitunas, uvas o papas preparadas en sartén.\n\nPreparación:\n1. Machaca suavemente tres moras por vaso con 15 ml de limón y 15 ml de jarabe.\n2. Añade hielo y completa con agua con gas.\n3. Prepara la segunda versión con zumo de naranja, limón y hierbabuena.\n4. Decoren ambos vasos y prueben cuál combinación les gusta más.\n\nRETO · 10 MINUTOS: cada uno inventa el nombre de una bebida para el otro y formula tres preguntas curiosas. Si la preparan para el almuerzo en la oficina, dejen la fruta y el hielo aparte y mezclen al servir; si es para una salida, lleven la base en una botella fría. No hace falta comprar todo: adapten la receta a lo que ya tengan."
       },
       "palabraNueva": {
         "titulo": "Palabra de bar",
@@ -1043,7 +1043,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Quiero que sea una noche para conversar, reírnos y brindar por algo pequeño. No necesitamos una ocasión especial; y si preferimos no beber alcohol, la noche sigue siendo igual de nuestra."
+        "contenido": "Quiero que sea una noche para conversar, reírnos y brindar por algo pequeño. No necesitamos una ocasión especial ni una compra grande: la complicidad también cabe en dos vasos preparados con lo que ya tenemos."
       }
     },
     "palabraNueva": {
@@ -1846,11 +1846,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, cómplices",
-        "contenido": "Hoy sí vamos a jugar a tener un bar propio. Cada uno va a diseñar una bebida para el otro, intentando adivinar qué sabores le gustaría descubrir."
+        "contenido": "Hoy sí vamos a jugar a tener un bar propio, pero sin alcohol y sin complicarnos. Cada uno va a diseñar una bebida para el otro intentando adivinar qué sabores le gustaría descubrir. La misión es sorprender con creatividad, no gastar más."
       },
       "mensajePrincipal": {
-        "titulo": "Desafío de coctelería por parejas",
-        "contenido": "Antes de empezar, acuerden un presupuesto y compren hielo, limón, una fruta, una bebida para mezclar y algo aromático como hierbabuena o romero. Cada uno escoge en secreto un ingrediente principal para la bebida del otro. Intercambien los ingredientes y diseñen una receta con nombre, presentación y una pequeña historia. Para una versión sin alcohol, usen agua tónica, soda, ginger ale o té frío. Si ambos son mayores de edad y desean una versión alcohólica, pueden añadir una sola medida estándar de una bebida espirituosa a la receta, respetando la edad legal, sin presionar a nadie y sin buscar embriagarse. Tomen agua, coman algo y no conduzcan después de beber. Al final, cada uno califica sabor, presentación y cuánto sintió que la bebida fue pensada para él."
+        "titulo": "Desafío de bebidas sin alcohol por parejas",
+        "contenido": "RETO PARA DOS · 20 A 25 MINUTOS · SIN ALCOHOL\n\nAntes de empezar, acuerden un presupuesto pequeño o decidan usar lo que ya haya en casa. Elijan hielo, limón, una fruta y una base para mezclar: agua con gas, soda, ginger ale o té frío. También pueden sumar hierbabuena o romero.\n\n1. Cada uno escoge en secreto una fruta o un ingrediente aromático para la bebida del otro.\n2. Intercambien las elecciones y preparen primero una porción pequeña.\n3. Ajusten el sabor con limón, agua o un poco de jarabe simple.\n4. Pongan nombre a cada bebida y diseñen una presentación con lo que tengan.\n5. Prueben ambas y califiquen sabor, presentación y cuánto refleja los gustos de quien la recibirá.\n\nSi quieren llevar la idea al almuerzo de la oficina, preparen la base por la mañana y añadan hielo al servir. Para una salida, llévenla en una botella reutilizable. Nadie tiene que comprar ingredientes especiales ni participar si no le apetece."
       },
       "palabraNueva": {
         "titulo": "Palabra de bartender",
@@ -1858,7 +1858,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Lo bonito del reto no es quién preparó la mejor bebida, sino haber pensado en los gustos del otro. Y siempre se vale elegir la versión sin alcohol."
+        "contenido": "Lo bonito del reto no es quién preparó la mejor bebida, sino haber pensado en los gustos del otro. A veces una fruta, un toque cítrico y una idea bien puesta bastan para convertir una pausa en un recuerdo."
       }
     },
     "palabraNueva": {
@@ -13780,8 +13780,8 @@ const CALENDARIO = [
     "buenasNoches": "Que nunca nos falten motivos pequeños para celebrar sin esperar una fecha marcada.",
     "cancionTitulo": "Rather Be",
     "cancionArtista": "Clean Bandit ft. Jess Glynne",
-    "youtubeId": "m-M1Atrx大",
-    "cancionUrl": "https://www.youtube.com/watch?v=m-M1Atrx大",
+    "youtubeId": "m-M1AtrxztU",
+    "cancionUrl": "https://www.youtube.com/watch?v=m-M1AtrxztU",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -14203,8 +14203,8 @@ const CALENDARIO = [
     "buenasNoches": "A veces una idea no necesita mucho material: basta una hoja y un poco de curiosidad.",
     "cancionTitulo": "Billie Jean",
     "cancionArtista": "Michael Jackson",
-    "youtubeId": "Zi_XLOBDo_Yk",
-    "cancionUrl": "https://www.youtube.com/watch?v=Zi_XLOBDo_Yk",
+    "youtubeId": "Zi_XLOBDo_Y",
+    "cancionUrl": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -15190,8 +15190,8 @@ const CALENDARIO = [
     "buenasNoches": "Las mejores ideas no siempre necesitan muchas piezas; necesitan una regla que despierte curiosidad.",
     "cancionTitulo": "Can't Stop the Feeling!",
     "cancionArtista": "Justin Timberlake",
-    "youtubeId": "3AtDnEC4hayI",
-    "cancionUrl": "https://www.youtube.com/watch?v=3AtDnEC4hayI",
+    "youtubeId": "ru0K8uYEZWw",
+    "cancionUrl": "https://www.youtube.com/watch?v=ru0K8uYEZWw",
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
@@ -16691,10 +16691,10 @@ const CALENDARIO = [
     ],
     "detalle": "Inventen una técnica maldita inspirada en Jujutsu Kaisen. Debe tener nombre, efecto, alcance y una limitación. Después creen una expansión de dominio con una regla inesperada. La otra persona propone una situación y ustedes explican cómo funcionaría sin volverla invencible. Actividad original de fans, sin spoilers.",
     "buenasNoches": "La condición de la técnica la obligaba a elegir el momento exacto.",
-    "cancionTitulo": "La imaginación no necesita ser invencible para ser brillante.",
-    "cancionArtista": "Passin' Me By",
-    "youtubeId": "The Pharcyde",
-    "cancionUrl": "https://www.youtube.com/watch?v=The Pharcyde",
+    "cancionTitulo": "Passin' Me By",
+    "cancionArtista": "The Pharcyde",
+    "youtubeId": "a-mAK3uB2_0",
+    "cancionUrl": "https://www.youtube.com/watch?v=a-mAK3uB2_0",
     "palabraNueva": {
       "palabra": "Condición",
       "significado": "Circunstancia o requisito que limita, determina o hace posible algo.",
@@ -16718,7 +16718,7 @@ const CALENDARIO = [
         "contenido": "La condición de la técnica la obligaba a elegir el momento exacto."
       }
     },
-    "inspiracionCancion": "La canción acompaña el tono de este día: fandom y humor, con una atmósfera propia y sin reproducir su letra."
+    "inspiracionCancion": "La canción acompaña el tono de este día: hip-hop clásico, ingenio y complicidad, sin reproducir su letra."
   },
   {
     "dia": 355,
