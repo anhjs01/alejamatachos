@@ -6632,5 +6632,327 @@ const CALENDARIO = [
       "significado": "Idea central que sirve como punto de partida para desarrollar una historia.",
       "ejemplo": "Una buena premisa permite imaginar una historia completa a partir de una sola idea."
     }
+  },
+  {
+    "dia": 154,
+    "fecha": "2027-03-18",
+    "fechaTexto": "jue, 18 de mar",
+    "categoria": "La playlist de los estados de ánimo",
+    "icono": "🎶",
+    "tono": "musical y personal",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy no vamos a elegir canciones por género, sino por lo que nos hacen sentir.",
+    "poema": [
+      "Escoge cuatro estados de ánimo —por ejemplo, energía, calma, nostalgia y ganas de reír— y busca una canción para cada uno. No tienen que ser canciones favoritas ni tener una letra relacionada: basta con que transmitan esa sensación. Si lo hacen entre dos, cada quien propone una canción para un estado y explica qué detalle le hizo escogerla. Al final pongan un título a la mini playlist.",
+      "Guarden los cuatro temas en una lista con el título que inventaron. Puede quedar como una pequeña cápsula musical de esta semana."
+    ],
+    "detalle": "Guarden los cuatro temas en una lista con el título que inventaron. Puede quedar como una pequeña cápsula musical de esta semana.",
+    "buenasNoches": "A veces una canción encuentra las palabras que uno no tenía a mano.",
+    "cancionTitulo": "Me Or The Papes",
+    "cancionArtista": "Jeru The Damaja",
+    "youtubeId": "g9S_sfBfIUA",
+    "cancionUrl": "https://www.youtube.com/watch?v=g9S_sfBfIUA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy no vamos a elegir canciones por género, sino por lo que nos hacen sentir."
+      },
+      "mensajePrincipal": {
+        "titulo": "La playlist de los estados de ánimo",
+        "contenido": "Escoge cuatro estados de ánimo —por ejemplo, energía, calma, nostalgia y ganas de reír— y busca una canción para cada uno. No tienen que ser canciones favoritas ni tener una letra relacionada: basta con que transmitan esa sensación. Si lo hacen entre dos, cada quien propone una canción para un estado y explica qué detalle le hizo escogerla. Al final pongan un título a la mini playlist."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra armonía",
+        "contenido": "Combinación equilibrada de elementos distintos. Una playlist puede encontrar armonía entre canciones que parecen no tener nada en común."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una canción encuentra las palabras que uno no tenía a mano."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Armonía",
+      "significado": "Combinación equilibrada de elementos distintos.",
+      "ejemplo": "Una playlist puede encontrar armonía entre canciones que parecen no tener nada en común."
+    }
+  },
+  {
+    "dia": 155,
+    "fecha": "2027-03-19",
+    "fechaTexto": "vie, 19 de mar",
+    "categoria": "El plano secreto de una habitación",
+    "icono": "📐",
+    "tono": "creativo y espacial",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Imagina que te encargan diseñar un rincón perfecto para desconectarte del mundo.",
+    "poema": [
+      "Dibuja un plano sencillo de un espacio pequeño: puede ser una habitación, un balcón o un rincón de lectura. Incluye cinco elementos que lo harían especial, como una lámpara cálida, una planta, una silla cómoda, una repisa o una ventana. Añade un detalle inesperado que revele algo de quien lo usaría. No pienses en presupuesto ni medidas exactas; es un ejercicio de imaginación.",
+      "En el lienzo de ALEJA® crea el plano desde arriba y marca con pequeñas etiquetas dónde iría cada elemento. Si quieres, añade una paleta de tres colores para el ambiente."
+    ],
+    "detalle": "En el lienzo de ALEJA® crea el plano desde arriba y marca con pequeñas etiquetas dónde iría cada elemento. Si quieres, añade una paleta de tres colores para el ambiente.",
+    "buenasNoches": "Ojalá siempre exista un rincón, real o imaginado, donde puedas respirar con tranquilidad.",
+    "cancionTitulo": "Boyz-N-The-Hood",
+    "cancionArtista": "Eazy-E",
+    "youtubeId": "64mx7TiCbuY",
+    "cancionUrl": "https://www.youtube.com/watch?v=64mx7TiCbuY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Imagina que te encargan diseñar un rincón perfecto para desconectarte del mundo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El plano secreto de una habitación",
+        "contenido": "Dibuja un plano sencillo de un espacio pequeño: puede ser una habitación, un balcón o un rincón de lectura. Incluye cinco elementos que lo harían especial, como una lámpara cálida, una planta, una silla cómoda, una repisa o una ventana. Añade un detalle inesperado que revele algo de quien lo usaría. No pienses en presupuesto ni medidas exactas; es un ejercicio de imaginación."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra composición",
+        "contenido": "Organización de los elementos dentro de un espacio o una imagen. La composición cambia la manera en que se siente un lugar."
+      },
+      "buenasNoches": {
+        "contenido": "Ojalá siempre exista un rincón, real o imaginado, donde puedas respirar con tranquilidad."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Composición",
+      "significado": "Organización de los elementos dentro de un espacio o una imagen.",
+      "ejemplo": "La composición cambia la manera en que se siente un lugar."
+    }
+  },
+  {
+    "dia": 156,
+    "fecha": "2027-03-20",
+    "fechaTexto": "sáb, 20 de mar",
+    "categoria": "La receta del sándwich inesperado",
+    "icono": "🥪",
+    "tono": "receta sencilla",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca una receta sin horno que se puede preparar en pocos minutos.",
+    "poema": [
+      "Arma un sándwich con pan, queso, tomate y aguacate. Tuesta el pan solo si tienes una tostadora disponible; también queda bien sin tostar. Agrega una pizca de sal si te gusta. Puedes cambiar el tomate por pepino o usar otro queso que tengas. Por la alergia al maní, revisa el empaque del pan y del queso, y evita cualquier producto con advertencias de trazas o posible contaminación cruzada. No necesitas estufa ni horno.",
+      "Ponle un nombre original al sándwich, como si fuera el plato estrella de un café. Escribe los cuatro ingredientes y el orden en que los armaste."
+    ],
+    "detalle": "Ponle un nombre original al sándwich, como si fuera el plato estrella de un café. Escribe los cuatro ingredientes y el orden en que los armaste.",
+    "buenasNoches": "Las mejores soluciones a veces caben entre dos tajadas de pan.",
+    "cancionTitulo": "On And On",
+    "cancionArtista": "Shyheim",
+    "youtubeId": "VqNeWP26FVY",
+    "cancionUrl": "https://www.youtube.com/watch?v=VqNeWP26FVY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca una receta sin horno que se puede preparar en pocos minutos."
+      },
+      "mensajePrincipal": {
+        "titulo": "La receta del sándwich inesperado",
+        "contenido": "Arma un sándwich con pan, queso, tomate y aguacate. Tuesta el pan solo si tienes una tostadora disponible; también queda bien sin tostar. Agrega una pizca de sal si te gusta. Puedes cambiar el tomate por pepino o usar otro queso que tengas. Por la alergia al maní, revisa el empaque del pan y del queso, y evita cualquier producto con advertencias de trazas o posible contaminación cruzada. No necesitas estufa ni horno."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra equilibrio",
+        "contenido": "Proporción adecuada entre elementos diferentes. El equilibrio entre sabores hace que una receta sencilla funcione."
+      },
+      "buenasNoches": {
+        "contenido": "Las mejores soluciones a veces caben entre dos tajadas de pan."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Equilibrio",
+      "significado": "Proporción adecuada entre elementos diferentes.",
+      "ejemplo": "El equilibrio entre sabores hace que una receta sencilla funcione."
+    }
+  },
+  {
+    "dia": 157,
+    "fecha": "2027-03-21",
+    "fechaTexto": "dom, 21 de mar",
+    "categoria": "El torneo de explicaciones absurdas",
+    "icono": "🏆",
+    "tono": "juego verbal",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca defender ideas imposibles con la seriedad de un gran debate.",
+    "poema": [
+      "Elijan un objeto común —una cuchara, una media o una botella— y sorteen una postura absurda: por ejemplo, demostrar que la cuchara es el invento más importante de la humanidad o que las medias deberían tener nombre propio. Cada participante tiene un minuto para defender su idea con tres argumentos y un ejemplo. La otra persona puede hacer una pregunta al final. Gana la explicación más convincente o la que dé más risa.",
+      "Pueden otorgar un premio imaginario con un título exagerado: «Máxima autoridad mundial en cucharas» o algo todavía más disparatado."
+    ],
+    "detalle": "Pueden otorgar un premio imaginario con un título exagerado: «Máxima autoridad mundial en cucharas» o algo todavía más disparatado.",
+    "buenasNoches": "No siempre hay que tener razón para construir un argumento memorable.",
+    "cancionTitulo": "Get Money",
+    "cancionArtista": "Junior M.A.F.I.A.",
+    "youtubeId": "zZ29lDumb9U",
+    "cancionUrl": "https://www.youtube.com/watch?v=zZ29lDumb9U",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca defender ideas imposibles con la seriedad de un gran debate."
+      },
+      "mensajePrincipal": {
+        "titulo": "El torneo de explicaciones absurdas",
+        "contenido": "Elijan un objeto común —una cuchara, una media o una botella— y sorteen una postura absurda: por ejemplo, demostrar que la cuchara es el invento más importante de la humanidad o que las medias deberían tener nombre propio. Cada participante tiene un minuto para defender su idea con tres argumentos y un ejemplo. La otra persona puede hacer una pregunta al final. Gana la explicación más convincente o la que dé más risa."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra persuasión",
+        "contenido": "Capacidad de presentar razones para convencer a alguien de una idea. La persuasión puede ser divertida cuando el argumento defiende algo absurdo."
+      },
+      "buenasNoches": {
+        "contenido": "No siempre hay que tener razón para construir un argumento memorable."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Persuasión",
+      "significado": "Capacidad de presentar razones para convencer a alguien de una idea.",
+      "ejemplo": "La persuasión puede ser divertida cuando el argumento defiende algo absurdo."
+    }
+  },
+  {
+    "dia": 158,
+    "fecha": "2027-03-22",
+    "fechaTexto": "lun, 22 de mar",
+    "categoria": "La postal de un lugar que te representa",
+    "icono": "💌",
+    "tono": "expresivo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Si tuvieras que enviar una postal que explique cómo eres sin mostrar tu cara, ¿qué pondrías?",
+    "poema": [
+      "Elige un lugar real o inventado que represente algo de tu personalidad: una biblioteca silenciosa, una calle llena de música, una montaña nublada, una tienda de discos o una playa al atardecer. Escribe al reverso tres líneas: qué encontraría alguien allí, qué sonido se escucharía y qué sensación te gustaría que quedara. No tiene que ser un lugar al que hayas ido; puede ser una imagen mental.",
+      "Diseña la postal en el lienzo con una ilustración sencilla por un lado y tus tres líneas por el otro. Si te nace compartirla, deja que la otra persona imagine por qué escogiste ese lugar."
+    ],
+    "detalle": "Diseña la postal en el lienzo con una ilustración sencilla por un lado y tus tres líneas por el otro. Si te nace compartirla, deja que la otra persona imagine por qué escogiste ese lugar.",
+    "buenasNoches": "Hay lugares que existen primero en la imaginación y aun así se sienten cercanos.",
+    "cancionTitulo": "Born 2 Live",
+    "cancionArtista": "O.C.",
+    "youtubeId": "Gf68J5iqK6g",
+    "cancionUrl": "https://www.youtube.com/watch?v=Gf68J5iqK6g",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Si tuvieras que enviar una postal que explique cómo eres sin mostrar tu cara, ¿qué pondrías?"
+      },
+      "mensajePrincipal": {
+        "titulo": "La postal de un lugar que te representa",
+        "contenido": "Elige un lugar real o inventado que represente algo de tu personalidad: una biblioteca silenciosa, una calle llena de música, una montaña nublada, una tienda de discos o una playa al atardecer. Escribe al reverso tres líneas: qué encontraría alguien allí, qué sonido se escucharía y qué sensación te gustaría que quedara. No tiene que ser un lugar al que hayas ido; puede ser una imagen mental."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra evocación",
+        "contenido": "Acción de traer algo a la memoria o representar una sensación mediante una imagen. Una postal puede evocar un lugar incluso sin mostrarlo literalmente."
+      },
+      "buenasNoches": {
+        "contenido": "Hay lugares que existen primero en la imaginación y aun así se sienten cercanos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Evocación",
+      "significado": "Acción de traer algo a la memoria o representar una sensación mediante una imagen.",
+      "ejemplo": "Una postal puede evocar un lugar incluso sin mostrarlo literalmente."
+    }
+  },
+  {
+    "dia": 159,
+    "fecha": "2027-03-23",
+    "fechaTexto": "mar, 23 de mar",
+    "categoria": "El reto de la memoria en cadena",
+    "icono": "🧠",
+    "tono": "juego de memoria",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a poner a prueba la memoria, pero con una regla que puede complicarlo bastante.",
+    "poema": [
+      "La primera persona dice una frase que empiece con «En mi mochila imaginaria llevo…» y añade un objeto. La siguiente repite el objeto anterior y agrega otro. Continúen por turnos sin cambiar el orden. Cada tres rondas, quien escucha puede pedir que la lista se diga al revés. Si alguien se equivoca, no queda eliminado: el grupo reconstruye la secuencia y sigue desde ahí. Prueben llegar a diez objetos.",
+      "Para hacerlo más difícil, acuerden una categoría secreta —cosas que llevarías a una aventura, objetos de otro planeta o artículos de una tienda imposible— y manténganla durante toda la partida."
+    ],
+    "detalle": "Para hacerlo más difícil, acuerden una categoría secreta —cosas que llevarías a una aventura, objetos de otro planeta o artículos de una tienda imposible— y manténganla durante toda la partida.",
+    "buenasNoches": "La memoria también se entrena jugando y riéndose de los pequeños errores.",
+    "cancionTitulo": "Retina Floja",
+    "cancionArtista": "Bubaseta; Movimiento Original",
+    "youtubeId": "tdah2a4aKQ8",
+    "cancionUrl": "https://www.youtube.com/watch?v=tdah2a4aKQ8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a poner a prueba la memoria, pero con una regla que puede complicarlo bastante."
+      },
+      "mensajePrincipal": {
+        "titulo": "El reto de la memoria en cadena",
+        "contenido": "La primera persona dice una frase que empiece con «En mi mochila imaginaria llevo…» y añade un objeto. La siguiente repite el objeto anterior y agrega otro. Continúen por turnos sin cambiar el orden. Cada tres rondas, quien escucha puede pedir que la lista se diga al revés. Si alguien se equivoca, no queda eliminado: el grupo reconstruye la secuencia y sigue desde ahí. Prueben llegar a diez objetos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra secuencia",
+        "contenido": "Serie de elementos que siguen un orden determinado. Recordar una secuencia requiere atención y concentración."
+      },
+      "buenasNoches": {
+        "contenido": "La memoria también se entrena jugando y riéndose de los pequeños errores."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Secuencia",
+      "significado": "Serie de elementos que siguen un orden determinado.",
+      "ejemplo": "Recordar una secuencia requiere atención y concentración."
+    }
+  },
+  {
+    "dia": 160,
+    "fecha": "2027-03-24",
+    "fechaTexto": "mié, 24 de mar",
+    "categoria": "La pregunta que merece una pausa",
+    "icono": "🌙",
+    "tono": "conversación reflexiva",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy no hay competencia ni tarea larga: solo una pregunta para responder sin afán.",
+    "poema": [
+      "Si pudieras conservar una costumbre pequeña para el resto de tu vida, ¿cuál sería y por qué? Puede ser tomar algo caliente en la mañana, caminar escuchando música, llamar a alguien, leer unas páginas o guardar fotos de momentos cotidianos. Responde con libertad; no hay una respuesta correcta. Si comparten la pregunta, escuchen sin interrumpir y hagan una sola pregunta adicional para conocer mejor la historia detrás de la elección.",
+      "Puedes guardar la respuesta en una nota o convertirla en una frase breve. No hace falta compartir nada que prefieras mantener para ti."
+    ],
+    "detalle": "Puedes guardar la respuesta en una nota o convertirla en una frase breve. No hace falta compartir nada que prefieras mantener para ti.",
+    "buenasNoches": "Hay preguntas que no necesitan una respuesta rápida; a veces lo valioso está en detenerse a pensar.",
+    "cancionTitulo": "Anestesia Local - Episodio 2",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "MRyZ6faVKWQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=MRyZ6faVKWQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy no hay competencia ni tarea larga: solo una pregunta para responder sin afán."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pregunta que merece una pausa",
+        "contenido": "Si pudieras conservar una costumbre pequeña para el resto de tu vida, ¿cuál sería y por qué? Puede ser tomar algo caliente en la mañana, caminar escuchando música, llamar a alguien, leer unas páginas o guardar fotos de momentos cotidianos. Responde con libertad; no hay una respuesta correcta. Si comparten la pregunta, escuchen sin interrumpir y hagan una sola pregunta adicional para conocer mejor la historia detrás de la elección."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra matiz",
+        "contenido": "Diferencia pequeña que aporta un sentido particular a una idea. Un matiz puede cambiar una respuesta sencilla por una conversación interesante."
+      },
+      "buenasNoches": {
+        "contenido": "Hay preguntas que no necesitan una respuesta rápida; a veces lo valioso está en detenerse a pensar."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Matiz",
+      "significado": "Diferencia pequeña que aporta un sentido particular a una idea.",
+      "ejemplo": "Un matiz puede cambiar una respuesta sencilla por una conversación interesante."
+    }
   }
 ];
