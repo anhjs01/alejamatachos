@@ -645,7 +645,7 @@ function openDoor(n){
  document.querySelector('#letter-title').textContent=d?(safeText(d.categoria)||'UN DETALLE PARA TI').toUpperCase():(n<=365?'ESTA PUERTA ESTÁ POR DESCUBRIR':'');
  const pieces=[];
  if(d){if(safeText(d.buenosDias))pieces.push('PARA EMPEZAR EL DÍA\n'+d.buenosDias);if(Array.isArray(d.poema))d.poema.forEach((p,i)=>{if(safeText(p))pieces.push((i===0?'UN PENSAMIENTO':'OTRA COSA PARA RECORDAR')+'\n'+p)});if(safeText(d.detalle))pieces.push('PEQUEÑO DETALLE\n'+d.detalle);if(safeText(d.buenasNoches))pieces.push('PARA CERRAR EL DÍA\n'+d.buenasNoches);if(safeText(d.cancionTitulo))pieces.push('CANCIÓN\n'+d.cancionTitulo+(d.cancionArtista?' — '+d.cancionArtista:''));}
- else pieces.push('El calendario disponible contiene 110 días con contenido escrito. Esta puerta todavía no tiene un mensaje verificado; la dejamos pendiente para no inventar recuerdos ni atribuirle a Aleja detalles que no estén confirmados.');
+ else pieces.push('El calendario disponible contiene 118 días con contenido escrito. Esta puerta todavía no tiene un mensaje verificado; la dejamos pendiente para no inventar recuerdos ni atribuirle a Aleja detalles que no estén confirmados.');
  document.querySelector('#letter-text').textContent=pieces.join('\n\n');
  document.querySelector('#keyword').textContent='PALABRA CLAVE · '+keywordFor(n).toLocaleUpperCase('es-CO');
  document.querySelector('#save').textContent=visited.has(n)?'MOMENTO GUARDADO ✓':'GUARDAR ESTE MOMENTO ✦';
