@@ -961,7 +961,7 @@ const CALENDARIO = [
     "dia": 21,
     "fecha": "2026-11-05",
     "fechaTexto": "jue, 5 de nov",
-    "categoria": "Una ruta de cafés y dibujo",
+    "categoria": "Café de escritorio y diez dibujos",
     "icono": "☕",
     "tono": "creativo",
     "color": {
@@ -1297,7 +1297,7 @@ const CALENDARIO = [
     "dia": 28,
     "fecha": "2026-11-12",
     "fechaTexto": "jue, 12 de nov",
-    "categoria": "Una tarde de picnic con un reto fotográfico",
+    "categoria": "Seis fotografías sin salir de casa",
     "icono": "🧺",
     "tono": "aventura",
     "color": {
@@ -1489,7 +1489,7 @@ const CALENDARIO = [
     "dia": 32,
     "fecha": "2026-11-16",
     "fechaTexto": "lun, 16 de nov",
-    "categoria": "Una noche para mirar las estrellas",
+    "categoria": "El cielo visto desde nuestra ventana",
     "icono": "🌌",
     "tono": "aventura",
     "color": {
@@ -1872,7 +1872,7 @@ const CALENDARIO = [
     "dia": 40,
     "fecha": "2026-11-24",
     "fechaTexto": "mar, 24 de nov",
-    "categoria": "El centro comercial convertido en tablero",
+    "categoria": "Cinco misiones para una pausa compartida",
     "icono": "🎯",
     "tono": "juego",
     "color": {
@@ -1968,7 +1968,7 @@ const CALENDARIO = [
     "dia": 42,
     "fecha": "2026-11-26",
     "fechaTexto": "jue, 26 de nov",
-    "categoria": "Una tarde de mirador y merienda",
+    "categoria": "Diseñemos la vista de una futura tarde",
     "icono": "🌄",
     "tono": "salida",
     "color": {
@@ -2186,7 +2186,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Reto de cocina: dos elecciones y una sartén",
-        "contenido": "Elijan una base: arroz, papas cocidas o pasta. Cada uno escoge en secreto un ingrediente principal para sumar: pollo, champiñones, tomate, espinaca, maíz, pimentón o queso. Revelen las elecciones y construyan un plato que combine ambos. Para dos personas, usen una taza de arroz crudo o una porción equivalente de la base, una proteína o legumbre, verduras, ajo, cebolla, aceite y condimentos al gusto. Cocinen primero la proteína en sartén hasta que esté bien hecha; retiren, salteen las verduras, incorporen la base ya cocida y devuelvan la proteína. Ajusten sal, pimienta y limón. Uno dirige la sartén y el otro prepara ingredientes y mesa. Anoten cantidades para poder repetir el experimento."
+        "contenido": "Elijan una base: arroz, papas cocidas o pasta. Cada uno escoge en secreto un ingrediente principal para sumar: pollo, champiñones, tomate, espinaca, maíz, pimentón o queso. Revelen las elecciones y construyan un plato que combine ambos. Para dos personas, usen una taza de arroz crudo o una porción equivalente de la base, una proteína o legumbre, verduras, ajo, cebolla, aceite y condimentos al gusto. Cocinen primero la proteína en sartén hasta que esté bien hecha; retiren, salteen las verduras, incorporen la base ya cocida y devuelvan la proteína. Ajusten sal, pimienta y limón. Uno dirige la sartén y el otro prepara ingredientes y mesa. Anoten cantidades para poder repetir el experimento.\n\nTIEMPO SUGERIDO: 25–35 MINUTOS. Diez minutos para elegir la combinación, 15–20 para cocinar y unos minutos para probar y ajustar."
       },
       "palabraNueva": {
         "titulo": "Palabra de cocina",
@@ -2233,7 +2233,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El safari fotográfico de interiores",
-        "contenido": "Tomen siete fotografías dentro de casa con temas distintos: una textura, una sombra, algo azul, una forma geométrica, un objeto antiguo, una escena de movimiento y un detalle que normalmente pasa inadvertido. No busquen que parezcan fotografías profesionales: intenten mostrar algo cotidiano desde otro ángulo. Al final cada uno elige una imagen y le pone un título como si fuera una obra de una exposición."
+        "contenido": "Tomen siete fotografías dentro de casa con temas distintos: una textura, una sombra, algo azul, una forma geométrica, un objeto antiguo, una escena de movimiento y un detalle que normalmente pasa inadvertido. No busquen que parezcan fotografías profesionales: intenten mostrar algo cotidiano desde otro ángulo. Al final cada uno elige una imagen y le pone un título como si fuera una obra de una exposición.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cada persona toma tres fotos y después eligen juntos la más inesperada."
       },
       "palabraNueva": {
         "titulo": "Palabra de fotografía",
@@ -2255,7 +2255,7 @@ const CALENDARIO = [
     "dia": 48,
     "fecha": "2026-12-02",
     "fechaTexto": "mié, 2 de dic",
-    "categoria": "Una merienda que se convierte en plan",
+    "categoria": "Cafetería en casa: una sobremesa sin prisa",
     "icono": "☕",
     "tono": "salida",
     "color": {
@@ -2277,11 +2277,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, amantes del café",
-        "contenido": "Hoy la propuesta es salir a tomar algo y no mirar el reloj cada cinco minutos. Busquemos un café o lugar de merienda que nos guste por su ambiente, no solo por la bebida."
+        "contenido": "Hoy vamos a montar una cafetería pequeña en casa: una bebida que ya tengamos, algo sencillo para picar y una conversación sin mirar el reloj. No necesitamos salir ni comprar nada especial."
       },
       "mensajePrincipal": {
-        "titulo": "Plan de sobremesa larga",
-        "contenido": "Elijan un sitio real que les quede cómodo y revisen horarios, precios y transporte antes de salir. Cada uno escoge una bebida para el otro o recomienda algo que cree que le gustaría. Pidan una merienda para compartir si les provoca. Después hagan tres rondas de conversación: algo que les dio risa esta semana, algo nuevo que quieran aprender y un plan que les gustaría organizar antes de que termine el año. Si el lugar está lleno o no se ajusta al presupuesto, cambien de sitio o preparen la merienda en casa. La idea es tener tiempo, no cumplir una reserva."
+        "titulo": "Cafetería en casa: una sobremesa sin prisa",
+        "contenido": "PLAN PARA DOS · 20–30 MINUTOS · EN CASA · SIN GASTO O CON LO QUE YA TENGAN\n\nHoy no hace falta desplazarse ni reservar un sitio. Preparen la bebida que ya tengan —café, té, agua aromatizada o chocolate— y una merienda sencilla. Organicen una mesa con una servilleta, una nota escrita a mano y una canción de fondo.\n\nCada persona propone una pregunta curiosa y una historia divertida para compartir. Después, intercambien los papeles: quien preparó la bebida elige la pregunta y quien organizó la mesa cuenta la historia. Si algún día quieren conocer una cafetería nueva, la idea queda guardada para cuando coincidan el tiempo y el presupuesto.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Versión de oficina: una bebida y una pregunta en una pausa de 5–8 minutos."
       },
       "palabraNueva": {
         "titulo": "Palabra para quedarse",
@@ -2289,7 +2289,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Ojalá hayamos tenido una tarde tranquila, de esas que no necesitan demasiadas actividades para sentirse especiales."
+        "contenido": "La cafetería puede cerrar por hoy, pero la conversación queda abierta. A veces una mesa sencilla y una pregunta bien elegida hacen más que un plan elaborado."
       }
     },
     "palabraNueva": {
@@ -2329,7 +2329,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Diseñemos una escapada de un día",
-        "contenido": "Cada uno propone un tipo de destino: un pueblo con arquitectura bonita, un lugar junto al agua, una zona de clima cálido, un mirador o un recorrido gastronómico. Comparen las ideas y elijan una favorita sin comprometerse todavía. Después revisen distancia, transporte, presupuesto, clima, horarios y lugares abiertos en la fecha que les convenga. Armen un itinerario flexible: salida por la mañana, una actividad principal, almuerzo, paseo tranquilo y regreso antes de que sea demasiado tarde. Anoten cuánto costaría y qué habría que reservar. Si la propuesta no convence a alguno, se cambia; también pueden guardar dos destinos finalistas y decidir más adelante. La pregunta importante: ¿cuál de estas escapadas sí te emociona hacer conmigo?"
+        "contenido": "Cada uno propone un tipo de destino: un pueblo con arquitectura bonita, un lugar junto al agua, una zona de clima cálido, un mirador o un recorrido gastronómico. Comparen las ideas y elijan una favorita sin comprometerse todavía. Después revisen distancia, transporte, presupuesto, clima, horarios y lugares abiertos en la fecha que les convenga. Armen un itinerario flexible: salida por la mañana, una actividad principal, almuerzo, paseo tranquilo y regreso antes de que sea demasiado tarde. Anoten cuánto costaría y qué habría que reservar. Si la propuesta no convence a alguno, se cambia; también pueden guardar dos destinos finalistas y decidir más adelante. La pregunta importante: ¿cuál de estas escapadas sí te emociona hacer conmigo?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS para diseñar la idea. No reserven ni compren nada hoy: primero comparen presupuesto, transporte y ganas."
       },
       "palabraNueva": {
         "titulo": "Palabra viajera",
@@ -2377,7 +2377,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El juego de las pistas pequeñas",
-        "contenido": "Elijan un espacio de la casa o una mesa con varios objetos. Una persona observa durante treinta segundos mientras la otra memoriza la escena. Después, quien observó cierra los ojos y la otra cambia cinco cosas: gira un objeto, mueve una taza, cambia algo de lugar o retira un elemento. Al abrir los ojos, tiene que descubrir los cambios. Jueguen tres rondas y alternen los papeles. Para la última ronda, agreguen una pista falsa: un cambio que parezca importante pero no lo sea. Si quieren subir la dificultad, hagan la misma dinámica con una fotografía llena de detalles. Gana quien encuentre más cambios, pero el premio lo elige quien pierda: preparar el café, escoger la canción o conceder un cumplido especialmente creativo. ¿Qué detalle crees que yo nunca notaría de ti?"
+        "contenido": "Elijan un espacio de la casa o una mesa con varios objetos. Una persona observa durante treinta segundos mientras la otra memoriza la escena. Después, quien observó cierra los ojos y la otra cambia cinco cosas: gira un objeto, mueve una taza, cambia algo de lugar o retira un elemento. Al abrir los ojos, tiene que descubrir los cambios. Jueguen tres rondas y alternen los papeles. Para la última ronda, agreguen una pista falsa: un cambio que parezca importante pero no lo sea. Si quieren subir la dificultad, hagan la misma dinámica con una fotografía llena de detalles. Gana quien encuentre más cambios, pero el premio lo elige quien pierda: preparar el café, escoger la canción o conceder un cumplido especialmente creativo. ¿Qué detalle crees que yo nunca notaría de ti?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Hagan dos rondas de observación de 30 segundos y una ronda final para inventar una explicación."
       },
       "palabraNueva": {
         "titulo": "Una palabra para mirar mejor",
@@ -2425,7 +2425,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Vasitos de fruta, crema y crocante",
-        "contenido": "Ingredientes para dos: una taza de fresas, una taza de uvas, un yogur griego natural, dos cucharadas de queso crema, una cucharadita de miel o azúcar, cuatro galletas sencillas y unas gotas de limón. Lava y corta las fresas y las uvas. Mezcla el yogur con el queso crema, la miel y unas gotas de limón hasta obtener una crema uniforme. Tritura las galletas con las manos, sin convertirlas en polvo. En dos vasos transparentes arma capas de fruta, crema y galleta; repite una vez y termina con fruta. Refrigera entre veinte y treinta minutos. Antes de servir, cada uno puede decorar el vaso del otro con una combinación de frutas. Si prefieren una versión menos dulce, omitan la miel. No necesita horno ni herramientas especiales. ¿Qué fruta agregarías para que este postre tuviera nuestra firma?"
+        "contenido": "Ingredientes para dos: una taza de fresas, una taza de uvas, un yogur griego natural, dos cucharadas de queso crema, una cucharadita de miel o azúcar, cuatro galletas sencillas y unas gotas de limón. Lava y corta las fresas y las uvas. Mezcla el yogur con el queso crema, la miel y unas gotas de limón hasta obtener una crema uniforme. Tritura las galletas con las manos, sin convertirlas en polvo. En dos vasos transparentes arma capas de fruta, crema y galleta; repite una vez y termina con fruta. Refrigera entre veinte y treinta minutos. Antes de servir, cada uno puede decorar el vaso del otro con una combinación de frutas. Si prefieren una versión menos dulce, omitan la miel. No necesita horno ni herramientas especiales. ¿Qué fruta agregarías para que este postre tuviera nuestra firma?\n\nTIEMPO DE PREPARACIÓN: 15 MINUTOS; REFRIGERACIÓN: 20–30 MINUTOS. Pueden preparar las capas mientras se enfrían las frutas."
       },
       "palabraNueva": {
         "titulo": "La palabra del equilibrio",
@@ -2473,7 +2473,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El intercambio de notas con doble intención",
-        "contenido": "Cada uno escribe tres notas pequeñas para el otro. La primera debe ser un cumplido específico, nada genérico; la segunda, una invitación imaginaria a una cita; la tercera, una frase juguetona que deje algo a la imaginación sin ser explícita. Doblen los papeles y mézclenlos. Lean uno por uno y adivinen quién escribió cada nota. Después elijan la favorita y respondan con una cuarta nota improvisada. Pueden mantenerlo dulce, subir un poco la coquetería o cambiar el tono si alguna frase no les representa. La gracia no es incomodar ni poner a nadie a prueba: es descubrir qué manera de coquetear le resulta divertida a cada uno. ¿Qué tipo de cumplido te hace sonreír aunque intentes disimularlo?"
+        "contenido": "Cada uno escribe tres notas pequeñas para el otro. La primera debe ser un cumplido específico, nada genérico; la segunda, una invitación imaginaria a una cita; la tercera, una frase juguetona que deje algo a la imaginación sin ser explícita. Doblen los papeles y mézclenlos. Lean uno por uno y adivinen quién escribió cada nota. Después elijan la favorita y respondan con una cuarta nota improvisada. Pueden mantenerlo dulce, subir un poco la coquetería o cambiar el tono si alguna frase no les representa. La gracia no es incomodar ni poner a nadie a prueba: es descubrir qué manera de coquetear le resulta divertida a cada uno. ¿Qué tipo de cumplido te hace sonreír aunque intentes disimularlo?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Una nota por persona puede ser sutil; la tercera solo se comparte si ambos están cómodos."
       },
       "palabraNueva": {
         "titulo": "Una palabra entre líneas",
@@ -2521,7 +2521,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El retrato de tres recuerdos",
-        "contenido": "Necesitan papel, lápices o pinturas y algunos colores. Cada uno elige tres recuerdos compartidos o tres detalles que asocie con el otro: una expresión, una canción, una comida, un lugar o una costumbre. Sin escribir nombres, conviertan esos recuerdos en formas, símbolos y colores. Por ejemplo, una curva puede representar una sonrisa; una mancha azul, una tarde de cielo despejado; una pequeña taza, una conversación larga. Al terminar, intercambien los dibujos y expliquen qué significa cada elemento. Si quieren hacerlo más elaborado, unan ambos papeles en una sola composición. No importa si el resultado parece abstracto: lo importante es que cada símbolo tenga una historia. ¿Qué color usarías para representar mi manera de ser?"
+        "contenido": "Necesitan papel, lápices o pinturas y algunos colores. Cada uno elige tres recuerdos compartidos o tres detalles que asocie con el otro: una expresión, una canción, una comida, un lugar o una costumbre. Sin escribir nombres, conviertan esos recuerdos en formas, símbolos y colores. Por ejemplo, una curva puede representar una sonrisa; una mancha azul, una tarde de cielo despejado; una pequeña taza, una conversación larga. Al terminar, intercambien los dibujos y expliquen qué significa cada elemento. Si quieren hacerlo más elaborado, unan ambos papeles en una sola composición. No importa si el resultado parece abstracto: lo importante es que cada símbolo tenga una historia. ¿Qué color usarías para representar mi manera de ser?\n\nTIEMPO SUGERIDO: 25–30 MINUTOS. Diez minutos para elegir recuerdos, diez para crear y el resto para presentar las piezas."
       },
       "palabraNueva": {
         "titulo": "La palabra que transforma",
@@ -2569,7 +2569,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Diez preguntas, dos perspectivas",
-        "contenido": "Cada uno escribe diez preguntas sobre sí mismo en papel, sin mostrárselas al otro. Pueden ser detalles cotidianos: bebida favorita, canción que repetiría, lugar que le gustaría visitar, comida que elegiría hoy, color que le recuerda una tarde especial, o una pequeña manía. Intercambien las hojas y respondan lo que creen que contestaría la otra persona. Luego comparen respuestas y conversen sobre las sorpresas. Por cada coincidencia suman un punto, pero también vale explicar por qué eligieron una respuesta distinta. En la segunda ronda, inventen juntos cinco preguntas nuevas que todavía no sepan responder del otro. No conviertan el juego en examen: se vale no recordar y se vale cambiar de opinión. ¿Qué respuesta mía te gustaría conocer mejor?"
+        "contenido": "Cada uno escribe diez preguntas sobre sí mismo en papel, sin mostrárselas al otro. Pueden ser detalles cotidianos: bebida favorita, canción que repetiría, lugar que le gustaría visitar, comida que elegiría hoy, color que le recuerda una tarde especial, o una pequeña manía. Intercambien las hojas y respondan lo que creen que contestaría la otra persona. Luego comparen respuestas y conversen sobre las sorpresas. Por cada coincidencia suman un punto, pero también vale explicar por qué eligieron una respuesta distinta. En la segunda ronda, inventen juntos cinco preguntas nuevas que todavía no sepan responder del otro. No conviertan el juego en examen: se vale no recordar y se vale cambiar de opinión. ¿Qué respuesta mía te gustaría conocer mejor?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Si están tres en la oficina, elijan tres preguntas ligeras y hagan una ronda de 5 minutos."
       },
       "palabraNueva": {
         "titulo": "Una palabra que permanece",
@@ -2617,7 +2617,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Cine, pausas y tres preguntas",
-        "contenido": "Elijan una película de comedia romántica o de relaciones poco convencionales que ninguno haya visto. Antes de empezar, cada uno dice qué espera de la historia. Durante la película, anoten mentalmente una escena que les haya llamado la atención, sin interrumpir demasiado. Al terminar, conversen sobre tres cosas: qué personaje les pareció más interesante, qué decisión habrían cambiado y qué escena les produjo más ternura o tensión. Si no coinciden, mejor: cada uno defiende su lectura durante un minuto y luego intercambian posiciones. Pueden acompañar la noche con una bebida fría o algo sencillo para picar. La película se elige entre los dos y cualquiera puede proponer otra si no le convence la primera opción. ¿Qué tipo de historia te atrapa más: la que hace reír, la que sorprende o la que deja pensando?"
+        "contenido": "Elijan una película de comedia romántica o de relaciones poco convencionales que ninguno haya visto. Antes de empezar, cada uno dice qué espera de la historia. Durante la película, anoten mentalmente una escena que les haya llamado la atención, sin interrumpir demasiado. Al terminar, conversen sobre tres cosas: qué personaje les pareció más interesante, qué decisión habrían cambiado y qué escena les produjo más ternura o tensión. Si no coinciden, mejor: cada uno defiende su lectura durante un minuto y luego intercambian posiciones. Pueden acompañar la noche con una bebida fría o algo sencillo para picar. La película se elige entre los dos y cualquiera puede proponer otra si no le convence la primera opción. ¿Qué tipo de historia te atrapa más: la que hace reír, la que sorprende o la que deja pensando?\n\nDURACIÓN DEL PLAN: película elegida (90–120 MINUTOS, según el título) y 10–15 minutos de conversación. Pueden guardar las preguntas para después."
       },
       "palabraNueva": {
         "titulo": "La palabra del contraste",
@@ -2665,7 +2665,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La ruta de cinco descubrimientos",
-        "contenido": "Elijan una zona pública, segura y fácil de recorrer que todavía no hayan explorado juntos. Antes de salir, acuerden cuánto tiempo tienen, presupuesto, transporte y un punto de regreso. La misión consiste en encontrar cinco cosas: una fachada que merezca una foto, una bebida o sabor que nunca hayan probado, un rincón tranquilo para sentarse, un objeto curioso en una vitrina y un lugar al que les gustaría volver. Cada uno elige dos descubrimientos y el quinto lo deciden juntos. No hace falta comprar nada: pueden observar, fotografiar y anotar. Revisen horarios y clima antes de salir, y cambien la ruta si el lugar está cerrado o no se siente cómodo. Al final, elijan la foto que mejor represente la salida y pónganle un título. ¿Qué tipo de rincón te gustaría que descubriéramos primero?"
+        "contenido": "Elijan una zona pública, segura y fácil de recorrer que todavía no hayan explorado juntos. Antes de salir, acuerden cuánto tiempo tienen, presupuesto, transporte y un punto de regreso. La misión consiste en encontrar cinco cosas: una fachada que merezca una foto, una bebida o sabor que nunca hayan probado, un rincón tranquilo para sentarse, un objeto curioso en una vitrina y un lugar al que les gustaría volver. Cada uno elige dos descubrimientos y el quinto lo deciden juntos. No hace falta comprar nada: pueden observar, fotografiar y anotar. Revisen horarios y clima antes de salir, y cambien la ruta si el lugar está cerrado o no se siente cómodo. Al final, elijan la foto que mejor represente la salida y pónganle un título. ¿Qué tipo de rincón te gustaría que descubriéramos primero?\n\nTIEMPO DE LA SALIDA: 1–2 HORAS, ajustable al transporte y al ritmo de ambos. Mantengan el presupuesto acordado; también puede ser una caminata gratuita por una zona pública y segura."
       },
       "palabraNueva": {
         "titulo": "La palabra del camino",
@@ -2713,7 +2713,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tres pruebas y una gran final",
-        "contenido": "Preparen papelitos y escriban seis talentos absurdos: doblar una servilleta de la forma más elegante, inventar un anuncio para una cuchara, imitar el sonido de un objeto, dibujar un gato en diez segundos, vender una piedra como si fuera un artículo de lujo y crear un saludo secreto. Cada uno saca tres retos al azar y tiene treinta segundos para cumplirlos. El otro hace de jurado y entrega hasta tres puntos por creatividad, interpretación y capacidad de convencer. En la final, ambos deben inventar juntos un comercial de veinte segundos para un objeto que tengan cerca. No se permiten repetir ideas de la ronda anterior. El premio puede ser escoger la próxima canción, elegir el postre o recibir un cumplido personalizado. ¿Cuál de tus talentos más inesperados debería conocer el mundo?"
+        "contenido": "Preparen papelitos y escriban seis talentos absurdos: doblar una servilleta de la forma más elegante, inventar un anuncio para una cuchara, imitar el sonido de un objeto, dibujar un gato en diez segundos, vender una piedra como si fuera un artículo de lujo y crear un saludo secreto. Cada uno saca tres retos al azar y tiene treinta segundos para cumplirlos. El otro hace de jurado y entrega hasta tres puntos por creatividad, interpretación y capacidad de convencer. En la final, ambos deben inventar juntos un comercial de veinte segundos para un objeto que tengan cerca. No se permiten repetir ideas de la ronda anterior. El premio puede ser escoger la próxima canción, elegir el postre o recibir un cumplido personalizado. ¿Cuál de tus talentos más inesperados debería conocer el mundo?\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Tres pruebas de 5 minutos y una final corta; si alguien no quiere actuar, puede ser jurado."
       },
       "palabraNueva": {
         "titulo": "Una palabra para improvisar",
@@ -2761,7 +2761,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una canción para cada escena",
-        "contenido": "Cada uno elige cinco canciones para cinco escenas: una mañana que quisiera repetir, un viaje que le gustaría hacer, una situación que siempre le hace reír, una canción para bailar y una que describa cómo se siente últimamente. Escuchen fragmentos y expliquen por qué eligieron cada una. La otra persona puede hacer una pregunta por canción, pero no puede cambiar la selección. Después creen una lista compartida con las dos canciones favoritas de cada uno y pónganle un nombre. Si alguna elección sorprende, déjenla sonar completa antes de juzgarla. No hace falta que coincidan en gustos: la idea es descubrir qué historias hay detrás de cada sonido. ¿Qué canción pondrías en una escena que todavía no hemos vivido?"
+        "contenido": "Cada uno elige cinco canciones para cinco escenas: una mañana que quisiera repetir, un viaje que le gustaría hacer, una situación que siempre le hace reír, una canción para bailar y una que describa cómo se siente últimamente. Escuchen fragmentos y expliquen por qué eligieron cada una. La otra persona puede hacer una pregunta por canción, pero no puede cambiar la selección. Después creen una lista compartida con las dos canciones favoritas de cada uno y pónganle un nombre. Si alguna elección sorprende, déjenla sonar completa antes de juzgarla. No hace falta que coincidan en gustos: la idea es descubrir qué historias hay detrás de cada sonido. ¿Qué canción pondrías en una escena que todavía no hemos vivido?\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Cinco escenas, una canción por escena y una explicación breve por elección."
       },
       "palabraNueva": {
         "titulo": "La palabra de las mezclas",
@@ -2809,7 +2809,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Frases incompletas, respuestas inesperadas",
-        "contenido": "Escriban por separado cinco comienzos de frase: «Me parece irresistible cuando…», «Una cita que me sorprendería sería…», «La forma más curiosa de llamar mi atención es…», «Si esta noche fuera una escena de película…» y «Algo que me da curiosidad preguntarte es…». Mézclenlos y saquen uno por turno. Cada persona completa la frase para sí misma y, si quiere, intenta adivinar la respuesta del otro. Después comparen y conversen. Pueden mantener las respuestas dulces, divertidas o un poco más atrevidas, siempre con libertad de pasar una pregunta o cambiarla. No hay puntos ni respuestas correctas: la gracia está en descubrir qué les causa curiosidad. ¿Qué gesto pequeño te parece especialmente coqueto?"
+        "contenido": "Escriban por separado cinco comienzos de frase: «Me parece irresistible cuando…», «Una cita que me sorprendería sería…», «La forma más curiosa de llamar mi atención es…», «Si esta noche fuera una escena de película…» y «Algo que me da curiosidad preguntarte es…». Mézclenlos y saquen uno por turno. Cada persona completa la frase para sí misma y, si quiere, intenta adivinar la respuesta del otro. Después comparen y conversen. Pueden mantener las respuestas dulces, divertidas o un poco más atrevidas, siempre con libertad de pasar una pregunta o cambiarla. No hay puntos ni respuestas correctas: la gracia está en descubrir qué les causa curiosidad. ¿Qué gesto pequeño te parece especialmente coqueto?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Escriban las frases por separado y lean solo las que quieran compartir."
       },
       "palabraNueva": {
         "titulo": "Una palabra entre pistas",
@@ -2857,7 +2857,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Arroz cremoso con champiñones y espinaca",
-        "contenido": "Ingredientes para dos: una taza de arroz, 200 g de champiñones, dos puñados de espinaca, media cebolla, un diente de ajo, dos cucharadas de mantequilla o aceite, media taza de leche, un cuarto de taza de queso rallado, dos tazas de agua o caldo, sal, pimienta y una pizca de paprika. Piquen cebolla y ajo; corten los champiñones en láminas. En una sartén amplia sofrían la cebolla con mantequilla durante tres minutos, agreguen ajo y champiñones y cocinen hasta que pierdan parte de su agua y se doren. Añadan el arroz y mezclen un minuto. Incorporen el caldo caliente poco a poco, revolviendo y dejando que se absorba antes de agregar más, hasta que el arroz esté tierno; puede tomar entre quince y veinte minutos según el tipo. Agreguen la leche, la espinaca y el queso; mezclen hasta que quede cremoso. Ajusten sal, pimienta y paprika. Si se seca antes de estar listo, añadan un poco más de agua caliente. Sirvan de inmediato. ¿Qué ingrediente le pondrías para darle un toque propio?"
+        "contenido": "Ingredientes para dos: una taza de arroz, 200 g de champiñones, dos puñados de espinaca, media cebolla, un diente de ajo, dos cucharadas de mantequilla o aceite, media taza de leche, un cuarto de taza de queso rallado, dos tazas de agua o caldo, sal, pimienta y una pizca de paprika. Piquen cebolla y ajo; corten los champiñones en láminas. En una sartén amplia sofrían la cebolla con mantequilla durante tres minutos, agreguen ajo y champiñones y cocinen hasta que pierdan parte de su agua y se doren. Añadan el arroz y mezclen un minuto. Incorporen el caldo caliente poco a poco, revolviendo y dejando que se absorba antes de agregar más, hasta que el arroz esté tierno; puede tomar entre quince y veinte minutos según el tipo. Agreguen la leche, la espinaca y el queso; mezclen hasta que quede cremoso. Ajusten sal, pimienta y paprika. Si se seca antes de estar listo, añadan un poco más de agua caliente. Sirvan de inmediato. ¿Qué ingrediente le pondrías para darle un toque propio?\n\nTIEMPO ESTIMADO: 30–35 MINUTOS. Cocina el arroz mientras salteas los champiñones; incorpora la espinaca al final para que conserve su textura."
       },
       "palabraNueva": {
         "titulo": "La palabra del sabor",
@@ -2905,7 +2905,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Dos personajes, una situación",
-        "contenido": "Cada uno inventa un personaje con nombre, ocupación improbable y una manía graciosa. Escriban tres situaciones en papel: se encuentran por primera vez en una cafetería, deben organizar un viaje sin ponerse de acuerdo o intentan comprar el objeto más inútil del mundo. Saquen una situación al azar y actúen durante dos minutos sin abandonar el personaje. Después cambien de papel e improvisen una segunda escena. Para la última ronda, cada uno añade una frase inesperada que el otro debe incorporar sin romper la historia. Si les cuesta empezar, usen una voz exageradamente formal o inventen una profesión absurda. Graben solo si ambos quieren; también pueden dejarlo como recuerdo privado. ¿Qué personaje crees que me quedaría peligrosamente bien?"
+        "contenido": "Cada uno inventa un personaje con nombre, ocupación improbable y una manía graciosa. Escriban tres situaciones en papel: se encuentran por primera vez en una cafetería, deben organizar un viaje sin ponerse de acuerdo o intentan comprar el objeto más inútil del mundo. Saquen una situación al azar y actúen durante dos minutos sin abandonar el personaje. Después cambien de papel e improvisen una segunda escena. Para la última ronda, cada uno añade una frase inesperada que el otro debe incorporar sin romper la historia. Si les cuesta empezar, usen una voz exageradamente formal o inventen una profesión absurda. Graben solo si ambos quieren; también pueden dejarlo como recuerdo privado. ¿Qué personaje crees que me quedaría peligrosamente bien?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cada persona interpreta un personaje y luego intercambian papeles."
       },
       "palabraNueva": {
         "titulo": "La palabra de la espontaneidad",
@@ -2953,7 +2953,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tres rondas de baile a nuestra manera",
-        "contenido": "Elijan tres canciones distintas: una que tenga ritmo lento, otra alegre y otra que los saque de la rutina. En la primera ronda, cada uno enseña al otro un movimiento sencillo. En la segunda, inventen una secuencia de cuatro pasos y repítanla juntos. En la tercera, bailen libremente durante el coro, sin corregirse ni competir. Si les gusta el reto, intercambien quién dirige cada canción. Pueden mantener distancia, acercarse o cambiar el tipo de baile según lo que resulte cómodo para ambos. Dejen agua cerca y despejen el espacio para no tropezar. Al terminar, cada uno elige el movimiento más divertido del otro y le pone un nombre. ¿Qué canción te gustaría que se convirtiera en nuestro baile improvisado?"
+        "contenido": "Elijan tres canciones distintas: una que tenga ritmo lento, otra alegre y otra que los saque de la rutina. En la primera ronda, cada uno enseña al otro un movimiento sencillo. En la segunda, inventen una secuencia de cuatro pasos y repítanla juntos. En la tercera, bailen libremente durante el coro, sin corregirse ni competir. Si les gusta el reto, intercambien quién dirige cada canción. Pueden mantener distancia, acercarse o cambiar el tipo de baile según lo que resulte cómodo para ambos. Dejen agua cerca y despejen el espacio para no tropezar. Al terminar, cada uno elige el movimiento más divertido del otro y le pone un nombre. ¿Qué canción te gustaría que se convirtiera en nuestro baile improvisado?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una canción por ronda; adapten los movimientos al espacio y a las ganas de cada uno."
       },
       "palabraNueva": {
         "titulo": "Una palabra que se mueve",
@@ -2975,7 +2975,7 @@ const CALENDARIO = [
     "dia": 63,
     "fecha": "2026-12-17",
     "fechaTexto": "jue, 17 de dic",
-    "categoria": "Una visita con mirada de exploradores",
+    "categoria": "El catálogo de seis curiosidades para descubrir",
     "icono": "🧭",
     "tono": "aventura",
     "color": {
@@ -2997,11 +2997,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, hoy salimos a descubrir",
-        "contenido": "La idea es conocer un espacio diferente sin convertir la salida en una carrera ni en una lista de compras."
+        "contenido": "Hoy vamos a hacer una lista de descubrimientos sin salir ni gastar: seis cosas que nos gustaría conocer algún día. La misión es elegir una que de verdad despierte curiosidad."
       },
       "mensajePrincipal": {
-        "titulo": "La misión de las seis curiosidades",
-        "contenido": "Elijan un mercado artesanal, feria cultural, librería grande o zona comercial pública que tenga horarios confirmados para el día que decidan ir. Acuerden transporte, presupuesto máximo y tiempo disponible. Durante el recorrido busquen seis cosas: una pieza hecha a mano, un objeto con una textura interesante, una portada que llame la atención, un sabor nuevo, una combinación de colores que quieran fotografiar y algo que les recuerde una conversación. Cada uno puede escoger una parada y explicar por qué le llamó la atención. No es necesario comprar; si algo les gusta, comparen precios y decidan juntos. Antes de salir revisen horarios, accesibilidad y clima, y tengan un punto de encuentro por si se separan. Al final, elijan una foto y escriban un título para el pequeño recorrido. ¿Qué tipo de lugar te gustaría explorar primero?"
+        "titulo": "El catálogo de seis curiosidades para descubrir",
+        "contenido": "RETO DE DESCUBRIMIENTO · 15–20 MINUTOS · EN CASA O EN LA OFICINA\n\nEn vez de organizar una salida hoy, elijan seis cosas que les gustaría conocer algún día: una técnica artesanal, un libro curioso, una exposición, una bebida local, una pieza de diseño y un lugar natural. Cada persona escoge una y explica qué le llama la atención.\n\nBusquen información básica desde el celular, sin comprar entradas ni reservar. Al final, marquen una sola idea para guardar en una lista de planes futuros. Solo se convertirá en salida si después coinciden el interés, el tiempo y el presupuesto.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Si están en la oficina, cada persona recomienda una curiosidad en una pausa de 5 minutos."
       },
       "palabraNueva": {
         "titulo": "La palabra del descubrimiento",
@@ -3050,7 +3050,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La pieza que vamos a modelar",
-        "contenido": "Consigan arcilla de secado al aire, una base que no se pegue, un poco de agua y herramientas sencillas como un palito o una tapa para marcar texturas. Cada uno elige una idea pequeña: un platito para anillos, un colgante decorativo, una figura abstracta o un mini recipiente. Amasen la arcilla hasta ablandarla, formen la pieza sin hacerla demasiado gruesa, alisen las grietas con los dedos apenas húmedos y añadan detalles con las herramientas. Pueden grabar una inicial, una línea o un símbolo que tenga sentido para ustedes. Déjenla secar siguiendo las instrucciones del envase; no necesita horno si es arcilla de secado al aire. Cuando esté completamente seca, pueden pintarla otro día con pintura acrílica. Protejan la mesa y lávense las manos al terminar. No importa que las piezas queden distintas: esa es parte de la gracia. ¿Qué objeto te gustaría intentar crear primero?"
+        "contenido": "Consigan arcilla de secado al aire, una base que no se pegue, un poco de agua y herramientas sencillas como un palito o una tapa para marcar texturas. Cada uno elige una idea pequeña: un platito para anillos, un colgante decorativo, una figura abstracta o un mini recipiente. Amasen la arcilla hasta ablandarla, formen la pieza sin hacerla demasiado gruesa, alisen las grietas con los dedos apenas húmedos y añadan detalles con las herramientas. Pueden grabar una inicial, una línea o un símbolo que tenga sentido para ustedes. Déjenla secar siguiendo las instrucciones del envase; no necesita horno si es arcilla de secado al aire. Cuando esté completamente seca, pueden pintarla otro día con pintura acrílica. Protejan la mesa y lávense las manos al terminar. No importa que las piezas queden distintas: esa es parte de la gracia. ¿Qué objeto te gustaría intentar crear primero?\n\nTIEMPO SUGERIDO: 30–40 MINUTOS para modelar. El secado de la arcilla requiere tiempo adicional según el fabricante."
       },
       "palabraNueva": {
         "titulo": "Una palabra para crear",
@@ -3098,7 +3098,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tres rondas, cero calculadora",
-        "contenido": "Necesitan solo papel para anotar los puntos. En cada turno, cuenten «tres, dos, uno» y digan al mismo tiempo un número del 1 al 10 usando los dedos o la voz. Sumen mentalmente los dos números: quien diga primero el resultado correcto gana un punto. En la segunda ronda, cada uno elige un número del 1 al 5 y deben multiplicarlos; en la tercera, quien acierte el resultado también debe inventar una operación distinta que llegue al mismo número. Jueguen cinco turnos por ronda y cambien quién anuncia el inicio. Si hay empate, hagan una ronda final con números del 1 al 12. Nada de burlarse por equivocarse: pueden añadir un punto extra por la explicación más ingeniosa. El premio es elegir la próxima canción o la bebida de la pausa. ¿Te confiarías más en tu velocidad o en tu cálculo?"
+        "contenido": "Necesitan solo papel para anotar los puntos. En cada turno, cuenten «tres, dos, uno» y digan al mismo tiempo un número del 1 al 10 usando los dedos o la voz. Sumen mentalmente los dos números: quien diga primero el resultado correcto gana un punto. En la segunda ronda, cada uno elige un número del 1 al 5 y deben multiplicarlos; en la tercera, quien acierte el resultado también debe inventar una operación distinta que llegue al mismo número. Jueguen cinco turnos por ronda y cambien quién anuncia el inicio. Si hay empate, hagan una ronda final con números del 1 al 12. Nada de burlarse por equivocarse: pueden añadir un punto extra por la explicación más ingeniosa. El premio es elegir la próxima canción o la bebida de la pausa. ¿Te confiarías más en tu velocidad o en tu cálculo?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Jueguen cinco rondas y cambien quién propone la operación."
       },
       "palabraNueva": {
         "titulo": "La palabra de la rapidez",
@@ -3146,7 +3146,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Elegir, describir y dejarse sorprender",
-        "contenido": "Preparen tres opciones cómodas para los sentidos: dos canciones de ambientes distintos, dos telas o texturas agradables y, si ambos quieren, dos aromas suaves. Cada persona elige una opción sin explicar por qué y la otra intenta describir qué sensación le transmite: calma, curiosidad, confianza, misterio o diversión. Después intercambien los papeles y cuenten qué detalle les gustó. Pueden convertirlo en un momento coqueto diciendo qué ambiente les parece más atractivo para una cita, pero no hace falta contacto físico ni preguntas íntimas. Pregunten antes de usar aromas, tocar a la otra persona o acercarse; cualquiera puede saltarse una opción sin justificarlo. Terminen creando una combinación de música y luz que les gustaría repetir. ¿Qué detalle pequeño suele cambiarte el ánimo de inmediato?"
+        "contenido": "Preparen tres opciones cómodas para los sentidos: dos canciones de ambientes distintos, dos telas o texturas agradables y, si ambos quieren, dos aromas suaves. Cada persona elige una opción sin explicar por qué y la otra intenta describir qué sensación le transmite: calma, curiosidad, confianza, misterio o diversión. Después intercambien los papeles y cuenten qué detalle les gustó. Pueden convertirlo en un momento coqueto diciendo qué ambiente les parece más atractivo para una cita, pero no hace falta contacto físico ni preguntas íntimas. Pregunten antes de usar aromas, tocar a la otra persona o acercarse; cualquiera puede saltarse una opción sin justificarlo. Terminen creando una combinación de música y luz que les gustaría repetir. ¿Qué detalle pequeño suele cambiarte el ánimo de inmediato?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Todo es opcional: se puede elegir música o texturas y omitir los aromas."
       },
       "palabraNueva": {
         "titulo": "Una palabra de los sentidos",
@@ -3194,7 +3194,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Un postre rápido con durazno",
-        "contenido": "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?"
+        "contenido": "Ingredientes para dos: dos duraznos maduros pero firmes, una cucharadita de mantequilla, una cucharadita de miel o azúcar, una pizca de canela, unas gotas de limón y yogur natural para servir si les apetece. Laven los duraznos, retiren la semilla y córtenlos en gajos. Calienten una sartén a fuego medio y derritan la mantequilla. Pongan los gajos en una sola capa y cocinen dos o tres minutos por lado, hasta que se doren ligeramente sin deshacerse. Añadan la miel o el azúcar, la canela y unas gotas de limón; muevan la sartén con cuidado durante un minuto para que se forme un brillo ligero. Apaguen el fuego y dejen reposar un momento antes de servir con yogur natural. Si los duraznos están muy maduros, reduzcan el tiempo para que no se vuelvan puré. No hace falta añadir mucho dulce: la fruta debe seguir siendo la protagonista. ¿Le pondrías canela, limón o algún otro toque?\n\nTIEMPO ESTIMADO: 15–20 MINUTOS. La receta se hace en sartén; deja que el durazno pierda un poco de calor antes de añadir el yogur."
       },
       "palabraNueva": {
         "titulo": "La palabra de la cocina",
@@ -3241,7 +3241,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una cafetería improvisada",
-        "contenido": "Elijan una bebida que les guste y preparen una merienda sencilla. Organicen una mesa con una servilleta, una nota escrita a mano y una canción de fondo. Cada persona propone una pregunta curiosa y una historia divertida para compartir. Si les gusta la idea, guarden una lista de cafeterías o lugares tranquilos que podrían visitar otro día, sin fijar fecha ni convertirlo en un compromiso. Revisen etiquetas para descartar maní y trazas relevantes y eviten la contaminación cruzada."
+        "contenido": "Elijan una bebida que les guste y preparen una merienda sencilla. Organicen una mesa con una servilleta, una nota escrita a mano y una canción de fondo. Cada persona propone una pregunta curiosa y una historia divertida para compartir. Si les gusta la idea, guarden una lista de cafeterías o lugares tranquilos que podrían visitar otro día, sin fijar fecha ni convertirlo en un compromiso. Revisen etiquetas para descartar maní y trazas relevantes y eviten la contaminación cruzada.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Pueden prepararlo para el almuerzo de oficina o dejarlo como merienda en casa; usen lo que ya tengan."
       },
       "palabraNueva": {
         "titulo": "La palabra del recorrido",
@@ -3289,7 +3289,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tres ingredientes para un plan inventado",
-        "contenido": "Cada uno escribe en papel tres lugares imaginarios, tres actividades y tres reglas absurdas pero inofensivas. Por ejemplo: una cafetería en una estación espacial, pintar un retrato con la mano no dominante o tener que hablar como presentadores de televisión durante cinco minutos. Saquen al azar un papel de cada grupo y armen una cita de una hora con esos ingredientes. Después intercambien la propuesta: cada persona añade un giro inesperado y una forma de hacerla más cómoda o divertida para ambos. Para cerrar, elijan qué parte sí podrían adaptar a una cita real de bajo presupuesto. No se trata de prometer que la harán ni de acertar lo que el otro quiere; es un ejercicio para imaginar y descubrir gustos. ¿Qué ingrediente absurdo pondrías en nuestra cita ficticia?"
+        "contenido": "Cada uno escribe en papel tres lugares imaginarios, tres actividades y tres reglas absurdas pero inofensivas. Por ejemplo: una cafetería en una estación espacial, pintar un retrato con la mano no dominante o tener que hablar como presentadores de televisión durante cinco minutos. Saquen al azar un papel de cada grupo y armen una cita de una hora con esos ingredientes. Después intercambien la propuesta: cada persona añade un giro inesperado y una forma de hacerla más cómoda o divertida para ambos. Para cerrar, elijan qué parte sí podrían adaptar a una cita real de bajo presupuesto. No se trata de prometer que la harán ni de acertar lo que el otro quiere; es un ejercicio para imaginar y descubrir gustos. ¿Qué ingrediente absurdo pondrías en nuestra cita ficticia?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cinco minutos para escribir ideas, cinco para combinarlas y el resto para presentar la cita imposible."
       },
       "palabraNueva": {
         "titulo": "La palabra de las historias",
@@ -3337,7 +3337,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una caja para abrir más adelante",
-        "contenido": "Busquen una caja pequeña o un sobre resistente y tres papeles por persona. En el primero, escriban una cosa que les hizo reír recientemente; en el segundo, una actividad sencilla que les gustaría probar algún día; en el tercero, una pregunta que les gustaría conversar cuando se dé el momento. Añadan un dibujo, una entrada o una foto solo si les apetece y si ambos están de acuerdo. Lean en voz alta únicamente lo que quieran compartir; las preguntas privadas pueden quedarse dobladas. Pongan una fecha futura para abrir la cápsula, quizá dentro de uno o dos meses, sin convertirla en una promesa obligatoria. Guárdenla en un lugar seco y seguro. No tiene que ser un recuerdo solemne: puede ser una manera ligera de notar cómo cambian las ideas y los gustos con el tiempo. ¿Qué pequeño hallazgo te gustaría guardar hoy?"
+        "contenido": "Busquen una caja pequeña o un sobre resistente y tres papeles por persona. En el primero, escriban una cosa que les hizo reír recientemente; en el segundo, una actividad sencilla que les gustaría probar algún día; en el tercero, una pregunta que les gustaría conversar cuando se dé el momento. Añadan un dibujo, una entrada o una foto solo si les apetece y si ambos están de acuerdo. Lean en voz alta únicamente lo que quieran compartir; las preguntas privadas pueden quedarse dobladas. Pongan una fecha futura para abrir la cápsula, quizá dentro de uno o dos meses, sin convertirla en una promesa obligatoria. Guárdenla en un lugar seco y seguro. No tiene que ser un recuerdo solemne: puede ser una manera ligera de notar cómo cambian las ideas y los gustos con el tiempo. ¿Qué pequeño hallazgo te gustaría guardar hoy?\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Guarden la caja en un sitio seguro y anoten una fecha aproximada para abrirla; no es necesario comprar materiales."
       },
       "palabraNueva": {
         "titulo": "La palabra de los recuerdos",
@@ -3386,7 +3386,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Un cuadro pequeño con tres colores",
-        "contenido": "Materiales: papel grueso o cartulina, pinturas acrílicas o témperas, pincel, agua y algo para proteger la mesa. Elijan solo tres colores y hagan una pequeña obra sin dibujar primero el resultado. Pinten formas grandes y luego mezclen los colores para descubrir tonos nuevos. Pueden elegir un cielo al atardecer, una taza, una flor imaginaria o una emoción, o pintar de forma abstracta. Al terminar, cada uno pone un título a la obra del otro, sin corregirla ni intentar adivinar qué quiso representar. Dejen secar y limpien los materiales. ¿Qué tres colores escogerías para empezar?"
+        "contenido": "Materiales: papel grueso o cartulina, pinturas acrílicas o témperas, pincel, agua y algo para proteger la mesa. Elijan solo tres colores y hagan una pequeña obra sin dibujar primero el resultado. Pinten formas grandes y luego mezclen los colores para descubrir tonos nuevos. Pueden elegir un cielo al atardecer, una taza, una flor imaginaria o una emoción, o pintar de forma abstracta. Al terminar, cada uno pone un título a la obra del otro, sin corregirla ni intentar adivinar qué quiso representar. Dejen secar y limpien los materiales. ¿Qué tres colores escogerías para empezar?\n\nTIEMPO SUGERIDO: 25–30 MINUTOS. Prueben primero los colores en un borde de la hoja y luego creen la composición."
       },
       "palabraNueva": {
         "titulo": "La palabra del color",
@@ -3435,7 +3435,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Seis elecciones y una sorpresa",
-        "contenido": "Cada uno escribe seis preguntas con dos opciones: amanecer o atardecer, café o chocolate, lluvia o sol, pintura o arcilla, ciudad o naturaleza, plan improvisado o plan organizado. Respondan a la vez mostrando una opción con los dedos o escribiéndola en papel. Por cada coincidencia ganan un punto; por cada diferencia, expliquen en una frase por qué prefieren su opción. Después inventen una séptima pregunta más difícil. No intenten convencer al otro de cambiar de gusto: la idea es descubrir, no evaluar. Para cerrar, propongan una actividad que combine una preferencia de cada persona. ¿Cuál de tus gustos crees que me sorprendería más?"
+        "contenido": "Cada uno escribe seis preguntas con dos opciones: amanecer o atardecer, café o chocolate, lluvia o sol, pintura o arcilla, ciudad o naturaleza, plan improvisado o plan organizado. Respondan a la vez mostrando una opción con los dedos o escribiéndola en papel. Por cada coincidencia ganan un punto; por cada diferencia, expliquen en una frase por qué prefieren su opción. Después inventen una séptima pregunta más difícil. No intenten convencer al otro de cambiar de gusto: la idea es descubrir, no evaluar. Para cerrar, propongan una actividad que combine una preferencia de cada persona. ¿Cuál de tus gustos crees que me sorprendería más?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Respondan al mismo tiempo y elijan una respuesta que les haya sorprendido."
       },
       "palabraNueva": {
         "titulo": "La palabra de las elecciones",
@@ -3484,7 +3484,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Adivina la canción y la historia",
-        "contenido": "Cada persona elige tres canciones que conozca bien, sin decir sus títulos. Para cada una da tres pistas: una emoción que le produce, una escena en la que la pondría y una palabra relacionada con su sonido. La otra persona puede hacer dos preguntas de sí o no. Si acierta con una pista, obtiene tres puntos; con dos, dos puntos; con tres, uno. Después de revelar la canción, quien la eligió cuenta por qué. En la ronda final inventen el título de una canción que todavía no existe y describan cómo sonaría. ¿Qué canción te resultaría imposible describir sin reírte?"
+        "contenido": "Cada persona elige tres canciones que conozca bien, sin decir sus títulos. Para cada una da tres pistas: una emoción que le produce, una escena en la que la pondría y una palabra relacionada con su sonido. La otra persona puede hacer dos preguntas de sí o no. Si acierta con una pista, obtiene tres puntos; con dos, dos puntos; con tres, uno. Después de revelar la canción, quien la eligió cuenta por qué. En la ronda final inventen el título de una canción que todavía no existe y describan cómo sonaría. ¿Qué canción te resultaría imposible describir sin reírte?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres canciones por persona y tres pistas por canción; no hace falta reproducirlas completas."
       },
       "palabraNueva": {
         "titulo": "La palabra de los recuerdos",
@@ -3533,7 +3533,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Diez minutos de movimiento tranquilo",
-        "contenido": "Busquen un espacio despejado y pongan música suave. Durante un minuto respiren con naturalidad y suelten los hombros. Después hagan movimientos lentos de cuello sin forzar, círculos pequeños con los hombros, estiramientos suaves de brazos y muñecas y movimientos cómodos de tobillos y piernas. Mantengan cada posición solo mientras resulte agradable; no reboten ni intenten alcanzar un límite. Si algo duele, provoca mareo o incomoda, deténganse. Terminen con un minuto sentado, respirando sin tener que hablar. No es una rutina médica: es una pausa adaptable que también pueden saltarse. ¿Qué parte del día te gustaría llevar con menos prisa?"
+        "contenido": "Busquen un espacio despejado y pongan música suave. Durante un minuto respiren con naturalidad y suelten los hombros. Después hagan movimientos lentos de cuello sin forzar, círculos pequeños con los hombros, estiramientos suaves de brazos y muñecas y movimientos cómodos de tobillos y piernas. Mantengan cada posición solo mientras resulte agradable; no reboten ni intenten alcanzar un límite. Si algo duele, provoca mareo o incomoda, deténganse. Terminen con un minuto sentado, respirando sin tener que hablar. No es una rutina médica: es una pausa adaptable que también pueden saltarse. ¿Qué parte del día te gustaría llevar con menos prisa?\n\nTIEMPO SUGERIDO: 8–10 MINUTOS. Mantengan los movimientos cómodos, sin rebotes ni estiramientos forzados; deténganse si algo molesta."
       },
       "palabraNueva": {
         "titulo": "Una palabra para la calma",
@@ -3582,7 +3582,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Café, paseo y regreso sin afán",
-        "contenido": "Elijan un café o una bebida que les guste y un parque, plazoleta o sendero urbano público cercano y seguro. Antes de salir, revisen horario, clima, ruta de regreso, accesibilidad y presupuesto. Reserven solo unas horas: pueden conversar mientras toman algo, caminar tranquilamente y elegir cada uno un detalle bonito del entorno. No es necesario comprar recuerdos ni encadenar actividades. Si el sitio está lleno, cambia el clima o alguien se cansa, acorten el recorrido o cambien de plan. Esta propuesta no significa que deban salir este fin de semana ni repetirlo cada semana; háganlo cuando a ambos les venga bien. ¿Prefieres árboles o una calle con cafeterías?"
+        "contenido": "Elijan un café o una bebida que les guste y un parque, plazoleta o sendero urbano público cercano y seguro. Antes de salir, revisen horario, clima, ruta de regreso, accesibilidad y presupuesto. Reserven solo unas horas: pueden conversar mientras toman algo, caminar tranquilamente y elegir cada uno un detalle bonito del entorno. No es necesario comprar recuerdos ni encadenar actividades. Si el sitio está lleno, cambia el clima o alguien se cansa, acorten el recorrido o cambien de plan. Esta propuesta no significa que deban salir este fin de semana ni repetirlo cada semana; háganlo cuando a ambos les venga bien. ¿Prefieres árboles o una calle con cafeterías?\n\nTIEMPO DE LA SALIDA: 2–3 HORAS, sin obligación de gastar en una cafetería. Pueden llevar agua o una bebida preparada en casa y elegir un recorrido público, seguro y fácil de abandonar cuando quieran."
       },
       "palabraNueva": {
         "titulo": "La palabra del recorrido",
@@ -3631,7 +3631,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El relato de tres objetos",
-        "contenido": "Cada persona elige en secreto un objeto cotidiano y lo pone sobre la mesa; elijan un tercer objeto al azar. La primera persona empieza una historia que incluya el suyo, la otra continúa incorporando el segundo y la tercera frase debe unirlos en una situación inesperada. Alternen frases durante dos minutos sin borrar ideas ni corregir la lógica. Repitan con otro género: comedia, misterio, aventura o romance ligero. Para terminar, inventen un título y dibujen una portada diminuta. Si les gusta, guárdenlo; no hace falta grabarlo ni publicarlo. La regla es construir sobre la idea anterior, no bloquearla. ¿Qué objeto de tu alrededor daría la historia más extraña?"
+        "contenido": "Cada persona elige en secreto un objeto cotidiano y lo pone sobre la mesa; elijan un tercer objeto al azar. La primera persona empieza una historia que incluya el suyo, la otra continúa incorporando el segundo y la tercera frase debe unirlos en una situación inesperada. Alternen frases durante dos minutos sin borrar ideas ni corregir la lógica. Repitan con otro género: comedia, misterio, aventura o romance ligero. Para terminar, inventen un título y dibujen una portada diminuta. Si les gusta, guárdenlo; no hace falta grabarlo ni publicarlo. La regla es construir sobre la idea anterior, no bloquearla. ¿Qué objeto de tu alrededor daría la historia más extraña?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cada persona añade dos frases y elige un giro inesperado para la historia."
       },
       "palabraNueva": {
         "titulo": "La palabra de las historias",
@@ -3680,7 +3680,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tres deseos realistas y una primera acción",
-        "contenido": "Cada uno escribe tres cosas que le gustaría experimentar, aprender o cuidar en los próximos meses. Eviten convertirlo en exigencias: pueden ser deseos pequeños, como probar una técnica de pintura, conocer un café nuevo, escuchar un álbum completo o reservar una tarde sin pantallas. Marquen una idea que puedan empezar con poco tiempo y presupuesto y anoten un primer paso concreto. Compartan solo lo que les nazca; no es necesario enseñar la lista completa ni prometer que cumplirán todo juntos. Si una idea necesita dinero, transporte o coordinación, déjenla como posibilidad para planear cuando sea oportuno. Cierren eligiendo una canción que represente cómo quieren sentirse en la siguiente etapa. ¿Qué deseo pequeño te gustaría probar primero?"
+        "contenido": "Cada uno escribe tres cosas que le gustaría experimentar, aprender o cuidar en los próximos meses. Eviten convertirlo en exigencias: pueden ser deseos pequeños, como probar una técnica de pintura, conocer un café nuevo, escuchar un álbum completo o reservar una tarde sin pantallas. Marquen una idea que puedan empezar con poco tiempo y presupuesto y anoten un primer paso concreto. Compartan solo lo que les nazca; no es necesario enseñar la lista completa ni prometer que cumplirán todo juntos. Si una idea necesita dinero, transporte o coordinación, déjenla como posibilidad para planear cuando sea oportuno. Cierren eligiendo una canción que represente cómo quieren sentirse en la siguiente etapa. ¿Qué deseo pequeño te gustaría probar primero?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Al final elijan una primera acción pequeña que dependa de cada persona, no de controlar a alguien más."
       },
       "palabraNueva": {
         "titulo": "La palabra de lo que elegimos",
@@ -3728,7 +3728,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una pieza pequeña hecha a mano",
-        "contenido": "Materiales: arcilla de secado al aire, una base protegida, un poco de agua y herramientas sencillas como un palito o una cuchara. Amasen una porción y elijan una pieza fácil: un platito decorativo para anillos, un colgante o una mini escultura abstracta. Formen la silueta, alisen las grietas con muy poca agua y añadan detalles con marcas o líneas. No hagan piezas para contacto con alimentos ni para calentar; sigan las instrucciones del material y déjenla secar el tiempo indicado. Si no tienen arcilla, guarden la idea para otro día sin necesidad de comprar materiales a la fuerza. Al final, cada uno inventa un nombre para la pieza del otro. ¿Qué objeto pequeño te gustaría crear?"
+        "contenido": "Materiales: arcilla de secado al aire, una base protegida, un poco de agua y herramientas sencillas como un palito o una cuchara. Amasen una porción y elijan una pieza fácil: un platito decorativo para anillos, un colgante o una mini escultura abstracta. Formen la silueta, alisen las grietas con muy poca agua y añadan detalles con marcas o líneas. No hagan piezas para contacto con alimentos ni para calentar; sigan las instrucciones del material y déjenla secar el tiempo indicado. Si no tienen arcilla, guarden la idea para otro día sin necesidad de comprar materiales a la fuerza. Al final, cada uno inventa un nombre para la pieza del otro. ¿Qué objeto pequeño te gustaría crear?\n\nTIEMPO SUGERIDO: 30–40 MINUTOS para modelar. Dejen secar la pieza el tiempo indicado por el material antes de pintarla."
       },
       "palabraNueva": {
         "titulo": "La palabra de las formas",
@@ -3776,7 +3776,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Cuenta atrás y números a la vez",
-        "contenido": "Jueguen diez rondas. En cada una, alguien propone una categoría o una operación sencilla: «di un número del uno al cinco» o «¿cuánto es 7 + 4?». En las rondas de números, ambos muestran al mismo tiempo una cantidad con los dedos; si la consigna es sumar, cada uno elige un número y dicen el resultado a la vez. Si coinciden, ganan un punto; si no, cada quien explica su elección en una frase y siguen. Añadan dos rondas absurdas —un nombre de planeta inventado o un color que describa el lunes— para que no todo sea cálculo. No hay castigo por perder: quien gane elige el tema de la última ronda. ¿Crees que coincidiremos más de tres veces?"
+        "contenido": "Jueguen diez rondas. En cada una, alguien propone una categoría o una operación sencilla: «di un número del uno al cinco» o «¿cuánto es 7 + 4?». En las rondas de números, ambos muestran al mismo tiempo una cantidad con los dedos; si la consigna es sumar, cada uno elige un número y dicen el resultado a la vez. Si coinciden, ganan un punto; si no, cada quien explica su elección en una frase y siguen. Añadan dos rondas absurdas —un nombre de planeta inventado o un color que describa el lunes— para que no todo sea cálculo. No hay castigo por perder: quien gane elige el tema de la última ronda. ¿Crees que coincidiremos más de tres veces?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Jueguen diez rondas rápidas y cambien la categoría cada dos turnos."
       },
       "palabraNueva": {
         "titulo": "La palabra de coincidir",
@@ -3824,7 +3824,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La caja de las preguntas curiosas",
-        "contenido": "Escriban por separado cinco preguntas ligeras y dos un poco más personales, pero cómodas para ambos. Ideas: ¿qué pequeño lujo te alegra el día?, ¿qué canción pondrías a una escena de tu vida?, ¿qué habilidad absurda te gustaría dominar? Doblen los papeles y mézclenlos. Por turnos, cada uno saca una pregunta y ambos pueden responderla. Cualquiera puede pasar una pregunta sin tener que explicar por qué; no se insiste ni se convierte en interrogatorio. Para cerrar, cada persona inventa una pregunta que le habría gustado que apareciera y decide si quiere compartirla. ¿Qué pregunta te gustaría que alguien te hiciera más a menudo?"
+        "contenido": "Escriban por separado cinco preguntas ligeras y dos un poco más personales, pero cómodas para ambos. Ideas: ¿qué pequeño lujo te alegra el día?, ¿qué canción pondrías a una escena de tu vida?, ¿qué habilidad absurda te gustaría dominar? Doblen los papeles y mézclenlos. Por turnos, cada uno saca una pregunta y ambos pueden responderla. Cualquiera puede pasar una pregunta sin tener que explicar por qué; no se insiste ni se convierte en interrogatorio. Para cerrar, cada persona inventa una pregunta que le habría gustado que apareciera y decide si quiere compartirla. ¿Qué pregunta te gustaría que alguien te hiciera más a menudo?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cada persona puede pasar una pregunta o elegir una más ligera."
       },
       "palabraNueva": {
         "titulo": "La palabra de conversar",
@@ -3872,7 +3872,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Vasitos de durazno y yogur",
-        "contenido": "Ingredientes para dos: 1 durazno maduro, 1 taza de yogur natural, 3 cucharadas de avena, 1 cucharadita de miel o panela disuelta (opcional), unas gotas de limón y canela al gusto. Lava el durazno, retira el hueso y córtalo en cubitos. Mezcla el yogur con unas gotas de limón y la canela. En una sartén seca, tuesta la avena a fuego bajo durante dos o tres minutos, removiendo para que no se queme; deja que se enfríe. En dos vasos alterna yogur, durazno y avena. Si quieres, añade un poco de miel o panela, sin necesidad de endulzar si la fruta está madura. Sirve enseguida para que la avena conserve algo de textura. Si no hay duraznos, pueden usar fresas o moras. ¿Lo prefieres con canela o sin ella?"
+        "contenido": "Ingredientes para dos: 1 durazno maduro, 1 taza de yogur natural, 3 cucharadas de avena, 1 cucharadita de miel o panela disuelta (opcional), unas gotas de limón y canela al gusto. Lava el durazno, retira el hueso y córtalo en cubitos. Mezcla el yogur con unas gotas de limón y la canela. En una sartén seca, tuesta la avena a fuego bajo durante dos o tres minutos, removiendo para que no se queme; deja que se enfríe. En dos vasos alterna yogur, durazno y avena. Si quieres, añade un poco de miel o panela, sin necesidad de endulzar si la fruta está madura. Sirve enseguida para que la avena conserve algo de textura. Si no hay duraznos, pueden usar fresas o moras. ¿Lo prefieres con canela o sin ella?\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS; REFRIGERACIÓN OPCIONAL: 10 MINUTOS. Si no hay nevera, preparen solo la porción que van a comer."
       },
       "palabraNueva": {
         "titulo": "La palabra de los sabores",
@@ -3893,7 +3893,7 @@ const CALENDARIO = [
     "dia": 82,
     "fecha": "2027-01-05",
     "fechaTexto": "mar, 5 de ene",
-    "categoria": "Una tarde de observar detalles",
+    "categoria": "La búsqueda de siete detalles dentro de casa",
     "icono": "🔎",
     "tono": "explorador",
     "color": {
@@ -3916,11 +3916,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, ojos atentos",
-        "contenido": "Si hoy sales un rato, prueba mirar el lugar como si fuera nuevo. Y si te quedas en casa, también puedes jugar a encontrar detalles que normalmente pasan inadvertidos."
+        "contenido": "Si hoy tienes diez minutos libres, mira el espacio como si acabaras de llegar por primera vez. Hay siete detalles escondidos a simple vista."
       },
       "mensajePrincipal": {
-        "titulo": "La búsqueda de siete pequeños detalles",
-        "contenido": "En una caminata corta por un lugar público seguro —o dentro de casa si prefieren— busquen siete detalles: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que suene suave, una combinación de colores y algo que les haga sonreír. Cada persona elige tres detalles y explica por qué los notó. No hace falta comprar nada ni entrar a sitios privados; si salen, revisen clima, horario y camino de regreso. Si el paseo no encaja ese día, la versión en casa funciona igual. Al final, elijan un detalle y descríbanlo con tres palabras. ¿Qué crees que notarías primero?"
+        "titulo": "La búsqueda de siete detalles dentro de casa",
+        "contenido": "RETO DE OBSERVACIÓN · 10–15 MINUTOS · EN CASA O EN LA OFICINA\n\nBusquen siete detalles sin desplazarse: una textura interesante, una sombra curiosa, un objeto azul, una forma parecida a una letra, algo que tenga una historia, un reflejo y un detalle que casi nadie mira.\n\nPueden fotografiarlos o anotarlos. Si están en la oficina, limítense a su propio espacio y no fotografíen documentos, pantallas ni a otras personas sin permiso. Después elijan el hallazgo más inesperado y expliquen por qué llamó su atención.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Versión de oficina: busquen detalles en su propio escritorio sin fotografiar pantallas ni documentos."
       },
       "palabraNueva": {
         "titulo": "La palabra de los detalles",
@@ -3968,7 +3968,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Cinco líneas que sí suenen a ti",
-        "contenido": "Cada uno escribe cinco líneas sobre algo que aprecia de la otra persona: una forma de expresarse, una idea que le llamó la atención, un gesto amable, una manera de resolver algo o una cualidad que le hace reír. Eviten comentarios que incomoden; no hace falta incluir nada físico ni íntimo. Después intercambien los textos y lean solo lo que ambos quieran compartir. Quien recibe puede escoger una línea favorita y decir qué le hizo sentir, sin obligación de responder con un elogio equivalente. Si escribir no les gusta, pueden decirlo en voz alta o dibujar una pequeña metáfora. ¿Qué detalle de alguien puede gustarte aunque esa persona no se dé cuenta?"
+        "contenido": "Cada uno escribe cinco líneas sobre algo que aprecia de la otra persona: una forma de expresarse, una idea que le llamó la atención, un gesto amable, una manera de resolver algo o una cualidad que le hace reír. Eviten comentarios que incomoden; no hace falta incluir nada físico ni íntimo. Después intercambien los textos y lean solo lo que ambos quieran compartir. Quien recibe puede escoger una línea favorita y decir qué le hizo sentir, sin obligación de responder con un elogio equivalente. Si escribir no les gusta, pueden decirlo en voz alta o dibujar una pequeña metáfora. ¿Qué detalle de alguien puede gustarte aunque esa persona no se dé cuenta?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cinco líneas por persona; lean el texto en voz alta solo si ambos quieren."
       },
       "palabraNueva": {
         "titulo": "La palabra de apreciar",
@@ -4016,7 +4016,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Tres escenas, tres canciones",
-        "contenido": "Cada uno propone tres escenas: una llegada inesperada, una tarde lluviosa y un final feliz, por ejemplo. Para cada escena, elijan una canción que encaje por ritmo, ambiente o recuerdo; no tiene que ser romántica. Escuchen un fragmento breve de cada elección y expliquen por qué funciona. Después intercambien una escena para que la otra persona elija la música. Si los gustos no coinciden, no hay que convencer a nadie: describan qué sensación querían crear. Para la última ronda, inventen una escena absurda y busquen una canción que la vuelva todavía más divertida. ¿Qué canción pondrías a un momento tranquilo al atardecer?"
+        "contenido": "Cada uno propone tres escenas: una llegada inesperada, una tarde lluviosa y un final feliz, por ejemplo. Para cada escena, elijan una canción que encaje por ritmo, ambiente o recuerdo; no tiene que ser romántica. Escuchen un fragmento breve de cada elección y expliquen por qué funciona. Después intercambien una escena para que la otra persona elija la música. Si los gustos no coinciden, no hay que convencer a nadie: describan qué sensación querían crear. Para la última ronda, inventen una escena absurda y busquen una canción que la vuelva todavía más divertida. ¿Qué canción pondrías a un momento tranquilo al atardecer?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres escenas y tres canciones; expliquen la elección sin necesidad de compartir letras."
       },
       "palabraNueva": {
         "titulo": "La palabra del ambiente",
@@ -4064,7 +4064,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una paleta para un estado de ánimo",
-        "contenido": "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?"
+        "contenido": "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Elijan una emoción, creen tres colores y pónganle un nombre propio a la paleta."
       },
       "palabraNueva": {
         "titulo": "La palabra del color",
@@ -4112,7 +4112,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El laboratorio de bebidas caseras",
-        "contenido": "Para dos vasos, elijan agua fría o con gas. Añadan fruta lavada en trozos —fresas, durazno o moras—, unas gotas de limón y hierbabuena si tienen. Aplasten suavemente un poco de fruta con una cuchara, agreguen agua y hielo si quieren, y prueben antes de endulzar. Preparen dos combinaciones y denles nombres de cafetería imaginaria. Prueben primero una pequeña cantidad y tengan en cuenta alergias e ingredientes que prefieran evitar. Cambien solo una cosa en la segunda versión. Al final, elijan cuál repetirían y dibujen una etiqueta en papel. ¿Cómo llamarías a tu creación?"
+        "contenido": "Para dos vasos, elijan agua fría o con gas. Añadan fruta lavada en trozos —fresas, durazno o moras—, unas gotas de limón y hierbabuena si tienen. Aplasten suavemente un poco de fruta con una cuchara, agreguen agua y hielo si quieren, y prueben antes de endulzar. Preparen dos combinaciones y denles nombres de cafetería imaginaria. Prueben primero una pequeña cantidad y tengan en cuenta alergias e ingredientes que prefieran evitar. Cambien solo una cosa en la segunda versión. Al final, elijan cuál repetirían y dibujen una etiqueta en papel. ¿Cómo llamarías a tu creación?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Para el almuerzo de oficina, lleven la fruta lavada y la base fría por separado; mezclen al servir."
       },
       "palabraNueva": {
         "titulo": "La palabra de experimentar",
@@ -4160,7 +4160,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El cumplido que tiene una historia",
-        "contenido": "Por turnos, completen tres frases: «Me hizo sonreír cuando…», «Admiro cómo…» y «Hay algo pequeño que haces y me gusta…». Mencionen una situación real, no una cualidad genérica. Quien escucha puede agradecer o simplemente sonreír; no tiene que devolver un cumplido en el acto. Si una frase se siente demasiado personal, pueden cambiarla o pasarla. Para terminar, inventen un cumplido absurdo y cariñoso, como si premiaran una habilidad cotidiana. La idea es expresar aprecio, no convertirlo en examen ni obligación. ¿Qué gesto sencillo suele alegrarte el día?"
+        "contenido": "Por turnos, completen tres frases: «Me hizo sonreír cuando…», «Admiro cómo…» y «Hay algo pequeño que haces y me gusta…». Mencionen una situación real, no una cualidad genérica. Quien escucha puede agradecer o simplemente sonreír; no tiene que devolver un cumplido en el acto. Si una frase se siente demasiado personal, pueden cambiarla o pasarla. Para terminar, inventen un cumplido absurdo y cariñoso, como si premiaran una habilidad cotidiana. La idea es expresar aprecio, no convertirlo en examen ni obligación. ¿Qué gesto sencillo suele alegrarte el día?\n\nTIEMPO SUGERIDO: 8–10 MINUTOS. Un ejemplo concreto vale más que una lista larga de cumplidos."
       },
       "palabraNueva": {
         "titulo": "La palabra de decirlo de verdad",
@@ -4208,7 +4208,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Arroz cremoso con huevo y verduras",
-        "contenido": "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?"
+        "contenido": "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?\n\nTIEMPO ESTIMADO: 20–25 MINUTOS. Usa arroz ya cocido para convertirlo en una comida rápida; incorpora las verduras antes del huevo."
       },
       "palabraNueva": {
         "titulo": "La palabra de los sabores",
@@ -4256,7 +4256,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Un lugar tranquilo y una bebida",
-        "contenido": "Elijan un parque, mirador público o espacio abierto conocido, con acceso seguro y ruta de regreso clara. Revisen pronóstico, hora de la puesta de sol, transporte, iluminación al volver y presupuesto. Pueden llevar agua o una bebida y sentarse un rato, eligiendo cada uno un color del cielo para describirlo. No es necesario que sea un lugar famoso ni que salgan este fin de semana; háganlo cuando les funcione a ambos. Si el sitio está lleno o el clima cambia, regresen o cambien a un café cercano. La idea es compartir unas horas, no pasar la noche fuera. ¿Te gusta mirar el cielo en silencio o comentarlo?"
+        "contenido": "Elijan un parque, mirador público o espacio abierto conocido, con acceso seguro y ruta de regreso clara. Revisen pronóstico, hora de la puesta de sol, transporte, iluminación al volver y presupuesto. Pueden llevar agua o una bebida y sentarse un rato, eligiendo cada uno un color del cielo para describirlo. No es necesario que sea un lugar famoso ni que salgan este fin de semana; háganlo cuando les funcione a ambos. Si el sitio está lleno o el clima cambia, regresen o cambien a un café cercano. La idea es compartir unas horas, no pasar la noche fuera. ¿Te gusta mirar el cielo en silencio o comentarlo?\n\nTIEMPO DE LA SALIDA: 2–3 HORAS, solo si el clima, el transporte, la seguridad y el presupuesto acompañan. Puede cambiarse por observar el atardecer desde casa."
       },
       "palabraNueva": {
         "titulo": "La palabra del cielo",
@@ -4304,7 +4304,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Una frase cada uno",
-        "contenido": "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?"
+        "contenido": "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Tres personas pueden turnarse para construir la historia, una frase por turno."
       },
       "palabraNueva": {
         "titulo": "La palabra de inventar",
@@ -14186,7 +14186,7 @@ const CALENDARIO = [
     "dia": 301,
     "fecha": "2027-08-12",
     "fechaTexto": "jue, 12 de ago",
-    "categoria": "El desafío del papel imposible",
+    "categoria": "Origami: una flor de papel en tres niveles",
     "icono": "📄",
     "tono": "destreza y creatividad",
     "color": {
