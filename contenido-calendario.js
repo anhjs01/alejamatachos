@@ -6310,5 +6310,327 @@ const CALENDARIO = [
       "significado": "Cualidad de expresar algo de manera delicada, sin hacerlo demasiado evidente.",
       "ejemplo": "La sutileza permite dejar una idea en el aire sin imponer una interpretación."
     }
+  },
+  {
+    "dia": 147,
+    "fecha": "2027-03-11",
+    "fechaTexto": "jue, 11 de mar",
+    "categoria": "El diccionario de palabras inventadas",
+    "icono": "📝",
+    "tono": "humor creativo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a ponerle nombre a esas cosas que pasan, pero que todavía no tienen palabra.",
+    "poema": [
+      "Inventen tres palabras para situaciones muy específicas: cuando abres la nevera sin saber qué buscas, cuando una canción te transporta a otro momento o cuando alguien cuenta una historia y se le olvida el final. Cada palabra debe tener máximo cuatro sílabas y una definición graciosa. Después úsenla en una frase como si existiera desde siempre. Si juegan dos, cada quien intenta adivinar el significado de las palabras del otro.",
+      "Guarden la palabra más ingeniosa en una pequeña lista titulada «Idioma propio». Pueden ir ampliándola cuando aparezcan nuevas situaciones."
+    ],
+    "detalle": "Guarden la palabra más ingeniosa en una pequeña lista titulada «Idioma propio». Pueden ir ampliándola cuando aparezcan nuevas situaciones.",
+    "buenasNoches": "Quizá hoy inventaste una palabra que mañana termine haciendo falta.",
+    "cancionTitulo": "MC's Act Like They Don't Know",
+    "cancionArtista": "KRS-One",
+    "youtubeId": "xnI8JEW7Ty4",
+    "cancionUrl": "https://www.youtube.com/watch?v=xnI8JEW7Ty4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a ponerle nombre a esas cosas que pasan, pero que todavía no tienen palabra."
+      },
+      "mensajePrincipal": {
+        "titulo": "El diccionario de palabras inventadas",
+        "contenido": "Inventen tres palabras para situaciones muy específicas: cuando abres la nevera sin saber qué buscas, cuando una canción te transporta a otro momento o cuando alguien cuenta una historia y se le olvida el final. Cada palabra debe tener máximo cuatro sílabas y una definición graciosa. Después úsenla en una frase como si existiera desde siempre. Si juegan dos, cada quien intenta adivinar el significado de las palabras del otro."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra neologismo",
+        "contenido": "Palabra nueva creada para nombrar una idea, objeto o situación. Inventar un neologismo puede darle nombre a algo que todos reconocen."
+      },
+      "buenasNoches": {
+        "contenido": "Quizá hoy inventaste una palabra que mañana termine haciendo falta."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Neologismo",
+      "significado": "Palabra nueva creada para nombrar una idea, objeto o situación.",
+      "ejemplo": "Inventar un neologismo puede darle nombre a algo que todos reconocen."
+    }
+  },
+  {
+    "dia": 148,
+    "fecha": "2027-03-12",
+    "fechaTexto": "vie, 12 de mar",
+    "categoria": "El museo de objetos cotidianos",
+    "icono": "🏛️",
+    "tono": "observación y relato",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy cualquier objeto puede convertirse en una pieza de museo.",
+    "poema": [
+      "Escoge tres objetos que tengas cerca y dales un título de exposición, como si fueran piezas de un museo extraño. Para cada uno inventa una historia de máximo dos frases: de dónde viene, qué aventura vivió o por qué merece estar exhibido. No tienen que ser objetos valiosos; mejor si son cosas comunes. Si participan dos, cada uno elige una pieza para la exposición del otro.",
+      "En el lienzo, diseña una pequeña sala de museo con los tres objetos, sus nombres y una descripción breve. Puedes dibujarlos o representarlos con formas."
+    ],
+    "detalle": "En el lienzo, diseña una pequeña sala de museo con los tres objetos, sus nombres y una descripción breve. Puedes dibujarlos o representarlos con formas.",
+    "buenasNoches": "Mirar de otra manera también es una forma de descubrir.",
+    "cancionTitulo": "Tonight's Da Night",
+    "cancionArtista": "Redman",
+    "youtubeId": "fOUARXiVMHs",
+    "cancionUrl": "https://www.youtube.com/watch?v=fOUARXiVMHs",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy cualquier objeto puede convertirse en una pieza de museo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El museo de objetos cotidianos",
+        "contenido": "Escoge tres objetos que tengas cerca y dales un título de exposición, como si fueran piezas de un museo extraño. Para cada uno inventa una historia de máximo dos frases: de dónde viene, qué aventura vivió o por qué merece estar exhibido. No tienen que ser objetos valiosos; mejor si son cosas comunes. Si participan dos, cada uno elige una pieza para la exposición del otro."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra curaduría",
+        "contenido": "Selección y organización de objetos o piezas para contar una idea o historia. La curaduría convierte objetos comunes en una exposición con sentido."
+      },
+      "buenasNoches": {
+        "contenido": "Mirar de otra manera también es una forma de descubrir."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Curaduría",
+      "significado": "Selección y organización de objetos o piezas para contar una idea o historia.",
+      "ejemplo": "La curaduría convierte objetos comunes en una exposición con sentido."
+    }
+  },
+  {
+    "dia": 149,
+    "fecha": "2027-03-13",
+    "fechaTexto": "sáb, 13 de mar",
+    "categoria": "El snack de tres capas",
+    "icono": "🍓",
+    "tono": "receta sin horno",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca preparar algo sencillo, fresco y sin encender el horno.",
+    "poema": [
+      "Arma un vasito por capas con yogur natural, banano en rodajas y fresas picadas. Si quieres, añade un poco de avena simple que sea segura. La gracia está en alternar las capas para que cada cucharada tenga distintas texturas. No requiere horno ni cocina. Por la alergia al maní, revisa las etiquetas de la avena y del yogur, y evita productos con advertencias de trazas o riesgo de contaminación cruzada. Puedes cambiar la fruta por otra que sepas que es segura.",
+      "Ponle un nombre de cafetería a tu vasito y escribe la receta en tres pasos para poder repetirla otro día."
+    ],
+    "detalle": "Ponle un nombre de cafetería a tu vasito y escribe la receta en tres pasos para poder repetirla otro día.",
+    "buenasNoches": "Que algo sea sencillo no significa que no pueda quedar bonito.",
+    "cancionTitulo": "Shimmy Shimmy Ya",
+    "cancionArtista": "Ol' Dirty Bastard",
+    "youtubeId": "h2zgB93KANE",
+    "cancionUrl": "https://www.youtube.com/watch?v=h2zgB93KANE",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca preparar algo sencillo, fresco y sin encender el horno."
+      },
+      "mensajePrincipal": {
+        "titulo": "El snack de tres capas",
+        "contenido": "Arma un vasito por capas con yogur natural, banano en rodajas y fresas picadas. Si quieres, añade un poco de avena simple que sea segura. La gracia está en alternar las capas para que cada cucharada tenga distintas texturas. No requiere horno ni cocina. Por la alergia al maní, revisa las etiquetas de la avena y del yogur, y evita productos con advertencias de trazas o riesgo de contaminación cruzada. Puedes cambiar la fruta por otra que sepas que es segura."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra contraste",
+        "contenido": "Diferencia notable entre dos o más elementos que ayuda a distinguirlos. El contraste de texturas hace más interesante una preparación sencilla."
+      },
+      "buenasNoches": {
+        "contenido": "Que algo sea sencillo no significa que no pueda quedar bonito."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Contraste",
+      "significado": "Diferencia notable entre dos o más elementos que ayuda a distinguirlos.",
+      "ejemplo": "El contraste de texturas hace más interesante una preparación sencilla."
+    }
+  },
+  {
+    "dia": 150,
+    "fecha": "2027-03-14",
+    "fechaTexto": "dom, 14 de mar",
+    "categoria": "El hechizo para un domingo difícil",
+    "icono": "🪄",
+    "tono": "cultura pop y bienestar",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Si este domingo tuviera un hechizo, ¿qué te gustaría que pudiera resolver?",
+    "poema": [
+      "Imagina que puedes crear un hechizo inspirado en el mundo de Harry Potter, pero para una situación cotidiana: ordenar una habitación, encontrar motivación, recordar dónde dejaste algo o bajar el ruido de un día pesado. Dale un nombre en latín inventado o una palabra divertida, define qué hace y cuál es su límite. No puede resolverlo todo: debe ayudar un poquito, no reemplazar lo que toca hacer.",
+      "Escribe el hechizo como una ficha de grimorio: nombre, pronunciación, efecto y una advertencia graciosa. Si quieres, ilústralo en el lienzo."
+    ],
+    "detalle": "Escribe el hechizo como una ficha de grimorio: nombre, pronunciación, efecto y una advertencia graciosa. Si quieres, ilústralo en el lienzo.",
+    "buenasNoches": "No hace falta tener magia para hacer más amable el día; a veces basta con encontrar un pequeño recurso.",
+    "cancionTitulo": "Who Got Da Props",
+    "cancionArtista": "Black Moon; Smif-N-Wessun",
+    "youtubeId": "KfCaacYKN6s",
+    "cancionUrl": "https://www.youtube.com/watch?v=KfCaacYKN6s",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Si este domingo tuviera un hechizo, ¿qué te gustaría que pudiera resolver?"
+      },
+      "mensajePrincipal": {
+        "titulo": "El hechizo para un domingo difícil",
+        "contenido": "Imagina que puedes crear un hechizo inspirado en el mundo de Harry Potter, pero para una situación cotidiana: ordenar una habitación, encontrar motivación, recordar dónde dejaste algo o bajar el ruido de un día pesado. Dale un nombre en latín inventado o una palabra divertida, define qué hace y cuál es su límite. No puede resolverlo todo: debe ayudar un poquito, no reemplazar lo que toca hacer."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra resiliencia",
+        "contenido": "Capacidad de recuperarse y adaptarse después de una dificultad. La resiliencia también puede estar en darse tiempo para volver a empezar."
+      },
+      "buenasNoches": {
+        "contenido": "No hace falta tener magia para hacer más amable el día; a veces basta con encontrar un pequeño recurso."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Resiliencia",
+      "significado": "Capacidad de recuperarse y adaptarse después de una dificultad.",
+      "ejemplo": "La resiliencia también puede estar en darse tiempo para volver a empezar."
+    }
+  },
+  {
+    "dia": 151,
+    "fecha": "2027-03-15",
+    "fechaTexto": "lun, 15 de mar",
+    "categoria": "El doblaje con emociones equivocadas",
+    "icono": "🎭",
+    "tono": "juego de actuación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a cambiarle el tono a una escena sin cambiar lo que ocurre.",
+    "poema": [
+      "Elijan una escena breve de una película o serie que ambos conozcan. Una persona cuenta lo que sucede con una emoción que no corresponde: narrar una persecución como si fuera una clase de yoga, o una discusión como si fuera un documental sobre pingüinos. La otra persona debe continuar el relato manteniendo el tono absurdo durante treinta segundos. Cambien de papel y prueben otro género.",
+      "Si están lejos, pueden mandarse un audio de máximo treinta segundos con el doblaje. La idea es improvisar, no actuar perfecto."
+    ],
+    "detalle": "Si están lejos, pueden mandarse un audio de máximo treinta segundos con el doblaje. La idea es improvisar, no actuar perfecto.",
+    "buenasNoches": "Ojalá hoy te hayas regalado aunque sea una risa inesperada.",
+    "cancionTitulo": "Insane in the Brain",
+    "cancionArtista": "Cypress Hill",
+    "youtubeId": "RijB8wnJCN0",
+    "cancionUrl": "https://www.youtube.com/watch?v=RijB8wnJCN0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a cambiarle el tono a una escena sin cambiar lo que ocurre."
+      },
+      "mensajePrincipal": {
+        "titulo": "El doblaje con emociones equivocadas",
+        "contenido": "Elijan una escena breve de una película o serie que ambos conozcan. Una persona cuenta lo que sucede con una emoción que no corresponde: narrar una persecución como si fuera una clase de yoga, o una discusión como si fuera un documental sobre pingüinos. La otra persona debe continuar el relato manteniendo el tono absurdo durante treinta segundos. Cambien de papel y prueben otro género."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra disonancia",
+        "contenido": "Falta de correspondencia entre dos elementos que normalmente esperaríamos juntos. La disonancia entre una voz alegre y una escena seria puede crear humor."
+      },
+      "buenasNoches": {
+        "contenido": "Ojalá hoy te hayas regalado aunque sea una risa inesperada."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Disonancia",
+      "significado": "Falta de correspondencia entre dos elementos que normalmente esperaríamos juntos.",
+      "ejemplo": "La disonancia entre una voz alegre y una escena seria puede crear humor."
+    }
+  },
+  {
+    "dia": 152,
+    "fecha": "2027-03-16",
+    "fechaTexto": "mar, 16 de mar",
+    "categoria": "La constelación de las pequeñas cosas",
+    "icono": "🌌",
+    "tono": "poético y cercano",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hay días que no necesitan un gran acontecimiento para tener algo especial.",
+    "poema": [
+      "Escribe cinco cosas pequeñas que te hayan hecho bien últimamente: una conversación, una canción, una comida, una idea, un momento de calma. Une cada una con una línea imaginaria y ponle un nombre a esa constelación. Si te nace compartirla, puedes mostrar solo el nombre y una de las estrellas, sin tener que explicar todo.",
+      "En el lienzo crea un cielo sencillo con cinco puntos y sus nombres. Puedes usar líneas finas o dejar que cada punto esté separado."
+    ],
+    "detalle": "En el lienzo crea un cielo sencillo con cinco puntos y sus nombres. Puedes usar líneas finas o dejar que cada punto esté separado.",
+    "buenasNoches": "A veces lo que ilumina una etapa no es una sola cosa, sino varias pequeñas luces.",
+    "cancionTitulo": "Ojos de Diablo",
+    "cancionArtista": "Zof Ziro; ZetaZeta",
+    "youtubeId": "DnETeFkRvHk",
+    "cancionUrl": "https://www.youtube.com/watch?v=DnETeFkRvHk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hay días que no necesitan un gran acontecimiento para tener algo especial."
+      },
+      "mensajePrincipal": {
+        "titulo": "La constelación de las pequeñas cosas",
+        "contenido": "Escribe cinco cosas pequeñas que te hayan hecho bien últimamente: una conversación, una canción, una comida, una idea, un momento de calma. Une cada una con una línea imaginaria y ponle un nombre a esa constelación. Si te nace compartirla, puedes mostrar solo el nombre y una de las estrellas, sin tener que explicar todo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra constelación",
+        "contenido": "Conjunto de elementos que, vistos en relación, forman una figura o patrón. Una constelación de recuerdos puede darle sentido a una etapa."
+      },
+      "buenasNoches": {
+        "contenido": "A veces lo que ilumina una etapa no es una sola cosa, sino varias pequeñas luces."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Constelación",
+      "significado": "Conjunto de elementos que, vistos en relación, forman una figura o patrón.",
+      "ejemplo": "Una constelación de recuerdos puede darle sentido a una etapa."
+    }
+  },
+  {
+    "dia": 153,
+    "fecha": "2027-03-17",
+    "fechaTexto": "mié, 17 de mar",
+    "categoria": "El tráiler de una vida alternativa",
+    "icono": "🎬",
+    "tono": "imaginación y conversación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a imaginar una película basada en una versión alternativa de nuestra rutina.",
+    "poema": [
+      "Piensa en una versión de tu vida en la que hubieras elegido otro pasatiempo, aprendido un oficio distinto o vivido en otra ciudad. No hace falta cambiar decisiones importantes ni ponerse demasiado serio: elige un giro curioso y conviértelo en el tráiler de una película de treinta segundos. Incluye título, género, una frase de narrador y una escena inesperada. Si lo hacen dos, cada quien crea el tráiler de la vida alternativa del otro con respeto y buen humor.",
+      "Pueden grabar el tráiler en audio o escribirlo como cartel de cine. Elijan cuál de las dos películas tendría la mejor banda sonora."
+    ],
+    "detalle": "Pueden grabar el tráiler en audio o escribirlo como cartel de cine. Elijan cuál de las dos películas tendría la mejor banda sonora.",
+    "buenasNoches": "No todas las posibilidades tienen que convertirse en planes; algunas son divertidas solo por imaginarlas.",
+    "cancionTitulo": "Stupid Love Story",
+    "cancionArtista": "Canserbero; Apache",
+    "youtubeId": "wmef2TEPGgo",
+    "cancionUrl": "https://www.youtube.com/watch?v=wmef2TEPGgo",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a imaginar una película basada en una versión alternativa de nuestra rutina."
+      },
+      "mensajePrincipal": {
+        "titulo": "El tráiler de una vida alternativa",
+        "contenido": "Piensa en una versión de tu vida en la que hubieras elegido otro pasatiempo, aprendido un oficio distinto o vivido en otra ciudad. No hace falta cambiar decisiones importantes ni ponerse demasiado serio: elige un giro curioso y conviértelo en el tráiler de una película de treinta segundos. Incluye título, género, una frase de narrador y una escena inesperada. Si lo hacen dos, cada quien crea el tráiler de la vida alternativa del otro con respeto y buen humor."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra premisa",
+        "contenido": "Idea central que sirve como punto de partida para desarrollar una historia. Una buena premisa permite imaginar una historia completa a partir de una sola idea."
+      },
+      "buenasNoches": {
+        "contenido": "No todas las posibilidades tienen que convertirse en planes; algunas son divertidas solo por imaginarlas."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Premisa",
+      "significado": "Idea central que sirve como punto de partida para desarrollar una historia.",
+      "ejemplo": "Una buena premisa permite imaginar una historia completa a partir de una sola idea."
+    }
   }
 ];
