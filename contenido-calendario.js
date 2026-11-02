@@ -8065,8 +8065,8 @@ const CALENDARIO = [
         "contenido": "Inventen una escena breve: alguien entra a una habitación y encuentra una sorpresa, se pierde en un lugar conocido o recibe una noticia inesperada. Cada persona elige una canción que cambiaría por completo el ambiente de esa escena: una la vuelve épica y la otra ridícula, misteriosa o tranquila. Expliquen por qué la escogieron y cuál versión verían hasta el final.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una escena, dos canciones y dos versiones del ambiente; gana la que mejor transforme la historia."
       },
       "palabraNueva": {
-        "titulo": "La palabra compás",
-        "contenido": "COMPÁS: unidad rítmica que organiza los tiempos de una pieza musical. Cambiar el compás o el ritmo puede transformar la emoción de una escena."
+        "titulo": "La palabra arreglo",
+        "contenido": "ARREGLO: adaptación u organización de los elementos de una pieza musical. Un arreglo distinto puede cambiar el carácter de una misma canción."
       },
       "buenasNoches": {
         "contenido": "A veces la música no cambia lo que pasó, pero sí cambia por completo cómo lo sentimos.",
@@ -13228,8 +13228,8 @@ const CALENDARIO = [
         "contenido": "Elige cinco pequeñas misiones para el día: encontrar un sonido que te guste, descubrir una textura curiosa, notar un aroma agradable, probar un sabor distinto y observar un color que hoy parezca especialmente bonito. No hace falta hacerlas todas de una vez; puedes ir reuniendo tus hallazgos como si fueran objetos de una colección invisible.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS repartidos durante el día. No hace falta probar alimentos o aromas desconocidos; basta observar lo que ya conoces."
       },
       "palabraNueva": {
-        "titulo": "La palabra admiración",
-        "contenido": "ADMIRACIÓN: sentimiento de aprecio o asombro ante algo que reconocemos como valioso. La admiración puede aparecer al observar un detalle común con atención."
+        "titulo": "La palabra maravilla",
+        "contenido": "MARAVILLA: hecho, objeto o experiencia que despierta admiración por su belleza o singularidad. A veces una maravilla aparece en algo cotidiano que miramos con atención."
       },
       "buenasNoches": {
         "contenido": "A veces no hace falta cambiar de mundo; basta con prestar más atención al que ya tenemos.",
@@ -16536,8 +16536,8 @@ const CALENDARIO = [
         "contenido": "Escribe cinco momentos recientes que te hayan dejado algo bueno: una conversación, una idea, una tarde tranquila, una canción o algo que te atreviste a probar. Anota qué los hizo especiales y qué parte de ti apareció allí.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco momentos y una razón concreta para conservar cada uno."
       },
       "palabraNueva": {
-        "titulo": "La palabra recapitulación",
-        "contenido": "RECAPITULACIÓN: resumen ordenado de los puntos o momentos más importantes de algo. Una recapitulación ayuda a reconocer qué merece conservarse."
+        "titulo": "La palabra inventario",
+        "contenido": "INVENTARIO: lista ordenada de elementos que se tienen o que se quieren revisar. Hacer un inventario de momentos ayuda a reconocer qué vale la pena conservar."
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
