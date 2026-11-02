@@ -14372,5 +14372,329 @@ const CALENDARIO = [
         "ejemplo": "Su lumbre creativa aparecía incluso en los detalles más sencillos."
       }
     }
+  ],
+[
+    {
+      "dia": 322,
+      "fecha": "2027-09-02",
+      "fechaTexto": "jue, 2 de sep",
+      "categoria": "El juego de mesa inventado",
+      "icono": "🎲",
+      "tono": "diseño y estrategia",
+      "color": {
+        "principal": "#a8b9d2",
+        "suave": "#edf1f8",
+        "oscuro": "#303b50"
+      },
+      "buenosDias": "Hoy no vamos a jugar un juego: vamos a inventar uno desde cero.",
+      "poema": [
+        "Diseña un juego de mesa que pueda explicarse en menos de un minuto. Necesita un objetivo, una regla especial y una forma de ganar. Dibuja un tablero sencillo en una hoja y usa monedas, botones o papelitos como fichas. Para hacerlo más interesante, añade una casilla que cambie las reglas durante un turno.",
+        "Pruébalo una vez, aunque sea en solitario, y detecta qué regla resulta confusa o demasiado fácil. Si alguien participa, deja que esa persona invente una regla sorpresa antes de empezar la segunda partida."
+      ],
+      "detalle": "Ponle nombre al juego y diseña una portada como si fuera a venderse en una tienda.",
+      "buenasNoches": "Las mejores ideas no siempre necesitan muchas piezas; necesitan una regla que despierte curiosidad.",
+      "cancionTitulo": "Can't Stop the Feeling!",
+      "cancionArtista": "Justin Timberlake",
+      "youtubeId": "3AtDnEC4hayI",
+      "cancionUrl": "https://www.youtube.com/watch?v=3AtDnEC4hayI",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy no vamos a jugar un juego: vamos a inventar uno desde cero."
+        },
+        "mensajePrincipal": {
+          "titulo": "El juego de mesa inventado",
+          "contenido": "Diseña un juego de mesa que pueda explicarse en menos de un minuto. Necesita un objetivo, una regla especial y una forma de ganar. Dibuja un tablero sencillo en una hoja y usa monedas, botones o papelitos como fichas. Para hacerlo más interesante, añade una casilla que cambie las reglas durante un turno."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra austeridad",
+          "contenido": "Sencillez y moderación, evitando lo innecesario. El tablero tenía una austeridad elegante: pocas casillas y reglas claras."
+        },
+        "buenasNoches": {
+          "contenido": "Las mejores ideas no siempre necesitan muchas piezas; necesitan una regla que despierte curiosidad."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Austeridad",
+        "significado": "Sencillez y moderación, evitando lo innecesario.",
+        "ejemplo": "El tablero tenía una austeridad elegante: pocas casillas y reglas claras."
+      }
+    },
+    {
+      "dia": 323,
+      "fecha": "2027-09-03",
+      "fechaTexto": "vie, 3 de sep",
+      "categoria": "La búsqueda de cinco encuadres",
+      "icono": "📷",
+      "tono": "observación visual",
+      "color": {
+        "principal": "#c8a7bb",
+        "suave": "#f3eaf0",
+        "oscuro": "#453143"
+      },
+      "buenosDias": "Hoy la cámara —o simplemente tus ojos— va a encontrar imágenes donde normalmente solo ves cosas.",
+      "poema": [
+        "Busca cinco encuadres diferentes sin salir de donde estás: una simetría, una sombra, una textura, una línea que conduzca la mirada y un detalle diminuto. Puedes fotografiarlos o dibujarlos rápidamente. No importa que el objeto sea común; intenta que cada encuadre lo haga parecer una imagen distinta.",
+        "Al final elige tu favorito y ponle un título de exposición. Si compartes el reto, comparen qué elemento cotidiano terminó pareciendo más interesante."
+      ],
+      "detalle": "Prueba una foto desde muy abajo o desde arriba para cambiar por completo la perspectiva.",
+      "buenasNoches": "A veces una mirada nueva basta para encontrar una imagen que siempre estuvo ahí.",
+      "cancionTitulo": "Paradise",
+      "cancionArtista": "Coldplay",
+      "youtubeId": "ktvTqknBoa8",
+      "cancionUrl": "https://www.youtube.com/watch?v=ktvTqknBoa8",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy la cámara —o simplemente tus ojos— va a encontrar imágenes donde normalmente solo ves cosas."
+        },
+        "mensajePrincipal": {
+          "titulo": "La búsqueda de cinco encuadres",
+          "contenido": "Busca cinco encuadres diferentes sin salir de donde estás: una simetría, una sombra, una textura, una línea que conduzca la mirada y un detalle diminuto. Puedes fotografiarlos o dibujarlos rápidamente. No importa que el objeto sea común; intenta que cada encuadre lo haga parecer una imagen distinta."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra albor",
+          "contenido": "Luz del amanecer; comienzo o aparición de algo. El albor iluminó apenas el borde de los edificios."
+        },
+        "buenasNoches": {
+          "contenido": "A veces una mirada nueva basta para encontrar una imagen que siempre estuvo ahí."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Albor",
+        "significado": "Luz del amanecer; comienzo o aparición de algo.",
+        "ejemplo": "El albor iluminó apenas el borde de los edificios."
+      }
+    },
+    {
+      "dia": 324,
+      "fecha": "2027-09-04",
+      "fechaTexto": "sáb, 4 de sep",
+      "categoria": "El debate de una tontería importante",
+      "icono": "⚖️",
+      "tono": "humor y conversación",
+      "color": {
+        "principal": "#d6ad8f",
+        "suave": "#f6efe5",
+        "oscuro": "#4b3828"
+      },
+      "buenosDias": "Hoy vamos a defender una opinión absurda como si estuviera en juego el destino del mundo.",
+      "poema": [
+        "Escoge un tema inofensivo: ¿la pizza se come mejor doblada?, ¿los lunes deberían tener otro nombre?, ¿qué animal sería el peor compañero de oficina? Defiende una postura durante un minuto con tres argumentos, aunque no estés de acuerdo con ella. Después cambia de bando y defiende exactamente lo contrario.",
+        "Si lo hacen entre dos, cada uno recibe treinta segundos para presentar su caso y otros treinta para responder. El jurado puede ser una cuchara, una planta o cualquier objeto que esté cerca."
+      ],
+      "detalle": "Entrega un premio imaginario al argumento más convincente, aunque haya sido el más ridículo.",
+      "buenasNoches": "No todas las discusiones buscan tener razón; algunas solo quieren provocar una buena risa.",
+      "cancionTitulo": "Believer",
+      "cancionArtista": "Imagine Dragons",
+      "youtubeId": "tAGnKpE4NCI",
+      "cancionUrl": "https://www.youtube.com/watch?v=tAGnKpE4NCI",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a defender una opinión absurda como si estuviera en juego el destino del mundo."
+        },
+        "mensajePrincipal": {
+          "titulo": "El debate de una tontería importante",
+          "contenido": "Escoge un tema inofensivo: ¿la pizza se come mejor doblada?, ¿los lunes deberían tener otro nombre?, ¿qué animal sería el peor compañero de oficina? Defiende una postura durante un minuto con tres argumentos, aunque no estés de acuerdo con ella. Después cambia de bando y defiende exactamente lo contrario."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra latente",
+          "contenido": "Que existe, pero todavía no se manifiesta o permanece oculto. Había un talento cómico latente detrás de aquella defensa tan seria."
+        },
+        "buenasNoches": {
+          "contenido": "No todas las discusiones buscan tener razón; algunas solo quieren provocar una buena risa."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Latente",
+        "significado": "Que existe, pero todavía no se manifiesta o permanece oculto.",
+        "ejemplo": "Había un talento cómico latente detrás de aquella defensa tan seria."
+      }
+    },
+    {
+      "dia": 325,
+      "fecha": "2027-09-05",
+      "fechaTexto": "dom, 5 de sep",
+      "categoria": "El postre frío de tres ingredientes",
+      "icono": "🍓",
+      "tono": "cocina sencilla",
+      "color": {
+        "principal": "#d8a2a2",
+        "suave": "#f6e9e9",
+        "oscuro": "#4b3033"
+      },
+      "buenosDias": "Un antojo sencillo también puede convertirse en un pequeño experimento de cocina.",
+      "poema": [
+        "Prepara un postre frío mezclando yogur natural con fruta picada y un toque de miel o mermelada. Si prefieres algo más firme, congela la mezcla en moldes pequeños o en una cubetera hasta que tome consistencia. También puedes hacer una versión con banano machacado y cacao. No necesitas horno; ajusta las cantidades a lo que tengas disponible.",
+        "Ponle un nombre, sirve una porción bonita y describe el sabor con tres palabras. Si lo compartes, deja que la otra persona proponga un ingrediente extra para una segunda versión."
+      ],
+      "detalle": "Haz una presentación en capas y guarda la receta con el nombre que inventaste.",
+      "buenasNoches": "La creatividad también se prueba con lo que hay en la nevera y un poco de imaginación.",
+      "cancionTitulo": "Wrecking Ball",
+      "cancionArtista": "Miley Cyrus",
+      "youtubeId": "fLexgOxsZu0",
+      "cancionUrl": "https://www.youtube.com/watch?v=fLexgOxsZu0",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Un antojo sencillo también puede convertirse en un pequeño experimento de cocina."
+        },
+        "mensajePrincipal": {
+          "titulo": "El postre frío de tres ingredientes",
+          "contenido": "Prepara un postre frío mezclando yogur natural con fruta picada y un toque de miel o mermelada. Si prefieres algo más firme, congela la mezcla en moldes pequeños o en una cubetera hasta que tome consistencia. También puedes hacer una versión con banano machacado y cacao. No necesitas horno; ajusta las cantidades a lo que tengas disponible."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra esbozo",
+          "contenido": "Diseño o descripción inicial de una idea, todavía sin desarrollar por completo. El primer esbozo del postre fue simple, pero ya tenía buena pinta."
+        },
+        "buenasNoches": {
+          "contenido": "La creatividad también se prueba con lo que hay en la nevera y un poco de imaginación."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Esbozo",
+        "significado": "Diseño o descripción inicial de una idea, todavía sin desarrollar por completo.",
+        "ejemplo": "El primer esbozo del postre fue simple, pero ya tenía buena pinta."
+      }
+    },
+    {
+      "dia": 326,
+      "fecha": "2027-09-06",
+      "fechaTexto": "lun, 6 de sep",
+      "categoria": "Adivina el sonido imposible",
+      "icono": "🔊",
+      "tono": "juego de percepción",
+      "color": {
+        "principal": "#9bb9b0",
+        "suave": "#eaf2ef",
+        "oscuro": "#2e4540"
+      },
+      "buenosDias": "Hoy toca reconocer sonidos sin ver qué los produce.",
+      "poema": [
+        "Graba cinco sonidos cortos usando objetos cotidianos: papel arrugado, llaves, agua, una cremallera o un lápiz golpeando suavemente una superficie. Reprodúcelos sin mostrar la fuente y trata de adivinar qué los produjo. Si estás solo, mezcla los audios y deja pasar un rato antes de escucharlos de nuevo para que no recuerdes el orden.",
+        "Puedes complicarlo grabando un mismo objeto de tres maneras distintas o haciendo que un sonido parezca venir de otra cosa. Evita ruidos fuertes o golpear objetos frágiles."
+      ],
+      "detalle": "Ponle a cada grabación un nombre de película antes de revelar qué objeto la produjo.",
+      "buenasNoches": "Escuchar con atención convierte lo cotidiano en un pequeño misterio.",
+      "cancionTitulo": "Chandelier",
+      "cancionArtista": "Sia",
+      "youtubeId": "2vjPBrBU-TM",
+      "cancionUrl": "https://www.youtube.com/watch?v=2vjPBrBU-TM",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy toca reconocer sonidos sin ver qué los produce."
+        },
+        "mensajePrincipal": {
+          "titulo": "Adivina el sonido imposible",
+          "contenido": "Graba cinco sonidos cortos usando objetos cotidianos: papel arrugado, llaves, agua, una cremallera o un lápiz golpeando suavemente una superficie. Reprodúcelos sin mostrar la fuente y trata de adivinar qué los produjo. Si estás solo, mezcla los audios y deja pasar un rato antes de escucharlos de nuevo para que no recuerdes el orden."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra lucidez",
+          "contenido": "Claridad para comprender o expresar algo. Con lucidez, distinguió el sonido del papel entre varias grabaciones parecidas."
+        },
+        "buenasNoches": {
+          "contenido": "Escuchar con atención convierte lo cotidiano en un pequeño misterio."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Lucidez",
+        "significado": "Claridad para comprender o expresar algo.",
+        "ejemplo": "Con lucidez, distinguió el sonido del papel entre varias grabaciones parecidas."
+      }
+    },
+    {
+      "dia": 327,
+      "fecha": "2027-09-07",
+      "fechaTexto": "mar, 7 de sep",
+      "categoria": "Un emblema para esta etapa",
+      "icono": "✏️",
+      "tono": "identidad y expresión artística",
+      "color": {
+        "principal": "#a9a0cf",
+        "suave": "#efedf7",
+        "oscuro": "#38334b"
+      },
+      "buenosDias": "Hoy vas a crear un símbolo que represente la etapa que estás viviendo, sin necesidad de dibujar algo perfecto.",
+      "poema": [
+        "Diseña un emblema combinando tres elementos: una forma geométrica, un objeto y un color. Cada uno debe representar algo distinto: lo que estás aprendiendo, algo que quieres cuidar y una meta que te gustaría explorar. Añade un lema de máximo seis palabras y procura que el símbolo se entienda incluso en tamaño pequeño.",
+        "Puedes hacerlo con lápiz, recortes o una aplicación de dibujo. Si alguien participa, intercambien los emblemas e intenten interpretar el significado antes de escuchar la explicación."
+      ],
+      "detalle": "Haz una versión monocromática para comprobar si el símbolo sigue siendo reconocible.",
+      "buenasNoches": "No necesitas tener todo resuelto para reconocer qué cosas te están formando.",
+      "cancionTitulo": "Firework",
+      "cancionArtista": "Katy Perry",
+      "youtubeId": "KQ6zr6kCPj8",
+      "cancionUrl": "https://www.youtube.com/watch?v=KQ6zr6kCPj8",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vas a crear un símbolo que represente la etapa que estás viviendo, sin necesidad de dibujar algo perfecto."
+        },
+        "mensajePrincipal": {
+          "titulo": "Un emblema para esta etapa",
+          "contenido": "Diseña un emblema combinando tres elementos: una forma geométrica, un objeto y un color. Cada uno debe representar algo distinto: lo que estás aprendiendo, algo que quieres cuidar y una meta que te gustaría explorar. Añade un lema de máximo seis palabras y procura que el símbolo se entienda incluso en tamaño pequeño."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra impronta",
+          "contenido": "Huella o marca que algo deja en una persona o cosa. Aquella experiencia dejó una impronta que todavía inspiraba sus decisiones."
+        },
+        "buenasNoches": {
+          "contenido": "No necesitas tener todo resuelto para reconocer qué cosas te están formando."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Impronta",
+        "significado": "Huella o marca que algo deja en una persona o cosa.",
+        "ejemplo": "Aquella experiencia dejó una impronta que todavía inspiraba sus decisiones."
+      }
+    },
+    {
+      "dia": 328,
+      "fecha": "2027-09-08",
+      "fechaTexto": "mié, 8 de sep",
+      "categoria": "La pregunta que abre una puerta",
+      "icono": "💫",
+      "tono": "conversación y cercanía",
+      "color": {
+        "principal": "#d9a6b9",
+        "suave": "#f5e8ed",
+        "oscuro": "#482d3b"
+      },
+      "buenosDias": "Hoy una pregunta bien elegida puede llevar la conversación a un lugar inesperado.",
+      "poema": [
+        "Propón esta pregunta: si pudieras aprender una habilidad nueva en una sola tarde, ¿cuál elegirías y para qué la usarías? Después de responder, cada persona puede hacer una pregunta de seguimiento que no sea de sí o no. La idea es descubrir razones, recuerdos o curiosidades que normalmente no aparecen en una charla rápida.",
+        "Si la conversación fluye, cambien de turno y respondan también qué habilidad creen que la otra persona aprendería con facilidad. Mantén el tono ligero: no se trata de examinar a nadie, sino de abrir una ventana a nuevas ideas."
+      ],
+      "detalle": "Guarden la habilidad elegida como idea para una actividad futura, sin convertirla en obligación.",
+      "buenasNoches": "Hay preguntas pequeñas que terminan mostrando rincones enormes de la imaginación.",
+      "cancionTitulo": "Counting Stars",
+      "cancionArtista": "OneRepublic",
+      "youtubeId": "60ItHLz5WEA",
+      "cancionUrl": "https://www.youtube.com/watch?v=60ItHLz5WEA",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy una pregunta bien elegida puede llevar la conversación a un lugar inesperado."
+        },
+        "mensajePrincipal": {
+          "titulo": "La pregunta que abre una puerta",
+          "contenido": "Propón esta pregunta: si pudieras aprender una habilidad nueva en una sola tarde, ¿cuál elegirías y para qué la usarías? Después de responder, cada persona puede hacer una pregunta de seguimiento que no sea de sí o no. La idea es descubrir razones, recuerdos o curiosidades que normalmente no aparecen en una charla rápida."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra afluencia",
+          "contenido": "Llegada abundante o continua de personas, cosas o ideas. La conversación tomó afluencia cuando cada respuesta despertó otra pregunta."
+        },
+        "buenasNoches": {
+          "contenido": "Hay preguntas pequeñas que terminan mostrando rincones enormes de la imaginación."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Afluencia",
+        "significado": "Llegada abundante o continua de personas, cosas o ideas.",
+        "ejemplo": "La conversación tomó afluencia cuando cada respuesta despertó otra pregunta."
+      }
+    }
   ]
 ];
