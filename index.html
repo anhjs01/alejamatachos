@@ -781,5 +781,5 @@ document.querySelector('#save').addEventListener('click',()=>{visited.add(active
 update();
 if('serviceWorker' in navigator && location.protocol.startsWith('http')){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}))}
 </script>
-</body>
+ <script src="./analytics-config.js"></script>\n<script src="./analytics.js"></script>\n</body>
 </html>
