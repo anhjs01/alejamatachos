@@ -15020,5 +15020,329 @@ const CALENDARIO = [
         "ejemplo": "La idea era inédita para el grupo y abrió una conversación distinta."
       }
     }
+  ],
+[
+    {
+      "dia": 336,
+      "fecha": "2027-09-16",
+      "fechaTexto": "jue, 16 de sep",
+      "categoria": "El concurso de soluciones imposibles",
+      "icono": "🏆",
+      "tono": "ingenio y humor",
+      "color": {
+        "principal": "#c4a8cf",
+        "suave": "#f2eaf5",
+        "oscuro": "#403047"
+      },
+      "buenosDias": "Hoy toca resolver problemas que probablemente nadie tiene, pero que merecen una solución brillante.",
+      "poema": [
+        "Inventa tres problemas absurdos: ¿cómo guardar un arcoíris en un cajón?, ¿cómo convencer a una tostadora de que cante?, ¿cómo organizar una carrera entre caracoles impacientes? Para cada uno, escribe una solución en tres pasos y ponle un nombre como si fuera un invento patentado.",
+        "Si alguien participa, intercambien problemas y resuelvan los del otro. Elijan la propuesta más disparatada y hagan un anuncio de treinta segundos para venderla."
+      ],
+      "detalle": "Dibuja el invento ganador con una etiqueta de precio exageradamente alta.",
+      "buenasNoches": "A veces la mejor respuesta no es la más lógica, sino la que consigue arrancar una sonrisa.",
+      "cancionTitulo": "Celebration",
+      "cancionArtista": "Kool & The Gang",
+      "youtubeId": "3GwjfUFyY6M",
+      "cancionUrl": "https://www.youtube.com/watch?v=3GwjfUFyY6M",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy toca resolver problemas que probablemente nadie tiene, pero que merecen una solución brillante."
+        },
+        "mensajePrincipal": {
+          "titulo": "El concurso de soluciones imposibles",
+          "contenido": "Inventa tres problemas absurdos: ¿cómo guardar un arcoíris en un cajón?, ¿cómo convencer a una tostadora de que cante?, ¿cómo organizar una carrera entre caracoles impacientes? Para cada uno, escribe una solución en tres pasos y ponle un nombre como si fuera un invento patentado."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra júbilo",
+          "contenido": "Alegría intensa que se manifiesta con entusiasmo. La solución provocó júbilo porque era tan absurda como ingeniosa."
+        },
+        "buenasNoches": {
+          "contenido": "A veces la mejor respuesta no es la más lógica, sino la que consigue arrancar una sonrisa."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Júbilo",
+        "significado": "Alegría intensa que se manifiesta con entusiasmo.",
+        "ejemplo": "La solución provocó júbilo porque era tan absurda como ingeniosa."
+      }
+    },
+    {
+      "dia": 337,
+      "fecha": "2027-09-17",
+      "fechaTexto": "vie, 17 de sep",
+      "categoria": "La lista de cosas que merecen pausa",
+      "icono": "🍃",
+      "tono": "bienestar y observación",
+      "color": {
+        "principal": "#a6bcae",
+        "suave": "#edf3ed",
+        "oscuro": "#344338"
+      },
+      "buenosDias": "Hoy vamos a hacer espacio para las cosas pequeñas que suelen pasar de largo.",
+      "poema": [
+        "Anota cinco momentos cotidianos que te gustaría disfrutar sin hacer otra cosa al mismo tiempo: tomar una bebida caliente, mirar cómo cambia la luz, escuchar una canción completa, conversar sin revisar el teléfono o caminar un rato. Escoge uno y reserva diez minutos para vivirlo con atención.",
+        "Después escribe qué notaste que normalmente se te habría escapado. Si compartes el ejercicio, cada persona puede recomendarle a la otra una pausa sencilla, sin convertirla en tarea pendiente."
+      ],
+      "detalle": "Ponle un título a tu pausa, como si fuera una escena de una película tranquila.",
+      "buenasNoches": "No todo momento necesita producir algo; algunos simplemente merecen ser vividos.",
+      "cancionTitulo": "Demons",
+      "cancionArtista": "Imagine Dragons",
+      "youtubeId": "7wtfhZwyrcc",
+      "cancionUrl": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a hacer espacio para las cosas pequeñas que suelen pasar de largo."
+        },
+        "mensajePrincipal": {
+          "titulo": "La lista de cosas que merecen pausa",
+          "contenido": "Anota cinco momentos cotidianos que te gustaría disfrutar sin hacer otra cosa al mismo tiempo: tomar una bebida caliente, mirar cómo cambia la luz, escuchar una canción completa, conversar sin revisar el teléfono o caminar un rato. Escoge uno y reserva diez minutos para vivirlo con atención."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra levedad",
+          "contenido": "Cualidad de lo que es ligero, sencillo o poco pesado. La levedad de aquella pausa hizo que la tarde se sintiera distinta."
+        },
+        "buenasNoches": {
+          "contenido": "No todo momento necesita producir algo; algunos simplemente merecen ser vividos."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Levedad",
+        "significado": "Cualidad de lo que es ligero, sencillo o poco pesado.",
+        "ejemplo": "La levedad de aquella pausa hizo que la tarde se sintiera distinta."
+      }
+    },
+    {
+      "dia": 338,
+      "fecha": "2027-09-18",
+      "fechaTexto": "sáb, 18 de sep",
+      "categoria": "El objeto con una segunda vida",
+      "icono": "♻️",
+      "tono": "creatividad y reutilización",
+      "color": {
+        "principal": "#9dbac1",
+        "suave": "#eaf2f3",
+        "oscuro": "#30434a"
+      },
+      "buenosDias": "Hoy vamos a mirar un objeto que ya cumplió su función y pensar qué otra historia podría tener.",
+      "poema": [
+        "Busca un envase limpio, una caja pequeña, un frasco o un trozo de cartón que normalmente desecharías. Imagina dos usos nuevos y escoge uno que puedas hacer de forma segura con materiales disponibles: un organizador, un portalápices, una maceta decorativa o un soporte sencillo. No hace falta comprar nada.",
+        "Dale un nombre a la nueva creación y explica qué problema resuelve. Si alguien participa, que proponga una tercera transformación antes de decidir cuál construir."
+      ],
+      "detalle": "Decora tu creación con una etiqueta que indique su nueva función.",
+      "buenasNoches": "A veces renovar algo empieza por dejar de verlo como lo mismo de siempre.",
+      "cancionTitulo": "Call Me Maybe",
+      "cancionArtista": "Carly Rae Jepsen",
+      "youtubeId": "450p7goxZqg",
+      "cancionUrl": "https://www.youtube.com/watch?v=450p7goxZqg",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a mirar un objeto que ya cumplió su función y pensar qué otra historia podría tener."
+        },
+        "mensajePrincipal": {
+          "titulo": "El objeto con una segunda vida",
+          "contenido": "Busca un envase limpio, una caja pequeña, un frasco o un trozo de cartón que normalmente desecharías. Imagina dos usos nuevos y escoge uno que puedas hacer de forma segura con materiales disponibles: un organizador, un portalápices, una maceta decorativa o un soporte sencillo. No hace falta comprar nada."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra maña",
+          "contenido": "Habilidad o destreza para hacer algo con facilidad e ingenio. Con maña convirtió una caja sencilla en un organizador útil."
+        },
+        "buenasNoches": {
+          "contenido": "A veces renovar algo empieza por dejar de verlo como lo mismo de siempre."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Maña",
+        "significado": "Habilidad o destreza para hacer algo con facilidad e ingenio.",
+        "ejemplo": "Con maña convirtió una caja sencilla en un organizador útil."
+      }
+    },
+    {
+      "dia": 339,
+      "fecha": "2027-09-19",
+      "fechaTexto": "dom, 19 de sep",
+      "categoria": "El mapa de un lugar inventado",
+      "icono": "🗺️",
+      "tono": "imaginación y diseño",
+      "color": {
+        "principal": "#a8acd0",
+        "suave": "#eeeff8",
+        "oscuro": "#343650"
+      },
+      "buenosDias": "Hoy vas a dibujar un lugar que no aparece en ningún mapa real.",
+      "poema": [
+        "Crea un mapa sencillo de una isla, barrio o ciudad imaginaria. Incluye cinco lugares con nombres propios, una zona misteriosa, un sitio para descansar y una regla curiosa que deban cumplir quienes lleguen. Puedes dibujar caminos, puentes, ríos o estaciones, pero procura que cada rincón tenga una razón para existir.",
+        "Después escribe una leyenda de tres líneas sobre el lugar: quién lo fundó, qué se celebra allí y qué secreto guarda. Si alguien participa, intercambien mapas e inventen una pequeña aventura usando el del otro."
+      ],
+      "detalle": "Marca un camino secreto que solo se pueda encontrar siguiendo tres pistas.",
+      "buenasNoches": "Los lugares imaginarios también dicen algo de las cosas que nos gustaría encontrar en el mundo real.",
+      "cancionTitulo": "In the End",
+      "cancionArtista": "Linkin Park",
+      "youtubeId": "eVTXPUF4Oz4",
+      "cancionUrl": "https://www.youtube.com/watch?v=eVTXPUF4Oz4",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vas a dibujar un lugar que no aparece en ningún mapa real."
+        },
+        "mensajePrincipal": {
+          "titulo": "El mapa de un lugar inventado",
+          "contenido": "Crea un mapa sencillo de una isla, barrio o ciudad imaginaria. Incluye cinco lugares con nombres propios, una zona misteriosa, un sitio para descansar y una regla curiosa que deban cumplir quienes lleguen. Puedes dibujar caminos, puentes, ríos o estaciones, pero procura que cada rincón tenga una razón para existir."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra ocaso",
+          "contenido": "Momento en que el sol desaparece bajo el horizonte; también, declive o final de algo. En el mapa, el faro solo encendía su luz durante el ocaso."
+        },
+        "buenasNoches": {
+          "contenido": "Los lugares imaginarios también dicen algo de las cosas que nos gustaría encontrar en el mundo real."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Ocaso",
+        "significado": "Momento en que el sol desaparece bajo el horizonte; también, declive o final de algo.",
+        "ejemplo": "En el mapa, el faro solo encendía su luz durante el ocaso."
+      }
+    },
+    {
+      "dia": 340,
+      "fecha": "2027-09-20",
+      "fechaTexto": "lun, 20 de sep",
+      "categoria": "La pregunta que no admite respuesta rápida",
+      "icono": "💭",
+      "tono": "conversación y reflexión",
+      "color": {
+        "principal": "#c9a9b7",
+        "suave": "#f4ebef",
+        "oscuro": "#44323b"
+      },
+      "buenosDias": "Hoy vamos a dejar que una pregunta tenga espacio para una respuesta más pensada.",
+      "poema": [
+        "Elige una de estas preguntas: ¿qué idea cambiaste con el tiempo?, ¿qué actividad te gustaría recuperar?, ¿qué detalle sencillo te hace sentir en casa? Tómate unos minutos para responder sin buscar una frase perfecta. Si te cuesta, empieza con un recuerdo concreto y deja que la respuesta aparezca desde ahí.",
+        "Si conversan dos personas, escuchen sin interrumpir ni convertir la respuesta en debate. Después pueden hacer una sola pregunta de seguimiento para comprender mejor, no para poner a prueba al otro."
+      ],
+      "detalle": "Guarda la pregunta que más te hizo pensar para volver a ella dentro de unos meses.",
+      "buenasNoches": "Escuchar con atención también es una forma de cuidar una conversación.",
+      "cancionTitulo": "Numb",
+      "cancionArtista": "Linkin Park",
+      "youtubeId": "kXYiU_JCYtU",
+      "cancionUrl": "https://www.youtube.com/watch?v=kXYiU_JCYtU",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a dejar que una pregunta tenga espacio para una respuesta más pensada."
+        },
+        "mensajePrincipal": {
+          "titulo": "La pregunta que no admite respuesta rápida",
+          "contenido": "Elige una de estas preguntas: ¿qué idea cambiaste con el tiempo?, ¿qué actividad te gustaría recuperar?, ¿qué detalle sencillo te hace sentir en casa? Tómate unos minutos para responder sin buscar una frase perfecta. Si te cuesta, empieza con un recuerdo concreto y deja que la respuesta aparezca desde ahí."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra prudencia",
+          "contenido": "Cuidado y buen juicio al decidir o actuar. Respondió con prudencia y se tomó un momento antes de elegir."
+        },
+        "buenasNoches": {
+          "contenido": "Escuchar con atención también es una forma de cuidar una conversación."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Prudencia",
+        "significado": "Cuidado y buen juicio al decidir o actuar.",
+        "ejemplo": "Respondió con prudencia y se tomó un momento antes de elegir."
+      }
+    },
+    {
+      "dia": 341,
+      "fecha": "2027-09-21",
+      "fechaTexto": "mar, 21 de sep",
+      "categoria": "La misión de los cinco sentidos",
+      "icono": "👀",
+      "tono": "experiencia sensorial",
+      "color": {
+        "principal": "#d4ad8e",
+        "suave": "#f5eee4",
+        "oscuro": "#493a2b"
+      },
+      "buenosDias": "Hoy el reto es describir un momento usando más que la vista.",
+      "poema": [
+        "Elige un lugar tranquilo y anota una cosa que puedas percibir con cada sentido: un sonido, una textura, un olor, un sabor si tienes algo seguro a mano y un detalle visual. No necesitas probar nada nuevo ni tocar objetos desconocidos; basta con observar lo que ya está a tu alcance. Después convierte tus cinco apuntes en una descripción breve.",
+        "Si lo hacen entre dos, comparen qué sentido les resultó más fácil y cuál casi nunca mencionan. Descubrirán que una misma habitación puede sentirse distinta según aquello a lo que prestamos atención."
+      ],
+      "detalle": "Describe el lugar sin nombrarlo y deja que alguien intente adivinar dónde estás.",
+      "buenasNoches": "La atención cambia la experiencia: lo que parecía ordinario puede llenarse de detalles.",
+      "cancionTitulo": "The Fox (What Does the Fox Say?)",
+      "cancionArtista": "Ylvis",
+      "youtubeId": "jofNR_WkoCE",
+      "cancionUrl": "https://www.youtube.com/watch?v=jofNR_WkoCE",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy el reto es describir un momento usando más que la vista."
+        },
+        "mensajePrincipal": {
+          "titulo": "La misión de los cinco sentidos",
+          "contenido": "Elige un lugar tranquilo y anota una cosa que puedas percibir con cada sentido: un sonido, una textura, un olor, un sabor si tienes algo seguro a mano y un detalle visual. No necesitas probar nada nuevo ni tocar objetos desconocidos; basta con observar lo que ya está a tu alcance. Después convierte tus cinco apuntes en una descripción breve."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra quórum",
+          "contenido": "Número mínimo de integrantes necesario para que una reunión pueda celebrarse válidamente. Con el quórum completo, comenzó la reunión de ideas más extraña del día."
+        },
+        "buenasNoches": {
+          "contenido": "La atención cambia la experiencia: lo que parecía ordinario puede llenarse de detalles."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Quórum",
+        "significado": "Número mínimo de integrantes necesario para que una reunión pueda celebrarse válidamente.",
+        "ejemplo": "Con el quórum completo, comenzó la reunión de ideas más extraña del día."
+      }
+    },
+    {
+      "dia": 342,
+      "fecha": "2027-09-22",
+      "fechaTexto": "mié, 22 de sep",
+      "categoria": "El agradecimiento con nombre propio",
+      "icono": "💌",
+      "tono": "afecto y reconocimiento",
+      "color": {
+        "principal": "#d6a1b8",
+        "suave": "#f5e8ee",
+        "oscuro": "#482d3b"
+      },
+      "buenosDias": "Hoy vamos a convertir un agradecimiento general en uno que realmente diga algo.",
+      "poema": [
+        "Piensa en alguien que haya hecho algo valioso por ti, incluso si fue pequeño: explicar algo con paciencia, compartir una idea, hacerte reír o estar presente en un momento oportuno. Escribe tres líneas: qué hizo, qué efecto tuvo en ti y por qué lo recuerdas. Si te nace, envíaselas; si no, puedes guardarlas como recordatorio.",
+        "Si recibes un agradecimiento, intenta escucharlo sin minimizar lo que hiciste. Reconocer el efecto positivo de un gesto no obliga a nadie a nada: simplemente permite que el gesto tenga su lugar."
+      ],
+      "detalle": "Evita los elogios genéricos: menciona el gesto exacto que hizo la diferencia.",
+      "buenasNoches": "A veces unas pocas palabras precisas hacen visible algo bueno que pudo pasar inadvertido.",
+      "cancionTitulo": "Levitating",
+      "cancionArtista": "Dua Lipa",
+      "youtubeId": "VbfpW0pbvaU",
+      "cancionUrl": "https://www.youtube.com/watch?v=VbfpW0pbvaU",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a convertir un agradecimiento general en uno que realmente diga algo."
+        },
+        "mensajePrincipal": {
+          "titulo": "El agradecimiento con nombre propio",
+          "contenido": "Piensa en alguien que haya hecho algo valioso por ti, incluso si fue pequeño: explicar algo con paciencia, compartir una idea, hacerte reír o estar presente en un momento oportuno. Escribe tres líneas: qué hizo, qué efecto tuvo en ti y por qué lo recuerdas. Si te nace, envíaselas; si no, puedes guardarlas como recordatorio."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra reparo",
+          "contenido": "Observación, objeción o cuidado que se expresa ante algo; también, protección o resguardo. No tuvo reparo en agradecer aquel gesto concreto y oportuno."
+        },
+        "buenasNoches": {
+          "contenido": "A veces unas pocas palabras precisas hacen visible algo bueno que pudo pasar inadvertido."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Reparo",
+        "significado": "Observación, objeción o cuidado que se expresa ante algo; también, protección o resguardo.",
+        "ejemplo": "No tuvo reparo en agradecer aquel gesto concreto y oportuno."
+      }
+    }
   ]
 ];
