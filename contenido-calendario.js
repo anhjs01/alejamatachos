@@ -7598,5 +7598,327 @@ const CALENDARIO = [
       "significado": "Circunstancia o suceso que ocurre sin poder predecirse por completo.",
       "ejemplo": "Un poco de azar puede convertir un plan cotidiano en una experiencia distinta."
     }
+  },
+  {
+    "dia": 175,
+    "fecha": "2027-04-08",
+    "fechaTexto": "jue, 8 de abr",
+    "categoria": "La lista de cosas que todavía nos sorprenden",
+    "icono": "✨",
+    "tono": "curiosidad y asombro",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vale la pena recuperar esa capacidad de sorprenderse por cosas pequeñas.",
+    "poema": [
+      "Haz una lista de cinco cosas que todavía te producen curiosidad o asombro: un lugar que no conoces, un fenómeno natural, una habilidad, una obra de arte o una pregunta que nunca has resuelto. Elige una y escribe por qué te gustaría descubrir más. Si comparten la actividad, intercambien una curiosidad y recomiéndense cómo explorarla.",
+      "No hay que tener una gran aventura planeada para mantener viva la curiosidad; a veces basta con una pregunta buena."
+    ],
+    "detalle": "No hay que tener una gran aventura planeada para mantener viva la curiosidad; a veces basta con una pregunta buena.",
+    "buenasNoches": "Que nunca se vuelva costumbre dejar de mirar con atención.",
+    "cancionTitulo": "Noicanicula",
+    "cancionArtista": "La Etnnia",
+    "youtubeId": "z3ru8GXgHJE",
+    "cancionUrl": "https://www.youtube.com/watch?v=z3ru8GXgHJE",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vale la pena recuperar esa capacidad de sorprenderse por cosas pequeñas."
+      },
+      "mensajePrincipal": {
+        "titulo": "La lista de cosas que todavía nos sorprenden",
+        "contenido": "Haz una lista de cinco cosas que todavía te producen curiosidad o asombro: un lugar que no conoces, un fenómeno natural, una habilidad, una obra de arte o una pregunta que nunca has resuelto. Elige una y escribe por qué te gustaría descubrir más. Si comparten la actividad, intercambien una curiosidad y recomiéndense cómo explorarla."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra epifanía",
+        "contenido": "Comprensión repentina de algo que antes no se veía con claridad. Una epifanía puede aparecer en medio de una conversación o de una experiencia cotidiana."
+      },
+      "buenasNoches": {
+        "contenido": "Que nunca se vuelva costumbre dejar de mirar con atención."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Epifanía",
+      "significado": "Comprensión repentina de algo que antes no se veía con claridad.",
+      "ejemplo": "Una epifanía puede aparecer en medio de una conversación o de una experiencia cotidiana."
+    }
+  },
+  {
+    "dia": 176,
+    "fecha": "2027-04-09",
+    "fechaTexto": "vie, 9 de abr",
+    "categoria": "La clave de un buen equipo",
+    "icono": "🤝",
+    "tono": "complicidad y juego",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto es comprobar qué tan bien se complementan dos formas distintas de pensar.",
+    "poema": [
+      "Elijan una tarea creativa: inventar un nombre para una banda, diseñar una cafetería imaginaria o crear un personaje. La primera persona aporta tres ideas sin explicarlas demasiado; la segunda debe escoger una y mejorarla. Luego cambian los papeles. La regla es construir sobre lo que el otro propone, no borrar su idea para imponer la propia. Al final elijan qué parte nació de cada uno.",
+      "Pueden guardar el resultado en el lienzo como una ficha de proyecto compartido, con los dos nombres en los créditos."
+    ],
+    "detalle": "Pueden guardar el resultado en el lienzo como una ficha de proyecto compartido, con los dos nombres en los créditos.",
+    "buenasNoches": "Las mejores colaboraciones no requieren pensar igual, sino saber escuchar lo que el otro aporta.",
+    "cancionTitulo": "Nrs In Da Area",
+    "cancionArtista": "No Rules Clan; Ignorancia Sofisticada",
+    "youtubeId": "O4pIfDuLk_k",
+    "cancionUrl": "https://www.youtube.com/watch?v=O4pIfDuLk_k",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto es comprobar qué tan bien se complementan dos formas distintas de pensar."
+      },
+      "mensajePrincipal": {
+        "titulo": "La clave de un buen equipo",
+        "contenido": "Elijan una tarea creativa: inventar un nombre para una banda, diseñar una cafetería imaginaria o crear un personaje. La primera persona aporta tres ideas sin explicarlas demasiado; la segunda debe escoger una y mejorarla. Luego cambian los papeles. La regla es construir sobre lo que el otro propone, no borrar su idea para imponer la propia. Al final elijan qué parte nació de cada uno."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sinergia",
+        "contenido": "Acción conjunta de dos o más elementos cuyo resultado es mejor que el de cada uno por separado. Hay sinergia cuando dos ideas distintas se combinan y terminan creando algo mejor."
+      },
+      "buenasNoches": {
+        "contenido": "Las mejores colaboraciones no requieren pensar igual, sino saber escuchar lo que el otro aporta."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sinergia",
+      "significado": "Acción conjunta de dos o más elementos cuyo resultado es mejor que el de cada uno por separado.",
+      "ejemplo": "Hay sinergia cuando dos ideas distintas se combinan y terminan creando algo mejor."
+    }
+  },
+  {
+    "dia": 177,
+    "fecha": "2027-04-10",
+    "fechaTexto": "sáb, 10 de abr",
+    "categoria": "Un taller de cerámica, color o formas",
+    "icono": "🎨",
+    "tono": "experiencia compartida",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hay planes que se disfrutan más por lo que uno hace que por lo que termina llevando a casa.",
+    "poema": [
+      "Si tienen disponibilidad, busquen un taller de una sola sesión: cerámica, pintura de piezas, decoración de espejos o creación de figuras. La idea es probar algo con las manos, reírse de los resultados y llevarse una pequeña creación. Antes de elegir, revisen horarios, precio, ubicación y duración; no hace falta que sea un curso largo ni una salida de todo el día.",
+      "Si no encuentran taller o no coincide el horario, pueden hacer una versión sencilla en casa con papel, marcadores y formas recortadas. El objetivo es crear, no lograr una obra perfecta."
+    ],
+    "detalle": "Si no encuentran taller o no coincide el horario, pueden hacer una versión sencilla en casa con papel, marcadores y formas recortadas. El objetivo es crear, no lograr una obra perfecta.",
+    "buenasNoches": "A veces lo más bonito de una experiencia es tener algo imperfecto que recuerde el rato compartido.",
+    "cancionTitulo": "De Pe a Pa",
+    "cancionArtista": "Granuja",
+    "youtubeId": "auAIsRn0mPM",
+    "cancionUrl": "https://www.youtube.com/watch?v=auAIsRn0mPM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hay planes que se disfrutan más por lo que uno hace que por lo que termina llevando a casa."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un taller de cerámica, color o formas",
+        "contenido": "Si tienen disponibilidad, busquen un taller de una sola sesión: cerámica, pintura de piezas, decoración de espejos o creación de figuras. La idea es probar algo con las manos, reírse de los resultados y llevarse una pequeña creación. Antes de elegir, revisen horarios, precio, ubicación y duración; no hace falta que sea un curso largo ni una salida de todo el día."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra artesanía",
+        "contenido": "Trabajo realizado manualmente con habilidad y atención al detalle. Una pieza de artesanía conserva algo del tiempo y la intención de quien la creó."
+      },
+      "buenasNoches": {
+        "contenido": "A veces lo más bonito de una experiencia es tener algo imperfecto que recuerde el rato compartido."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Artesanía",
+      "significado": "Trabajo realizado manualmente con habilidad y atención al detalle.",
+      "ejemplo": "Una pieza de artesanía conserva algo del tiempo y la intención de quien la creó."
+    }
+  },
+  {
+    "dia": 178,
+    "fecha": "2027-04-11",
+    "fechaTexto": "dom, 11 de abr",
+    "categoria": "La pregunta de las versiones alternativas",
+    "icono": "🪞",
+    "tono": "reflexión ligera",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a jugar con los caminos que la vida pudo tomar, sin convertirlo en arrepentimientos.",
+    "poema": [
+      "Piensa en una decisión pequeña que te haya llevado a conocer algo que hoy disfrutas: entrar a una clase, aceptar una invitación, cambiar una ruta o empezar una afición. Imagina durante un minuto cómo sería tu vida si hubieras elegido otra cosa. No se trata de pensar que una opción era mejor, sino de inventar una versión alternativa y contar qué personaje, lugar o costumbre sería diferente.",
+      "Si lo hacen juntos, cada persona inventa una versión alternativa de una anécdota compartida o de una película conocida."
+    ],
+    "detalle": "Si lo hacen juntos, cada persona inventa una versión alternativa de una anécdota compartida o de una película conocida.",
+    "buenasNoches": "Cada camino tiene sus propias historias; qué bueno que algunas nos hayan traído hasta aquí.",
+    "cancionTitulo": "Quien Va",
+    "cancionArtista": "No Rules Clan; Alcolirykoz; El Arkeologo",
+    "youtubeId": "mF_8BMwhH5A",
+    "cancionUrl": "https://www.youtube.com/watch?v=mF_8BMwhH5A",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a jugar con los caminos que la vida pudo tomar, sin convertirlo en arrepentimientos."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pregunta de las versiones alternativas",
+        "contenido": "Piensa en una decisión pequeña que te haya llevado a conocer algo que hoy disfrutas: entrar a una clase, aceptar una invitación, cambiar una ruta o empezar una afición. Imagina durante un minuto cómo sería tu vida si hubieras elegido otra cosa. No se trata de pensar que una opción era mejor, sino de inventar una versión alternativa y contar qué personaje, lugar o costumbre sería diferente."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra ucronía",
+        "contenido": "Relato o hipótesis que imagina cómo habría sido la historia si un hecho hubiera ocurrido de otra manera. Una ucronía permite jugar con la pregunta «¿y si…?» y explorar otros caminos posibles."
+      },
+      "buenasNoches": {
+        "contenido": "Cada camino tiene sus propias historias; qué bueno que algunas nos hayan traído hasta aquí."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Ucronía",
+      "significado": "Relato o hipótesis que imagina cómo habría sido la historia si un hecho hubiera ocurrido de otra manera.",
+      "ejemplo": "Una ucronía permite jugar con la pregunta «¿y si…?» y explorar otros caminos posibles."
+    }
+  },
+  {
+    "dia": 179,
+    "fecha": "2027-04-12",
+    "fechaTexto": "lun, 12 de abr",
+    "categoria": "Un detalle que no se compra",
+    "icono": "💌",
+    "tono": "coquetería sutil y atención",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto es pensar en esos gestos pequeños que hacen sentir a alguien tenido en cuenta.",
+    "poema": [
+      "Elige un gesto sencillo que no implique comprar nada: compartir una canción que encaje con su día, recordar algo que tenía pendiente, guardar una foto de un momento divertido o enviar un mensaje deseándole suerte con algo importante. Si te nace hacerlo por alguien, que sea natural y sin esperar una respuesta especial. También puedes escribir qué gesto te gusta recibir a ti.",
+      "La atención se nota más cuando es genuina que cuando intenta impresionar."
+    ],
+    "detalle": "La atención se nota más cuando es genuina que cuando intenta impresionar.",
+    "buenasNoches": "Hay detalles que no cuestan nada y aun así pueden alegrar bastante el día.",
+    "cancionTitulo": "Murderah",
+    "cancionArtista": "Rap Bang Club; Norick",
+    "youtubeId": "6Xw1_Kuv9ac",
+    "cancionUrl": "https://www.youtube.com/watch?v=6Xw1_Kuv9ac",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto es pensar en esos gestos pequeños que hacen sentir a alguien tenido en cuenta."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un detalle que no se compra",
+        "contenido": "Elige un gesto sencillo que no implique comprar nada: compartir una canción que encaje con su día, recordar algo que tenía pendiente, guardar una foto de un momento divertido o enviar un mensaje deseándole suerte con algo importante. Si te nace hacerlo por alguien, que sea natural y sin esperar una respuesta especial. También puedes escribir qué gesto te gusta recibir a ti."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra consideración",
+        "contenido": "Atención y respeto hacia los sentimientos o circunstancias de otra persona. Un gesto de consideración puede ser recordar un detalle pequeño y actuar con cuidado."
+      },
+      "buenasNoches": {
+        "contenido": "Hay detalles que no cuestan nada y aun así pueden alegrar bastante el día."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Consideración",
+      "significado": "Atención y respeto hacia los sentimientos o circunstancias de otra persona.",
+      "ejemplo": "Un gesto de consideración puede ser recordar un detalle pequeño y actuar con cuidado."
+    }
+  },
+  {
+    "dia": 180,
+    "fecha": "2027-04-13",
+    "fechaTexto": "mar, 13 de abr",
+    "categoria": "El mapa de los lugares pendientes",
+    "icono": "🧭",
+    "tono": "sueños y planes",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a dibujar un mapa que no necesita direcciones exactas, solo ganas de descubrir.",
+    "poema": [
+      "Anota cuatro experiencias que te gustaría vivir algún día: ver un amanecer desde un mirador, conocer un pueblo, ir a un concierto, aprender una técnica artística o hacer una caminata tranquila. Ponles un símbolo según qué tan pronto te gustaría intentarlas. No hay que fijar fechas ni prometer viajes; es una colección de posibilidades para cuando se presente el momento.",
+      "En el lienzo, dibuja un mapa imaginario con caminos que conecten esas experiencias. Puedes añadir nombres inventados y pequeñas señales."
+    ],
+    "detalle": "En el lienzo, dibuja un mapa imaginario con caminos que conecten esas experiencias. Puedes añadir nombres inventados y pequeñas señales.",
+    "buenasNoches": "Que el futuro tenga espacios en blanco para llenarlos con cosas que todavía no imaginamos.",
+    "cancionTitulo": "La Jungla",
+    "cancionArtista": "Flaco Flow y Melanina",
+    "youtubeId": "NcUvzYvGO2U",
+    "cancionUrl": "https://www.youtube.com/watch?v=NcUvzYvGO2U",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a dibujar un mapa que no necesita direcciones exactas, solo ganas de descubrir."
+      },
+      "mensajePrincipal": {
+        "titulo": "El mapa de los lugares pendientes",
+        "contenido": "Anota cuatro experiencias que te gustaría vivir algún día: ver un amanecer desde un mirador, conocer un pueblo, ir a un concierto, aprender una técnica artística o hacer una caminata tranquila. Ponles un símbolo según qué tan pronto te gustaría intentarlas. No hay que fijar fechas ni prometer viajes; es una colección de posibilidades para cuando se presente el momento."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra horizonte",
+        "contenido": "Límite visual que parece separar la tierra del cielo; también representa lo que se desea alcanzar. Tener un horizonte propio ayuda a imaginar experiencias que todavía están por venir."
+      },
+      "buenasNoches": {
+        "contenido": "Que el futuro tenga espacios en blanco para llenarlos con cosas que todavía no imaginamos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Horizonte",
+      "significado": "Límite visual que parece separar la tierra del cielo; también representa lo que se desea alcanzar.",
+      "ejemplo": "Tener un horizonte propio ayuda a imaginar experiencias que todavía están por venir."
+    }
+  },
+  {
+    "dia": 181,
+    "fecha": "2027-04-14",
+    "fechaTexto": "mié, 14 de abr",
+    "categoria": "La carta de mitad de camino",
+    "icono": "✉️",
+    "tono": "cercano y significativo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Llegamos a un número especial: no es el final, es una pausa para mirar lo recorrido.",
+    "poema": [
+      "Piensa en estos días del calendario y elige tres cosas: una actividad que te haya dado risa, una idea que te haya dejado pensando y una experiencia que te gustaría repetir o probar de otra manera. Después completa: «De aquí en adelante me gustaría que hubiera más…». Puedes responder con una palabra, una frase o un pequeño dibujo. No hay respuestas correctas ni expectativas que cumplir; es simplemente una forma de darle identidad a lo que viene.",
+      "Si quieres, guarda tu respuesta como una pequeña carta de mitad de camino. Puede ser privada o compartida, como prefieras."
+    ],
+    "detalle": "Si quieres, guarda tu respuesta como una pequeña carta de mitad de camino. Puede ser privada o compartida, como prefieras.",
+    "buenasNoches": "La mitad de un recorrido también merece celebrarse: todavía quedan muchas páginas por descubrir.",
+    "cancionTitulo": "Bogotá Mi Barrio",
+    "cancionArtista": "Todo Copas",
+    "youtubeId": "jj8ZIUfWCMM",
+    "cancionUrl": "https://www.youtube.com/watch?v=jj8ZIUfWCMM",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Llegamos a un número especial: no es el final, es una pausa para mirar lo recorrido."
+      },
+      "mensajePrincipal": {
+        "titulo": "La carta de mitad de camino",
+        "contenido": "Piensa en estos días del calendario y elige tres cosas: una actividad que te haya dado risa, una idea que te haya dejado pensando y una experiencia que te gustaría repetir o probar de otra manera. Después completa: «De aquí en adelante me gustaría que hubiera más…». Puedes responder con una palabra, una frase o un pequeño dibujo. No hay respuestas correctas ni expectativas que cumplir; es simplemente una forma de darle identidad a lo que viene."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra recapitulación",
+        "contenido": "Resumen de los puntos o momentos más importantes de un recorrido o proceso. Una recapitulación permite reconocer lo vivido y decidir qué vale la pena conservar."
+      },
+      "buenasNoches": {
+        "contenido": "La mitad de un recorrido también merece celebrarse: todavía quedan muchas páginas por descubrir."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Recapitulación",
+      "significado": "Resumen de los puntos o momentos más importantes de un recorrido o proceso.",
+      "ejemplo": "Una recapitulación permite reconocer lo vivido y decidir qué vale la pena conservar."
+    }
   }
 ];
