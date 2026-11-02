@@ -13724,5 +13724,329 @@ const CALENDARIO = [
         "ejemplo": "Con parsimonia, una conversación puede dejar espacio para escuchar de verdad."
       }
     }
+  ],
+[
+    {
+      "dia": 308,
+      "fecha": "2027-08-19",
+      "fechaTexto": "jue, 19 de ago",
+      "categoria": "El mensaje escondido en un acróstico",
+      "icono": "🔠",
+      "tono": "escritura y creatividad",
+      "color": {
+        "principal": "#91b9c9",
+        "suave": "#e5f0f5",
+        "oscuro": "#263d49"
+      },
+      "buenosDias": "Hoy vamos a esconder una frase a plena vista, usando las letras como pequeñas pistas.",
+      "poema": [
+        "Elige una palabra de cinco a ocho letras y escribe una frase breve por cada letra, de modo que al leer las primeras letras en vertical aparezca un mensaje. Puede ser una frase graciosa, una invitación imaginaria o una idea que quieras recordar. Si una letra se complica, inventa una respuesta absurda.",
+        "Comparte el acróstico sin revelar la palabra que lo organiza. La otra persona debe descubrirla y explicar qué frase le pareció más ingeniosa."
+      ],
+      "detalle": "Decora la primera letra de cada línea para que el mensaje también funcione como pequeño cartel.",
+      "buenasNoches": "Hay mensajes que no necesitan esconderse mucho para convertirse en un juego.",
+      "cancionTitulo": "Party Rock Anthem",
+      "cancionArtista": "LMFAO",
+      "youtubeId": "LsoLEjrDogU",
+      "cancionUrl": "https://www.youtube.com/watch?v=LsoLEjrDogU",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a esconder una frase a plena vista, usando las letras como pequeñas pistas."
+        },
+        "mensajePrincipal": {
+          "titulo": "El mensaje escondido en un acróstico",
+          "contenido": "Elige una palabra de cinco a ocho letras y escribe una frase breve por cada letra, de modo que al leer las primeras letras en vertical aparezca un mensaje. Puede ser una frase graciosa, una invitación imaginaria o una idea que quieras recordar. Si una letra se complica, inventa una respuesta absurda."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra acróstico",
+          "contenido": "Composición poética en la que ciertas letras forman una palabra o frase al leerse en un orden determinado. Un acróstico puede esconder un mensaje en las primeras letras de cada verso."
+        },
+        "buenasNoches": {
+          "contenido": "Hay mensajes que no necesitan esconderse mucho para convertirse en un juego."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Acróstico",
+        "significado": "Composición poética en la que ciertas letras forman una palabra o frase al leerse en un orden determinado.",
+        "ejemplo": "Un acróstico puede esconder un mensaje en las primeras letras de cada verso."
+      }
+    },
+    {
+      "dia": 309,
+      "fecha": "2027-08-20",
+      "fechaTexto": "vie, 20 de ago",
+      "categoria": "El avión de papel con destino secreto",
+      "icono": "✈️",
+      "tono": "reto manual y precisión",
+      "color": {
+        "principal": "#d8ad87",
+        "suave": "#f7eddf",
+        "oscuro": "#493421"
+      },
+      "buenosDias": "Hoy vamos a comprobar hasta dónde puede llegar una hoja doblada con un poco de ingenio.",
+      "poema": [
+        "Construye un avión de papel y marca una línea de lanzamiento. Haz tres pruebas cambiando solo una cosa cada vez: el ángulo de las alas, la inclinación de la punta o la fuerza del lanzamiento. Mide aproximadamente la distancia y observa qué diseño vuela más recto. Si no tienes espacio, prueba a hacerlo recorrer una mesa sin salirse de los bordes.",
+        "Después inventa un destino para el avión: una isla, una ciudad flotante o una estación espacial. Escribe el nombre en un ala y diseña una segunda versión que pueda aterrizar cerca de una marca."
+      ],
+      "detalle": "Reto adicional: intenta que aterrice dentro de un círculo dibujado en el suelo.",
+      "buenasNoches": "No siempre se trata de llegar más lejos; a veces el reto está en controlar el rumbo.",
+      "cancionTitulo": "Without Me",
+      "cancionArtista": "Eminem",
+      "youtubeId": "3JZ4pnNtyxQ",
+      "cancionUrl": "https://www.youtube.com/watch?v=3JZ4pnNtyxQ",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a comprobar hasta dónde puede llegar una hoja doblada con un poco de ingenio."
+        },
+        "mensajePrincipal": {
+          "titulo": "El avión de papel con destino secreto",
+          "contenido": "Construye un avión de papel y marca una línea de lanzamiento. Haz tres pruebas cambiando solo una cosa cada vez: el ángulo de las alas, la inclinación de la punta o la fuerza del lanzamiento. Mide aproximadamente la distancia y observa qué diseño vuela más recto. Si no tienes espacio, prueba a hacerlo recorrer una mesa sin salirse de los bordes."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra aplomo",
+          "contenido": "Seguridad y equilibrio al actuar o mantener una postura. El avión mantuvo el aplomo y aterrizó cerca del punto elegido."
+        },
+        "buenasNoches": {
+          "contenido": "No siempre se trata de llegar más lejos; a veces el reto está en controlar el rumbo."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Aplomo",
+        "significado": "Seguridad y equilibrio al actuar o mantener una postura.",
+        "ejemplo": "El avión mantuvo el aplomo y aterrizó cerca del punto elegido."
+      }
+    },
+    {
+      "dia": 310,
+      "fecha": "2027-08-21",
+      "fechaTexto": "sáb, 21 de ago",
+      "categoria": "La banda sonora de un minuto",
+      "icono": "🎧",
+      "tono": "escucha y expresión",
+      "color": {
+        "principal": "#c5a5d4",
+        "suave": "#f0e8f5",
+        "oscuro": "#3e2d4b"
+      },
+      "buenosDias": "Hoy vamos a escuchar el mundo como si estuviera acompañando una escena de película.",
+      "poema": [
+        "Durante un minuto, presta atención a los sonidos que te rodean sin poner música: pasos, viento, voces lejanas, agua, aparatos o silencio. Anota cinco sonidos y ordénalos como si fueran la banda sonora de una escena. Después ponle un título y decide qué género tendría: misterio, comedia, aventura o documental.",
+        "Si lo haces con alguien, comparen sus listas: seguramente escucharon cosas distintas aun estando en el mismo lugar. Pueden añadir un sonido inventado para cambiar el final de la escena."
+      ],
+      "detalle": "Graba diez segundos de ambiente y úsalo como introducción de tu película imaginaria.",
+      "buenasNoches": "El mundo tiene una banda sonora propia; a veces solo hace falta bajar el volumen de nuestras prisas.",
+      "cancionTitulo": "Bohemian Rhapsody",
+      "cancionArtista": "Queen",
+      "youtubeId": "fJ9rUzIMcZQ",
+      "cancionUrl": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a escuchar el mundo como si estuviera acompañando una escena de película."
+        },
+        "mensajePrincipal": {
+          "titulo": "La banda sonora de un minuto",
+          "contenido": "Durante un minuto, presta atención a los sonidos que te rodean sin poner música: pasos, viento, voces lejanas, agua, aparatos o silencio. Anota cinco sonidos y ordénalos como si fueran la banda sonora de una escena. Después ponle un título y decide qué género tendría: misterio, comedia, aventura o documental."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra resquicio",
+          "contenido": "Abertura pequeña o señal mínima que permite entrever algo. Un resquicio de sonido puede cambiar la atmósfera de una escena silenciosa."
+        },
+        "buenasNoches": {
+          "contenido": "El mundo tiene una banda sonora propia; a veces solo hace falta bajar el volumen de nuestras prisas."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Resquicio",
+        "significado": "Abertura pequeña o señal mínima que permite entrever algo.",
+        "ejemplo": "Un resquicio de sonido puede cambiar la atmósfera de una escena silenciosa."
+      }
+    },
+    {
+      "dia": 311,
+      "fecha": "2027-08-22",
+      "fechaTexto": "dom, 22 de ago",
+      "categoria": "La historia contada al revés",
+      "icono": "🔄",
+      "tono": "narración y humor",
+      "color": {
+        "principal": "#d6a0aa",
+        "suave": "#f5e6e9",
+        "oscuro": "#492e35"
+      },
+      "buenosDias": "Hoy empezaremos por el final y dejaremos que la historia encuentre el camino hacia atrás.",
+      "poema": [
+        "Inventa una historia de cuatro frases. La primera debe contar cómo termina todo; las siguientes explican qué ocurrió justo antes, hasta llegar al comienzo. Puede tratarse de una aventura absurda, una confusión en la cocina o un misterio sin importancia. La única regla es que cada frase aporte una pista que haga más comprensible la anterior.",
+        "Si participan dos personas, una escribe el final y la otra inventa el camino hacia el principio. Al terminar, lean la historia en orden cronológico y luego en el orden en que fue creada."
+      ],
+      "detalle": "Ponle a la historia un título que parezca serio, aunque el argumento sea completamente disparatado.",
+      "buenasNoches": "A veces cambiar el orden de las cosas revela una historia que no habríamos imaginado de otra manera.",
+      "cancionTitulo": "Smells Like Teen Spirit",
+      "cancionArtista": "Nirvana",
+      "youtubeId": "hTWKbfoikeg",
+      "cancionUrl": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy empezaremos por el final y dejaremos que la historia encuentre el camino hacia atrás."
+        },
+        "mensajePrincipal": {
+          "titulo": "La historia contada al revés",
+          "contenido": "Inventa una historia de cuatro frases. La primera debe contar cómo termina todo; las siguientes explican qué ocurrió justo antes, hasta llegar al comienzo. Puede tratarse de una aventura absurda, una confusión en la cocina o un misterio sin importancia. La única regla es que cada frase aporte una pista que haga más comprensible la anterior."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra quimera",
+          "contenido": "Creación imaginaria formada por elementos de distinta naturaleza; también, ilusión difícil de alcanzar. La historia terminó con una quimera: una bicicleta que podía volar y hablaba francés."
+        },
+        "buenasNoches": {
+          "contenido": "A veces cambiar el orden de las cosas revela una historia que no habríamos imaginado de otra manera."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Quimera",
+        "significado": "Creación imaginaria formada por elementos de distinta naturaleza; también, ilusión difícil de alcanzar.",
+        "ejemplo": "La historia terminó con una quimera: una bicicleta que podía volar y hablaba francés."
+      }
+    },
+    {
+      "dia": 312,
+      "fecha": "2027-08-23",
+      "fechaTexto": "lun, 23 de ago",
+      "categoria": "El menú de una cafetería imaginaria",
+      "icono": "☕",
+      "tono": "diseño y creatividad cotidiana",
+      "color": {
+        "principal": "#9fbea9",
+        "suave": "#e8f1eb",
+        "oscuro": "#2b4134"
+      },
+      "buenosDias": "Hoy vas a diseñar un menú para una cafetería que solo existe en tu imaginación.",
+      "poema": [
+        "Crea una carta con tres bebidas y dos acompañamientos. Cada producto debe tener un nombre original, una descripción de una línea y un precio ficticio. Puedes inspirarte en colores, estados de ánimo, estaciones del año o personajes inventados. No hace falta preparar nada: el reto está en que el menú tenga una identidad visual coherente.",
+        "Dale un nombre al local y define su ambiente con tres palabras. Si alguien participa, que elija qué pediría y explique qué le llamó la atención de la descripción."
+      ],
+      "detalle": "Diseña una bebida de temporada que solo aparezca durante una semana al año.",
+      "buenasNoches": "Una buena idea puede empezar con una hoja en blanco y terminar convertida en todo un universo.",
+      "cancionTitulo": "Sugar",
+      "cancionArtista": "Maroon 5",
+      "youtubeId": "09R8_2nJtjg",
+      "cancionUrl": "https://www.youtube.com/watch?v=09R8_2nJtjg",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vas a diseñar un menú para una cafetería que solo existe en tu imaginación."
+        },
+        "mensajePrincipal": {
+          "titulo": "El menú de una cafetería imaginaria",
+          "contenido": "Crea una carta con tres bebidas y dos acompañamientos. Cada producto debe tener un nombre original, una descripción de una línea y un precio ficticio. Puedes inspirarte en colores, estados de ánimo, estaciones del año o personajes inventados. No hace falta preparar nada: el reto está en que el menú tenga una identidad visual coherente."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra acierto",
+          "contenido": "Acción de encontrar la respuesta correcta o tomar una decisión adecuada. El nombre de la bebida fue un acierto porque transmitía exactamente la sensación que buscaba el menú."
+        },
+        "buenasNoches": {
+          "contenido": "Una buena idea puede empezar con una hoja en blanco y terminar convertida en todo un universo."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Acierto",
+        "significado": "Acción de encontrar la respuesta correcta o tomar una decisión adecuada.",
+        "ejemplo": "El nombre de la bebida fue un acierto porque transmitía exactamente la sensación que buscaba el menú."
+      }
+    },
+    {
+      "dia": 313,
+      "fecha": "2027-08-24",
+      "fechaTexto": "mar, 24 de ago",
+      "categoria": "El reto de las tres versiones",
+      "icono": "🎭",
+      "tono": "improvisación y perspectiva",
+      "color": {
+        "principal": "#b4a7d5",
+        "suave": "#eeeaf6",
+        "oscuro": "#392f4d"
+      },
+      "buenosDias": "Una misma situación puede parecer completamente distinta según quién la cuente.",
+      "poema": [
+        "Elige una situación sencilla —llegar tarde, perder un objeto o recibir una noticia inesperada— y cuéntala desde tres puntos de vista: el de quien la vivió, el de alguien que la observó y el de un objeto que estaba presente. Cada versión debe tener un tono diferente: dramático, cómico y misterioso.",
+        "Si lo hacen entre dos, cada persona puede escoger una perspectiva sin conocer la versión de la otra. Después comparen qué detalles cambiaron y cuáles permanecieron iguales."
+      ],
+      "detalle": "La última versión debe estar narrada por el objeto más inesperado de la habitación.",
+      "buenasNoches": "No siempre cambia lo que pasó; a veces cambia la historia cuando cambia quien la cuenta.",
+      "cancionTitulo": "New Rules",
+      "cancionArtista": "Dua Lipa",
+      "youtubeId": "k2qgadSvNyU",
+      "cancionUrl": "https://www.youtube.com/watch?v=k2qgadSvNyU",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Una misma situación puede parecer completamente distinta según quién la cuente."
+        },
+        "mensajePrincipal": {
+          "titulo": "El reto de las tres versiones",
+          "contenido": "Elige una situación sencilla —llegar tarde, perder un objeto o recibir una noticia inesperada— y cuéntala desde tres puntos de vista: el de quien la vivió, el de alguien que la observó y el de un objeto que estaba presente. Cada versión debe tener un tono diferente: dramático, cómico y misterioso."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra divergencia",
+          "contenido": "Separación o diferencia entre ideas, opiniones o caminos que inicialmente podían coincidir. Dos relatos pueden tomar caminos de divergencia aunque partan del mismo suceso."
+        },
+        "buenasNoches": {
+          "contenido": "No siempre cambia lo que pasó; a veces cambia la historia cuando cambia quien la cuenta."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Divergencia",
+        "significado": "Separación o diferencia entre ideas, opiniones o caminos que inicialmente podían coincidir.",
+        "ejemplo": "Dos relatos pueden tomar caminos de divergencia aunque partan del mismo suceso."
+      }
+    },
+    {
+      "dia": 314,
+      "fecha": "2027-08-25",
+      "fechaTexto": "mié, 25 de ago",
+      "categoria": "La pausa que se convierte en plan",
+      "icono": "😉",
+      "tono": "cercanía y complicidad",
+      "color": {
+        "principal": "#d9a2b9",
+        "suave": "#f6e7ed",
+        "oscuro": "#482b3b"
+      },
+      "buenosDias": "A veces una buena conversación empieza con una pregunta que no parece gran cosa.",
+      "poema": [
+        "Piensa en una pausa de una hora que te gustaría compartir algún día: puede ser tomar algo, caminar sin prisa, visitar una exposición pequeña, dibujar en una mesa o sentarse a escuchar música. Describe el plan con tres detalles: qué ambiente tendría, qué llevarías y qué haría que valiera la pena. No hace falta fijar fecha ni convertirlo en compromiso.",
+        "Si lo compartes con alguien, intercambien ideas y elijan el detalle más atractivo de cada propuesta. La invitación puede quedarse como posibilidad, sin presión ni expectativas."
+      ],
+      "detalle": "Ponle un nombre al plan, como si fuera el título de un capítulo que todavía no se ha estrenado.",
+      "buenasNoches": "Hay planes que empiezan siendo una idea y se vuelven especiales por la compañía y la conversación.",
+      "cancionTitulo": "Roar",
+      "cancionArtista": "Katy Perry",
+      "youtubeId": "CevxZvSJLk8",
+      "cancionUrl": "https://www.youtube.com/watch?v=CevxZvSJLk8",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "A veces una buena conversación empieza con una pregunta que no parece gran cosa."
+        },
+        "mensajePrincipal": {
+          "titulo": "La pausa que se convierte en plan",
+          "contenido": "Piensa en una pausa de una hora que te gustaría compartir algún día: puede ser tomar algo, caminar sin prisa, visitar una exposición pequeña, dibujar en una mesa o sentarse a escuchar música. Describe el plan con tres detalles: qué ambiente tendría, qué llevarías y qué haría que valiera la pena. No hace falta fijar fecha ni convertirlo en compromiso."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra tregua",
+          "contenido": "Pausa o interrupción temporal de una actividad o situación. Una tregua en medio de la semana puede convertirse en una hora agradable para compartir."
+        },
+        "buenasNoches": {
+          "contenido": "Hay planes que empiezan siendo una idea y se vuelven especiales por la compañía y la conversación."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Tregua",
+        "significado": "Pausa o interrupción temporal de una actividad o situación.",
+        "ejemplo": "Una tregua en medio de la semana puede convertirse en una hora agradable para compartir."
+      }
+    }
   ]
 ];
