@@ -1871,5 +1871,773 @@ const CALENDARIO = [
     "cancionArtista": "Pharrell Williams",
     "youtubeId": "LlY90lG_Fuw",
     "cancionUrl": "https://www.youtube.com/watch?v=LlY90lG_Fuw"
+  },
+  {
+    "dia": 79,
+    "fecha": "2027-01-02",
+    "fechaTexto": "sáb, 2 de ene",
+    "categoria": "Templanza",
+    "icono": "🧭",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Buenos días. Hoy te regalo una palabra que parece tranquila, pero tiene mucha fuerza: templanza. No significa dejar de sentir, sino aprender a no entregar todas nuestras decisiones al primer impulso.",
+    "poema": [
+      "La templanza es conservar el equilibrio incluso cuando algo nos mueve por dentro. También es saber detenerse, respirar, cambiar de opinión y reconocer cuándo algo nos afecta.",
+      "Piensa en una situación reciente en la que reaccionaste muy rápido. Si pudieras volver a ese momento, ¿qué harías diferente? No para juzgarte, sino para descubrir cuánto has aprendido."
+    ],
+    "detalle": "Para guardar: «No todo lo que siento necesita convertirse inmediatamente en una decisión».",
+    "buenasNoches": "Buenas noches. Ojalá hoy hayas encontrado aunque sea un instante de calma en medio de todo lo que pasa.",
+    "cancionTitulo": "ATLiens",
+    "cancionArtista": "Outkast",
+    "youtubeId": "ktc9hsSfUck",
+    "cancionUrl": "https://www.youtube.com/watch?v=ktc9hsSfUck"
+  },
+  {
+    "dia": 80,
+    "fecha": "2027-01-03",
+    "fechaTexto": "dom, 3 de ene",
+    "categoria": "El periódico de Hogwarts",
+    "icono": "📰",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Buenos días, estudiante. Ha aparecido una edición extraordinaria del periódico de Hogwarts. Alguien cambió las noticias y ahora cuenta acontecimientos que todavía no han sucedido.",
+    "poema": [
+      "En portada aparecen tres titulares: «El aula que aparece cuando alguien necesita encontrar algo»; «Un retrato responde preguntas que nadie le ha hecho»; «La biblioteca devuelve un libro que todavía no ha sido escrito».",
+      "Escoge un titular y escribe la noticia completa. Debe incluir una pista escondida para descubrir quién está detrás del misterio. Puedes ser periodista, investigadora o alguien involucrada por accidente."
+    ],
+    "detalle": "Diseña la portada, inventa el nombre del periódico y agrega una nota: «No todas las cosas extraordinarias ocurren por magia. Algunas empiezan cuando alguien se atreve a mirar dos veces». Actividad original inspirada en Harry Potter, sin spoilers.",
+    "buenasNoches": "Buenas noches. Que nunca se te quite esa curiosidad que convierte cualquier lugar en una posible aventura.",
+    "cancionTitulo": "Bills, Bills, Bills",
+    "cancionArtista": "Destiny's Child",
+    "youtubeId": "NiF6-0UTqtc",
+    "cancionUrl": "https://www.youtube.com/watch?v=NiF6-0UTqtc"
+  },
+  {
+    "dia": 81,
+    "fecha": "2027-01-04",
+    "fechaTexto": "lun, 4 de ene",
+    "categoria": "La exposición de lo que todavía no existe",
+    "icono": "🎨",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Hoy vas a organizar una pequeña exposición artística, pero ninguna obra puede representar algo que exista exactamente como lo conocemos.",
+    "poema": [
+      "Crea tres piezas: una escultura que represente la paciencia, una obra sobre un recuerdo que todavía no ha ocurrido y una pintura del sonido de una ciudad cuando todos duermen.",
+      "A cada pieza ponle un título y una ficha de museo: materiales, significado y qué debería sentir alguien al observarla. Puedes dibujar, pintar, modelar o describirla."
+    ],
+    "detalle": "No intentes que todo sea reconocible. Cuanto menos obvia sea la obra, mejor. Deja que cada pieza tenga su propio lenguaje visual.",
+    "buenasNoches": "Buenas noches. Hay ideas que todavía no existen porque están esperando que alguien les dé forma.",
+    "cancionTitulo": "Shoop",
+    "cancionArtista": "Salt-N-Pepa",
+    "youtubeId": "4vaN01VLYSQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=4vaN01VLYSQ"
+  },
+  {
+    "dia": 82,
+    "fecha": "2027-01-05",
+    "fechaTexto": "mar, 5 de ene",
+    "categoria": "La misión de las ventanas selladas",
+    "icono": "🪟",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "En una ciudad aparentemente normal, varias personas han empezado a evitar ciertas ventanas. No saben explicar por qué; solo sienten que algo se vuelve más pesado al mirar a través de ellas.",
+    "poema": [
+      "En una ventana aparece el nombre de alguien que nunca vivió allí. En otra, el reflejo muestra una habitación distinta. La última no refleja a quien se coloca delante, sino a la persona que más extraña.",
+      "La escuela detecta energía maldita en un edificio abandonado. Inventa qué alimenta la maldición y encuentra una manera de romperla."
+    ],
+    "detalle": "La solución no puede consistir en destruir todas las ventanas. Lo importante no es tener el ataque más poderoso, sino descubrir qué está pasando. Misión original inspirada en Jujutsu Kaisen, sin spoilers.",
+    "buenasNoches": "Buenas noches. A veces, para vencer algo, primero hay que entender por qué existe.",
+    "cancionTitulo": "Give It Up to Me",
+    "cancionArtista": "Sean Paul",
+    "youtubeId": "kdzGENHQ-rk",
+    "cancionUrl": "https://www.youtube.com/watch?v=kdzGENHQ-rk"
+  },
+  {
+    "dia": 83,
+    "fecha": "2027-01-06",
+    "fechaTexto": "mié, 6 de ene",
+    "categoria": "Ñoquis dorados con salsa cremosa de tomate",
+    "icono": "🍝",
+    "tono": "amor",
+    "color": {
+      "principal": "#d99ab3",
+      "suave": "#f7e2ea",
+      "oscuro": "#351b29"
+    },
+    "buenosDias": "Hoy te dejo una receta para preparar sin afán: ñoquis doraditos por fuera, con salsa cremosa de tomate y parmesano.",
+    "poema": [
+      "Ingredientes para dos: 400 g de ñoquis, 200 g de tomate triturado, 80 ml de crema, un ajo, media cebolla, una cucharada de mantequilla, 30 g de parmesano, aceite, sal, pimienta y albahaca.",
+      "Cocina los ñoquis en agua con sal y retíralos cuando floten. Sofríe cebolla y ajo; agrega tomate y cocina ocho minutos. Incorpora crema. Dora los ñoquis 3–4 minutos, mézclalos con la salsa y termina con parmesano y albahaca."
+    ],
+    "detalle": "Reserva algunos ñoquis dorados para ponerlos encima. Por la alergia al maní, revisa etiquetas y advertencias de trazas; evita contaminación cruzada en superficies, utensilios y aceites compartidos.",
+    "buenasNoches": "Buenas noches. Ojalá algún día esta receta forme parte de esas comidas que uno recuerda por lo bien que la pasó.",
+    "cancionTitulo": "I Know What You Want (feat. Flipmode Squad)",
+    "cancionArtista": "Busta Rhymes; Mariah Carey; Flipmode Squad",
+    "youtubeId": "WDaNJW_jEBo",
+    "cancionUrl": "https://www.youtube.com/watch?v=WDaNJW_jEBo"
+  },
+  {
+    "dia": 84,
+    "fecha": "2027-01-07",
+    "fechaTexto": "jue, 7 de ene",
+    "categoria": "El archivo de las versiones alternativas",
+    "icono": "🗂️",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Imagina un archivo donde se guardan todas las versiones de ti que pudieron aparecer si hubieras tomado decisiones diferentes.",
+    "poema": [
+      "Hay una versión que aprendió algo inesperado, otra que se mudó a un lugar que nunca había considerado y otra que descubrió una habilidad que todavía no sabe que tiene.",
+      "Inventa tres versiones. Para cada una describe dónde vive, a qué dedica sus días, qué descubrió y qué rasgo tuyo conserva. No son vidas mejores ni peores: son caminos distintos."
+    ],
+    "detalle": "Escribe una frase que las tres versiones podrían decirte. Quizá descubras que, aunque imagines vidas diferentes, hay cosas de ti que siempre viajarían contigo.",
+    "buenasNoches": "Buenas noches. No tienes que convertirte en todas tus posibilidades. Algunas existen para recordarte que todavía puedes elegir.",
+    "cancionTitulo": "Straight Outta Compton",
+    "cancionArtista": "N.W.A.",
+    "youtubeId": "TMZi25Pq3T8",
+    "cancionUrl": "https://www.youtube.com/watch?v=TMZi25Pq3T8"
+  },
+  {
+    "dia": 85,
+    "fecha": "2027-01-08",
+    "fechaTexto": "vie, 8 de ene",
+    "categoria": "Una tarde para aprender a mirar el cielo",
+    "icono": "🌇",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Te propongo un plan sencillo: salir a un lugar desde donde se vea bien el cielo y quedarse un rato sin convertir la salida en una carrera por hacer cosas.",
+    "poema": [
+      "Lleva algo para tomar y una cámara. Haz tres fotografías del mismo lugar: cuando el cielo aún está iluminado, cuando cambian los colores y cuando aparece la primera luz de la noche.",
+      "Compara cómo cambió el paisaje sin que ustedes se movieran demasiado. Puedes hacerlo sola o convertirlo en una salida compartida si algún día te provoca."
+    ],
+    "detalle": "Guarda las tres fotografías juntas y ponles un título que no describa el paisaje, sino cómo se sintió ese rato.",
+    "buenasNoches": "Buenas noches. A veces basta con quedarse el tiempo suficiente para descubrir lo que estaba pasando delante de nosotros.",
+    "cancionTitulo": "Shut Up",
+    "cancionArtista": "Black Eyed Peas",
+    "youtubeId": "KRzMtlZjXpU",
+    "cancionUrl": "https://www.youtube.com/watch?v=KRzMtlZjXpU"
+  },
+  {
+    "dia": 86,
+    "fecha": "2027-01-09",
+    "fechaTexto": "sáb, 9 de ene",
+    "categoria": "Una pregunta sin sí ni no",
+    "icono": "❔",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Hay preguntas que parecen sencillas, pero revelan muchísimo de una persona.",
+    "poema": [
+      "Si pudieras conservar para siempre una sola sensación de tu vida actual —no un recuerdo ni una fotografía, sino una sensación—, ¿cuál elegirías?",
+      "Puede ser la tranquilidad de estar en casa, la emoción de comenzar algo, la libertad de caminar sin rumbo o cualquier otra que tenga sentido para ti."
+    ],
+    "detalle": "No tienes que contestarla inmediatamente. A veces las mejores respuestas aparecen cuando dejamos de buscarlas.",
+    "buenasNoches": "Buenas noches. Que mañana encuentres algo que todavía no sabías que necesitabas.",
+    "cancionTitulo": "Keep Ya Head Up",
+    "cancionArtista": "2Pac",
+    "youtubeId": "36pJ8WrqUMQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=36pJ8WrqUMQ"
+  },
+  {
+    "dia": 87,
+    "fecha": "2027-01-10",
+    "fechaTexto": "dom, 10 de ene",
+    "categoria": "Vínculo",
+    "icono": "🪢",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Hoy quiero dejarte una palabra que tiene muchas formas de existir: vínculo. Es aquello que conecta personas, lugares, recuerdos o etapas de nuestra vida.",
+    "poema": [
+      "No siempre necesita grandes demostraciones. A veces se construye con una conversación que se alarga, una canción compartida o la confianza de guardar silencio sin incomodidad.",
+      "Piensa en tres vínculos que hayan influido positivamente en tu vida. No tienen que ser personas: puede ser una actividad, un lugar o una costumbre. Completa: «Algo que aprendí gracias a ese vínculo fue…»."
+    ],
+    "detalle": "Conocer lo que te gusta, reconocer tus límites y aprender a estar contigo también son maneras de construir un vínculo contigo misma.",
+    "buenasNoches": "Buenas noches. Cuida aquello que te permite ser tú sin tener que interpretar ningún papel.",
+    "cancionTitulo": "Hail Mary",
+    "cancionArtista": "2Pac",
+    "youtubeId": "x9bPGZIBt7Y",
+    "cancionUrl": "https://www.youtube.com/watch?v=x9bPGZIBt7Y"
+  },
+  {
+    "dia": 88,
+    "fecha": "2027-01-11",
+    "fechaTexto": "lun, 11 de ene",
+    "categoria": "El museo de las cosas que todavía no has vivido",
+    "icono": "🏛️",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Imagina un museo dedicado exclusivamente a acontecimientos que todavía no han ocurrido.",
+    "poema": [
+      "En una sala hay una fotografía de un viaje que aún no has hecho. En otra, una taza de una cafetería que todavía no conoces. En una vitrina, una escultura representa una habilidad que aún no has aprendido.",
+      "Diseña tres piezas: algo que quieras experimentar, algo que quieras aprender y algo que no sabes si deseas, pero te da curiosidad. Describe cada pieza como un objeto real."
+    ],
+    "detalle": "Al final existe una habitación vacía. Su placa dice: «Esta sala está reservada para algo que todavía no puedes imaginar». No tienes que llenarla hoy.",
+    "buenasNoches": "Buenas noches. Todavía hay recuerdos que no existen y lugares que no conocen tu nombre.",
+    "cancionTitulo": "Nuthin' But A \"G\" Thang",
+    "cancionArtista": "Dr. Dre; Snoop Dogg",
+    "youtubeId": "8GliyDgAGQI",
+    "cancionUrl": "https://www.youtube.com/watch?v=8GliyDgAGQI"
+  },
+  {
+    "dia": 89,
+    "fecha": "2027-01-12",
+    "fechaTexto": "mar, 12 de ene",
+    "categoria": "La técnica maldita: Contratiempo",
+    "icono": "⏱️",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "En un expediente aparece una técnica maldita que no sirve para atacar directamente. Su nombre es Contratiempo.",
+    "poema": [
+      "Su usuario altera durante unos segundos el ritmo de los movimientos cercanos. No detiene el tiempo ni controla personas: cambia el intervalo entre acciones. Su debilidad es que cuanto más la usa, más difícil le resulta mantener su propio ritmo.",
+      "Diseña una expansión de dominio: cómo es el espacio, qué regla impone, cuál es su punto débil y qué tendría que hacer el rival para escapar. La técnica no puede ser invencible."
+    ],
+    "detalle": "Dibuja el dominio como una escena de manga. Es una creación original inspirada en Jujutsu Kaisen, sin spoilers.",
+    "buenasNoches": "Buenas noches. Incluso el poder más impresionante necesita encontrar su propio equilibrio.",
+    "cancionTitulo": "Ella",
+    "cancionArtista": "Kafu Banton; Almirante",
+    "youtubeId": "quToM5By41k",
+    "cancionUrl": "https://www.youtube.com/watch?v=quToM5By41k"
+  },
+  {
+    "dia": 90,
+    "fecha": "2027-01-13",
+    "fechaTexto": "mié, 13 de ene",
+    "categoria": "El retrato de una emoción que cambia de forma",
+    "icono": "🖌️",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Hoy vas a pintar algo que no necesita parecerse a nadie. Escoge una emoción reciente, sin necesidad de decir cuál es.",
+    "poema": [
+      "Imagina que tiene una temperatura, una textura, un peso, una forma y una combinación de tres colores.",
+      "Pinta manchas y formas sin intentar construir una imagen reconocible. Cuando termines, agrega una sola línea que represente lo que esa emoción necesita."
+    ],
+    "detalle": "No borres las partes imperfectas: pueden ser las que le den personalidad a la obra. Título sugerido: «Lo que no supe decir».",
+    "buenasNoches": "Buenas noches. No todas las emociones necesitan explicarse con palabras.",
+    "cancionTitulo": "Escapism.",
+    "cancionArtista": "RAYE; 070 Shake",
+    "youtubeId": "Dll6VJ2C7wo",
+    "cancionUrl": "https://www.youtube.com/watch?v=Dll6VJ2C7wo"
+  },
+  {
+    "dia": 91,
+    "fecha": "2027-01-14",
+    "fechaTexto": "jue, 14 de ene",
+    "categoria": "La vida secreta de Walter Mitty",
+    "icono": "🎬",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Te dejo una película para cuando tengas ganas de descubrir una historia sobre imaginación, aventura y salir de la rutina.",
+    "poema": [
+      "La vida secreta de Walter Mitty (2013) cuenta la historia de un hombre que pasa buena parte de su vida imaginando grandes aventuras, hasta que una situación inesperada lo lleva a salir de su rutina.",
+      "La recomiendo por su fotografía, sus paisajes y la idea de que el mundo puede ser mucho más grande de lo que vemos desde nuestros lugares habituales. Puedes verla sola o compartirla si algún día te provoca."
+    ],
+    "detalle": "Una pregunta para después: ¿qué diferencia hay entre imaginar una vida que te gustaría tener y comenzar a construirla? No hace falta responderla si prefieres simplemente disfrutar la película.",
+    "buenasNoches": "Buenas noches. Que siempre haya alguna historia capaz de recordarte que el mundo sigue siendo enorme.",
+    "cancionTitulo": "Not Afraid",
+    "cancionArtista": "Eminem",
+    "youtubeId": "j5-yKhDd64s",
+    "cancionUrl": "https://www.youtube.com/watch?v=j5-yKhDd64s"
+  },
+  {
+    "dia": 92,
+    "fecha": "2027-01-15",
+    "fechaTexto": "vie, 15 de ene",
+    "categoria": "Arroz cremoso de coco con camarones y plátano maduro",
+    "icono": "🥥",
+    "tono": "amor",
+    "color": {
+      "principal": "#d99ab3",
+      "suave": "#f7e2ea",
+      "oscuro": "#351b29"
+    },
+    "buenosDias": "Una combinación tropical, cremosa y ligeramente dulce para cambiar un poco la rutina de la cocina.",
+    "poema": [
+      "Ingredientes para dos: 200 g de camarones, una taza de arroz, 200 ml de leche de coco sin azúcar, ¾ de taza de agua, un plátano maduro, media cebolla, un ajo, mantequilla, limón, sal, pimienta y cilantro.",
+      "Sofríe cebolla y ajo. Añade arroz, leche de coco y agua; cocina a fuego bajo. Sazona los camarones con limón, sal y pimienta y saltéalos hasta que estén completamente cocidos. Dora el plátano en tajadas y sirve todo junto."
+    ],
+    "detalle": "Termina con cilantro y limón. Por la alergia al maní, revisa etiquetas de leche de coco y demás productos; evita trazas relevantes y contaminación cruzada en utensilios, superficies y aceites.",
+    "buenasNoches": "Buenas noches. Una buena comida también puede ser una pequeña aventura.",
+    "cancionTitulo": "TWENTIES",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "Tot_8TrFIEQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=Tot_8TrFIEQ"
+  },
+  {
+    "dia": 93,
+    "fecha": "2027-01-16",
+    "fechaTexto": "sáb, 16 de ene",
+    "categoria": "El buzón de los mensajes imposibles",
+    "icono": "✉️",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Ha aparecido un buzón en una calle que no existe en ningún mapa. Tiene una placa: «Solo recibe mensajes dirigidos a personas que todavía no conoces».",
+    "poema": [
+      "Hay tres sobres: uno para alguien que conocerás dentro de diez años; otro para una persona que cambió tu vida sin saberlo; y el último para alguien que necesita escuchar algo que tú ya aprendiste.",
+      "Escoge un sobre y escribe el mensaje. No necesitas inventar nombres ni situaciones específicas; lo importante es que el destinatario tenga una razón para recibir esas palabras."
+    ],
+    "detalle": "Guarda la carta sin releerla durante un día. Después vuelve a ella y descubre si todavía sientes lo mismo.",
+    "buenasNoches": "Buenas noches. Quizá algunas palabras no necesitan llegar inmediatamente a su destino para tener sentido.",
+    "cancionTitulo": "Cleanin' Out My Closet",
+    "cancionArtista": "Eminem",
+    "youtubeId": "RQ9_TKayu9s",
+    "cancionUrl": "https://www.youtube.com/watch?v=RQ9_TKayu9s"
+  },
+  {
+    "dia": 94,
+    "fecha": "2027-01-17",
+    "fechaTexto": "dom, 17 de ene",
+    "categoria": "Una tarde completamente libre",
+    "icono": "☁️",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Te dejo una pregunta sencilla para cerrar el día.",
+    "poema": [
+      "Si pudieras regalarte una tarde completamente libre, sin obligaciones y sin tener que justificar cómo decides utilizarla, ¿qué harías con esas horas?",
+      "No pienses primero en lo productivo ni en lo que deberías hacer. Piensa en lo que realmente te gustaría."
+    ],
+    "detalle": "Guarda la respuesta como una idea para una tarde futura. No tiene que convertirse en un plan inmediato.",
+    "buenasNoches": "Buenas noches. Que también haya espacio en tus días para hacer cosas simplemente porque te hacen bien.",
+    "cancionTitulo": "Let Me Blow Ya Mind",
+    "cancionArtista": "Eve; Gwen Stefani",
+    "youtubeId": "Wt88GMJmVk0",
+    "cancionUrl": "https://www.youtube.com/watch?v=Wt88GMJmVk0"
+  },
+  {
+    "dia": 95,
+    "fecha": "2027-01-18",
+    "fechaTexto": "lun, 18 de ene",
+    "categoria": "Wonder",
+    "icono": "✨",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Hoy nos encontramos con una palabra que viene del inglés: wonder. Puede expresar asombro, admiración y curiosidad ante algo extraordinario.",
+    "poema": [
+      "También aparece en preguntas como «I wonder…», cuando nos preguntamos algo sin conocer todavía la respuesta. Reúne dos cosas que vale la pena conservar: la capacidad de sorprendernos y las ganas de descubrir.",
+      "Elige algo cotidiano que hayas visto cientos de veces y obsérvalo durante un minuto como si fuera la primera vez. Después escribe tres detalles que nunca habías notado."
+    ],
+    "detalle": "Para guardar: «La curiosidad es una forma de mantener abierta la puerta de lo extraordinario».",
+    "buenasNoches": "Buenas noches. Ojalá nunca te acostumbres tanto al mundo que dejes de sorprenderte con él.",
+    "cancionTitulo": "What's The Difference",
+    "cancionArtista": "Dr. Dre; Eminem; Xzibit",
+    "youtubeId": "-Ubyt7iWJ8Q",
+    "cancionUrl": "https://www.youtube.com/watch?v=-Ubyt7iWJ8Q"
+  },
+  {
+    "dia": 96,
+    "fecha": "2027-01-19",
+    "fechaTexto": "mar, 19 de ene",
+    "categoria": "El atlas fotográfico de los detalles",
+    "icono": "📷",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Hoy vas a crear una colección fotográfica titulada «El mundo en los detalles». No puedes fotografiar personas completas, paisajes enteros ni objetos desde lejos.",
+    "poema": [
+      "Busca cinco imágenes: una textura que parezca otro material, una sombra interesante, un reflejo que transforme lo que ves, una combinación de colores y un detalle desapercibido.",
+      "Coloca las cinco fotografías en una composición, como si fueran parte de una exposición. No utilices filtros: descubre lo interesante que ya estaba allí."
+    ],
+    "detalle": "Ponle un título a la colección y escribe una frase que conecte las cinco imágenes.",
+    "buenasNoches": "Buenas noches. Mirar con atención también es una manera de crear.",
+    "cancionTitulo": "Baby, I Love Your Way",
+    "cancionArtista": "Big Mountain",
+    "youtubeId": "utXwIqQj7oE",
+    "cancionUrl": "https://www.youtube.com/watch?v=utXwIqQj7oE"
+  },
+  {
+    "dia": 97,
+    "fecha": "2027-01-20",
+    "fechaTexto": "mié, 20 de ene",
+    "categoria": "El juicio de los objetos sospechosos",
+    "icono": "🔎",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "En una habitación se encontraron cinco objetos: un reloj detenido a las 8:17, una llave mojada, una fotografía cortada, un libro abierto en una página sin texto y una taza que conserva calor.",
+    "poema": [
+      "Todos parecen pertenecer a una misma historia, pero ninguno debería estar allí. ¿Quién dejó los objetos? ¿Por qué se detuvo el reloj? ¿Qué había en la mitad que falta de la fotografía?",
+      "Construye una explicación coherente. No puedes explicar cada objeto con una coincidencia independiente: los cinco deben formar parte de un mismo acontecimiento."
+    ],
+    "detalle": "Escribe un informe policial, dibuja la habitación o crea un relato de suspenso. Decide cuál de los objetos podría revelar toda la verdad.",
+    "buenasNoches": "Buenas noches. No siempre gana quien encuentra más pistas, sino quien consigue relacionarlas.",
+    "cancionTitulo": "ROXANNE",
+    "cancionArtista": "Arizona Zervas",
+    "youtubeId": "16YnOUnbE6s",
+    "cancionUrl": "https://www.youtube.com/watch?v=16YnOUnbE6s"
+  },
+  {
+    "dia": 98,
+    "fecha": "2027-01-21",
+    "fechaTexto": "jue, 21 de ene",
+    "categoria": "La tienda de varitas imposibles",
+    "icono": "🪄",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Hoy tienes una tarea especial: diseñar una varita que no se parezca a ninguna otra.",
+    "poema": [
+      "Inventa su nombre, madera, núcleo, personalidad y un hechizo exclusivo. El núcleo puede ser una pluma, un fragmento de cristal, una fibra luminosa o algo que no exista.",
+      "Añade un defecto: cada vez que su dueña utiliza el hechizo exclusivo, sucede algo inesperado. ¿Qué sucede? Puedes dibujarla, modelarla con arcilla o crear una ilustración de catálogo."
+    ],
+    "detalle": "Actividad original inspirada en Harry Potter; no es una descripción oficial de sus varitas.",
+    "buenasNoches": "Buenas noches. Hasta los objetos más extraordinarios tienen una historia que contar.",
+    "cancionTitulo": "Blue Lights",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "R8YwnQMQuJI",
+    "cancionUrl": "https://www.youtube.com/watch?v=R8YwnQMQuJI"
+  },
+  {
+    "dia": 99,
+    "fecha": "2027-01-22",
+    "fechaTexto": "vie, 22 de ene",
+    "categoria": "Pasta corta con salsa de pimientos asados y parmesano",
+    "icono": "🍝",
+    "tono": "amor",
+    "color": {
+      "principal": "#d99ab3",
+      "suave": "#f7e2ea",
+      "oscuro": "#351b29"
+    },
+    "buenosDias": "Una salsa cremosa, ligeramente dulce y con mucho aroma, ideal para cambiar de la típica salsa de tomate.",
+    "poema": [
+      "Ingredientes para dos: 200 g de pasta corta, dos pimientos rojos, media cebolla, un ajo, 80 ml de crema, 35 g de parmesano, aceite de oliva, sal, pimienta y albahaca.",
+      "Parte los pimientos y retira las semillas. Hornéalos a 220 °C durante 20–25 minutos. Cocina la pasta y reserva un poco del agua. Sofríe cebolla y ajo; licúa con pimientos y crema. Calienta la salsa, añade parmesano y mezcla con la pasta."
+    ],
+    "detalle": "Termina con albahaca. Por la alergia al maní, revisa etiquetas de pasta, crema y queso; evita trazas relevantes y contaminación cruzada.",
+    "buenasNoches": "Buenas noches. Algunas recetas merecen repetirse hasta convertirse en favoritas.",
+    "cancionTitulo": "Dilemma",
+    "cancionArtista": "Nelly; Kelly Rowland",
+    "youtubeId": "8WYHDfJDPDc",
+    "cancionUrl": "https://www.youtube.com/watch?v=8WYHDfJDPDc"
+  },
+  {
+    "dia": 100,
+    "fecha": "2027-01-23",
+    "fechaTexto": "sáb, 23 de ene",
+    "categoria": "El jardín que florecía de noche",
+    "icono": "🌙",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Una noche, alguien descubre un jardín escondido detrás de una puerta cerrada. Durante el día parece vacío; cuando cae la noche aparecen flores que no existen en ningún otro lugar.",
+    "poema": [
+      "Una flor aparece cuando alguien recuerda algo olvidado; otra, cuando toma una decisión difícil; una tercera solo crece cuando alguien dice la verdad. La última permanece cerrada.",
+      "En el centro hay una placa: «La flor que buscas no puede crecer mientras sigas esperando que alguien la plante por ti». Encuentra una pala de plata, agua de lluvia y una caja de semillas desconocidas."
+    ],
+    "detalle": "Decide qué herramienta usarías primero y qué ocurriría. La flor misteriosa debe tener un significado que solo se descubra al final.",
+    "buenasNoches": "Buenas noches. Algunas cosas necesitan tiempo, pero también necesitan que demos el primer paso.",
+    "cancionTitulo": "a lot",
+    "cancionArtista": "21 Savage",
+    "youtubeId": "DmWWqogr_r8",
+    "cancionUrl": "https://www.youtube.com/watch?v=DmWWqogr_r8"
+  },
+  {
+    "dia": 101,
+    "fecha": "2027-01-24",
+    "fechaTexto": "dom, 24 de ene",
+    "categoria": "Una escapada gastronómica sin salir de casa",
+    "icono": "🍽️",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "La idea es escoger un país y convertir una comida normal en una pequeña experiencia cultural.",
+    "poema": [
+      "Elige Italia, Japón, Colombia, México u otro lugar. Escoge un plato representativo e investiga brevemente su origen.",
+      "Prepara una versión casera, busca una canción del lugar y decora la mesa con un detalle inspirado en su cultura. No tiene que ser complicado ni costoso; puedes hacerlo sola o compartirlo."
+    ],
+    "detalle": "Guarda la receta y una fotografía en un pequeño archivo de viajes gastronómicos. Revisa ingredientes para evitar maní y contaminación cruzada.",
+    "buenasNoches": "Buenas noches. A veces podemos conocer un lugar mucho antes de visitarlo.",
+    "cancionTitulo": "Perro de Calle",
+    "cancionArtista": "Rupatrupa",
+    "youtubeId": "DteEAv3qIuc",
+    "cancionUrl": "https://www.youtube.com/watch?v=DteEAv3qIuc"
+  },
+  {
+    "dia": 102,
+    "fecha": "2027-01-25",
+    "fechaTexto": "lun, 25 de ene",
+    "categoria": "Una pregunta sobre lo que tardan en descubrir",
+    "icono": "❔",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Hay partes de nuestra personalidad que no aparecen en la primera conversación.",
+    "poema": [
+      "¿Qué parte de tu personalidad crees que las personas tardan más en descubrir? Quizá tu sentido del humor, tu manera de pensar, tu sensibilidad o tu creatividad.",
+      "No hace falta que la respuesta sea profunda ni perfecta. Basta con que sea honesta."
+    ],
+    "detalle": "Si quieres, escribe también qué tendría que hacer alguien para llegar a conocer esa parte de ti.",
+    "buenasNoches": "Buenas noches. Que siempre tengas espacios donde puedas mostrarte sin tener que explicar demasiado quién eres.",
+    "cancionTitulo": "N.Y. State of Mind",
+    "cancionArtista": "Nas",
+    "youtubeId": "hI8A14Qcv68",
+    "cancionUrl": "https://www.youtube.com/watch?v=hI8A14Qcv68"
+  },
+  {
+    "dia": 103,
+    "fecha": "2027-01-26",
+    "fechaTexto": "mar, 26 de ene",
+    "categoria": "Xilografía",
+    "icono": "🪵",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Hoy tenemos una palabra relacionada con el arte: xilografía. Es una técnica de impresión que utiliza una matriz de madera tallada; las partes en relieve reciben tinta y transfieren una imagen al papel.",
+    "poema": [
+      "Antes de las impresoras modernas, permitió reproducir ilustraciones, letras y composiciones. Cada pequeño corte participa en la construcción de la imagen final.",
+      "Diseña una ilustración que pudiera convertirse en una xilografía: una flor, un animal, una ventana o un paisaje. Utiliza blanco y negro y consigue profundidad con líneas, espacios y contrastes."
+    ],
+    "detalle": "Puedes crear una matriz decorativa segura con materiales de manualidades, sin herramientas de corte. Para guardar: «A veces, crear también consiste en descubrir qué debemos quitar para que aparezca lo importante».",
+    "buenasNoches": "Buenas noches. Que nunca pierdas las ganas de experimentar con algo que todavía no conoces.",
+    "cancionTitulo": "Here Come The Hits",
+    "cancionArtista": "Shyheim",
+    "youtubeId": "jwaRqNDAh-8",
+    "cancionUrl": "https://www.youtube.com/watch?v=jwaRqNDAh-8"
+  },
+  {
+    "dia": 104,
+    "fecha": "2027-01-27",
+    "fechaTexto": "mié, 27 de ene",
+    "categoria": "La habitación de los relojes descompuestos",
+    "icono": "🕰️",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Una persona entra en una habitación donde hay siete relojes. Todos funcionan perfectamente, pero cada uno marca una hora diferente.",
+    "poema": [
+      "Sus inscripciones hablan de la última vez que dijiste algo sin pensarlo, cuando cambiaste de opinión, un momento de libertad, el día en que conociste a alguien importante, la primera vez que hiciste algo que te daba miedo, un momento que aún no sucede y la hora que nunca debió existir.",
+      "En el centro hay una silla y una llave. Escoge un reloj, decide qué abre la llave y explica por qué uno parece estar adelantándose."
+    ],
+    "detalle": "Puedes continuar la historia como novela de misterio o dibujar el plano de la habitación.",
+    "buenasNoches": "Buenas noches. No todo lo que mide el tiempo tiene que ver con los minutos.",
+    "cancionTitulo": "Doomsday",
+    "cancionArtista": "MF DOOM; Pebbles The Invisible Girl",
+    "youtubeId": "kHBHDWpK1yo",
+    "cancionUrl": "https://www.youtube.com/watch?v=kHBHDWpK1yo"
+  },
+  {
+    "dia": 105,
+    "fecha": "2027-01-28",
+    "fechaTexto": "jue, 28 de ene",
+    "categoria": "El experimento de las primeras impresiones",
+    "icono": "🧠",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Hoy vamos a hacer un pequeño experimento sobre cómo interpretamos lo que vemos.",
+    "poema": [
+      "Imagina a alguien que llega a un lugar y no habla durante media hora; a una persona que responde un mensaje muchas horas después aunque aparece conectada; y a alguien que se ríe cuando todos están serios.",
+      "Para cada situación escribe dos explicaciones: la primera que se te ocurre espontáneamente y otra completamente distinta que también podría ser cierta."
+    ],
+    "detalle": "Pregunta final: ¿cuántas veces confundimos lo que observamos con lo que realmente sabemos? Deja espacio para escuchar la versión de los demás.",
+    "buenasNoches": "Buenas noches. Antes de completar una historia sobre alguien, quizá vale la pena escuchar su versión.",
+    "cancionTitulo": "St. Chroma (feat. Daniel Caesar)",
+    "cancionArtista": "Tyler, The Creator; Daniel Caesar",
+    "youtubeId": "hCcwCv3G1FQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=hCcwCv3G1FQ"
+  },
+  {
+    "dia": 106,
+    "fecha": "2027-01-29",
+    "fechaTexto": "vie, 29 de ene",
+    "categoria": "La biblioteca de hechizos olvidados",
+    "icono": "📚",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "En una sección poco conocida de la biblioteca mágica hay un catálogo de hechizos que nunca llegaron a incluirse en los libros de estudio.",
+    "poema": [
+      "Memoralia guarda un recuerdo dentro de un objeto; Lumina Vestigium hace visibles por segundos las huellas de algo que estuvo en una habitación; Silencio Sereno crea un espacio donde los sonidos externos desaparecen.",
+      "Inventa un cuarto hechizo para resolver un problema cotidiano. Debe tener nombre, función, movimiento de varita y una limitación."
+    ],
+    "detalle": "Escribe una anotación como si lo descubrieras en un libro antiguo. Los hechizos de esta actividad son inventados y no pertenecen al repertorio oficial de la saga.",
+    "buenasNoches": "Buenas noches. La imaginación también puede ser una forma de magia.",
+    "cancionTitulo": "I Think I Love You Again",
+    "cancionArtista": "Aaron Taylor",
+    "youtubeId": "diAiHP1K-g0",
+    "cancionUrl": "https://www.youtube.com/watch?v=diAiHP1K-g0"
+  },
+  {
+    "dia": 107,
+    "fecha": "2027-01-30",
+    "fechaTexto": "sáb, 30 de ene",
+    "categoria": "Lasaña de berenjena con carne y queso",
+    "icono": "🍆",
+    "tono": "amor",
+    "color": {
+      "principal": "#d99ab3",
+      "suave": "#f7e2ea",
+      "oscuro": "#351b29"
+    },
+    "buenosDias": "Una alternativa deliciosa a la lasaña tradicional, con capas de berenjena, carne y queso fundido.",
+    "poema": [
+      "Ingredientes para 2–3 porciones: una berenjena grande, 250 g de carne molida, 250 g de salsa de tomate, 150 g de mozzarella, 40 g de parmesano, media cebolla, un ajo, aceite, orégano, sal y pimienta.",
+      "Corta la berenjena en láminas y hornéala a 200 °C durante 15 minutos. Sofríe cebolla y ajo, añade la carne y cocínala completamente; incorpora tomate y orégano. Alterna capas de berenjena, carne y mozzarella; termina con parmesano y hornea a 190 °C unos 20 minutos."
+    ],
+    "detalle": "Deja reposar ocho minutos antes de cortar. Por la alergia al maní, revisa etiquetas de quesos, salsa y condimentos; evita trazas relevantes y contaminación cruzada.",
+    "buenasNoches": "Buenas noches. Hay comidas que saben todavía mejor cuando se preparan sin afán.",
+    "cancionTitulo": "Trato de Olvidarte",
+    "cancionArtista": "Gonzalo Genek; Micro TDH; Lui5",
+    "youtubeId": "Z66Bv_N55zQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=Z66Bv_N55zQ"
+  },
+  {
+    "dia": 108,
+    "fecha": "2027-01-31",
+    "fechaTexto": "dom, 31 de ene",
+    "categoria": "El diseño de un planeta habitable",
+    "icono": "🪐",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Hoy tienes la oportunidad de diseñar un planeta desde cero. No tienes que respetar todas las reglas de la Tierra.",
+    "poema": [
+      "Define el cielo, el agua, la vegetación, sus habitantes, el clima y la arquitectura. ¿Tiene dos soles, océanos suspendidos o plantas luminosas?",
+      "Añade una característica que obligue a sus habitantes a organizar la sociedad de otra manera: una noche de diez minutos o montañas que cambian lentamente de ubicación."
+    ],
+    "detalle": "Dibuja un mapa, diseña una bandera y ponle nombre. La característica especial debe influir de verdad en la vida de sus habitantes.",
+    "buenasNoches": "Buenas noches. No hace falta descubrir otro mundo para empezar a imaginarlo.",
+    "cancionTitulo": "No quiero acostumbrarme",
+    "cancionArtista": "A.C.O",
+    "youtubeId": "iJy6xE17h-g",
+    "cancionUrl": "https://www.youtube.com/watch?v=iJy6xE17h-g"
+  },
+  {
+    "dia": 109,
+    "fecha": "2027-02-01",
+    "fechaTexto": "lun, 1 de feb",
+    "categoria": "La subasta de las cosas que no se pueden comprar",
+    "icono": "🔨",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Imagina una subasta donde no se utiliza dinero. Cada participante recibe 100 puntos imaginarios y puja por cosas que no tienen precio.",
+    "poema": [
+      "Los artículos: repetir una tarde feliz, tener una hora adicional al día, conocer una respuesta importante, visitar cualquier lugar durante 24 horas, escuchar una canción por primera vez, conservar una conversación o aprender una habilidad al instante.",
+      "Distribuye tus 100 puntos y explica por qué algunas cosas recibieron más que otras. Si dos personas ofrecen lo mismo, negocien o inventen un desempate."
+    ],
+    "detalle": "La gracia no está en ganar la subasta, sino en descubrir qué cosas tienen más valor para cada persona.",
+    "buenasNoches": "Buenas noches. Lo que más valoramos no siempre es lo que más cuesta.",
+    "cancionTitulo": "Like That",
+    "cancionArtista": "Future; Metro Boomin; Kendrick Lamar",
+    "youtubeId": "Rr1Cdli5nE8",
+    "cancionUrl": "https://www.youtube.com/watch?v=Rr1Cdli5nE8"
+  },
+  {
+    "dia": 110,
+    "fecha": "2027-02-02",
+    "fechaTexto": "mar, 2 de feb",
+    "categoria": "La fotografía que guardarías veinte años",
+    "icono": "📸",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Te dejo una última pregunta para hoy.",
+    "poema": [
+      "Si pudieras conservar una fotografía de un día cualquiera de tu vida actual para verla dentro de veinte años, ¿qué te gustaría que apareciera en ella?",
+      "Quizá una habitación desordenada, una tarde lluviosa, una comida, una persona o un momento que hoy parece completamente normal."
+    ],
+    "detalle": "No tiene que ser un acontecimiento especial. A veces lo cotidiano se convierte en lo que más queremos recordar.",
+    "buenasNoches": "Buenas noches. Puede que algún día descubras que uno de tus días más importantes fue uno que ni siquiera consideraste extraordinario.",
+    "cancionTitulo": "Many Men (Wish Death)",
+    "cancionArtista": "50 Cent",
+    "youtubeId": "5D3crqpClPY",
+    "cancionUrl": "https://www.youtube.com/watch?v=5D3crqpClPY"
   }
 ];
