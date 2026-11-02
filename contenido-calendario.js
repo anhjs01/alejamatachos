@@ -2639,5 +2639,197 @@ const CALENDARIO = [
     "cancionArtista": "50 Cent",
     "youtubeId": "5D3crqpClPY",
     "cancionUrl": "https://www.youtube.com/watch?v=5D3crqpClPY"
+  },
+  {
+    "dia": 111,
+    "fecha": "2027-02-03",
+    "fechaTexto": "mié, 3 de feb",
+    "categoria": "Templanza",
+    "icono": "🧭",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Buenos días. Hoy te dejo una palabra que parece tranquila, pero tiene mucha fuerza: templanza.",
+    "poema": [
+      "No significa dejar de sentir ni fingir que nada te afecta. Es aprender a no entregar todas tus decisiones al primer impulso, y reconocer cuándo conviene respirar antes de responder.",
+      "También es saber cambiar de opinión, poner un límite y aceptar que no todo se resuelve hoy."
+    ],
+    "detalle": "Piensa en una situación reciente en la que reaccionaste muy rápido. Si pudieras volver a ese momento, ¿qué harías diferente? No para juzgarte, sino para reconocer cuánto has aprendido. Para guardar: «No todo lo que siento necesita convertirse inmediatamente en una decisión».",
+    "buenasNoches": "Buenas noches. Ojalá hoy hayas encontrado aunque sea un instante de calma en medio de todo lo que pasa.",
+    "cancionTitulo": "Through The Wire",
+    "cancionArtista": "Kanye West",
+    "youtubeId": "uvb-1wjAtk4",
+    "cancionUrl": "https://www.youtube.com/watch?v=uvb-1wjAtk4"
+  },
+  {
+    "dia": 112,
+    "fecha": "2027-02-04",
+    "fechaTexto": "jue, 4 de feb",
+    "categoria": "El periódico de Hogwarts",
+    "icono": "📰",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Buenos días, estudiante. Ha aparecido una edición extraordinaria del periódico de Hogwarts. Alguien cambió las noticias y ahora cuenta acontecimientos que todavía no han sucedido.",
+    "poema": [
+      "En portada aparecen tres titulares: «El aula que aparece cuando alguien necesita encontrar algo»; «Un retrato responde preguntas que nadie le ha hecho»; «La biblioteca devuelve un libro que todavía no ha sido escrito».",
+      "Escoge uno y escribe la noticia completa. Debe incluir una pista escondida para descubrir quién está detrás del misterio."
+    ],
+    "detalle": "Diseña la portada, inventa el nombre del periódico y agrega una nota de la redacción. Puedes ser periodista, investigadora o alguien involucrada por accidente. Actividad original inspirada en el universo de Harry Potter, sin spoilers.",
+    "buenasNoches": "Buenas noches. Que nunca se te quite esa curiosidad que convierte cualquier lugar en una posible aventura.",
+    "cancionTitulo": "The Way I Love You",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "R25qYkkv_t8",
+    "cancionUrl": "https://www.youtube.com/watch?v=R25qYkkv_t8"
+  },
+  {
+    "dia": 113,
+    "fecha": "2027-02-05",
+    "fechaTexto": "vie, 5 de feb",
+    "categoria": "La exposición de lo que todavía no existe",
+    "icono": "🎨",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Hoy vas a organizar una pequeña exposición artística, pero ninguna obra puede representar algo que exista exactamente como lo conocemos.",
+    "poema": [
+      "Crea tres piezas: una escultura que represente la paciencia, una obra sobre un recuerdo que todavía no ha ocurrido y una pintura del sonido de una ciudad cuando todos duermen.",
+      "A cada pieza ponle un título y una ficha de museo: materiales, significado y qué debería sentir alguien al observarla."
+    ],
+    "detalle": "Puedes dibujar, pintar, modelar o describirlas. No intentes que todo sea reconocible. Cuanto menos obvia sea la obra, más espacio tendrá quien la observe para imaginar.",
+    "buenasNoches": "Hay ideas que todavía no existen porque están esperando que alguien les dé forma.",
+    "cancionTitulo": "Antes de Morir (Scratches Dj Pho)",
+    "cancionArtista": "LosPetitFellas; Denise Gutiérrez; Dj Pho",
+    "youtubeId": "2vdIWr1TCBI",
+    "cancionUrl": "https://www.youtube.com/watch?v=2vdIWr1TCBI"
+  },
+  {
+    "dia": 114,
+    "fecha": "2027-02-06",
+    "fechaTexto": "sáb, 6 de feb",
+    "categoria": "La misión de las ventanas selladas",
+    "icono": "🪟",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "En una ciudad aparentemente normal, varias personas han empezado a evitar ciertas ventanas. No saben explicar por qué; solo sienten que algo se vuelve más pesado al mirar a través de ellas.",
+    "poema": [
+      "En una ventana aparece el nombre de alguien que nunca vivió allí. En otra, el reflejo muestra una habitación distinta. La última no refleja a quien se coloca delante, sino a la persona que más extraña.",
+      "La escuela detecta energía maldita en un edificio abandonado. Inventa qué alimenta la maldición y encuentra una manera de romperla."
+    ],
+    "detalle": "La solución no puede consistir en destruir todas las ventanas. Lo importante no es tener el ataque más poderoso, sino descubrir qué está pasando. Misión original inspirada en Jujutsu Kaisen, sin spoilers.",
+    "buenasNoches": "A veces, para vencer algo, primero hay que entender por qué existe.",
+    "cancionTitulo": "My Boo",
+    "cancionArtista": "USHER; Alicia Keys",
+    "youtubeId": "fPgf2meEX1w",
+    "cancionUrl": "https://www.youtube.com/watch?v=fPgf2meEX1w"
+  },
+  {
+    "dia": 115,
+    "fecha": "2027-02-07",
+    "fechaTexto": "dom, 7 de feb",
+    "categoria": "Ñoquis dorados con salsa cremosa de tomate",
+    "icono": "🍝",
+    "tono": "amor",
+    "color": {
+      "principal": "#d99ab3",
+      "suave": "#f7e2ea",
+      "oscuro": "#351b29"
+    },
+    "buenosDias": "Hoy te dejo una receta para preparar sin afán: ñoquis doraditos por fuera, con salsa cremosa de tomate y parmesano.",
+    "poema": [
+      "Ingredientes para dos: 400 g de ñoquis, 200 g de tomate triturado, 80 ml de crema, un ajo, media cebolla, una cucharada de mantequilla, 30 g de parmesano, aceite, sal, pimienta y albahaca.",
+      "Cocina los ñoquis en agua con sal y retíralos cuando floten. Sofríe cebolla y ajo; agrega tomate y cocina ocho minutos. Incorpora crema. Dora los ñoquis 3–4 minutos, mézclalos con la salsa y termina con parmesano y albahaca."
+    ],
+    "detalle": "Reserva algunos ñoquis dorados para ponerlos encima. Por la alergia al maní, revisa etiquetas y advertencias de trazas; evita contaminación cruzada en superficies, utensilios y aceites compartidos.",
+    "buenasNoches": "Ojalá algún día esta receta forme parte de esas comidas que uno recuerda por lo bien que la pasó.",
+    "cancionTitulo": "Like I Want You",
+    "cancionArtista": "GIVĒON",
+    "youtubeId": "yNNMKN9BUmU",
+    "cancionUrl": "https://www.youtube.com/watch?v=yNNMKN9BUmU"
+  },
+  {
+    "dia": 116,
+    "fecha": "2027-02-08",
+    "fechaTexto": "lun, 8 de feb",
+    "categoria": "El archivo de las versiones alternativas",
+    "icono": "🗂️",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Imagina un archivo donde se guardan todas las versiones de ti que pudieron aparecer si hubieras tomado decisiones diferentes.",
+    "poema": [
+      "Hay una versión que aprendió algo inesperado, otra que se mudó a un lugar que nunca había considerado y otra que descubrió una habilidad que todavía no sabe que tiene.",
+      "Inventa tres versiones. Para cada una describe dónde vive, a qué dedica sus días, qué descubrió y qué rasgo tuyo conserva."
+    ],
+    "detalle": "No son vidas mejores ni peores: son caminos distintos. Escribe una frase que las tres versiones podrían decirte. Quizá descubras que, aunque imagines vidas diferentes, hay cosas de ti que siempre viajarían contigo.",
+    "buenasNoches": "No tienes que convertirte en todas tus posibilidades. Algunas existen para recordarte que todavía puedes elegir.",
+    "cancionTitulo": "Hit 'Em Up - Single Version",
+    "cancionArtista": "2Pac; Outlawz",
+    "youtubeId": "fSq-4Dhwugg",
+    "cancionUrl": "https://www.youtube.com/watch?v=fSq-4Dhwugg"
+  },
+  {
+    "dia": 117,
+    "fecha": "2027-02-09",
+    "fechaTexto": "mar, 9 de feb",
+    "categoria": "Una tarde para aprender a mirar el cielo",
+    "icono": "🌇",
+    "tono": "ambiente",
+    "color": {
+      "principal": "#9fc7d4",
+      "suave": "#e2f1f3",
+      "oscuro": "#17333b"
+    },
+    "buenosDias": "Te propongo un plan sencillo: salir a un lugar desde donde se vea bien el cielo y quedarse un rato sin convertir la salida en una carrera por hacer cosas.",
+    "poema": [
+      "Lleva algo para tomar y una cámara. Haz tres fotografías del mismo lugar: cuando el cielo aún está iluminado, cuando cambian los colores y cuando aparece la primera luz de la noche.",
+      "Compara cómo cambió el paisaje sin que ustedes se movieran demasiado. Puedes hacerlo sola o convertirlo en una salida compartida si algún día te provoca."
+    ],
+    "detalle": "Guarda las tres fotografías juntas y ponles un título que no describa el paisaje, sino cómo se sintió ese rato.",
+    "buenasNoches": "A veces basta con quedarse el tiempo suficiente para descubrir lo que estaba pasando delante de nosotros.",
+    "cancionTitulo": "Try Me",
+    "cancionArtista": "Jorja Smith",
+    "youtubeId": "gUn6i9bfdRA",
+    "cancionUrl": "https://www.youtube.com/watch?v=gUn6i9bfdRA"
+  },
+  {
+    "dia": 118,
+    "fecha": "2027-02-10",
+    "fechaTexto": "mié, 10 de feb",
+    "categoria": "Una pregunta sin sí ni no",
+    "icono": "❔",
+    "tono": "filosofica",
+    "color": {
+      "principal": "#91a9c7",
+      "suave": "#e1eaf4",
+      "oscuro": "#17283c"
+    },
+    "buenosDias": "Hay preguntas que parecen sencillas, pero revelan muchísimo de una persona.",
+    "poema": [
+      "Si pudieras conservar para siempre una sola sensación de tu vida actual —no un recuerdo ni una fotografía, sino una sensación—, ¿cuál elegirías?",
+      "Puede ser la tranquilidad de estar en casa, la emoción de comenzar algo, la libertad de caminar sin rumbo o cualquier otra que tenga sentido para ti."
+    ],
+    "detalle": "No tienes que contestarla inmediatamente. A veces las mejores respuestas aparecen cuando dejamos de buscarlas.",
+    "buenasNoches": "Que mañana encuentres algo que todavía no sabías que necesitabas.",
+    "cancionTitulo": "Centro de Acopio",
+    "cancionArtista": "Anyone/Cualkiera; Rapiphero",
+    "youtubeId": "iN4JYAXgqzY",
+    "cancionUrl": "https://www.youtube.com/watch?v=iN4JYAXgqzY"
   }
 ];
