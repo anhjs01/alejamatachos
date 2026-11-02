@@ -10818,5 +10818,327 @@ const CALENDARIO = [
       "significado": "Coincidencia de gustos, intereses o maneras de disfrutar algo.",
       "ejemplo": "La afinidad también puede aparecer al descubrir que alguien disfruta algo que no esperabas."
     }
+  },
+  {
+    "dia": 245,
+    "fecha": "2027-06-17",
+    "fechaTexto": "jue, 17 de jun",
+    "categoria": "El archivo de sonidos de una ciudad",
+    "icono": "🎧",
+    "tono": "escucha y exploración",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a escuchar el lugar donde estamos como si fuera una grabación especial.",
+    "poema": [
+      "Durante cinco minutos, quédate en un sitio seguro y escucha sin poner música. Anota cinco sonidos distintos: uno constante, uno lejano, uno inesperado, uno natural y uno producido por personas. Después ordénalos como si fueran la banda sonora de una escena. No grabes conversaciones privadas ni a desconocidos.",
+      "Si compartes la lista, deja que otra persona adivine qué tipo de lugar estabas describiendo."
+    ],
+    "detalle": "Si compartes la lista, deja que otra persona adivine qué tipo de lugar estabas describiendo.",
+    "buenasNoches": "Incluso los lugares más familiares tienen una banda sonora que casi nunca atendemos.",
+    "cancionTitulo": "Put It On",
+    "cancionArtista": "Big L",
+    "youtubeId": "WWMjRMJ0dTI",
+    "cancionUrl": "https://www.youtube.com/watch?v=WWMjRMJ0dTI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a escuchar el lugar donde estamos como si fuera una grabación especial."
+      },
+      "mensajePrincipal": {
+        "titulo": "El archivo de sonidos de una ciudad",
+        "contenido": "Durante cinco minutos, quédate en un sitio seguro y escucha sin poner música. Anota cinco sonidos distintos: uno constante, uno lejano, uno inesperado, uno natural y uno producido por personas. Después ordénalos como si fueran la banda sonora de una escena. No grabes conversaciones privadas ni a desconocidos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra paisaje sonoro",
+        "contenido": "Conjunto de sonidos que caracteriza un entorno. Un paisaje sonoro puede revelar la personalidad de un lugar sin mostrarlo."
+      },
+      "buenasNoches": {
+        "contenido": "Incluso los lugares más familiares tienen una banda sonora que casi nunca atendemos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Paisaje sonoro",
+      "significado": "Conjunto de sonidos que caracteriza un entorno.",
+      "ejemplo": "Un paisaje sonoro puede revelar la personalidad de un lugar sin mostrarlo."
+    }
+  },
+  {
+    "dia": 246,
+    "fecha": "2027-06-18",
+    "fechaTexto": "vie, 18 de jun",
+    "categoria": "El reto de explicar algo sin decir su nombre",
+    "icono": "🗣️",
+    "tono": "juego de palabras",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca jugar a describir sin revelar la palabra clave.",
+    "poema": [
+      "Elijan cinco objetos, personajes o lugares conocidos. Por turnos, describan uno sin mencionar su nombre, sin usar palabras de la misma familia y sin señalarlo. La otra persona tiene tres intentos para adivinar. Para hacerlo más retador, no pueden decir para qué sirve el objeto, solo describir su forma, textura, origen o alguna característica curiosa.",
+      "Pongan un límite de treinta segundos por turno y den un punto por cada acierto."
+    ],
+    "detalle": "Pongan un límite de treinta segundos por turno y den un punto por cada acierto.",
+    "buenasNoches": "Las palabras tienen muchas rutas para llegar a una misma idea.",
+    "cancionTitulo": "When I B On Tha Mic",
+    "cancionArtista": "Rakim",
+    "youtubeId": "M34OelgSlKI",
+    "cancionUrl": "https://www.youtube.com/watch?v=M34OelgSlKI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca jugar a describir sin revelar la palabra clave."
+      },
+      "mensajePrincipal": {
+        "titulo": "El reto de explicar algo sin decir su nombre",
+        "contenido": "Elijan cinco objetos, personajes o lugares conocidos. Por turnos, describan uno sin mencionar su nombre, sin usar palabras de la misma familia y sin señalarlo. La otra persona tiene tres intentos para adivinar. Para hacerlo más retador, no pueden decir para qué sirve el objeto, solo describir su forma, textura, origen o alguna característica curiosa."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra perífrasis",
+        "contenido": "Expresión de una idea mediante varias palabras en lugar de nombrarla directamente. Una perífrasis ingeniosa puede convertir una descripción sencilla en un acertijo."
+      },
+      "buenasNoches": {
+        "contenido": "Las palabras tienen muchas rutas para llegar a una misma idea."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Perífrasis",
+      "significado": "Expresión de una idea mediante varias palabras en lugar de nombrarla directamente.",
+      "ejemplo": "Una perífrasis ingeniosa puede convertir una descripción sencilla en un acertijo."
+    }
+  },
+  {
+    "dia": 247,
+    "fecha": "2027-06-19",
+    "fechaTexto": "sáb, 19 de jun",
+    "categoria": "La ruta de una tarde de arte",
+    "icono": "🎨",
+    "tono": "plan creativo de un día",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy queda abierta una invitación para una tarde de creación sin afán.",
+    "poema": [
+      "Elige un formato que te provoque: pintar un espejo pequeño, intervenir una libreta, hacer una figura en arcilla o cerámica fría, crear un collage o decorar una tote bag. La propuesta es dedicarle una tarde, con materiales básicos y sin buscar que quede perfecto. Si lo hacen juntos, cada quien puede escoger su pieza y al final contar qué decisión visual le gustó más.",
+      "No hace falta fijar fecha hoy: guarda la idea para cuando se acomode una tarde libre y un presupuesto cómodo."
+    ],
+    "detalle": "No hace falta fijar fecha hoy: guarda la idea para cuando se acomode una tarde libre y un presupuesto cómodo.",
+    "buenasNoches": "Crear con las manos puede ser una forma tranquila de darle espacio a la imaginación.",
+    "cancionTitulo": "Full Clip",
+    "cancionArtista": "Gang Starr",
+    "youtubeId": "qmj1q67NDAk",
+    "cancionUrl": "https://www.youtube.com/watch?v=qmj1q67NDAk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy queda abierta una invitación para una tarde de creación sin afán."
+      },
+      "mensajePrincipal": {
+        "titulo": "La ruta de una tarde de arte",
+        "contenido": "Elige un formato que te provoque: pintar un espejo pequeño, intervenir una libreta, hacer una figura en arcilla o cerámica fría, crear un collage o decorar una tote bag. La propuesta es dedicarle una tarde, con materiales básicos y sin buscar que quede perfecto. Si lo hacen juntos, cada quien puede escoger su pieza y al final contar qué decisión visual le gustó más."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra composición",
+        "contenido": "Organización de elementos para crear una obra equilibrada o expresiva. Una buena composición no depende de tener muchos materiales, sino de decidir dónde va cada cosa."
+      },
+      "buenasNoches": {
+        "contenido": "Crear con las manos puede ser una forma tranquila de darle espacio a la imaginación."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Composición",
+      "significado": "Organización de elementos para crear una obra equilibrada o expresiva.",
+      "ejemplo": "Una buena composición no depende de tener muchos materiales, sino de decidir dónde va cada cosa."
+    }
+  },
+  {
+    "dia": 248,
+    "fecha": "2027-06-20",
+    "fechaTexto": "dom, 20 de jun",
+    "categoria": "El casting para una película inventada",
+    "icono": "🎥",
+    "tono": "ficción y humor",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a producir una película que todavía no existe.",
+    "poema": [
+      "Inventen el título de una película, su género y una sinopsis de tres líneas. Después hagan el casting: elijan qué tipo de protagonista necesita, qué talento inesperado tendría y cuál sería su defecto más divertido. Pueden usar personajes ficticios conocidos como referencia, pero creen una historia propia y eviten copiar una trama existente.",
+      "Diseñen también el eslogan del afiche en máximo ocho palabras."
+    ],
+    "detalle": "Diseñen también el eslogan del afiche en máximo ocho palabras.",
+    "buenasNoches": "A veces una buena historia empieza con una pregunta sencilla: ¿y si…?",
+    "cancionTitulo": "Fu-Gee-La",
+    "cancionArtista": "Fugees; Ms. Lauryn Hill; Wyclef Jean; Pras",
+    "youtubeId": "MPlb9HoOCxs",
+    "cancionUrl": "https://www.youtube.com/watch?v=MPlb9HoOCxs",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a producir una película que todavía no existe."
+      },
+      "mensajePrincipal": {
+        "titulo": "El casting para una película inventada",
+        "contenido": "Inventen el título de una película, su género y una sinopsis de tres líneas. Después hagan el casting: elijan qué tipo de protagonista necesita, qué talento inesperado tendría y cuál sería su defecto más divertido. Pueden usar personajes ficticios conocidos como referencia, pero creen una historia propia y eviten copiar una trama existente."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra protagonista",
+        "contenido": "Personaje principal alrededor del cual gira una historia. Un protagonista interesante no tiene que ser perfecto: necesita algo que lo mueva."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una buena historia empieza con una pregunta sencilla: ¿y si…?"
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Protagonista",
+      "significado": "Personaje principal alrededor del cual gira una historia.",
+      "ejemplo": "Un protagonista interesante no tiene que ser perfecto: necesita algo que lo mueva."
+    }
+  },
+  {
+    "dia": 249,
+    "fecha": "2027-06-21",
+    "fechaTexto": "lun, 21 de jun",
+    "categoria": "El experimento de cambiar el orden",
+    "icono": "🔀",
+    "tono": "creatividad y resolución",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a cambiar el orden de una rutina pequeña para verla de otra manera.",
+    "poema": [
+      "Escoge una actividad cotidiana que no implique riesgos —organizar el escritorio, preparar la maleta, alistar materiales o planear una lista de pendientes— y escribe sus pasos en orden habitual. Luego reorganízalos de una forma diferente, comprobando que siga siendo práctica y segura. ¿Qué paso parecía más importante y cuál resultó flexible?",
+      "Quédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo."
+    ],
+    "detalle": "Quédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo.",
+    "buenasNoches": "A veces mejorar no significa hacer más, sino encontrar un orden que nos funcione mejor.",
+    "cancionTitulo": "Mind Playing Tricks on Me",
+    "cancionArtista": "Geto Boys",
+    "youtubeId": "IJtHdkyo0hc",
+    "cancionUrl": "https://www.youtube.com/watch?v=IJtHdkyo0hc",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a cambiar el orden de una rutina pequeña para verla de otra manera."
+      },
+      "mensajePrincipal": {
+        "titulo": "El experimento de cambiar el orden",
+        "contenido": "Escoge una actividad cotidiana que no implique riesgos —organizar el escritorio, preparar la maleta, alistar materiales o planear una lista de pendientes— y escribe sus pasos en orden habitual. Luego reorganízalos de una forma diferente, comprobando que siga siendo práctica y segura. ¿Qué paso parecía más importante y cuál resultó flexible?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra secuencia",
+        "contenido": "Orden en que ocurren o se organizan varios elementos. Cambiar una secuencia puede hacer que una tarea conocida se sienta completamente distinta."
+      },
+      "buenasNoches": {
+        "contenido": "A veces mejorar no significa hacer más, sino encontrar un orden que nos funcione mejor."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Secuencia",
+      "significado": "Orden en que ocurren o se organizan varios elementos.",
+      "ejemplo": "Cambiar una secuencia puede hacer que una tarea conocida se sienta completamente distinta."
+    }
+  },
+  {
+    "dia": 250,
+    "fecha": "2027-06-22",
+    "fechaTexto": "mar, 22 de jun",
+    "categoria": "La pregunta para una conversación larga",
+    "icono": "💬",
+    "tono": "conversación y curiosidad",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy hay una pregunta que puede abrir una conversación sin necesidad de ponerse solemnes.",
+    "poema": [
+      "¿Qué cosa pequeña te hace sentir que un día valió la pena? Puede ser terminar algo pendiente, descubrir una canción, comer algo rico, tener una charla inesperada o descansar sin culpa. Cada quien responde con un ejemplo concreto y, si quiere, cuenta por qué ese detalle tiene valor. Escuchen sin convertir la respuesta en una competencia de quién tiene el mejor día.",
+      "La conversación puede quedarse ahí o seguir por donde la curiosidad la lleve."
+    ],
+    "detalle": "La conversación puede quedarse ahí o seguir por donde la curiosidad la lleve.",
+    "buenasNoches": "A veces entender lo que hace bien a alguien es una manera sencilla de conocerlo mejor.",
+    "cancionTitulo": "I Got 5 On It",
+    "cancionArtista": "Luniz; Michael Marshall",
+    "youtubeId": "agJ6zyTB5ng",
+    "cancionUrl": "https://www.youtube.com/watch?v=agJ6zyTB5ng",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy hay una pregunta que puede abrir una conversación sin necesidad de ponerse solemnes."
+      },
+      "mensajePrincipal": {
+        "titulo": "La pregunta para una conversación larga",
+        "contenido": "¿Qué cosa pequeña te hace sentir que un día valió la pena? Puede ser terminar algo pendiente, descubrir una canción, comer algo rico, tener una charla inesperada o descansar sin culpa. Cada quien responde con un ejemplo concreto y, si quiere, cuenta por qué ese detalle tiene valor. Escuchen sin convertir la respuesta en una competencia de quién tiene el mejor día."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra matiz",
+        "contenido": "Diferencia pequeña pero significativa entre ideas, emociones o situaciones. Los matices ayudan a comprender que dos respuestas parecidas pueden tener razones muy distintas."
+      },
+      "buenasNoches": {
+        "contenido": "A veces entender lo que hace bien a alguien es una manera sencilla de conocerlo mejor."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Matiz",
+      "significado": "Diferencia pequeña pero significativa entre ideas, emociones o situaciones.",
+      "ejemplo": "Los matices ayudan a comprender que dos respuestas parecidas pueden tener razones muy distintas."
+    }
+  },
+  {
+    "dia": 251,
+    "fecha": "2027-06-23",
+    "fechaTexto": "mié, 23 de jun",
+    "categoria": "El menú de una aventura de bolsillo",
+    "icono": "🧭",
+    "tono": "planificación y aventura",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a diseñar una mini aventura que quepa en una tarde.",
+    "poema": [
+      "Arma un recorrido de tres paradas para un día libre: un lugar abierto donde caminar, un sitio para tomar algo y un punto con una vista o actividad curiosa. No hace falta decidir establecimientos ni reservar todavía; piensa en zonas conocidas y trayectos seguros, con transporte y presupuesto razonables. Deja un espacio libre para improvisar si aparece algo interesante.",
+      "Ponle nombre al recorrido y calcula cuánto tiempo te gustaría dedicarle, sin llenar toda la tarde."
+    ],
+    "detalle": "Ponle nombre al recorrido y calcula cuánto tiempo te gustaría dedicarle, sin llenar toda la tarde.",
+    "buenasNoches": "Los mejores planes tienen una dirección, pero también dejan espacio para cambiar de rumbo.",
+    "cancionTitulo": "Shook Ones, Pt. II",
+    "cancionArtista": "Mobb Deep",
+    "youtubeId": "yoYZf-lBF_U",
+    "cancionUrl": "https://www.youtube.com/watch?v=yoYZf-lBF_U",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a diseñar una mini aventura que quepa en una tarde."
+      },
+      "mensajePrincipal": {
+        "titulo": "El menú de una aventura de bolsillo",
+        "contenido": "Arma un recorrido de tres paradas para un día libre: un lugar abierto donde caminar, un sitio para tomar algo y un punto con una vista o actividad curiosa. No hace falta decidir establecimientos ni reservar todavía; piensa en zonas conocidas y trayectos seguros, con transporte y presupuesto razonables. Deja un espacio libre para improvisar si aparece algo interesante."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra itinerario",
+        "contenido": "Plan ordenado de actividades o paradas que se quieren realizar. Un itinerario flexible permite disfrutar el camino sin convertir cada minuto en una obligación."
+      },
+      "buenasNoches": {
+        "contenido": "Los mejores planes tienen una dirección, pero también dejan espacio para cambiar de rumbo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Itinerario",
+      "significado": "Plan ordenado de actividades o paradas que se quieren realizar.",
+      "ejemplo": "Un itinerario flexible permite disfrutar el camino sin convertir cada minuto en una obligación."
+    }
   }
 ];
