@@ -10174,5 +10174,327 @@ const CALENDARIO = [
       "significado": "Apertura a disfrutar y combinar estilos, ideas o influencias diferentes.",
       "ejemplo": "El eclecticismo permite descubrir algo valioso fuera de lo que solemos elegir."
     }
+  },
+  {
+    "dia": 231,
+    "fecha": "2027-06-03",
+    "fechaTexto": "jue, 3 de jun",
+    "categoria": "El museo de objetos cotidianos",
+    "icono": "🏛️",
+    "tono": "creatividad y observación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a convertir tres objetos comunes en piezas de museo.",
+    "poema": [
+      "Escoge tres objetos que tengas cerca: pueden ser un recibo, una llave, una taza, un boleto o cualquier cosa pequeña. Asígnales un nombre de exposición y escribe una ficha de museo para cada uno: título, año aproximado y una historia inventada de dos líneas. La gracia es mirar lo cotidiano como si fuera extraordinario.",
+      "Si alguien más participa, hagan de guías de museo y presenten sus piezas con total seriedad, aunque la historia sea absurda."
+    ],
+    "detalle": "Si alguien más participa, hagan de guías de museo y presenten sus piezas con total seriedad, aunque la historia sea absurda.",
+    "buenasNoches": "La imaginación tiene esa habilidad de cambiarle el valor a lo que tenemos delante.",
+    "cancionTitulo": "Regulate",
+    "cancionArtista": "Warren G; Nate Dogg",
+    "youtubeId": "1plPyJdXKIY",
+    "cancionUrl": "https://www.youtube.com/watch?v=1plPyJdXKIY",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a convertir tres objetos comunes en piezas de museo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El museo de objetos cotidianos",
+        "contenido": "Escoge tres objetos que tengas cerca: pueden ser un recibo, una llave, una taza, un boleto o cualquier cosa pequeña. Asígnales un nombre de exposición y escribe una ficha de museo para cada uno: título, año aproximado y una historia inventada de dos líneas. La gracia es mirar lo cotidiano como si fuera extraordinario."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra curaduría",
+        "contenido": "Selección y organización cuidadosa de elementos según un criterio. Hacer curaduría también es encontrar una historia en cosas que parecían comunes."
+      },
+      "buenasNoches": {
+        "contenido": "La imaginación tiene esa habilidad de cambiarle el valor a lo que tenemos delante."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Curaduría",
+      "significado": "Selección y organización cuidadosa de elementos según un criterio.",
+      "ejemplo": "Hacer curaduría también es encontrar una historia en cosas que parecían comunes."
+    }
+  },
+  {
+    "dia": 232,
+    "fecha": "2027-06-04",
+    "fechaTexto": "vie, 4 de jun",
+    "categoria": "La receta de una bebida de autor",
+    "icono": "🥤",
+    "tono": "experimento sencillo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca inventar una bebida sencilla con nombre propio.",
+    "poema": [
+      "Prueba una mezcla sin alcohol con tres ingredientes: agua con gas o limonada, una fruta cítrica y hierbabuena o jengibre. Ajusta las cantidades poco a poco, prueba y anota la proporción que más te guste. También puedes usar agua fría si prefieres algo menos dulce. Si compartes ingredientes empacados, revisa etiquetas por posible presencia de maní y contaminación cruzada.",
+      "Ponle un nombre a tu creación y escribe la receta en una sola línea para poder repetirla."
+    ],
+    "detalle": "Ponle un nombre a tu creación y escribe la receta en una sola línea para poder repetirla.",
+    "buenasNoches": "Experimentar no siempre exige grandes cambios: a veces basta con combinar distinto lo que ya conoces.",
+    "cancionTitulo": "Can I Kick It?",
+    "cancionArtista": "A Tribe Called Quest",
+    "youtubeId": "O3pyCGnZzYA",
+    "cancionUrl": "https://www.youtube.com/watch?v=O3pyCGnZzYA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca inventar una bebida sencilla con nombre propio."
+      },
+      "mensajePrincipal": {
+        "titulo": "La receta de una bebida de autor",
+        "contenido": "Prueba una mezcla sin alcohol con tres ingredientes: agua con gas o limonada, una fruta cítrica y hierbabuena o jengibre. Ajusta las cantidades poco a poco, prueba y anota la proporción que más te guste. También puedes usar agua fría si prefieres algo menos dulce. Si compartes ingredientes empacados, revisa etiquetas por posible presencia de maní y contaminación cruzada."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra proporción",
+        "contenido": "Relación entre las cantidades de los ingredientes que forman una mezcla. Una buena proporción puede cambiar por completo el resultado de una receta."
+      },
+      "buenasNoches": {
+        "contenido": "Experimentar no siempre exige grandes cambios: a veces basta con combinar distinto lo que ya conoces."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Proporción",
+      "significado": "Relación entre las cantidades de los ingredientes que forman una mezcla.",
+      "ejemplo": "Una buena proporción puede cambiar por completo el resultado de una receta."
+    }
+  },
+  {
+    "dia": 233,
+    "fecha": "2027-06-05",
+    "fechaTexto": "sáb, 5 de jun",
+    "categoria": "El doblaje de una escena muda",
+    "icono": "🎬",
+    "tono": "improvisación y humor",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a ponerle voz a algo que nunca la tuvo.",
+    "poema": [
+      "Busca un video corto sin diálogo —puede ser una escena propia con objetos, una mascota o un clip libre de sonido— y crea un doblaje de 20 a 30 segundos. Inventa qué están diciendo los personajes y trata de ajustar las frases a sus movimientos. Si lo haces con alguien, una persona pone la imagen y la otra improvisa la voz; luego cambian.",
+      "No busquen perfección: el objetivo es que la escena termine teniendo una historia inesperada."
+    ],
+    "detalle": "No busquen perfección: el objetivo es que la escena termine teniendo una historia inesperada.",
+    "buenasNoches": "A veces una buena historia aparece cuando dejamos de tomarnos tan en serio.",
+    "cancionTitulo": "Juicy - 2005 Remaster",
+    "cancionArtista": "The Notorious B.I.G.",
+    "youtubeId": "_JZom_gVfuw",
+    "cancionUrl": "https://www.youtube.com/watch?v=_JZom_gVfuw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a ponerle voz a algo que nunca la tuvo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El doblaje de una escena muda",
+        "contenido": "Busca un video corto sin diálogo —puede ser una escena propia con objetos, una mascota o un clip libre de sonido— y crea un doblaje de 20 a 30 segundos. Inventa qué están diciendo los personajes y trata de ajustar las frases a sus movimientos. Si lo haces con alguien, una persona pone la imagen y la otra improvisa la voz; luego cambian."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sincronía",
+        "contenido": "Coincidencia de tiempo y ritmo entre dos o más acciones o elementos. La sincronía hace que una voz y un gesto parezcan parte de la misma escena."
+      },
+      "buenasNoches": {
+        "contenido": "A veces una buena historia aparece cuando dejamos de tomarnos tan en serio."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sincronía",
+      "significado": "Coincidencia de tiempo y ritmo entre dos o más acciones o elementos.",
+      "ejemplo": "La sincronía hace que una voz y un gesto parezcan parte de la misma escena."
+    }
+  },
+  {
+    "dia": 234,
+    "fecha": "2027-06-06",
+    "fechaTexto": "dom, 6 de jun",
+    "categoria": "El mapa de lugares que cuentan historias",
+    "icono": "🗺️",
+    "tono": "memoria y lugares",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a dibujar un mapa que no necesita direcciones exactas.",
+    "poema": [
+      "En una hoja, dibuja un mapa sencillo de tres lugares que recuerdes con cariño: puede ser una calle, un parque, una tienda, una cancha o un rincón de tu casa. Junto a cada lugar escribe qué pasó allí o qué sensación te devuelve. No necesitas compartir ubicaciones privadas ni datos precisos; basta con el recuerdo y su significado.",
+      "Elige uno de esos lugares y piensa qué detalle te gustaría volver a experimentar, aunque sea de otra manera."
+    ],
+    "detalle": "Elige uno de esos lugares y piensa qué detalle te gustaría volver a experimentar, aunque sea de otra manera.",
+    "buenasNoches": "Hay sitios que siguen acompañándonos incluso cuando hace mucho no pasamos por ellos.",
+    "cancionTitulo": "6 30",
+    "cancionArtista": "Métricas Frías; Doble Porción",
+    "youtubeId": "vcdt4RdTc1g",
+    "cancionUrl": "https://www.youtube.com/watch?v=vcdt4RdTc1g",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a dibujar un mapa que no necesita direcciones exactas."
+      },
+      "mensajePrincipal": {
+        "titulo": "El mapa de lugares que cuentan historias",
+        "contenido": "En una hoja, dibuja un mapa sencillo de tres lugares que recuerdes con cariño: puede ser una calle, un parque, una tienda, una cancha o un rincón de tu casa. Junto a cada lugar escribe qué pasó allí o qué sensación te devuelve. No necesitas compartir ubicaciones privadas ni datos precisos; basta con el recuerdo y su significado."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra nostalgia",
+        "contenido": "Emoción por el recuerdo de momentos o lugares significativos del pasado. La nostalgia puede convertir una esquina cualquiera en un lugar lleno de significado."
+      },
+      "buenasNoches": {
+        "contenido": "Hay sitios que siguen acompañándonos incluso cuando hace mucho no pasamos por ellos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Nostalgia",
+      "significado": "Emoción por el recuerdo de momentos o lugares significativos del pasado.",
+      "ejemplo": "La nostalgia puede convertir una esquina cualquiera en un lugar lleno de significado."
+    }
+  },
+  {
+    "dia": 235,
+    "fecha": "2027-06-07",
+    "fechaTexto": "lun, 7 de jun",
+    "categoria": "El debate de las decisiones imposibles",
+    "icono": "⚖️",
+    "tono": "juego de argumentos",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy tenemos un pequeño debate para defender ideas que quizá no son las nuestras.",
+    "poema": [
+      "Elijan una situación ligera: ¿es mejor tener siempre la respuesta o poder hacer siempre la pregunta correcta?, ¿vivir cerca de todo o en un lugar tranquilo?, ¿tener mucho tiempo libre o energía para aprovecharlo? Cada persona defiende una opción durante un minuto y luego debe defender la contraria durante otro minuto. No se trata de ganar, sino de construir argumentos.",
+      "Al final, digan qué argumento de la otra postura les pareció más convincente."
+    ],
+    "detalle": "Al final, digan qué argumento de la otra postura les pareció más convincente.",
+    "buenasNoches": "Escuchar una idea desde el otro lado puede ser más interesante que intentar tener la última palabra.",
+    "cancionTitulo": "Mil y una Vez",
+    "cancionArtista": "Métricas Frías; Doble Porción",
+    "youtubeId": "dwyeCQjNDcQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=dwyeCQjNDcQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy tenemos un pequeño debate para defender ideas que quizá no son las nuestras."
+      },
+      "mensajePrincipal": {
+        "titulo": "El debate de las decisiones imposibles",
+        "contenido": "Elijan una situación ligera: ¿es mejor tener siempre la respuesta o poder hacer siempre la pregunta correcta?, ¿vivir cerca de todo o en un lugar tranquilo?, ¿tener mucho tiempo libre o energía para aprovecharlo? Cada persona defiende una opción durante un minuto y luego debe defender la contraria durante otro minuto. No se trata de ganar, sino de construir argumentos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra perspectiva",
+        "contenido": "Manera particular de interpretar o comprender una situación. Cambiar de perspectiva no obliga a cambiar de opinión, pero sí puede ampliar lo que entendemos."
+      },
+      "buenasNoches": {
+        "contenido": "Escuchar una idea desde el otro lado puede ser más interesante que intentar tener la última palabra."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Perspectiva",
+      "significado": "Manera particular de interpretar o comprender una situación.",
+      "ejemplo": "Cambiar de perspectiva no obliga a cambiar de opinión, pero sí puede ampliar lo que entendemos."
+    }
+  },
+  {
+    "dia": 236,
+    "fecha": "2027-06-08",
+    "fechaTexto": "mar, 8 de jun",
+    "categoria": "El experimento de una hora sin algoritmo",
+    "icono": "📵",
+    "tono": "curiosidad digital",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a dejar que la curiosidad elija por una hora.",
+    "poema": [
+      "Durante una hora, evita recomendaciones automáticas de redes o plataformas. Escoge algo por una vía distinta: un libro al azar, una emisora, una página de un diccionario, una conversación, un álbum que nunca hayas escuchado o una ruta de lectura que no suela aparecerte. Anota qué descubriste y cómo llegaste hasta ahí.",
+      "Comparte el hallazgo más inesperado y la pequeña cadena de decisiones que te llevó a él."
+    ],
+    "detalle": "Comparte el hallazgo más inesperado y la pequeña cadena de decisiones que te llevó a él.",
+    "buenasNoches": "No todo descubrimiento necesita estar personalizado: a veces lo inesperado también nos encuentra.",
+    "cancionTitulo": "Antes del Meridiano",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "Y4pCA91F4Uw",
+    "cancionUrl": "https://www.youtube.com/watch?v=Y4pCA91F4Uw",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a dejar que la curiosidad elija por una hora."
+      },
+      "mensajePrincipal": {
+        "titulo": "El experimento de una hora sin algoritmo",
+        "contenido": "Durante una hora, evita recomendaciones automáticas de redes o plataformas. Escoge algo por una vía distinta: un libro al azar, una emisora, una página de un diccionario, una conversación, un álbum que nunca hayas escuchado o una ruta de lectura que no suela aparecerte. Anota qué descubriste y cómo llegaste hasta ahí."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra serendipia",
+        "contenido": "Hallazgo valioso o inesperado que ocurre por casualidad. La serendipia aparece cuando dejamos espacio para descubrir algo que no estábamos buscando."
+      },
+      "buenasNoches": {
+        "contenido": "No todo descubrimiento necesita estar personalizado: a veces lo inesperado también nos encuentra."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Serendipia",
+      "significado": "Hallazgo valioso o inesperado que ocurre por casualidad.",
+      "ejemplo": "La serendipia aparece cuando dejamos espacio para descubrir algo que no estábamos buscando."
+    }
+  },
+  {
+    "dia": 237,
+    "fecha": "2027-06-09",
+    "fechaTexto": "mié, 9 de jun",
+    "categoria": "La galería de gestos que alegran el día",
+    "icono": "🤝",
+    "tono": "empatía y expresión",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a reconocer esos gestos sencillos que mejoran un día sin hacer ruido.",
+    "poema": [
+      "Piensa en cinco gestos cotidianos que agradeces recibir: que te guarden un puesto, que recuerden algo que dijiste, que te avisen si van tarde, que te escuchen sin mirar el celular o que te compartan una canción. Escoge uno y conviértelo en una acción concreta para alguien esta semana, sin esperar nada a cambio.",
+      "Si te nace, cuéntale a esa persona por qué ese gesto te parece valioso; a veces decirlo también anima a repetirlo."
+    ],
+    "detalle": "Si te nace, cuéntale a esa persona por qué ese gesto te parece valioso; a veces decirlo también anima a repetirlo.",
+    "buenasNoches": "La consideración no tiene que ser espectacular: su fuerza está en hacerle espacio al otro.",
+    "cancionTitulo": "La Típica (2.018)",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "LqoVJPFAbf4",
+    "cancionUrl": "https://www.youtube.com/watch?v=LqoVJPFAbf4",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a reconocer esos gestos sencillos que mejoran un día sin hacer ruido."
+      },
+      "mensajePrincipal": {
+        "titulo": "La galería de gestos que alegran el día",
+        "contenido": "Piensa en cinco gestos cotidianos que agradeces recibir: que te guarden un puesto, que recuerden algo que dijiste, que te avisen si van tarde, que te escuchen sin mirar el celular o que te compartan una canción. Escoge uno y conviértelo en una acción concreta para alguien esta semana, sin esperar nada a cambio."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra  consideración",
+        "contenido": "Actitud de respeto y atención hacia los sentimientos o necesidades de otras personas. La consideración se nota en gestos pequeños que hacen más amable la convivencia."
+      },
+      "buenasNoches": {
+        "contenido": "La consideración no tiene que ser espectacular: su fuerza está en hacerle espacio al otro."
+      }
+    },
+    "palabraNueva": {
+      "palabra": " consideración",
+      "significado": "Actitud de respeto y atención hacia los sentimientos o necesidades de otras personas.",
+      "ejemplo": "La consideración se nota en gestos pequeños que hacen más amable la convivencia."
+    }
   }
 ];
