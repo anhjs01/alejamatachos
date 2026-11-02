@@ -5666,5 +5666,327 @@ const CALENDARIO = [
       "significado": "Camino que sigue un objeto al desplazarse.",
       "ejemplo": "Una trayectoria puede cambiar de dirección sin perder continuidad."
     }
+  },
+  {
+    "dia": 133,
+    "fecha": "2027-02-25",
+    "fechaTexto": "jue, 25 de feb",
+    "categoria": "La cafetería imaginaria",
+    "icono": "☕",
+    "tono": "coqueto ligero",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy abrimos una cafetería que no existe, pero que podría tener una carta bastante interesante.",
+    "poema": [
+      "Inventa una cafetería con nombre, especialidad y ambiente. Diseña tres bebidas sin alcohol: una cítrica, una cremosa y una con hierbas. Ponles nombres inspirados en lugares, colores o canciones. Después imagina qué rincón tendría: una ventana grande, una mesa junto a libros, una pared para dibujar o música suave. Si lo hacen juntos, cada uno crea una parte de la carta y luego eligen cuál probarían en la vida real.",
+      "En el lienzo de ALEJA® diseña el menú de esa cafetería. Incluye tres bebidas, sus ingredientes y una frase corta que invite a entrar."
+    ],
+    "detalle": "En el lienzo de ALEJA® diseña el menú de esa cafetería. Incluye tres bebidas, sus ingredientes y una frase corta que invite a entrar.",
+    "buenasNoches": "Puede que esa cafetería no exista todavía, pero la imaginación ya encontró mesa.",
+    "cancionTitulo": "Da Joint",
+    "cancionArtista": "EPMD",
+    "youtubeId": "Ze2A4g-sTT8",
+    "cancionUrl": "https://www.youtube.com/watch?v=Ze2A4g-sTT8",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy abrimos una cafetería que no existe, pero que podría tener una carta bastante interesante."
+      },
+      "mensajePrincipal": {
+        "titulo": "La cafetería imaginaria",
+        "contenido": "Inventa una cafetería con nombre, especialidad y ambiente. Diseña tres bebidas sin alcohol: una cítrica, una cremosa y una con hierbas. Ponles nombres inspirados en lugares, colores o canciones. Después imagina qué rincón tendría: una ventana grande, una mesa junto a libros, una pared para dibujar o música suave. Si lo hacen juntos, cada uno crea una parte de la carta y luego eligen cuál probarían en la vida real."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra matiz",
+        "contenido": "Diferencia pequeña que modifica el sentido, el tono o la apariencia. Un matiz en una conversación puede cambiar cómo se entiende una frase."
+      },
+      "buenasNoches": {
+        "contenido": "Puede que esa cafetería no exista todavía, pero la imaginación ya encontró mesa."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Matiz",
+      "significado": "Diferencia pequeña que modifica el sentido, el tono o la apariencia.",
+      "ejemplo": "Un matiz en una conversación puede cambiar cómo se entiende una frase."
+    }
+  },
+  {
+    "dia": 134,
+    "fecha": "2027-02-26",
+    "fechaTexto": "vie, 26 de feb",
+    "categoria": "El mapa de un lugar que todavía no conocemos",
+    "icono": "🗺️",
+    "tono": "plan a futuro",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a imaginar una salida sin decidir todavía fecha ni destino exacto.",
+    "poema": [
+      "Dibuja un mapa de una tarde ideal con tres paradas posibles: un mirador o cerro con una vista bonita, un sitio tranquilo para sentarse y conversar, y un lugar donde tomar algo o comer. Puede ser Monserrate u otro mirador, un parque amplio, una plazoleta o un rincón especial que cada persona quiera mostrar. No es una reserva ni una obligación: solo una idea para guardar y adaptar al clima, presupuesto, horarios y ganas de ambos.",
+      "Crea en el lienzo un mapa ilustrado con tres puntos, una ruta punteada y un nombre inventado para esa excursión."
+    ],
+    "detalle": "Crea en el lienzo un mapa ilustrado con tres puntos, una ruta punteada y un nombre inventado para esa excursión.",
+    "buenasNoches": "Algunos planes empiezan mucho antes de salir: empiezan cuando alguien comparte un lugar que le gusta.",
+    "cancionTitulo": "Chief Rocka",
+    "cancionArtista": "Lords Of The Underground",
+    "youtubeId": "YFbLRZCExBk",
+    "cancionUrl": "https://www.youtube.com/watch?v=YFbLRZCExBk",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a imaginar una salida sin decidir todavía fecha ni destino exacto."
+      },
+      "mensajePrincipal": {
+        "titulo": "El mapa de un lugar que todavía no conocemos",
+        "contenido": "Dibuja un mapa de una tarde ideal con tres paradas posibles: un mirador o cerro con una vista bonita, un sitio tranquilo para sentarse y conversar, y un lugar donde tomar algo o comer. Puede ser Monserrate u otro mirador, un parque amplio, una plazoleta o un rincón especial que cada persona quiera mostrar. No es una reserva ni una obligación: solo una idea para guardar y adaptar al clima, presupuesto, horarios y ganas de ambos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra itinerario",
+        "contenido": "Secuencia organizada de lugares o actividades durante un recorrido. Un itinerario flexible deja espacio para descubrir algo inesperado."
+      },
+      "buenasNoches": {
+        "contenido": "Algunos planes empiezan mucho antes de salir: empiezan cuando alguien comparte un lugar que le gusta."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Itinerario",
+      "significado": "Secuencia organizada de lugares o actividades durante un recorrido.",
+      "ejemplo": "Un itinerario flexible deja espacio para descubrir algo inesperado."
+    }
+  },
+  {
+    "dia": 135,
+    "fecha": "2027-02-27",
+    "fechaTexto": "sáb, 27 de feb",
+    "categoria": "La cata a ciegas de sabores cotidianos",
+    "icono": "🍊",
+    "tono": "juego sensorial",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy el reto consiste en adivinar con los sentidos, no con la vista.",
+    "poema": [
+      "Preparen tres bocados pequeños de alimentos seguros y conocidos, por ejemplo trozos de manzana, banano y galleta simple apta. Con los ojos abiertos pero sin mirar el plato, prueben uno a la vez y describan textura, aroma y sabor antes de adivinar. También pueden hacerlo con tres bebidas sin alcohol en vasos distintos. Comprueben ingredientes y contaminación cruzada: nada de maní ni productos con trazas dudosas. No usen alimentos desconocidos ni obliguen a probar nada.",
+      "Diseña una tarjeta de cata en el lienzo con tres columnas: aroma, textura y sabor. Añade una escala de 1 a 5."
+    ],
+    "detalle": "Diseña una tarjeta de cata en el lienzo con tres columnas: aroma, textura y sabor. Añade una escala de 1 a 5.",
+    "buenasNoches": "A veces prestar atención a algo conocido lo convierte en una experiencia nueva.",
+    "cancionTitulo": "Bucktown",
+    "cancionArtista": "Smif-N-Wessun",
+    "youtubeId": "CwQSq5iZdpQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=CwQSq5iZdpQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy el reto consiste en adivinar con los sentidos, no con la vista."
+      },
+      "mensajePrincipal": {
+        "titulo": "La cata a ciegas de sabores cotidianos",
+        "contenido": "Preparen tres bocados pequeños de alimentos seguros y conocidos, por ejemplo trozos de manzana, banano y galleta simple apta. Con los ojos abiertos pero sin mirar el plato, prueben uno a la vez y describan textura, aroma y sabor antes de adivinar. También pueden hacerlo con tres bebidas sin alcohol en vasos distintos. Comprueben ingredientes y contaminación cruzada: nada de maní ni productos con trazas dudosas. No usen alimentos desconocidos ni obliguen a probar nada."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sensorial",
+        "contenido": "Relacionado con los sentidos y la percepción. El aroma y la textura también influyen en cómo percibimos un alimento."
+      },
+      "buenasNoches": {
+        "contenido": "A veces prestar atención a algo conocido lo convierte en una experiencia nueva."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sensorial",
+      "significado": "Relacionado con los sentidos y la percepción.",
+      "ejemplo": "El aroma y la textura también influyen en cómo percibimos un alimento."
+    }
+  },
+  {
+    "dia": 136,
+    "fecha": "2027-02-28",
+    "fechaTexto": "dom, 28 de feb",
+    "categoria": "El retrato de un buen momento",
+    "icono": "🎨",
+    "tono": "creativo íntimo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "No hace falta dibujar perfecto para guardar un momento de una manera distinta.",
+    "poema": [
+      "Piensa en algo agradable que haya pasado hoy: una conversación, una comida, una canción, una caminata o incluso un rato de descanso. Retrátalo con tres formas, dos colores y un objeto simbólico. No dibujes necesariamente a las personas; puedes representar la sensación con una ventana, una taza, una nube, una calle o cualquier detalle. Si participan dos, cada uno dibuja el mismo recuerdo desde su propio punto de vista.",
+      "Abre el lienzo de ALEJA® y crea el retrato. Si quieres, añade un título que no revele inmediatamente qué momento representa."
+    ],
+    "detalle": "Abre el lienzo de ALEJA® y crea el retrato. Si quieres, añade un título que no revele inmediatamente qué momento representa.",
+    "buenasNoches": "Hay recuerdos que se entienden mejor cuando cada quien los mira desde su propio encuadre.",
+    "cancionTitulo": "Leflaur Leflah Eshkoshka",
+    "cancionArtista": "Heltah Skeltah",
+    "youtubeId": "KxkkWLi3yuI",
+    "cancionUrl": "https://www.youtube.com/watch?v=KxkkWLi3yuI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "No hace falta dibujar perfecto para guardar un momento de una manera distinta."
+      },
+      "mensajePrincipal": {
+        "titulo": "El retrato de un buen momento",
+        "contenido": "Piensa en algo agradable que haya pasado hoy: una conversación, una comida, una canción, una caminata o incluso un rato de descanso. Retrátalo con tres formas, dos colores y un objeto simbólico. No dibujes necesariamente a las personas; puedes representar la sensación con una ventana, una taza, una nube, una calle o cualquier detalle. Si participan dos, cada uno dibuja el mismo recuerdo desde su propio punto de vista."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra encuadre",
+        "contenido": "Forma de delimitar lo que aparece dentro de una imagen o escena. Un encuadre puede destacar un detalle y dejar otros fuera."
+      },
+      "buenasNoches": {
+        "contenido": "Hay recuerdos que se entienden mejor cuando cada quien los mira desde su propio encuadre."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Encuadre",
+      "significado": "Forma de delimitar lo que aparece dentro de una imagen o escena.",
+      "ejemplo": "Un encuadre puede destacar un detalle y dejar otros fuera."
+    }
+  },
+  {
+    "dia": 137,
+    "fecha": "2027-03-01",
+    "fechaTexto": "lun, 1 de mar",
+    "categoria": "El interrogatorio de película",
+    "icono": "🎥",
+    "tono": "juego conversación",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca jugar a descubrir lo que una escena no está diciendo literalmente.",
+    "poema": [
+      "Elijan una película o serie que ambos conozcan. Uno describe una escena sin mencionar nombres ni contar el final; el otro intenta adivinarla haciendo solo preguntas que se respondan con sí o no. Cuando la descubra, expliquen qué detalle dio la pista más clara. Ronda extra: describan una escena como si fuera de otro género, por ejemplo una comedia convertida en thriller. Eviten spoilers si alguno no la ha visto.",
+      "Diseña en el lienzo un fotograma inventado de la escena con una frase que sugiera el subtexto sin explicarlo."
+    ],
+    "detalle": "Diseña en el lienzo un fotograma inventado de la escena con una frase que sugiera el subtexto sin explicarlo.",
+    "buenasNoches": "A veces lo más interesante de una escena es justamente lo que sus personajes no dicen.",
+    "cancionTitulo": "Wrong Side of da Tracks",
+    "cancionArtista": "Artifacts",
+    "youtubeId": "jRZFWhRQFzQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=jRZFWhRQFzQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca jugar a descubrir lo que una escena no está diciendo literalmente."
+      },
+      "mensajePrincipal": {
+        "titulo": "El interrogatorio de película",
+        "contenido": "Elijan una película o serie que ambos conozcan. Uno describe una escena sin mencionar nombres ni contar el final; el otro intenta adivinarla haciendo solo preguntas que se respondan con sí o no. Cuando la descubra, expliquen qué detalle dio la pista más clara. Ronda extra: describan una escena como si fuera de otro género, por ejemplo una comedia convertida en thriller. Eviten spoilers si alguno no la ha visto."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra subtexto",
+        "contenido": "Significado implícito que se percibe más allá de las palabras literales. En una película, el subtexto puede revelar lo que un personaje no dice directamente."
+      },
+      "buenasNoches": {
+        "contenido": "A veces lo más interesante de una escena es justamente lo que sus personajes no dicen."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Subtexto",
+      "significado": "Significado implícito que se percibe más allá de las palabras literales.",
+      "ejemplo": "En una película, el subtexto puede revelar lo que un personaje no dice directamente."
+    }
+  },
+  {
+    "dia": 138,
+    "fecha": "2027-03-02",
+    "fechaTexto": "mar, 2 de mar",
+    "categoria": "Una frase que se queda dando vueltas",
+    "icono": "💭",
+    "tono": "poético",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a escribir algo breve, pero con espacio para que cada quien encuentre su propio significado.",
+    "poema": [
+      "Completa estas tres líneas: «Hay lugares que…», «Hay personas que…», «Y hay momentos que…». No tienen que ser románticas ni dedicadas a nadie. Después une las respuestas en un texto de seis a ocho líneas, cambiando el orden hasta que suene natural. Si lo comparten, quien lo lea puede decir qué imagen le dejó, sin intentar adivinar a quién va dirigido.",
+      "Compón el texto en el lienzo como un cartel tipográfico. Juega con tamaños, espacios y una sola palabra destacada."
+    ],
+    "detalle": "Compón el texto en el lienzo como un cartel tipográfico. Juega con tamaños, espacios y una sola palabra destacada.",
+    "buenasNoches": "Ojalá alguna frase de hoy te acompañe un rato más, sin necesidad de explicarse.",
+    "cancionTitulo": "No Copio",
+    "cancionArtista": "Crudo Means Raw",
+    "youtubeId": "OV4hbqYxRh0",
+    "cancionUrl": "https://www.youtube.com/watch?v=OV4hbqYxRh0",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a escribir algo breve, pero con espacio para que cada quien encuentre su propio significado."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una frase que se queda dando vueltas",
+        "contenido": "Completa estas tres líneas: «Hay lugares que…», «Hay personas que…», «Y hay momentos que…». No tienen que ser románticas ni dedicadas a nadie. Después une las respuestas en un texto de seis a ocho líneas, cambiando el orden hasta que suene natural. Si lo comparten, quien lo lea puede decir qué imagen le dejó, sin intentar adivinar a quién va dirigido."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra resonancia",
+        "contenido": "Efecto o impresión que algo deja y que continúa después de haber ocurrido. Una frase tiene resonancia cuando sigue acompañando el pensamiento."
+      },
+      "buenasNoches": {
+        "contenido": "Ojalá alguna frase de hoy te acompañe un rato más, sin necesidad de explicarse."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Resonancia",
+      "significado": "Efecto o impresión que algo deja y que continúa después de haber ocurrido.",
+      "ejemplo": "Una frase tiene resonancia cuando sigue acompañando el pensamiento."
+    }
+  },
+  {
+    "dia": 139,
+    "fecha": "2027-03-03",
+    "fechaTexto": "mié, 3 de mar",
+    "categoria": "El desafío de siete niveles",
+    "icono": "🧩",
+    "tono": "interactivo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy tenemos un reto por etapas dentro de ALEJA®.",
+    "poema": [
+      "Entra al rompecabezas de la página y completa hasta siete niveles, ajustando la dificultad para que siga siendo entretenido. Si el juego no ofrece siete niveles en una sola sesión, completa los que estén disponibles y continúa en otra partida; no hace falta forzar la actividad. Al terminar cada nivel, observa qué estrategia te funcionó mejor: bordes primero, colores, zonas reconocibles o separar piezas parecidas.",
+      "En el lienzo, crea una insignia para cada nivel superado. Al final tendrás una pequeña colección de siete sellos, o los que hayas conseguido."
+    ],
+    "detalle": "En el lienzo, crea una insignia para cada nivel superado. Al final tendrás una pequeña colección de siete sellos, o los que hayas conseguido.",
+    "buenasNoches": "No todos los avances se notan de golpe. A veces se construyen pieza por pieza.",
+    "cancionTitulo": "Es Épico",
+    "cancionArtista": "Canserbero",
+    "youtubeId": "bB8MTYLR1_w",
+    "cancionUrl": "https://www.youtube.com/watch?v=bB8MTYLR1_w",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy tenemos un reto por etapas dentro de ALEJA®."
+      },
+      "mensajePrincipal": {
+        "titulo": "El desafío de siete niveles",
+        "contenido": "Entra al rompecabezas de la página y completa hasta siete niveles, ajustando la dificultad para que siga siendo entretenido. Si el juego no ofrece siete niveles en una sola sesión, completa los que estén disponibles y continúa en otra partida; no hace falta forzar la actividad. Al terminar cada nivel, observa qué estrategia te funcionó mejor: bordes primero, colores, zonas reconocibles o separar piezas parecidas."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra persistencia",
+        "contenido": "Capacidad de continuar intentando algo a pesar de las dificultades. La persistencia ayuda a mejorar cuando un reto exige varios intentos."
+      },
+      "buenasNoches": {
+        "contenido": "No todos los avances se notan de golpe. A veces se construyen pieza por pieza."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Persistencia",
+      "significado": "Capacidad de continuar intentando algo a pesar de las dificultades.",
+      "ejemplo": "La persistencia ayuda a mejorar cuando un reto exige varios intentos."
+    }
   }
 ];
