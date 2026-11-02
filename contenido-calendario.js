@@ -2559,7 +2559,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy no se trata de acertar por obligación, sino de descubrir qué detalles se han quedado en la memoria.",
     "poema": [
       "Cada uno escribe diez preguntas sobre sí mismo en papel, sin mostrárselas al otro. Pueden ser detalles cotidianos: bebida favorita, canción que repetiría, lugar que le gustaría visitar, comida que elegiría hoy, color que le recuerda una tarde especial, o una pequeña manía. Intercambien las hojas y respondan lo que creen que contestaría la otra persona. Luego comparen respuestas y conversen sobre las sorpresas. Por cada coincidencia suman un punto, pero también vale explicar por qué eligieron una respuesta distinta. En la segunda ronda, inventen juntos cinco preguntas nuevas que todavía no sepan responder del otro. No conviertan el juego en examen: se vale no recordar y se vale cambiar de opinión. ¿Qué respuesta mía te gustaría conocer mejor?",
-      "Resonancia: impresión que permanece después de una experiencia. Algunas respuestas pueden sorprendernos incluso cuando creemos conocernos bastante."
+      "Perspicacia: Capacidad para comprender algo con rapidez y captar detalles que no son evidentes. La perspicacia ayuda a descubrir qué respuesta se esconde detrás de una pequeña pista."
     ],
     "detalle": "Cada uno escribe diez preguntas sobre sí mismo en papel, sin mostrárselas al otro. Pueden ser detalles cotidianos: bebida favorita, canción que repetiría, lugar que le gustaría visitar, comida que elegiría hoy, color que le recuerda una tarde especial, o una pequeña manía. Intercambien las hojas y respondan lo que creen que contestaría la otra persona. Luego comparen respuestas y conversen sobre las sorpresas. Por cada coincidencia suman un punto, pero también vale explicar por qué eligieron una respuesta distinta. En la segunda ronda, inventen juntos cinco preguntas nuevas que todavía no sepan responder del otro. No conviertan el juego en examen: se vale no recordar y se vale cambiar de opinión. ¿Qué respuesta mía te gustaría conocer mejor?",
     "buenasNoches": "Me gusta que conocer a alguien no sea memorizar una lista, sino seguir descubriendo cosas nuevas. Ojalá nunca nos falten preguntas.",
@@ -2578,7 +2578,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "Una palabra que permanece",
-        "contenido": "Resonancia: impresión que permanece después de una experiencia. Algunas respuestas pueden sorprendernos incluso cuando creemos conocernos bastante."
+        "contenido": "Perspicacia: Capacidad para comprender algo con rapidez y captar detalles que no son evidentes. La perspicacia ayuda a descubrir qué respuesta se esconde detrás de una pequeña pista."
       },
       "buenasNoches": {
         "titulo": "Más que acertar",
@@ -2586,9 +2586,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Resonancia",
-      "significado": "Efecto o impresión que algo deja y continúa sintiéndose después.",
-      "ejemplo": "Una conversación puede tener resonancia mucho después de terminar."
+      "palabra": "Perspicacia",
+      "significado": "Capacidad para comprender algo con rapidez y captar detalles que no son evidentes.",
+      "ejemplo": "La perspicacia ayuda a descubrir qué respuesta se esconde detrás de una pequeña pista."
     },
     "inspiracionCancion": "Una canción elegida para acompañar el tono de el desafío de recordar al otro y darle su propio ambiente."
   },
@@ -2655,7 +2655,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy damos otro paso: salir con una misión sencilla y dejar que el recorrido nos sorprenda.",
     "poema": [
       "Elijan una zona pública, segura y fácil de recorrer que todavía no hayan explorado juntos. Antes de salir, acuerden cuánto tiempo tienen, presupuesto, transporte y un punto de regreso. La misión consiste en encontrar cinco cosas: una fachada que merezca una foto, una bebida o sabor que nunca hayan probado, un rincón tranquilo para sentarse, un objeto curioso en una vitrina y un lugar al que les gustaría volver. Cada uno elige dos descubrimientos y el quinto lo deciden juntos. No hace falta comprar nada: pueden observar, fotografiar y anotar. Revisen horarios y clima antes de salir, y cambien la ruta si el lugar está cerrado o no se siente cómodo. Al final, elijan la foto que mejor represente la salida y pónganle un título. ¿Qué tipo de rincón te gustaría que descubriéramos primero?",
-      "Derrotero: rumbo o dirección de un recorrido. No siempre importa llegar rápido; a veces lo interesante aparece en el trayecto."
+      "Travesía: Viaje o recorrido que implica pasar por distintos lugares o etapas. Cada salida puede convertirse en una pequeña travesía, incluso sin ir demasiado lejos."
     ],
     "detalle": "Elijan una zona pública, segura y fácil de recorrer que todavía no hayan explorado juntos. Antes de salir, acuerden cuánto tiempo tienen, presupuesto, transporte y un punto de regreso. La misión consiste en encontrar cinco cosas: una fachada que merezca una foto, una bebida o sabor que nunca hayan probado, un rincón tranquilo para sentarse, un objeto curioso en una vitrina y un lugar al que les gustaría volver. Cada uno elige dos descubrimientos y el quinto lo deciden juntos. No hace falta comprar nada: pueden observar, fotografiar y anotar. Revisen horarios y clima antes de salir, y cambien la ruta si el lugar está cerrado o no se siente cómodo. Al final, elijan la foto que mejor represente la salida y pónganle un título. ¿Qué tipo de rincón te gustaría que descubriéramos primero?",
     "buenasNoches": "Me gusta la idea de tener pequeñas coordenadas compartidas: una esquina, una foto, una conversación y la posibilidad de volver algún día.",
@@ -2674,7 +2674,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra del camino",
-        "contenido": "Derrotero: rumbo o dirección de un recorrido. No siempre importa llegar rápido; a veces lo interesante aparece en el trayecto."
+        "contenido": "Travesía: Viaje o recorrido que implica pasar por distintos lugares o etapas. Cada salida puede convertirse en una pequeña travesía, incluso sin ir demasiado lejos."
       },
       "buenasNoches": {
         "titulo": "Un lugar nuevo en la memoria",
@@ -2682,9 +2682,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Derrotero",
-      "significado": "Dirección o rumbo que se sigue para llegar a un destino.",
-      "ejemplo": "Podemos elegir un derrotero y permitirnos cambiarlo si aparece algo interesante."
+      "palabra": "Travesía",
+      "significado": "Viaje o recorrido que implica pasar por distintos lugares o etapas.",
+      "ejemplo": "Cada salida puede convertirse en una pequeña travesía, incluso sin ir demasiado lejos."
     },
     "inspiracionCancion": "Una canción elegida para acompañar el tono de una ruta de descubrimientos por la ciudad y darle su propio ambiente."
   },
