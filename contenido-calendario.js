@@ -4872,8 +4872,8 @@ const CALENDARIO = [
         "titulo": "Una pregunta sobre lo que tardan en descubrir"
       },
       "palabraNueva": {
-        "contenido": "CONTRASTE: diferencia marcada entre dos elementos que permite distinguirlos. En una conversación, el contraste entre dos ideas puede revelar un matiz nuevo.",
-        "titulo": "La palabra contraste"
+        "contenido": "FRANQUEZA: cualidad de expresarse con sinceridad y claridad, sin ocultar lo que se piensa. Una conversación con franqueza puede ser directa y respetuosa al mismo tiempo.",
+        "titulo": "La palabra franqueza"
       },
       "buenasNoches": {
         "contenido": "No tienes que mostrar todas tus capas en una sola conversación. Lo valioso es encontrar espacios donde puedas compartirlas a tu propio ritmo.",
@@ -7078,8 +7078,8 @@ const CALENDARIO = [
         "contenido": "MERIENDA PARA DOS · 10–15 MINUTOS · SIN HORNO\n\nIngredientes: yogur natural espeso, unas gotas de limón, una pizca de sal, hierbas secas conocidas y verduras lavadas que puedan comerse crudas, como zanahoria y pepino. También pueden usar galletas saladas sencillas si tienen una opción adecuada.\n\nPreparación:\n1. Mezcla el yogur con limón, sal y una pequeña cantidad de hierbas.\n2. Lava y corta la zanahoria y el pepino en bastones.\n3. Sirve el dip en un recipiente pequeño y organiza los bastones alrededor.\n4. Prueba y ajusta el limón o las hierbas.\n\nPara una pausa en la oficina, lleva el dip refrigerado en un recipiente cerrado y las verduras lavadas en otro. No lo dejes varias horas a temperatura ambiente."
       },
       "palabraNueva": {
-        "titulo": "La palabra contraste",
-        "contenido": "Diferencia notable entre dos o más elementos que ayuda a distinguirlos. El contraste de texturas hace más interesante una preparación sencilla."
+        "titulo": "La palabra untable",
+        "contenido": "UNTABLE: preparación de textura suave que puede extenderse sobre pan, galletas o verduras. Un dip de yogur es un ejemplo de mezcla untable."
       },
       "buenasNoches": {
         "contenido": "Que algo sea sencillo no significa que no pueda quedar bonito. Guarda la receta y recuerda que una pausa pequeña también merece cuidado.",
@@ -8065,8 +8065,8 @@ const CALENDARIO = [
         "contenido": "Inventen una escena breve: alguien entra a una habitación y encuentra una sorpresa, se pierde en un lugar conocido o recibe una noticia inesperada. Cada persona elige una canción que cambiaría por completo el ambiente de esa escena: una la vuelve épica y la otra ridícula, misteriosa o tranquila. Expliquen por qué la escogieron y cuál versión verían hasta el final.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una escena, dos canciones y dos versiones del ambiente; gana la que mejor transforme la historia."
       },
       "palabraNueva": {
-        "titulo": "La palabra sincronía",
-        "contenido": "SINCRONÍA: coincidencia de dos o más elementos en el tiempo o el ritmo. Una escena puede cambiar cuando la música entra en sincronía con sus movimientos."
+        "titulo": "La palabra compás",
+        "contenido": "COMPÁS: unidad rítmica que organiza los tiempos de una pieza musical. Cambiar el compás o el ritmo puede transformar la emoción de una escena."
       },
       "buenasNoches": {
         "contenido": "A veces la música no cambia lo que pasó, pero sí cambia por completo cómo lo sentimos.",
@@ -16536,8 +16536,8 @@ const CALENDARIO = [
         "contenido": "Escribe cinco momentos recientes que te hayan dejado algo bueno: una conversación, una idea, una tarde tranquila, una canción o algo que te atreviste a probar. Anota qué los hizo especiales y qué parte de ti apareció allí.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Cinco momentos y una razón concreta para conservar cada uno."
       },
       "palabraNueva": {
-        "titulo": "La palabra retrospectiva",
-        "contenido": "RETROSPECTIVA\n\nMirada o revisión de hechos y experiencias del pasado.\n\nEjemplo: «Una frase propia con retrospectiva.»"
+        "titulo": "La palabra recapitulación",
+        "contenido": "RECAPITULACIÓN: resumen ordenado de los puntos o momentos más importantes de algo. Una recapitulación ayuda a reconocer qué merece conservarse."
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
@@ -16912,8 +16912,8 @@ const CALENDARIO = [
         "contenido": "Escriban tres indirectas: una sutil, una descaradamente divertida y una que parezca una observación inocente hasta que se piensa dos veces. La otra persona las clasifica y explica cuál le pareció más ingeniosa. El juego debe ser cómodo para ambos; si una frase no cae bien, se cambia.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres indirectas por persona; si una no resulta cómoda, se cambia sin insistir."
       },
       "palabraNueva": {
-        "titulo": "La palabra subtexto",
-        "contenido": "SUBTEXTO: significado que se sugiere sin expresarse de manera directa. Una indirecta elegante funciona cuando el subtexto se entiende sin convertirse en presión."
+        "titulo": "La palabra doble sentido",
+        "contenido": "DOBLE SENTIDO: expresión que puede entenderse de dos maneras, una literal y otra sugerida. El doble sentido puede dar humor a una indirecta, siempre que resulte cómodo para quien la recibe."
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
