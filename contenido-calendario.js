@@ -16691,7 +16691,7 @@ const CALENDARIO = [
     "dia": 354,
     "fecha": "2027-10-04",
     "fechaTexto": "lun, 4 de oct",
-    "categoria": "El torneo de técnicas malditas inventadas",
+    "categoria": "El torneo de artefactos mágicos",
     "icono": "⚡",
     "tono": "fandom y humor",
     "color": {
@@ -16705,10 +16705,10 @@ const CALENDARIO = [
     ],
     "detalle": "Inventen una técnica maldita inspirada en Jujutsu Kaisen. Debe tener nombre, efecto, alcance y una limitación. Después creen una expansión de dominio con una regla inesperada. La otra persona propone una situación y ustedes explican cómo funcionaría sin volverla invencible. Actividad original de fans, sin spoilers.",
     "buenasNoches": "La condición de la técnica la obligaba a elegir el momento exacto.",
-    "cancionTitulo": "Passin' Me By",
-    "cancionArtista": "The Pharcyde",
-    "youtubeId": "a-mAK3uB2_0",
-    "cancionUrl": "https://www.youtube.com/watch?v=a-mAK3uB2_0",
+    "cancionTitulo": "Hedwig's Theme",
+    "cancionArtista": "John Williams",
+    "youtubeId": "wtHra9tFISY",
+    "cancionUrl": "https://www.youtube.com/watch?v=wtHra9tFISY",
     "palabraNueva": {
       "palabra": "Condición",
       "significado": "Circunstancia o requisito que limita, determina o hace posible algo.",
@@ -16717,11 +16717,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "La escuela de hechicería abre una competición: hoy gana la técnica más ingeniosa, no la más destructiva."
+        "contenido": "Hoy vamos a inventar artefactos mágicos para problemas cotidianos. La gracia no es hacerlos invencibles: cada objeto necesita una función clara y una limitación que lo vuelva interesante."
       },
       "mensajePrincipal": {
-        "titulo": "El torneo de técnicas malditas inventadas",
-        "contenido": "Inventen una técnica maldita inspirada en Jujutsu Kaisen. Debe tener nombre, efecto, alcance y una limitación. Después creen una expansión de dominio con una regla inesperada. La otra persona propone una situación y ustedes explican cómo funcionaría sin volverla invencible. Actividad original de fans, sin spoilers.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Nombre, efecto, alcance, limitación y una situación de prueba; actividad original de fans, sin spoilers."
+        "titulo": "El torneo de artefactos mágicos",
+        "contenido": "RETO DE FANTASÍA · 20–25 MINUTOS · SIN SPOILERS\n\nImaginen una competencia amistosa en la que cada participante debe crear un artefacto mágico útil para una situación cotidiana. No hace falta usar personajes ni revelar partes de ninguna película o libro.\n\nDiseña tres objetos:\n1. UNO PARA RESOLVER UN PROBLEMA PEQUEÑO: encontrar algo perdido, ordenar una habitación o recordar una tarea.\n2. UNO PARA PROTEGER: cuidar un recuerdo, guardar un secreto propio o mantener a salvo un objeto importante.\n3. UNO PARA SORPRENDER: provocar una ilusión amable, cambiar el color de una luz o crear un sonido inesperado.\n\nPara cada artefacto define su nombre, cómo funciona, cuánto dura su efecto y cuál es su limitación. Después elijan cuál merece ganar el torneo y expliquen por qué."
       },
       "palabraNueva": {
         "titulo": "La palabra condición",
@@ -16729,10 +16729,10 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Cierre de hoy",
-        "contenido": "La condición de la técnica la obligaba a elegir el momento exacto."
+        "contenido": "Que las ideas mágicas se queden un rato más, aunque solo existan en papel. A veces una limitación bien pensada hace que una creación sea mucho más interesante."
       }
     },
-    "inspiracionCancion": "La canción acompaña el tono de este día: hip-hop clásico, ingenio y complicidad, sin reproducir su letra."
+    "inspiracionCancion": "Una melodía instrumental de misterio y asombro para acompañar la invención de artefactos mágicos."
   },
   {
     "dia": 355,
