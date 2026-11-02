@@ -436,33 +436,32 @@ const CALENDARIO = [
     "dia": 10,
     "fecha": "2026-10-25",
     "fechaTexto": "dom, 25 de oct",
-    "categoria": "Una noche de camping pendiente",
+    "categoria": "Una noche de cielo inventado",
     "icono": "⛺",
-    "tono": "aventura",
+    "tono": "creatividad y calma",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Tengo una idea para un futuro fin de semana: irnos de camping. No tiene que ser mañana ni en un lugar improvisado; cuando tengamos fecha, buscamos un sitio habilitado, revisamos el clima y escogemos una opción segura.",
+    "buenosDias": "Hoy podemos cambiar de escenario sin salir de casa. Solo necesitamos imaginación, una manta y un poco de curiosidad.",
     "poema": [
-      "La idea: llegar con luz, montar la carpa juntos, preparar una cena sencilla, llevar una manta extra y quedarnos un rato mirando el cielo. Lista inicial: carpa impermeable, aislantes o colchonetas, sacos de dormir adecuados al clima, linterna, batería externa, agua, botiquín, bolsas para residuos y comida fácil de preparar. Antes de reservar, confirmamos que el lugar permita fogatas (si no, no hacemos ninguna), que tenga baños o acceso seguro y que haya transporte de regreso. Si el clima no acompaña, cambiamos la fecha; la aventura no necesita hacerse a la fuerza.",
-      "Vivac. Hoy la usamos como inspiración, aunque nuestro plan puede ser en un camping establecido con todas las facilidades que necesitemos."
+      "Preparen un rincón cómodo con una manta, apaguen algunas luces y creen su propio cielo nocturno. Cada uno inventa tres constelaciones a partir de formas que vea en el techo o en dibujos: pónganles nombre, inventen qué historia cuentan y qué deseo escondería cada una. Si quieren, acompañen el momento con una bebida y una lista de canciones tranquilas. No hace falta que quede perfecto: la misión es construir un pequeño universo compartido."
     ],
-    "detalle": "La idea: llegar con luz, montar la carpa juntos, preparar una cena sencilla, llevar una manta extra y quedarnos un rato mirando el cielo. Lista inicial: carpa impermeable, aislantes o colchonetas, sacos de dormir adecuados al clima, linterna, batería externa, agua, botiquín, bolsas para residuos y comida fácil de preparar. Antes de reservar, confirmamos que el lugar permita fogatas (si no, no hacemos ninguna), que tenga baños o acceso seguro y que haya transporte de regreso. Si el clima no acompaña, cambiamos la fecha; la aventura no necesita hacerse a la fuerza.",
-    "buenasNoches": "Imagínate una noche sin notificaciones, con una bebida caliente y el sonido de los árboles. No tenemos que resolver hoy dónde será; basta con dejar la idea guardada para cuando llegue el fin de semana indicado.",
+    "detalle": "Preparen un rincón cómodo con una manta, apaguen algunas luces y creen su propio cielo nocturno. Cada uno inventa tres constelaciones a partir de formas que vea en el techo o en dibujos: pónganles nombre, inventen qué historia cuentan y qué deseo escondería cada una. Si quieren, acompañen el momento con una bebida y una lista de canciones tranquilas. No hace falta que quede perfecto: la misión es construir un pequeño universo compartido.",
+    "buenasNoches": "Que esta noche tenga espacio para descansar y para imaginar sin ninguna prisa.",
     "cancionTitulo": "February 3rd",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "DI5fYHCk318",
     "cancionUrl": "https://www.youtube.com/watch?v=DI5fYHCk318",
     "cartas": {
       "buenosDias": {
-        "titulo": "Buenos días, aventureros",
-        "contenido": "Tengo una idea para un futuro fin de semana: irnos de camping. No tiene que ser mañana ni en un lugar improvisado; cuando tengamos fecha, buscamos un sitio habilitado, revisamos el clima y escogemos una opción segura."
+        "titulo": "Buenos días",
+        "contenido": "Hoy podemos cambiar de escenario sin salir de casa. Solo necesitamos imaginación, una manta y un poco de curiosidad."
       },
       "mensajePrincipal": {
-        "titulo": "Plan para una noche bajo las estrellas",
-        "contenido": "La idea: llegar con luz, montar la carpa juntos, preparar una cena sencilla, llevar una manta extra y quedarnos un rato mirando el cielo. Lista inicial: carpa impermeable, aislantes o colchonetas, sacos de dormir adecuados al clima, linterna, batería externa, agua, botiquín, bolsas para residuos y comida fácil de preparar. Antes de reservar, confirmamos que el lugar permita fogatas (si no, no hacemos ninguna), que tenga baños o acceso seguro y que haya transporte de regreso. Si el clima no acompaña, cambiamos la fecha; la aventura no necesita hacerse a la fuerza."
+        "titulo": "Una noche de cielo inventado",
+        "contenido": "Preparen un rincón cómodo con una manta, apaguen algunas luces y creen su propio cielo nocturno. Cada uno inventa tres constelaciones a partir de formas que vea en el techo o en dibujos: pónganles nombre, inventen qué historia cuentan y qué deseo escondería cada una. Si quieren, acompañen el momento con una bebida y una lista de canciones tranquilas. No hace falta que quede perfecto: la misión es construir un pequeño universo compartido."
       },
       "palabraNueva": {
         "titulo": "Palabra de aventura",
@@ -470,7 +469,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Imagínate una noche sin notificaciones, con una bebida caliente y el sonido de los árboles. No tenemos que resolver hoy dónde será; basta con dejar la idea guardada para cuando llegue el fin de semana indicado."
+        "contenido": "Que esta noche tenga espacio para descansar y para imaginar sin ninguna prisa."
       }
     },
     "palabraNueva": {
@@ -580,33 +579,32 @@ const CALENDARIO = [
     "dia": 13,
     "fecha": "2026-10-28",
     "fechaTexto": "mié, 28 de oct",
-    "categoria": "Una escapada de clima cálido",
+    "categoria": "Una cafetería de clima cálido, pero en casa",
     "icono": "🌅",
-    "tono": "aventura",
+    "tono": "cocina y complicidad",
     "color": {
       "principal": "#d68caa",
       "suave": "#f6dce6",
       "oscuro": "#2b1220"
     },
-    "buenosDias": "Para una semana de descanso o una escapada futura, quiero proponerte otro tipo de destino: un lugar de clima cálido, con una piscina bonita, un paisaje abierto y espacio para descansar. No elijo un alojamiento específico todavía; primero definimos qué ambiente nos gustaría.",
+    "buenosDias": "Hoy vamos a traer un poquito de clima cálido a un plan sencillo, sin desplazamientos ni reservas.",
     "poema": [
-      "Imaginemos tres versiones: una casa pequeña con piscina privada; un alojamiento rodeado de naturaleza; o un lugar cerca del agua donde podamos alternar paseos y descanso. Cuando llegue la fecha, comparamos presupuesto, transporte, disponibilidad real, opiniones recientes y reglas del alojamiento. La idea es que el plan se adapte a nuestros días libres, no al revés. Cada uno puede escoger una cosa imprescindible y una sorpresa para el otro.",
-      "Horizonte. A veces basta con saber qué tipo de paisaje queremos encontrar para empezar a imaginar el viaje."
+      "Preparen una bebida fría con agua, limón, naranja, hierbabuena y hielo. Añadan fruta cortada y armen una pequeña mesa como si fuera una cafetería junto al mar. Cada persona inventa el nombre de la bebida y diseña una tarjeta para el menú. Si quieren, elijan música que recuerde a un lugar cálido y creen una lista de tres destinos que les gustaría conocer algún día, sin poner fechas ni compromisos. Revisen siempre las etiquetas de los alimentos para descartar maní y trazas relevantes, y eviten la contaminación cruzada."
     ],
-    "detalle": "Imaginemos tres versiones: una casa pequeña con piscina privada; un alojamiento rodeado de naturaleza; o un lugar cerca del agua donde podamos alternar paseos y descanso. Cuando llegue la fecha, comparamos presupuesto, transporte, disponibilidad real, opiniones recientes y reglas del alojamiento. La idea es que el plan se adapte a nuestros días libres, no al revés. Cada uno puede escoger una cosa imprescindible y una sorpresa para el otro.",
-    "buenasNoches": "Que hoy descanses pensando en un lugar donde el tiempo vaya más despacio. Ya encontraremos el sitio cuando tengamos los días y las ganas; por ahora, queda abierta la posibilidad.",
+    "detalle": "Preparen una bebida fría con agua, limón, naranja, hierbabuena y hielo. Añadan fruta cortada y armen una pequeña mesa como si fuera una cafetería junto al mar. Cada persona inventa el nombre de la bebida y diseña una tarjeta para el menú. Si quieren, elijan música que recuerde a un lugar cálido y creen una lista de tres destinos que les gustaría conocer algún día, sin poner fechas ni compromisos. Revisen siempre las etiquetas de los alimentos para descartar maní y trazas relevantes, y eviten la contaminación cruzada.",
+    "buenasNoches": "A veces cambiar el ambiente no requiere ir lejos; basta con crear algo distinto donde estamos.",
     "cancionTitulo": "MUD",
     "cancionArtista": "GIVĒON",
     "youtubeId": "ePMLtiZmalg",
     "cancionUrl": "https://www.youtube.com/watch?v=ePMLtiZmalg",
     "cartas": {
       "buenosDias": {
-        "titulo": "Buenos días, viajera",
-        "contenido": "Para una semana de descanso o una escapada futura, quiero proponerte otro tipo de destino: un lugar de clima cálido, con una piscina bonita, un paisaje abierto y espacio para descansar. No elijo un alojamiento específico todavía; primero definimos qué ambiente nos gustaría."
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a traer un poquito de clima cálido a un plan sencillo, sin desplazamientos ni reservas."
       },
       "mensajePrincipal": {
-        "titulo": "Diseñemos la escapada",
-        "contenido": "Imaginemos tres versiones: una casa pequeña con piscina privada; un alojamiento rodeado de naturaleza; o un lugar cerca del agua donde podamos alternar paseos y descanso. Cuando llegue la fecha, comparamos presupuesto, transporte, disponibilidad real, opiniones recientes y reglas del alojamiento. La idea es que el plan se adapte a nuestros días libres, no al revés. Cada uno puede escoger una cosa imprescindible y una sorpresa para el otro."
+        "titulo": "Una cafetería de clima cálido, pero en casa",
+        "contenido": "Preparen una bebida fría con agua, limón, naranja, hierbabuena y hielo. Añadan fruta cortada y armen una pequeña mesa como si fuera una cafetería junto al mar. Cada persona inventa el nombre de la bebida y diseña una tarjeta para el menú. Si quieren, elijan música que recuerde a un lugar cálido y creen una lista de tres destinos que les gustaría conocer algún día, sin poner fechas ni compromisos. Revisen siempre las etiquetas de los alimentos para descartar maní y trazas relevantes, y eviten la contaminación cruzada."
       },
       "palabraNueva": {
         "titulo": "Palabra para viajar",
@@ -614,7 +612,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Que hoy descanses pensando en un lugar donde el tiempo vaya más despacio. Ya encontraremos el sitio cuando tengamos los días y las ganas; por ahora, queda abierta la posibilidad."
+        "contenido": "A veces cambiar el ambiente no requiere ir lejos; basta con crear algo distinto donde estamos."
       }
     },
     "palabraNueva": {
@@ -820,33 +818,32 @@ const CALENDARIO = [
     "dia": 18,
     "fecha": "2026-11-02",
     "fechaTexto": "lun, 2 de nov",
-    "categoria": "Un paseo para coleccionar sonidos",
+    "categoria": "El museo de sonidos de nuestro entorno",
     "icono": "🎧",
-    "tono": "aventura",
+    "tono": "atención y creatividad",
     "color": {
       "principal": "#8fc6bd",
       "suave": "#d7f0e9",
       "oscuro": "#102925"
     },
-    "buenosDias": "Hoy te propongo una salida que podemos hacer en cualquier barrio, parque o camino tranquilo: un paseo para escuchar. No importa cuál sea el lugar; lo elegimos según el tiempo, la seguridad y las ganas del día.",
+    "buenosDias": "Hoy vamos a escuchar con más atención lo que normalmente se queda de fondo.",
     "poema": [
-      "Durante veinte o treinta minutos, busquemos cinco sonidos distintos: uno natural, uno hecho por personas, uno lejano, uno que nos dé calma y uno inesperado. Podemos grabar fragmentos cortos con el celular, siempre respetando la privacidad de otras personas, o anotarlos si preferimos no grabar. Al final cada uno escoge el sonido que más le gustó y le inventa un título. Nivel extra: ordenar los cinco sonidos como si fueran la banda sonora de una escena. Si llueve o no podemos salir, hacemos la misma actividad desde una ventana.",
-      "Paisaje sonoro: el ambiente también tiene una composición, aunque no use instrumentos. Hoy vamos a prestarle atención."
+      "Durante veinte o treinta minutos, identifiquen cinco sonidos que puedan escuchar desde casa: uno natural, uno hecho por personas, uno lejano, uno que les dé calma y uno inesperado. Pueden anotarlos o grabar fragmentos sin captar conversaciones privadas ni a personas identificables. Después cada uno escoge el sonido que más le gustó, le inventa un título y ordenan los cinco como si fueran la banda sonora de una escena. Si el entorno está silencioso, pueden usar sonidos de objetos cotidianos."
     ],
-    "detalle": "Durante veinte o treinta minutos, busquemos cinco sonidos distintos: uno natural, uno hecho por personas, uno lejano, uno que nos dé calma y uno inesperado. Podemos grabar fragmentos cortos con el celular, siempre respetando la privacidad de otras personas, o anotarlos si preferimos no grabar. Al final cada uno escoge el sonido que más le gustó y le inventa un título. Nivel extra: ordenar los cinco sonidos como si fueran la banda sonora de una escena. Si llueve o no podemos salir, hacemos la misma actividad desde una ventana.",
-    "buenasNoches": "A veces uno vuelve de un paseo con fotos; otras veces vuelve con un sonido que se queda en la memoria. Ojalá hoy encuentres uno bonito.",
+    "detalle": "Durante veinte o treinta minutos, identifiquen cinco sonidos que puedan escuchar desde casa: uno natural, uno hecho por personas, uno lejano, uno que les dé calma y uno inesperado. Pueden anotarlos o grabar fragmentos sin captar conversaciones privadas ni a personas identificables. Después cada uno escoge el sonido que más le gustó, le inventa un título y ordenan los cinco como si fueran la banda sonora de una escena. Si el entorno está silencioso, pueden usar sonidos de objetos cotidianos.",
+    "buenasNoches": "A veces el mundo tiene una banda sonora que solo aparece cuando nos detenemos a escuchar.",
     "cancionTitulo": "Is This Love",
     "cancionArtista": "Bob Marley & The Wailers",
     "youtubeId": "69RdQFDuYPI",
     "cancionUrl": "https://www.youtube.com/watch?v=69RdQFDuYPI",
     "cartas": {
       "buenosDias": {
-        "titulo": "Buenos días, caminantes",
-        "contenido": "Hoy te propongo una salida que podemos hacer en cualquier barrio, parque o camino tranquilo: un paseo para escuchar. No importa cuál sea el lugar; lo elegimos según el tiempo, la seguridad y las ganas del día."
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a escuchar con más atención lo que normalmente se queda de fondo."
       },
       "mensajePrincipal": {
-        "titulo": "Reto: cinco sonidos que cuentan una historia",
-        "contenido": "Durante veinte o treinta minutos, busquemos cinco sonidos distintos: uno natural, uno hecho por personas, uno lejano, uno que nos dé calma y uno inesperado. Podemos grabar fragmentos cortos con el celular, siempre respetando la privacidad de otras personas, o anotarlos si preferimos no grabar. Al final cada uno escoge el sonido que más le gustó y le inventa un título. Nivel extra: ordenar los cinco sonidos como si fueran la banda sonora de una escena. Si llueve o no podemos salir, hacemos la misma actividad desde una ventana."
+        "titulo": "El museo de sonidos de nuestro entorno",
+        "contenido": "Durante veinte o treinta minutos, identifiquen cinco sonidos que puedan escuchar desde casa: uno natural, uno hecho por personas, uno lejano, uno que les dé calma y uno inesperado. Pueden anotarlos o grabar fragmentos sin captar conversaciones privadas ni a personas identificables. Después cada uno escoge el sonido que más le gustó, le inventa un título y ordenan los cinco como si fueran la banda sonora de una escena. Si el entorno está silencioso, pueden usar sonidos de objetos cotidianos."
       },
       "palabraNueva": {
         "titulo": "Palabra para escuchar",
@@ -854,7 +851,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "A veces uno vuelve de un paseo con fotos; otras veces vuelve con un sonido que se queda en la memoria. Ojalá hoy encuentres uno bonito."
+        "contenido": "A veces el mundo tiene una banda sonora que solo aparece cuando nos detenemos a escuchar."
       }
     },
     "palabraNueva": {
@@ -1780,33 +1777,32 @@ const CALENDARIO = [
     "dia": 38,
     "fecha": "2026-11-22",
     "fechaTexto": "dom, 22 de nov",
-    "categoria": "Una salida corta a descubrir otro rincón",
+    "categoria": "El mapa de un rincón por descubrir",
     "icono": "🧭",
-    "tono": "salida",
+    "tono": "curiosidad y planes flexibles",
     "color": {
       "principal": "#b9a4e5",
       "suave": "#e7defa",
       "oscuro": "#211631"
     },
-    "buenosDias": "Hoy te propongo una salida un poquito más larga que ir por un café de siempre: escoger una zona de la ciudad que casi no recorramos y caminarla sin afán.",
+    "buenosDias": "Hoy no hace falta salir: vamos a diseñar una pequeña ruta para guardar y usar cuando coincidan las ganas.",
     "poema": [
-      "Elijan una zona segura y accesible, revisen el clima y acuerden cuánto quieren gastar antes de salir. La misión tiene tres paradas posibles: un café o bebida, una tienda o espacio cultural que les llame la atención y un lugar agradable para sentarse o tomar fotografías. Cada uno debe encontrar algo que el otro probablemente no habría notado: una fachada, una textura, una librería, un mural o una vista. No hace falta completar las tres paradas si no provoca. Si hoy no se puede, guarden la idea para otro día y elijan juntos la zona cuando conozcan horarios y transporte.",
-      "Derrotero: el rumbo que guía un recorrido. A veces el mejor plan es tener una dirección general y dejar espacio para descubrir."
+      "Cada persona propone tres paradas posibles para una futura salida de unas horas: un lugar donde tomar algo, un espacio cultural o una tienda curiosa y un sitio tranquilo para sentarse o tomar fotografías. No elijan establecimientos concretos ni fechas todavía. Comparen qué les atrae de cada idea y armen una ruta flexible que puedan adaptar al presupuesto, al transporte, al clima y a los horarios. La actividad de hoy termina con el mapa, no con una obligación de salir."
     ],
-    "detalle": "Elijan una zona segura y accesible, revisen el clima y acuerden cuánto quieren gastar antes de salir. La misión tiene tres paradas posibles: un café o bebida, una tienda o espacio cultural que les llame la atención y un lugar agradable para sentarse o tomar fotografías. Cada uno debe encontrar algo que el otro probablemente no habría notado: una fachada, una textura, una librería, un mural o una vista. No hace falta completar las tres paradas si no provoca. Si hoy no se puede, guarden la idea para otro día y elijan juntos la zona cuando conozcan horarios y transporte.",
-    "buenasNoches": "Me gusta la idea de que todavía existan rincones por conocer. Ojalá encontremos uno que después se convierta en nuestro lugar.",
+    "detalle": "Cada persona propone tres paradas posibles para una futura salida de unas horas: un lugar donde tomar algo, un espacio cultural o una tienda curiosa y un sitio tranquilo para sentarse o tomar fotografías. No elijan establecimientos concretos ni fechas todavía. Comparen qué les atrae de cada idea y armen una ruta flexible que puedan adaptar al presupuesto, al transporte, al clima y a los horarios. La actividad de hoy termina con el mapa, no con una obligación de salir.",
+    "buenasNoches": "Guardar una idea también es una forma de acercarla, sin tener que apresurarla.",
     "cancionTitulo": "Get Low",
     "cancionArtista": "Lil Jon & The East Side Boyz; Ying Yang Twins",
     "youtubeId": "yUZeZNxiD-M",
     "cancionUrl": "https://www.youtube.com/watch?v=yUZeZNxiD-M",
     "cartas": {
       "buenosDias": {
-        "titulo": "Buenos días, exploradores urbanos",
-        "contenido": "Hoy te propongo una salida un poquito más larga que ir por un café de siempre: escoger una zona de la ciudad que casi no recorramos y caminarla sin afán."
+        "titulo": "Buenos días",
+        "contenido": "Hoy no hace falta salir: vamos a diseñar una pequeña ruta para guardar y usar cuando coincidan las ganas."
       },
       "mensajePrincipal": {
-        "titulo": "Misión: tres descubrimientos",
-        "contenido": "Elijan una zona segura y accesible, revisen el clima y acuerden cuánto quieren gastar antes de salir. La misión tiene tres paradas posibles: un café o bebida, una tienda o espacio cultural que les llame la atención y un lugar agradable para sentarse o tomar fotografías. Cada uno debe encontrar algo que el otro probablemente no habría notado: una fachada, una textura, una librería, un mural o una vista. No hace falta completar las tres paradas si no provoca. Si hoy no se puede, guarden la idea para otro día y elijan juntos la zona cuando conozcan horarios y transporte."
+        "titulo": "El mapa de un rincón por descubrir",
+        "contenido": "Cada persona propone tres paradas posibles para una futura salida de unas horas: un lugar donde tomar algo, un espacio cultural o una tienda curiosa y un sitio tranquilo para sentarse o tomar fotografías. No elijan establecimientos concretos ni fechas todavía. Comparen qué les atrae de cada idea y armen una ruta flexible que puedan adaptar al presupuesto, al transporte, al clima y a los horarios. La actividad de hoy termina con el mapa, no con una obligación de salir."
       },
       "palabraNueva": {
         "titulo": "Palabra de camino",
@@ -1814,7 +1810,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Me gusta la idea de que todavía existan rincones por conocer. Ojalá encontremos uno que después se convierta en nuestro lugar."
+        "contenido": "Guardar una idea también es una forma de acercarla, sin tener que apresurarla."
       }
     },
     "palabraNueva": {
@@ -2212,33 +2208,32 @@ const CALENDARIO = [
     "dia": 47,
     "fecha": "2026-12-01",
     "fechaTexto": "mar, 1 de dic",
-    "categoria": "Una salida con una misión fotográfica",
+    "categoria": "El safari fotográfico de interiores",
     "icono": "📷",
-    "tono": "salida",
+    "tono": "observación y creatividad",
     "color": {
       "principal": "#e6a47d",
       "suave": "#f9dfcf",
       "oscuro": "#321b12"
     },
-    "buenosDias": "Hoy subimos un poquito la apuesta: salir con una misión visual. No es solo caminar; vamos a volver con una pequeña serie de fotografías que tenga principio y final.",
+    "buenosDias": "Hoy la cámara tiene una misión, pero no necesita salir de casa.",
     "poema": [
-      "Elijan un barrio, parque o zona cultural segura que puedan recorrer sin afán. Antes de salir acuerden transporte, presupuesto y duración. La misión: tomar siete fotos con temas distintos: una puerta, una textura, una sombra, algo azul, una escena de movimiento, una perspectiva inesperada y una imagen que represente el día. No fotografíen personas identificables sin su permiso ni entren a espacios privados. Al final elijan una foto de cada uno y armen una secuencia de dos imágenes: título, orden y una frase que conecte ambas. Si hoy no pueden salir, hagan la misión en casa o guárdenla para otro día.",
-      "Encuadre: los límites y la composición de lo que decidimos mostrar en una imagen. Cambiar el encuadre puede cambiar por completo la historia."
+      "Tomen siete fotografías dentro de casa con temas distintos: una textura, una sombra, algo azul, una forma geométrica, un objeto antiguo, una escena de movimiento y un detalle que normalmente pasa inadvertido. No busquen que parezcan fotografías profesionales: intenten mostrar algo cotidiano desde otro ángulo. Al final cada uno elige una imagen y le pone un título como si fuera una obra de una exposición."
     ],
-    "detalle": "Elijan un barrio, parque o zona cultural segura que puedan recorrer sin afán. Antes de salir acuerden transporte, presupuesto y duración. La misión: tomar siete fotos con temas distintos: una puerta, una textura, una sombra, algo azul, una escena de movimiento, una perspectiva inesperada y una imagen que represente el día. No fotografíen personas identificables sin su permiso ni entren a espacios privados. Al final elijan una foto de cada uno y armen una secuencia de dos imágenes: título, orden y una frase que conecte ambas. Si hoy no pueden salir, hagan la misión en casa o guárdenla para otro día.",
-    "buenasNoches": "Me gustaría ver cuál fue tu fotografía favorita y qué descubriste al mirar con más atención.",
+    "detalle": "Tomen siete fotografías dentro de casa con temas distintos: una textura, una sombra, algo azul, una forma geométrica, un objeto antiguo, una escena de movimiento y un detalle que normalmente pasa inadvertido. No busquen que parezcan fotografías profesionales: intenten mostrar algo cotidiano desde otro ángulo. Al final cada uno elige una imagen y le pone un título como si fuera una obra de una exposición.",
+    "buenasNoches": "A veces lo extraordinario estaba delante de nosotros y solo faltaba cambiar el encuadre.",
     "cancionTitulo": "What They Do",
     "cancionArtista": "The Roots",
     "youtubeId": "_qzacv8dtb4",
     "cancionUrl": "https://www.youtube.com/watch?v=_qzacv8dtb4",
     "cartas": {
       "buenosDias": {
-        "titulo": "Buenos días, fotógrafos",
-        "contenido": "Hoy subimos un poquito la apuesta: salir con una misión visual. No es solo caminar; vamos a volver con una pequeña serie de fotografías que tenga principio y final."
+        "titulo": "Buenos días",
+        "contenido": "Hoy la cámara tiene una misión, pero no necesita salir de casa."
       },
       "mensajePrincipal": {
-        "titulo": "Ruta fotográfica de siete imágenes",
-        "contenido": "Elijan un barrio, parque o zona cultural segura que puedan recorrer sin afán. Antes de salir acuerden transporte, presupuesto y duración. La misión: tomar siete fotos con temas distintos: una puerta, una textura, una sombra, algo azul, una escena de movimiento, una perspectiva inesperada y una imagen que represente el día. No fotografíen personas identificables sin su permiso ni entren a espacios privados. Al final elijan una foto de cada uno y armen una secuencia de dos imágenes: título, orden y una frase que conecte ambas. Si hoy no pueden salir, hagan la misión en casa o guárdenla para otro día."
+        "titulo": "El safari fotográfico de interiores",
+        "contenido": "Tomen siete fotografías dentro de casa con temas distintos: una textura, una sombra, algo azul, una forma geométrica, un objeto antiguo, una escena de movimiento y un detalle que normalmente pasa inadvertido. No busquen que parezcan fotografías profesionales: intenten mostrar algo cotidiano desde otro ángulo. Al final cada uno elige una imagen y le pone un título como si fuera una obra de una exposición."
       },
       "palabraNueva": {
         "titulo": "Palabra de fotografía",
@@ -2246,7 +2241,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Me gustaría ver cuál fue tu fotografía favorita y qué descubriste al mirar con más atención."
+        "contenido": "A veces lo extraordinario estaba delante de nosotros y solo faltaba cambiar el encuadre."
       }
     },
     "palabraNueva": {
@@ -3220,21 +3215,20 @@ const CALENDARIO = [
     "dia": 68,
     "fecha": "2026-12-22",
     "fechaTexto": "mar, 22 de dic",
-    "categoria": "Una tarde de café y paseo",
+    "categoria": "Una cafetería improvisada",
     "icono": "☕",
-    "tono": "aventura",
+    "tono": "ritual cotidiano y cercanía",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "No todos los planes necesitan ocupar un fin de semana entero. A veces unas horas bien elegidas son suficientes para cambiar de ambiente.",
+    "buenosDias": "Hoy vamos a preparar un pequeño café en casa y dejar que la conversación haga el resto.",
     "poema": [
-      "Elijan un café que les llame la atención y un parque, plazoleta o calle peatonal segura que quede razonablemente cerca. Antes de salir, revisen los horarios, el clima, cómo llegar, si el lugar es accesible y cuánto quieren gastar. La idea es reservar unas horas, no convertirlo en una excursión obligatoria: pueden tomar algo, caminar un rato y buscar tres detalles que normalmente pasarían por alto, como una fachada bonita, una combinación de colores o una planta curiosa. Cada uno escoge una pequeña parada y cuenta por qué le llamó la atención. Si el sitio está lleno, llueve o el ambiente no convence, cambien el recorrido o vuelvan a casa; el plan debe adaptarse a ustedes. No hace falta comprar nada más ni llenar todo el tiempo de actividades. ¿Prefieres empezar por el café o por el paseo?",
-      "Recorrido: Trayecto que se realiza al pasar por distintos lugares. Un recorrido corto puede dejar espacio para detenerse cuando algo llama la atención."
+      "Elijan una bebida que les guste y preparen una merienda sencilla. Organicen una mesa con una servilleta, una nota escrita a mano y una canción de fondo. Cada persona propone una pregunta curiosa y una historia divertida para compartir. Si les gusta la idea, guarden una lista de cafeterías o lugares tranquilos que podrían visitar otro día, sin fijar fecha ni convertirlo en un compromiso. Revisen etiquetas para descartar maní y trazas relevantes y eviten la contaminación cruzada."
     ],
-    "detalle": "Elijan un café que les llame la atención y un parque, plazoleta o calle peatonal segura que quede razonablemente cerca. Antes de salir, revisen los horarios, el clima, cómo llegar, si el lugar es accesible y cuánto quieren gastar. La idea es reservar unas horas, no convertirlo en una excursión obligatoria: pueden tomar algo, caminar un rato y buscar tres detalles que normalmente pasarían por alto, como una fachada bonita, una combinación de colores o una planta curiosa. Cada uno escoge una pequeña parada y cuenta por qué le llamó la atención. Si el sitio está lleno, llueve o el ambiente no convence, cambien el recorrido o vuelvan a casa; el plan debe adaptarse a ustedes. No hace falta comprar nada más ni llenar todo el tiempo de actividades. ¿Prefieres empezar por el café o por el paseo?",
-    "buenasNoches": "Me gusta la idea de una salida que termina a tiempo y aun así deja una conversación, una foto o ganas de volver a un lugar.",
+    "detalle": "Elijan una bebida que les guste y preparen una merienda sencilla. Organicen una mesa con una servilleta, una nota escrita a mano y una canción de fondo. Cada persona propone una pregunta curiosa y una historia divertida para compartir. Si les gusta la idea, guarden una lista de cafeterías o lugares tranquilos que podrían visitar otro día, sin fijar fecha ni convertirlo en un compromiso. Revisen etiquetas para descartar maní y trazas relevantes y eviten la contaminación cruzada.",
+    "buenasNoches": "Los rituales pequeños también pueden convertirse en recuerdos que se sienten propios.",
     "cancionTitulo": "Lifeboats (Freestyle)",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "90k8MvVphOw",
@@ -3242,20 +3236,20 @@ const CALENDARIO = [
     "inspiracionCancion": "Una canción para acompañar el ambiente de una tarde de café y paseo.",
     "cartas": {
       "buenosDias": {
-        "titulo": "Buenos días, una pausa fuera",
-        "contenido": "No todos los planes necesitan ocupar un fin de semana entero. A veces unas horas bien elegidas son suficientes para cambiar de ambiente."
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a preparar un pequeño café en casa y dejar que la conversación haga el resto."
       },
       "mensajePrincipal": {
-        "titulo": "Una ruta corta, sin afán",
-        "contenido": "Elijan un café que les llame la atención y un parque, plazoleta o calle peatonal segura que quede razonablemente cerca. Antes de salir, revisen los horarios, el clima, cómo llegar, si el lugar es accesible y cuánto quieren gastar. La idea es reservar unas horas, no convertirlo en una excursión obligatoria: pueden tomar algo, caminar un rato y buscar tres detalles que normalmente pasarían por alto, como una fachada bonita, una combinación de colores o una planta curiosa. Cada uno escoge una pequeña parada y cuenta por qué le llamó la atención. Si el sitio está lleno, llueve o el ambiente no convence, cambien el recorrido o vuelvan a casa; el plan debe adaptarse a ustedes. No hace falta comprar nada más ni llenar todo el tiempo de actividades. ¿Prefieres empezar por el café o por el paseo?"
+        "titulo": "Una cafetería improvisada",
+        "contenido": "Elijan una bebida que les guste y preparen una merienda sencilla. Organicen una mesa con una servilleta, una nota escrita a mano y una canción de fondo. Cada persona propone una pregunta curiosa y una historia divertida para compartir. Si les gusta la idea, guarden una lista de cafeterías o lugares tranquilos que podrían visitar otro día, sin fijar fecha ni convertirlo en un compromiso. Revisen etiquetas para descartar maní y trazas relevantes y eviten la contaminación cruzada."
       },
       "palabraNueva": {
         "titulo": "La palabra del recorrido",
         "contenido": "Recorrido: Trayecto que se realiza al pasar por distintos lugares. Un recorrido corto puede dejar espacio para detenerse cuando algo llama la atención."
       },
       "buenasNoches": {
-        "titulo": "Volver con algo pequeño",
-        "contenido": "Me gusta la idea de una salida que termina a tiempo y aun así deja una conversación, una foto o ganas de volver a un lugar."
+        "titulo": "Buenas noches",
+        "contenido": "Los rituales pequeños también pueden convertirse en recuerdos que se sienten propios."
       }
     },
     "palabraNueva": {
@@ -5554,41 +5548,40 @@ const CALENDARIO = [
     "dia": 117,
     "fecha": "2027-02-09",
     "fechaTexto": "mar, 9 de feb",
-    "categoria": "Una tarde para aprender a mirar el cielo",
+    "categoria": "Tres cielos desde una misma ventana",
     "icono": "🌇",
-    "tono": "ambiente",
+    "tono": "observación y fotografía",
     "color": {
       "principal": "#9fc7d4",
       "suave": "#e2f1f3",
       "oscuro": "#17333b"
     },
-    "buenosDias": "Te propongo un plan sencillo: salir a un lugar desde donde se vea bien el cielo y quedarse un rato sin convertir la salida en una carrera por hacer cosas.",
+    "buenosDias": "Hoy vamos a mirar el cielo sin necesidad de ir a ningún sitio.",
     "poema": [
-      "Lleva algo para tomar y una cámara. Haz tres fotografías del mismo lugar: cuando el cielo aún está iluminado, cuando cambian los colores y cuando aparece la primera luz de la noche.",
-      "Compara cómo cambió el paisaje sin que ustedes se movieran demasiado. Puedes hacerlo sola o convertirlo en una salida compartida si algún día te provoca."
+      "Elige una ventana, balcón o lugar seguro desde donde puedas observar el cielo. Haz tres fotografías desde el mismo punto: cuando aún está iluminado, cuando cambian los colores y cuando aparece la primera luz de la noche. Si no puedes fotografiarlo, dibuja los cambios o descríbelos con tres palabras. Junta las imágenes y ponles un título que no describa el paisaje, sino cómo se sintió ese rato."
     ],
-    "detalle": "Guarda las tres fotografías juntas y ponles un título que no describa el paisaje, sino cómo se sintió ese rato.",
-    "buenasNoches": "A veces basta con quedarse el tiempo suficiente para descubrir lo que estaba pasando delante de nosotros.",
+    "detalle": "Elige una ventana, balcón o lugar seguro desde donde puedas observar el cielo. Haz tres fotografías desde el mismo punto: cuando aún está iluminado, cuando cambian los colores y cuando aparece la primera luz de la noche. Si no puedes fotografiarlo, dibuja los cambios o descríbelos con tres palabras. Junta las imágenes y ponles un título que no describa el paisaje, sino cómo se sintió ese rato.",
+    "buenasNoches": "El paisaje puede cambiar aunque nosotros permanezcamos en el mismo lugar.",
     "cancionTitulo": "Try Me",
     "cancionArtista": "Jorja Smith",
     "youtubeId": "gUn6i9bfdRA",
     "cancionUrl": "https://www.youtube.com/watch?v=gUn6i9bfdRA",
     "cartas": {
       "buenosDias": {
-        "contenido": "Te propongo un plan sencillo: salir a un lugar desde donde se vea bien el cielo y quedarse un rato sin convertir la salida en una carrera por hacer cosas.",
-        "titulo": "Buenos días"
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a mirar el cielo sin necesidad de ir a ningún sitio."
       },
       "mensajePrincipal": {
-        "contenido": "Lleva algo para tomar y una cámara. Haz tres fotografías del mismo lugar: cuando el cielo aún está iluminado, cuando cambian los colores y cuando aparece la primera luz de la noche.\n\nCompara cómo cambió el paisaje sin que ustedes se movieran demasiado. Puedes hacerlo sola o convertirlo en una salida compartida si algún día te provoca.\n\nGuarda las tres fotografías juntas y ponles un título que no describa el paisaje, sino cómo se sintió ese rato.",
-        "titulo": "Una tarde para aprender a mirar el cielo"
+        "titulo": "Tres cielos desde una misma ventana",
+        "contenido": "Elige una ventana, balcón o lugar seguro desde donde puedas observar el cielo. Haz tres fotografías desde el mismo punto: cuando aún está iluminado, cuando cambian los colores y cuando aparece la primera luz de la noche. Si no puedes fotografiarlo, dibuja los cambios o descríbelos con tres palabras. Junta las imágenes y ponles un título que no describa el paisaje, sino cómo se sintió ese rato."
       },
       "palabraNueva": {
         "contenido": "CREPÚSCULO\n\nLuz tenue antes de salir el sol o después de ponerse.\n\nEjemplo: El crepúsculo convirtió el mismo paisaje en algo distinto.",
         "titulo": "Crepúsculo"
       },
       "buenasNoches": {
-        "contenido": "A veces basta con quedarse el tiempo suficiente para descubrir lo que estaba pasando delante de nosotros.",
-        "titulo": "Buenas noches"
+        "titulo": "Buenas noches",
+        "contenido": "El paisaje puede cambiar aunque nosotros permanezcamos en el mismo lugar."
       }
     },
     "palabraNueva": {
@@ -6024,21 +6017,20 @@ const CALENDARIO = [
     "dia": 127,
     "fecha": "2027-02-19",
     "fechaTexto": "vie, 19 de feb",
-    "categoria": "Una caminata con tres destinos posibles",
+    "categoria": "La búsqueda del tesoro cotidiano",
     "icono": "🌳",
-    "tono": "plan tranquilo",
+    "tono": "juego y observación",
     "color": {
       "principal": "#a9a0d4",
       "suave": "#e9e4f6",
       "oscuro": "#28213f"
     },
-    "buenosDias": "No todos los planes necesitan una reserva ni una agenda llena. A veces basta con salir a caminar un rato.",
+    "buenosDias": "Hoy convertimos un espacio conocido en un pequeño mapa de descubrimientos.",
     "poema": [
-      "Propón una caminata de una hora por un parque o un sector agradable. Antes de salir, cada persona elige una opción sorpresa: encontrar un árbol curioso, descubrir una fachada bonita o escoger un lugar tranquilo para sentarse diez minutos. Si el paseo se alarga, pueden terminar con un café o una bebida que les guste. Elijan una ruta segura, pública y cómoda; el plan puede cambiar si el clima o el ánimo no acompañan.",
-      "En el lienzo, dibuja un mapa mínimo de la caminata con tres símbolos: el punto de partida, el hallazgo más curioso y el lugar donde harías una pausa."
+      "Preparen una búsqueda del tesoro en casa. Escriban seis pistas: algo que tenga una textura curiosa, un objeto que guarde una historia, algo que sea azul, una forma que parezca una letra, un recuerdo que provoque una sonrisa y un objeto que normalmente nadie mira. Intercambien las pistas y busquen cada elemento. Al final cada persona elige uno y cuenta por qué lo escogió. No hay cronómetro ni ganador: la gracia está en descubrir detalles."
     ],
-    "detalle": "En el lienzo, dibuja un mapa mínimo de la caminata con tres símbolos: el punto de partida, el hallazgo más curioso y el lugar donde harías una pausa.",
-    "buenasNoches": "Hay recorridos que no necesitan llegar lejos para dejar una buena memoria.",
+    "detalle": "Preparen una búsqueda del tesoro en casa. Escriban seis pistas: algo que tenga una textura curiosa, un objeto que guarde una historia, algo que sea azul, una forma que parezca una letra, un recuerdo que provoque una sonrisa y un objeto que normalmente nadie mira. Intercambien las pistas y busquen cada elemento. Al final cada persona elige uno y cuenta por qué lo escogió. No hay cronómetro ni ganador: la gracia está en descubrir detalles.",
+    "buenasNoches": "No siempre hay que recorrer kilómetros para encontrar algo que no habíamos visto.",
     "cancionTitulo": "Ms. Fat Booty",
     "cancionArtista": "Mos Def",
     "youtubeId": "NAHuQSPE4Wk",
@@ -6046,19 +6038,19 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "No todos los planes necesitan una reserva ni una agenda llena. A veces basta con salir a caminar un rato."
+        "contenido": "Hoy convertimos un espacio conocido en un pequeño mapa de descubrimientos."
       },
       "mensajePrincipal": {
-        "titulo": "Una caminata con tres destinos posibles",
-        "contenido": "Propón una caminata de una hora por un parque o un sector agradable. Antes de salir, cada persona elige una opción sorpresa: encontrar un árbol curioso, descubrir una fachada bonita o escoger un lugar tranquilo para sentarse diez minutos. Si el paseo se alarga, pueden terminar con un café o una bebida que les guste. Elijan una ruta segura, pública y cómoda; el plan puede cambiar si el clima o el ánimo no acompañan."
+        "titulo": "La búsqueda del tesoro cotidiano",
+        "contenido": "Preparen una búsqueda del tesoro en casa. Escriban seis pistas: algo que tenga una textura curiosa, un objeto que guarde una historia, algo que sea azul, una forma que parezca una letra, un recuerdo que provoque una sonrisa y un objeto que normalmente nadie mira. Intercambien las pistas y busquen cada elemento. Al final cada persona elige uno y cuenta por qué lo escogió. No hay cronómetro ni ganador: la gracia está en descubrir detalles."
       },
       "palabraNueva": {
         "titulo": "La palabra deriva",
         "contenido": "Desplazamiento gradual de un recorrido o una idea hacia otro punto. Caminar sin una ruta rígida permite descubrir lugares por deriva."
       },
       "buenasNoches": {
-        "contenido": "Hay recorridos que no necesitan llegar lejos para dejar una buena memoria.",
-        "titulo": "Buenas noches"
+        "titulo": "Buenas noches",
+        "contenido": "No siempre hay que recorrer kilómetros para encontrar algo que no habíamos visto."
       }
     },
     "palabraNueva": {
@@ -6355,19 +6347,18 @@ const CALENDARIO = [
     "fechaTexto": "vie, 26 de feb",
     "categoria": "El mapa de un lugar que todavía no conocemos",
     "icono": "🗺️",
-    "tono": "plan a futuro",
+    "tono": "planes futuros y descubrimiento",
     "color": {
       "principal": "#a9a0d4",
       "suave": "#e9e4f6",
       "oscuro": "#28213f"
     },
-    "buenosDias": "Hoy vamos a imaginar una salida sin decidir todavía fecha ni destino exacto.",
+    "buenosDias": "Hoy vamos a imaginar una tarde fuera de la rutina, sin reservar nada ni elegir un destino definitivo.",
     "poema": [
-      "Dibuja un mapa de una tarde ideal con tres paradas posibles: un mirador o cerro con una vista bonita, un sitio tranquilo para sentarse y conversar, y un lugar donde tomar algo o comer. Puede ser Monserrate u otro mirador, un parque amplio, una plazoleta o un rincón especial que cada persona quiera mostrar. No es una reserva ni una obligación: solo una idea para guardar y adaptar al clima, presupuesto, horarios y ganas de ambos.",
-      "Crea en el lienzo un mapa ilustrado con tres puntos, una ruta punteada y un nombre inventado para esa excursión."
+      "Dibuja un mapa de una tarde ideal con tres paradas posibles: un mirador o cerro con una vista bonita, un sitio tranquilo para sentarse y conversar, y un lugar donde tomar algo o comer. No hace falta nombrar establecimientos ni decidir una fecha. Anoten qué les gustaría hacer en cada parada y qué necesitarían revisar antes de convertirlo en un plan: clima, transporte, presupuesto, horarios y ganas de ambos."
     ],
-    "detalle": "Crea en el lienzo un mapa ilustrado con tres puntos, una ruta punteada y un nombre inventado para esa excursión.",
-    "buenasNoches": "Algunos planes empiezan mucho antes de salir: empiezan cuando alguien comparte un lugar que le gusta.",
+    "detalle": "Dibuja un mapa de una tarde ideal con tres paradas posibles: un mirador o cerro con una vista bonita, un sitio tranquilo para sentarse y conversar, y un lugar donde tomar algo o comer. No hace falta nombrar establecimientos ni decidir una fecha. Anoten qué les gustaría hacer en cada parada y qué necesitarían revisar antes de convertirlo en un plan: clima, transporte, presupuesto, horarios y ganas de ambos.",
+    "buenasNoches": "Las mejores ideas dejan espacio para que los dos puedan elegirlas.",
     "cancionTitulo": "Chief Rocka",
     "cancionArtista": "Lords Of The Underground",
     "youtubeId": "YFbLRZCExBk",
@@ -6375,19 +6366,19 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy vamos a imaginar una salida sin decidir todavía fecha ni destino exacto."
+        "contenido": "Hoy vamos a imaginar una tarde fuera de la rutina, sin reservar nada ni elegir un destino definitivo."
       },
       "mensajePrincipal": {
         "titulo": "El mapa de un lugar que todavía no conocemos",
-        "contenido": "Dibuja un mapa de una tarde ideal con tres paradas posibles: un mirador o cerro con una vista bonita, un sitio tranquilo para sentarse y conversar, y un lugar donde tomar algo o comer. Puede ser Monserrate u otro mirador, un parque amplio, una plazoleta o un rincón especial que cada persona quiera mostrar. No es una reserva ni una obligación: solo una idea para guardar y adaptar al clima, presupuesto, horarios y ganas de ambos."
+        "contenido": "Dibuja un mapa de una tarde ideal con tres paradas posibles: un mirador o cerro con una vista bonita, un sitio tranquilo para sentarse y conversar, y un lugar donde tomar algo o comer. No hace falta nombrar establecimientos ni decidir una fecha. Anoten qué les gustaría hacer en cada parada y qué necesitarían revisar antes de convertirlo en un plan: clima, transporte, presupuesto, horarios y ganas de ambos."
       },
       "palabraNueva": {
         "titulo": "La palabra itinerario",
         "contenido": "Secuencia organizada de lugares o actividades durante un recorrido. Un itinerario flexible deja espacio para descubrir algo inesperado."
       },
       "buenasNoches": {
-        "contenido": "Algunos planes empiezan mucho antes de salir: empiezan cuando alguien comparte un lugar que le gusta.",
-        "titulo": "Buenas noches"
+        "titulo": "Buenas noches",
+        "contenido": "Las mejores ideas dejan espacio para que los dos puedan elegirlas."
       }
     },
     "palabraNueva": {
@@ -8149,10 +8140,9 @@ const CALENDARIO = [
     },
     "buenosDias": "Hay preguntas que no buscan una respuesta rápida, sino abrir una conversación distinta.",
     "poema": [
-      "Completa esta pregunta: «¿Qué cosa te gustaría aprender o probar si supieras que no tienes que hacerlo perfecto?». Puede ser bailar, cocinar algo, hablar otro idioma, viajar, dibujar, tocar un instrumento o cualquier curiosidad pendiente. Después elige un primer paso tan pequeño que puedas hacerlo esta semana. Si se comparte, escuchen la respuesta sin convertirla en una lista de consejos.",
-      "Guarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño»."
+      "Completa esta pregunta: «¿Qué cosa te gustaría aprender o probar si supieras que no tienes que hacerlo perfecto?». Puede ser bailar, cocinar algo, hablar otro idioma, viajar, dibujar, tocar un instrumento o cualquier curiosidad pendiente. Después elige un primer paso tan pequeño que puedas hacerlo esta semana. Si se comparte, escuchen la respuesta sin convertirla en una lista de consejos.\n\nGuarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño»."
     ],
-    "detalle": "Guarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño».",
+    "detalle": "Completa esta pregunta: «¿Qué cosa te gustaría aprender o probar si supieras que no tienes que hacerlo perfecto?». Puede ser bailar, cocinar algo, hablar otro idioma, viajar, dibujar, tocar un instrumento o cualquier curiosidad pendiente. Después elige un primer paso tan pequeño que puedas hacerlo esta semana. Si se comparte, escuchen la respuesta sin convertirla en una lista de consejos.\n\nGuarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño».",
     "buenasNoches": "No necesitamos tener todo resuelto para permitirnos empezar algo nuevo.",
     "cancionTitulo": "Come Clean - E New Y Radio",
     "cancionArtista": "Jeru The Damaja",
@@ -8165,7 +8155,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La pregunta que abre otra puerta",
-        "contenido": "Completa esta pregunta: «¿Qué cosa te gustaría aprender o probar si supieras que no tienes que hacerlo perfecto?». Puede ser bailar, cocinar algo, hablar otro idioma, viajar, dibujar, tocar un instrumento o cualquier curiosidad pendiente. Después elige un primer paso tan pequeño que puedas hacerlo esta semana. Si se comparte, escuchen la respuesta sin convertirla en una lista de consejos.\n\nGuarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño».\n\nGuarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño»."
+        "contenido": "Completa esta pregunta: «¿Qué cosa te gustaría aprender o probar si supieras que no tienes que hacerlo perfecto?». Puede ser bailar, cocinar algo, hablar otro idioma, viajar, dibujar, tocar un instrumento o cualquier curiosidad pendiente. Después elige un primer paso tan pequeño que puedas hacerlo esta semana. Si se comparte, escuchen la respuesta sin convertirla en una lista de consejos.\n\nGuarda la idea en una nota con el nombre «algún día, pero empezando por algo pequeño»."
       },
       "palabraNueva": {
         "titulo": "La palabra perspectiva",
@@ -8235,19 +8225,18 @@ const CALENDARIO = [
     "fechaTexto": "mié, 7 de abr",
     "categoria": "El plan que se arma con tres pistas",
     "icono": "🗺️",
-    "tono": "plan creativo y compartido",
+    "tono": "juego y creatividad compartida",
     "color": {
       "principal": "#a9a0d4",
       "suave": "#e9e4f6",
       "oscuro": "#28213f"
     },
-    "buenosDias": "Hoy el plan no viene decidido: se construye con tres pistas y un poquito de improvisación.",
+    "buenosDias": "Hoy vamos a jugar a diseñar una salida futura sin salir todavía ni comprometernos con una fecha.",
     "poema": [
-      "Si coinciden en tiempo y ganas, armen una salida corta de una o dos horas. Cada persona propone una pista: un lugar (parque, librería, café o zona para caminar), algo que quieran hacer (mirar, probar, dibujar o escuchar) y un límite de presupuesto. Combinen las pistas y elijan una opción que funcione para ambos. Si no pueden salir, hagan la misma dinámica para escoger una película o una actividad en casa.",
-      "La regla es que el plan sea cómodo para los dos: nada de gastos inesperados ni desplazamientos complicados. Lo importante es compartir la elección, no cumplirla a toda costa."
+      "Cada persona propone tres pistas: un tipo de lugar (parque, librería, café o espacio cultural), algo que le gustaría hacer (mirar, probar, dibujar o escuchar) y un límite de presupuesto. Combinen las pistas y creen dos posibles planes de una o dos horas para otro día. Elijan cuál les entusiasma más y qué habría que comprobar antes de decidir. Si prefieren quedarse en casa, conviertan las pistas en una actividad para una tarde tranquila."
     ],
-    "detalle": "La regla es que el plan sea cómodo para los dos: nada de gastos inesperados ni desplazamientos complicados. Lo importante es compartir la elección, no cumplirla a toda costa.",
-    "buenasNoches": "Los mejores planes no siempre necesitan mucha producción; a veces basta con ponerse de acuerdo y salir un rato.",
+    "detalle": "Cada persona propone tres pistas: un tipo de lugar (parque, librería, café o espacio cultural), algo que le gustaría hacer (mirar, probar, dibujar o escuchar) y un límite de presupuesto. Combinen las pistas y creen dos posibles planes de una o dos horas para otro día. Elijan cuál les entusiasma más y qué habría que comprobar antes de decidir. Si prefieren quedarse en casa, conviertan las pistas en una actividad para una tarde tranquila.",
+    "buenasNoches": "Un buen plan empieza por escuchar qué le gustaría hacer a cada uno.",
     "cancionTitulo": "Streiht Up Menace",
     "cancionArtista": "MC Eiht",
     "youtubeId": "sJmuseO04SQ",
@@ -8255,19 +8244,19 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy el plan no viene decidido: se construye con tres pistas y un poquito de improvisación."
+        "contenido": "Hoy vamos a jugar a diseñar una salida futura sin salir todavía ni comprometernos con una fecha."
       },
       "mensajePrincipal": {
         "titulo": "El plan que se arma con tres pistas",
-        "contenido": "Si coinciden en tiempo y ganas, armen una salida corta de una o dos horas. Cada persona propone una pista: un lugar (parque, librería, café o zona para caminar), algo que quieran hacer (mirar, probar, dibujar o escuchar) y un límite de presupuesto. Combinen las pistas y elijan una opción que funcione para ambos. Si no pueden salir, hagan la misma dinámica para escoger una película o una actividad en casa."
+        "contenido": "Cada persona propone tres pistas: un tipo de lugar (parque, librería, café o espacio cultural), algo que le gustaría hacer (mirar, probar, dibujar o escuchar) y un límite de presupuesto. Combinen las pistas y creen dos posibles planes de una o dos horas para otro día. Elijan cuál les entusiasma más y qué habría que comprobar antes de decidir. Si prefieren quedarse en casa, conviertan las pistas en una actividad para una tarde tranquila."
       },
       "palabraNueva": {
         "titulo": "La palabra azar",
         "contenido": "Circunstancia o suceso que ocurre sin poder predecirse por completo. Un poco de azar puede convertir un plan cotidiano en una experiencia distinta."
       },
       "buenasNoches": {
-        "contenido": "Los mejores planes no siempre necesitan mucha producción; a veces basta con ponerse de acuerdo y salir un rato.",
-        "titulo": "Buenas noches"
+        "titulo": "Buenas noches",
+        "contenido": "Un buen plan empieza por escuchar qué le gustaría hacer a cada uno."
       }
     },
     "palabraNueva": {
@@ -8478,10 +8467,9 @@ const CALENDARIO = [
     },
     "buenosDias": "Hoy el reto es pensar en esos gestos pequeños que hacen sentir a alguien tenido en cuenta.",
     "poema": [
-      "Elige un gesto sencillo que no implique comprar nada: compartir una canción que encaje con su día, recordar algo que tenía pendiente, guardar una foto de un momento divertido o enviar un mensaje deseándole suerte con algo importante. Si te nace hacerlo por alguien, que sea natural y sin esperar una respuesta especial. También puedes escribir qué gesto te gusta recibir a ti.",
-      "La atención se nota más cuando es genuina que cuando intenta impresionar."
+      "Elige un gesto sencillo que no implique comprar nada: compartir una canción que encaje con su día, recordar algo que tenía pendiente, guardar una foto de un momento divertido o enviar un mensaje deseándole suerte con algo importante. Si te nace hacerlo por alguien, que sea natural y sin esperar una respuesta especial. También puedes escribir qué gesto te gusta recibir a ti.\n\nLa atención se nota más cuando es genuina que cuando intenta impresionar."
     ],
-    "detalle": "La atención se nota más cuando es genuina que cuando intenta impresionar.",
+    "detalle": "Elige un gesto sencillo que no implique comprar nada: compartir una canción que encaje con su día, recordar algo que tenía pendiente, guardar una foto de un momento divertido o enviar un mensaje deseándole suerte con algo importante. Si te nace hacerlo por alguien, que sea natural y sin esperar una respuesta especial. También puedes escribir qué gesto te gusta recibir a ti.\n\nLa atención se nota más cuando es genuina que cuando intenta impresionar.",
     "buenasNoches": "Hay detalles que no cuestan nada y aun así pueden alegrar bastante el día.",
     "cancionTitulo": "Murderah",
     "cancionArtista": "Rap Bang Club; Norick",
@@ -8494,7 +8482,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Un detalle que no se compra",
-        "contenido": "Elige un gesto sencillo que no implique comprar nada: compartir una canción que encaje con su día, recordar algo que tenía pendiente, guardar una foto de un momento divertido o enviar un mensaje deseándole suerte con algo importante. Si te nace hacerlo por alguien, que sea natural y sin esperar una respuesta especial. También puedes escribir qué gesto te gusta recibir a ti.\n\nLa atención se nota más cuando es genuina que cuando intenta impresionar.\n\nLa atención se nota más cuando es genuina que cuando intenta impresionar."
+        "contenido": "Elige un gesto sencillo que no implique comprar nada: compartir una canción que encaje con su día, recordar algo que tenía pendiente, guardar una foto de un momento divertido o enviar un mensaje deseándole suerte con algo importante. Si te nace hacerlo por alguien, que sea natural y sin esperar una respuesta especial. También puedes escribir qué gesto te gusta recibir a ti.\n\nLa atención se nota más cuando es genuina que cuando intenta impresionar."
       },
       "palabraNueva": {
         "titulo": "La palabra consideración",
@@ -9173,7 +9161,7 @@ const CALENDARIO = [
     "dia": 194,
     "fecha": "2027-04-27",
     "fechaTexto": "mar, 27 de abr",
-    "categoria": "La pregunta que merece una caminata",
+    "categoria": "La pregunta para una conversación sin prisa",
     "icono": "🚶",
     "tono": "conversación y cercanía",
     "color": {
@@ -9181,13 +9169,12 @@ const CALENDARIO = [
       "suave": "#e9e4f6",
       "oscuro": "#28213f"
     },
-    "buenosDias": "Hay conversaciones que salen mejor cuando uno camina y no está pendiente de mirar una pantalla.",
+    "buenosDias": "Hoy guardamos una pregunta que puede abrir una charla diferente, sin necesidad de salir ni ponerse solemnes.",
     "poema": [
-      "Si coinciden, den una caminata corta por un lugar agradable y seguro. Lleven esta pregunta: «¿Qué cosa te gustaría que la gente entendiera mejor de ti?». Cada quien responde hasta donde quiera y puede hacer una pregunta de vuelta. No hace falta convertirlo en una charla solemne; también se vale desviarse, reírse o simplemente disfrutar el paseo.",
-      "Si no pueden salir, hagan la pregunta durante una llamada o mientras toman algo. Lo importante es escuchar sin apurar la respuesta."
+      "Lleven esta pregunta a la mesa: «¿Qué cosa te gustaría que la gente entendiera mejor de ti?». Cada quien responde hasta donde quiera y puede hacer una pregunta de vuelta. Después cambien a algo ligero: una comida que repetirían, una habilidad que aprenderían o un recuerdo que siempre les hace reír. No hace falta convertirlo en una charla profunda; también se vale desviarse, bromear o dejar una pregunta para otro día."
     ],
-    "detalle": "Si no pueden salir, hagan la pregunta durante una llamada o mientras toman algo. Lo importante es escuchar sin apurar la respuesta.",
-    "buenasNoches": "Qué bonito cuando una conversación encuentra su propio ritmo.",
+    "detalle": "Lleven esta pregunta a la mesa: «¿Qué cosa te gustaría que la gente entendiera mejor de ti?». Cada quien responde hasta donde quiera y puede hacer una pregunta de vuelta. Después cambien a algo ligero: una comida que repetirían, una habilidad que aprenderían o un recuerdo que siempre les hace reír. No hace falta convertirlo en una charla profunda; también se vale desviarse, bromear o dejar una pregunta para otro día.",
+    "buenasNoches": "La confianza también se construye cuando cada persona puede responder a su propio ritmo.",
     "cancionTitulo": "La Eterna - Remix",
     "cancionArtista": "Alcolirykoz",
     "youtubeId": "SBOcJT0BeJA",
@@ -9195,19 +9182,19 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hay conversaciones que salen mejor cuando uno camina y no está pendiente de mirar una pantalla."
+        "contenido": "Hoy guardamos una pregunta que puede abrir una charla diferente, sin necesidad de salir ni ponerse solemnes."
       },
       "mensajePrincipal": {
-        "titulo": "La pregunta que merece una caminata",
-        "contenido": "Si coinciden, den una caminata corta por un lugar agradable y seguro. Lleven esta pregunta: «¿Qué cosa te gustaría que la gente entendiera mejor de ti?». Cada quien responde hasta donde quiera y puede hacer una pregunta de vuelta. No hace falta convertirlo en una charla solemne; también se vale desviarse, reírse o simplemente disfrutar el paseo."
+        "titulo": "La pregunta para una conversación sin prisa",
+        "contenido": "Lleven esta pregunta a la mesa: «¿Qué cosa te gustaría que la gente entendiera mejor de ti?». Cada quien responde hasta donde quiera y puede hacer una pregunta de vuelta. Después cambien a algo ligero: una comida que repetirían, una habilidad que aprenderían o un recuerdo que siempre les hace reír. No hace falta convertirlo en una charla profunda; también se vale desviarse, bromear o dejar una pregunta para otro día."
       },
       "palabraNueva": {
         "titulo": "La palabra sintonía",
         "contenido": "Coincidencia o armonía entre personas, ideas o sentimientos. Hay sintonía cuando una conversación fluye sin que nadie tenga que forzarla."
       },
       "buenasNoches": {
-        "contenido": "Qué bonito cuando una conversación encuentra su propio ritmo.",
-        "titulo": "Buenas noches"
+        "titulo": "Buenas noches",
+        "contenido": "La confianza también se construye cuando cada persona puede responder a su propio ritmo."
       }
     },
     "palabraNueva": {
@@ -9841,10 +9828,9 @@ const CALENDARIO = [
     },
     "buenosDias": "Hoy vale la pena reconocer esas cosas que uno suele pasar por alto.",
     "poema": [
-      "Anoten cinco pequeñas victorias recientes: haber terminado algo pendiente, pedir ayuda, descansar cuando hacía falta, intentar de nuevo, poner un límite o simplemente atravesar una semana complicada. No tienen que ser logros impresionantes ni comparables con los de nadie. Si quieren compartirlas, cuenten qué les costó y qué les ayudó.",
-      "Escojan una de esas victorias y pónganle un título como si fuera el capítulo de una película."
+      "Anoten cinco pequeñas victorias recientes: haber terminado algo pendiente, pedir ayuda, descansar cuando hacía falta, intentar de nuevo, poner un límite o simplemente atravesar una semana complicada. No tienen que ser logros impresionantes ni comparables con los de nadie. Si quieren compartirlas, cuenten qué les costó y qué les ayudó.\n\nEscojan una de esas victorias y pónganle un título como si fuera el capítulo de una película."
     ],
-    "detalle": "Escojan una de esas victorias y pónganle un título como si fuera el capítulo de una película.",
+    "detalle": "Anoten cinco pequeñas victorias recientes: haber terminado algo pendiente, pedir ayuda, descansar cuando hacía falta, intentar de nuevo, poner un límite o simplemente atravesar una semana complicada. No tienen que ser logros impresionantes ni comparables con los de nadie. Si quieren compartirlas, cuenten qué les costó y qué les ayudó.\n\nEscojan una de esas victorias y pónganle un título como si fuera el capítulo de una película.",
     "buenasNoches": "No minimices lo que te tomó esfuerzo, incluso si desde afuera parecía sencillo.",
     "cancionTitulo": "El Día de Mi Suerte",
     "cancionArtista": "El Redcode",
@@ -9857,7 +9843,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La lista de pequeñas victorias",
-        "contenido": "Anoten cinco pequeñas victorias recientes: haber terminado algo pendiente, pedir ayuda, descansar cuando hacía falta, intentar de nuevo, poner un límite o simplemente atravesar una semana complicada. No tienen que ser logros impresionantes ni comparables con los de nadie. Si quieren compartirlas, cuenten qué les costó y qué les ayudó.\n\nEscojan una de esas victorias y pónganle un título como si fuera el capítulo de una película.\n\nEscojan una de esas victorias y pónganle un título como si fuera el capítulo de una película."
+        "contenido": "Anoten cinco pequeñas victorias recientes: haber terminado algo pendiente, pedir ayuda, descansar cuando hacía falta, intentar de nuevo, poner un límite o simplemente atravesar una semana complicada. No tienen que ser logros impresionantes ni comparables con los de nadie. Si quieren compartirlas, cuenten qué les costó y qué les ayudó.\n\nEscojan una de esas victorias y pónganle un título como si fuera el capítulo de una película."
       },
       "palabraNueva": {
         "titulo": "La palabra resiliencia",
@@ -11768,10 +11754,9 @@ const CALENDARIO = [
     },
     "buenosDias": "Hoy vamos a cambiar el orden de una rutina pequeña para verla de otra manera.",
     "poema": [
-      "Escoge una actividad cotidiana que no implique riesgos —organizar el escritorio, preparar la maleta, alistar materiales o planear una lista de pendientes— y escribe sus pasos en orden habitual. Luego reorganízalos de una forma diferente, comprobando que siga siendo práctica y segura. ¿Qué paso parecía más importante y cuál resultó flexible?",
-      "Quédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo."
+      "Escoge una actividad cotidiana que no implique riesgos —organizar el escritorio, preparar la maleta, alistar materiales o planear una lista de pendientes— y escribe sus pasos en orden habitual. Luego reorganízalos de una forma diferente, comprobando que siga siendo práctica y segura. ¿Qué paso parecía más importante y cuál resultó flexible?\n\nQuédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo."
     ],
-    "detalle": "Quédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo.",
+    "detalle": "Escoge una actividad cotidiana que no implique riesgos —organizar el escritorio, preparar la maleta, alistar materiales o planear una lista de pendientes— y escribe sus pasos en orden habitual. Luego reorganízalos de una forma diferente, comprobando que siga siendo práctica y segura. ¿Qué paso parecía más importante y cuál resultó flexible?\n\nQuédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo.",
     "buenasNoches": "A veces mejorar no significa hacer más, sino encontrar un orden que nos funcione mejor.",
     "cancionTitulo": "Mind Playing Tricks on Me",
     "cancionArtista": "Geto Boys",
@@ -11784,7 +11769,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El experimento de cambiar el orden",
-        "contenido": "Escoge una actividad cotidiana que no implique riesgos —organizar el escritorio, preparar la maleta, alistar materiales o planear una lista de pendientes— y escribe sus pasos en orden habitual. Luego reorganízalos de una forma diferente, comprobando que siga siendo práctica y segura. ¿Qué paso parecía más importante y cuál resultó flexible?\n\nQuédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo.\n\nQuédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo."
+        "contenido": "Escoge una actividad cotidiana que no implique riesgos —organizar el escritorio, preparar la maleta, alistar materiales o planear una lista de pendientes— y escribe sus pasos en orden habitual. Luego reorganízalos de una forma diferente, comprobando que siga siendo práctica y segura. ¿Qué paso parecía más importante y cuál resultó flexible?\n\nQuédate con un cambio útil si lo encontraste; no hay que modificar la rutina solo por hacerlo."
       },
       "palabraNueva": {
         "titulo": "La palabra secuencia",
@@ -11815,10 +11800,9 @@ const CALENDARIO = [
     },
     "buenosDias": "Hoy hay una pregunta que puede abrir una conversación sin necesidad de ponerse solemnes.",
     "poema": [
-      "¿Qué cosa pequeña te hace sentir que un día valió la pena? Puede ser terminar algo pendiente, descubrir una canción, comer algo rico, tener una charla inesperada o descansar sin culpa. Cada quien responde con un ejemplo concreto y, si quiere, cuenta por qué ese detalle tiene valor. Escuchen sin convertir la respuesta en una competencia de quién tiene el mejor día.",
-      "La conversación puede quedarse ahí o seguir por donde la curiosidad la lleve."
+      "¿Qué cosa pequeña te hace sentir que un día valió la pena? Puede ser terminar algo pendiente, descubrir una canción, comer algo rico, tener una charla inesperada o descansar sin culpa. Cada quien responde con un ejemplo concreto y, si quiere, cuenta por qué ese detalle tiene valor. Escuchen sin convertir la respuesta en una competencia de quién tiene el mejor día.\n\nLa conversación puede quedarse ahí o seguir por donde la curiosidad la lleve."
     ],
-    "detalle": "La conversación puede quedarse ahí o seguir por donde la curiosidad la lleve.",
+    "detalle": "¿Qué cosa pequeña te hace sentir que un día valió la pena? Puede ser terminar algo pendiente, descubrir una canción, comer algo rico, tener una charla inesperada o descansar sin culpa. Cada quien responde con un ejemplo concreto y, si quiere, cuenta por qué ese detalle tiene valor. Escuchen sin convertir la respuesta en una competencia de quién tiene el mejor día.\n\nLa conversación puede quedarse ahí o seguir por donde la curiosidad la lleve.",
     "buenasNoches": "A veces entender lo que hace bien a alguien es una manera sencilla de conocerlo mejor.",
     "cancionTitulo": "I Got 5 On It",
     "cancionArtista": "Luniz; Michael Marshall",
@@ -11831,7 +11815,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "La pregunta para una conversación larga",
-        "contenido": "¿Qué cosa pequeña te hace sentir que un día valió la pena? Puede ser terminar algo pendiente, descubrir una canción, comer algo rico, tener una charla inesperada o descansar sin culpa. Cada quien responde con un ejemplo concreto y, si quiere, cuenta por qué ese detalle tiene valor. Escuchen sin convertir la respuesta en una competencia de quién tiene el mejor día.\n\nLa conversación puede quedarse ahí o seguir por donde la curiosidad la lleve.\n\nLa conversación puede quedarse ahí o seguir por donde la curiosidad la lleve."
+        "contenido": "¿Qué cosa pequeña te hace sentir que un día valió la pena? Puede ser terminar algo pendiente, descubrir una canción, comer algo rico, tener una charla inesperada o descansar sin culpa. Cada quien responde con un ejemplo concreto y, si quiere, cuenta por qué ese detalle tiene valor. Escuchen sin convertir la respuesta en una competencia de quién tiene el mejor día.\n\nLa conversación puede quedarse ahí o seguir por donde la curiosidad la lleve."
       },
       "palabraNueva": {
         "titulo": "La palabra matiz",
@@ -16599,20 +16583,20 @@ const CALENDARIO = [
     "dia": 352,
     "fecha": "2027-10-02",
     "fechaTexto": "sáb, 2 de oct",
-    "categoria": "Una salida de medio día con una misión compartida",
+    "categoria": "El álbum de los detalles que nos rodean",
     "icono": "🧭",
-    "tono": "salida sencilla y complicidad",
+    "tono": "memoria y creatividad",
     "color": {
       "principal": "#9cbea8",
       "suave": "#e4f0e7",
       "oscuro": "#263d2d"
     },
-    "buenosDias": "Si hoy coincide el tiempo, podemos cambiar de escenario durante unas horas. Sin agenda apretada.",
+    "buenosDias": "Hoy vamos a reunir pequeñas escenas sin necesidad de organizar una salida.",
     "poema": [
-      "Elijan un lugar agradable para caminar —un mirador, un parque amplio, un lago o una zona tranquila—, lleven algo para tomar y busquen tres detalles que normalmente pasarían inadvertidos. Después pueden sentarse, conversar y elegir una foto del paseo. Si el clima o las ganas cambian, se adapta o se deja para otro día."
+      "Elige cuatro fotografías de tu entorno: una de algo que te hizo reír, otra de una textura, otra de un objeto que tenga historia y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al mirarlo. Si compartes el ejercicio, intercambien las fotos y traten de adivinar qué llamó la atención de la otra persona."
     ],
-    "detalle": "Elijan un lugar agradable para caminar —un mirador, un parque amplio, un lago o una zona tranquila—, lleven algo para tomar y busquen tres detalles que normalmente pasarían inadvertidos. Después pueden sentarse, conversar y elegir una foto del paseo. Si el clima o las ganas cambian, se adapta o se deja para otro día.",
-    "buenasNoches": "Los planes sencillos también construyen recuerdos. Lo importante es que el paseo se sienta ligero para los dos.",
+    "detalle": "Elige cuatro fotografías de tu entorno: una de algo que te hizo reír, otra de una textura, otra de un objeto que tenga historia y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al mirarlo. Si compartes el ejercicio, intercambien las fotos y traten de adivinar qué llamó la atención de la otra persona.",
+    "buenasNoches": "No necesitas ir lejos para encontrar una escena que merezca quedarse contigo.",
     "cancionTitulo": "All Eyez On Me (ft. Big Syke)",
     "cancionArtista": "2Pac; Big Syke",
     "youtubeId": "zgZ52M4a_R0",
@@ -16625,19 +16609,19 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Si hoy coincide el tiempo, podemos cambiar de escenario durante unas horas. Sin agenda apretada."
+        "contenido": "Hoy vamos a reunir pequeñas escenas sin necesidad de organizar una salida."
       },
       "mensajePrincipal": {
-        "titulo": "Una salida de medio día con una misión compartida",
-        "contenido": "Elijan un lugar agradable para caminar —un mirador, un parque amplio, un lago o una zona tranquila—, lleven algo para tomar y busquen tres detalles que normalmente pasarían inadvertidos. Después pueden sentarse, conversar y elegir una foto del paseo. Si el clima o las ganas cambian, se adapta o se deja para otro día."
+        "titulo": "El álbum de los detalles que nos rodean",
+        "contenido": "Elige cuatro fotografías de tu entorno: una de algo que te hizo reír, otra de una textura, otra de un objeto que tenga historia y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al mirarlo. Si compartes el ejercicio, intercambien las fotos y traten de adivinar qué llamó la atención de la otra persona."
       },
       "palabraNueva": {
         "titulo": "La palabra derrotero",
         "contenido": "DERROTERO\n\nRumbo o camino que se sigue para llegar a un lugar o alcanzar un propósito.\n\nEjemplo: «Una frase propia con derrotero.»"
       },
       "buenasNoches": {
-        "titulo": "Cierre de hoy",
-        "contenido": "Los planes sencillos también construyen recuerdos. Lo importante es que el paseo se sienta ligero para los dos."
+        "titulo": "Buenas noches",
+        "contenido": "No necesitas ir lejos para encontrar una escena que merezca quedarse contigo."
       }
     },
     "inspiracionCancion": "La canción acompaña el tono de este día: salida sencilla y complicidad, con una atmósfera propia y sin reproducir su letra."
@@ -16975,20 +16959,20 @@ const CALENDARIO = [
     "dia": 360,
     "fecha": "2027-10-10",
     "fechaTexto": "dom, 10 de oct",
-    "categoria": "Una escapada de dos días para cambiar de aire",
+    "categoria": "El diseño de una escapada de dos días",
     "icono": "🏕️",
-    "tono": "viaje compartido y confianza",
+    "tono": "planes futuros y confianza",
     "color": {
       "principal": "#9ab9a3",
       "suave": "#e6f0e6",
       "oscuro": "#2b4030"
     },
-    "buenosDias": "Ya podemos imaginar un plan un poco más largo, pero sigue siendo una propuesta flexible: dos días, una noche.",
+    "buenosDias": "Hoy no toca reservar ni viajar: vamos a diseñar con calma una escapada de dos días para cuando ambos quieran y puedan.",
     "poema": [
-      "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Día uno: llegar, caminar un poco y preparar una cena fácil. Día dos: desayunar sin afán, hacer una actividad corta y regresar. Antes de decidir, revisen presupuesto, transporte, clima, seguridad y que ambos quieran hacerlo. Si dos días no encajan, se transforma en una salida de un día."
+      "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Diseñen dos jornadas flexibles: el primer día, llegar con luz, caminar un poco y preparar una cena fácil; el segundo, desayunar sin afán, hacer una actividad corta y regresar. Anoten presupuesto aproximado, transporte, clima, seguridad, comida adecuada y qué necesitarían llevar. No elijan destino ni fecha todavía; el plan solo se concreta si a ambos les entusiasma y les resulta viable."
     ],
-    "detalle": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Día uno: llegar, caminar un poco y preparar una cena fácil. Día dos: desayunar sin afán, hacer una actividad corta y regresar. Antes de decidir, revisen presupuesto, transporte, clima, seguridad y que ambos quieran hacerlo. Si dos días no encajan, se transforma en una salida de un día.",
-    "buenasNoches": "Los planes más bonitos son los que pueden adaptarse a la realidad de los dos.",
+    "detalle": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Diseñen dos jornadas flexibles: el primer día, llegar con luz, caminar un poco y preparar una cena fácil; el segundo, desayunar sin afán, hacer una actividad corta y regresar. Anoten presupuesto aproximado, transporte, clima, seguridad, comida adecuada y qué necesitarían llevar. No elijan destino ni fecha todavía; el plan solo se concreta si a ambos les entusiasma y les resulta viable.",
+    "buenasNoches": "Los planes compartidos se disfrutan más cuando se construyen entre los dos y sin presión.",
     "cancionTitulo": "Círculo Vicioso",
     "cancionArtista": "Granuja",
     "youtubeId": "23xU8aPP2D8",
@@ -17001,19 +16985,19 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Ya podemos imaginar un plan un poco más largo, pero sigue siendo una propuesta flexible: dos días, una noche."
+        "contenido": "Hoy no toca reservar ni viajar: vamos a diseñar con calma una escapada de dos días para cuando ambos quieran y puedan."
       },
       "mensajePrincipal": {
-        "titulo": "Una escapada de dos días para cambiar de aire",
-        "contenido": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Día uno: llegar, caminar un poco y preparar una cena fácil. Día dos: desayunar sin afán, hacer una actividad corta y regresar. Antes de decidir, revisen presupuesto, transporte, clima, seguridad y que ambos quieran hacerlo. Si dos días no encajan, se transforma en una salida de un día."
+        "titulo": "El diseño de una escapada de dos días",
+        "contenido": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Diseñen dos jornadas flexibles: el primer día, llegar con luz, caminar un poco y preparar una cena fácil; el segundo, desayunar sin afán, hacer una actividad corta y regresar. Anoten presupuesto aproximado, transporte, clima, seguridad, comida adecuada y qué necesitarían llevar. No elijan destino ni fecha todavía; el plan solo se concreta si a ambos les entusiasma y les resulta viable."
       },
       "palabraNueva": {
         "titulo": "La palabra escapada",
         "contenido": "ESCAPADA\n\nViaje breve o salida corta para descansar o cambiar de ambiente.\n\nEjemplo: «Una frase propia con escapada.»"
       },
       "buenasNoches": {
-        "titulo": "Cierre de hoy",
-        "contenido": "Los planes más bonitos son los que pueden adaptarse a la realidad de los dos."
+        "titulo": "Buenas noches",
+        "contenido": "Los planes compartidos se disfrutan más cuando se construyen entre los dos y sin presión."
       }
     },
     "inspiracionCancion": "La canción acompaña el tono de este día: viaje compartido y confianza, con una atmósfera propia y sin reproducir su letra."
