@@ -6954,5 +6954,327 @@ const CALENDARIO = [
       "significado": "Diferencia pequeña que aporta un sentido particular a una idea.",
       "ejemplo": "Un matiz puede cambiar una respuesta sencilla por una conversación interesante."
     }
+  },
+  {
+    "dia": 161,
+    "fecha": "2027-03-25",
+    "fechaTexto": "jue, 25 de mar",
+    "categoria": "El ranking de cosas inexplicablemente buenas",
+    "icono": "📋",
+    "tono": "humor y opinión",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy toca defender gustos pequeños como si fueran decisiones de Estado.",
+    "poema": [
+      "Haz un top cinco de cosas sencillas que te mejoran el día: el primer sorbo de una bebida, encontrar una canción perfecta, quitarte los zapatos al llegar, una ducha después de un día largo o cualquier rareza tuya. Ponlas en orden y escribe una justificación dramática para el primer puesto. Si lo hacen dos, comparen sus rankings y negocien cuál merece entrar en ambos.",
+      "Puedes convertir el ranking en un póster con un título exagerado, como «Las cinco maravillas que la humanidad todavía no valora lo suficiente»."
+    ],
+    "detalle": "Puedes convertir el ranking en un póster con un título exagerado, como «Las cinco maravillas que la humanidad todavía no valora lo suficiente».",
+    "buenasNoches": "Que nunca falten esas pequeñas cosas que hacen más amable un día normal.",
+    "cancionTitulo": "Mama Said Knock You Out",
+    "cancionArtista": "LL COOL J",
+    "youtubeId": "vimZj8HW0Kg",
+    "cancionUrl": "https://www.youtube.com/watch?v=vimZj8HW0Kg",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy toca defender gustos pequeños como si fueran decisiones de Estado."
+      },
+      "mensajePrincipal": {
+        "titulo": "El ranking de cosas inexplicablemente buenas",
+        "contenido": "Haz un top cinco de cosas sencillas que te mejoran el día: el primer sorbo de una bebida, encontrar una canción perfecta, quitarte los zapatos al llegar, una ducha después de un día largo o cualquier rareza tuya. Ponlas en orden y escribe una justificación dramática para el primer puesto. Si lo hacen dos, comparen sus rankings y negocien cuál merece entrar en ambos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra jerarquía",
+        "contenido": "Orden o clasificación de elementos según su importancia o preferencia. Una jerarquía personal puede poner el olor a pan recién hecho por encima de muchas cosas."
+      },
+      "buenasNoches": {
+        "contenido": "Que nunca falten esas pequeñas cosas que hacen más amable un día normal."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Jerarquía",
+      "significado": "Orden o clasificación de elementos según su importancia o preferencia.",
+      "ejemplo": "Una jerarquía personal puede poner el olor a pan recién hecho por encima de muchas cosas."
+    }
+  },
+  {
+    "dia": 162,
+    "fecha": "2027-03-26",
+    "fechaTexto": "vie, 26 de mar",
+    "categoria": "El objeto con doble identidad",
+    "icono": "🕶️",
+    "tono": "creatividad e ingenio",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a mirar un objeto cotidiano como si escondiera otra identidad.",
+    "poema": [
+      "Escoge algo que tengas cerca: una cuchara, una caja, una llave o una botella. Imagina que en realidad es un artefacto de otro mundo. Dale un nombre, una función secreta y una instrucción de uso. Incluye también un defecto absurdo: solo funciona los martes, se activa con estornudos o necesita escuchar una canción antes de arrancar. Si participan dos, uno inventa el objeto y el otro descubre cómo se usa.",
+      "Dibuja el artefacto en el lienzo como si fuera una ficha de catálogo futurista. Añade tres características y una advertencia de seguridad disparatada."
+    ],
+    "detalle": "Dibuja el artefacto en el lienzo como si fuera una ficha de catálogo futurista. Añade tres características y una advertencia de seguridad disparatada.",
+    "buenasNoches": "La imaginación tiene esa costumbre bonita de encontrar posibilidades donde parecía que no había nada.",
+    "cancionTitulo": "Flava in Ya Ear",
+    "cancionArtista": "Craig Mack",
+    "youtubeId": "GNFqMx0gY7I",
+    "cancionUrl": "https://www.youtube.com/watch?v=GNFqMx0gY7I",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a mirar un objeto cotidiano como si escondiera otra identidad."
+      },
+      "mensajePrincipal": {
+        "titulo": "El objeto con doble identidad",
+        "contenido": "Escoge algo que tengas cerca: una cuchara, una caja, una llave o una botella. Imagina que en realidad es un artefacto de otro mundo. Dale un nombre, una función secreta y una instrucción de uso. Incluye también un defecto absurdo: solo funciona los martes, se activa con estornudos o necesita escuchar una canción antes de arrancar. Si participan dos, uno inventa el objeto y el otro descubre cómo se usa."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra metamorfosis",
+        "contenido": "Transformación de algo en una forma o estado diferente. Con imaginación, un objeto común puede sufrir una metamorfosis y convertirse en otra cosa."
+      },
+      "buenasNoches": {
+        "contenido": "La imaginación tiene esa costumbre bonita de encontrar posibilidades donde parecía que no había nada."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Metamorfosis",
+      "significado": "Transformación de algo en una forma o estado diferente.",
+      "ejemplo": "Con imaginación, un objeto común puede sufrir una metamorfosis y convertirse en otra cosa."
+    }
+  },
+  {
+    "dia": 163,
+    "fecha": "2027-03-27",
+    "fechaTexto": "sáb, 27 de mar",
+    "categoria": "Una tarde para descubrir un rincón nuevo",
+    "icono": "🚶",
+    "tono": "plan de un día",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Si se da el tiempo y las ganas, hoy queda propuesta una salida sencilla para cambiar de escenario.",
+    "poema": [
+      "Elijan una zona cómoda y segura que ninguno conozca demasiado. La idea es caminar sin afán durante un rato, entrar a una librería o tienda curiosa si aparece, sentarse a tomar algo y escoger un detalle del recorrido para recordar. Puede ser un barrio caminable, un parque o una zona cultural. Definan antes transporte, presupuesto y hora de regreso; no hace falta convertirlo en un plan de todo el día ni hacerlo si no coinciden los horarios.",
+      "Reto opcional: cada uno elige un detalle del paseo —un color, una fachada, una frase o un sonido— y le toma una foto sin incluir personas desconocidas."
+    ],
+    "detalle": "Reto opcional: cada uno elige un detalle del paseo —un color, una fachada, una frase o un sonido— y le toma una foto sin incluir personas desconocidas.",
+    "buenasNoches": "A veces cambiar de ruta por un par de horas es suficiente para despejar la cabeza.",
+    "cancionTitulo": "How I Could Just Kill a Man",
+    "cancionArtista": "Cypress Hill",
+    "youtubeId": "Yg-RIOATCbU",
+    "cancionUrl": "https://www.youtube.com/watch?v=Yg-RIOATCbU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Si se da el tiempo y las ganas, hoy queda propuesta una salida sencilla para cambiar de escenario."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una tarde para descubrir un rincón nuevo",
+        "contenido": "Elijan una zona cómoda y segura que ninguno conozca demasiado. La idea es caminar sin afán durante un rato, entrar a una librería o tienda curiosa si aparece, sentarse a tomar algo y escoger un detalle del recorrido para recordar. Puede ser un barrio caminable, un parque o una zona cultural. Definan antes transporte, presupuesto y hora de regreso; no hace falta convertirlo en un plan de todo el día ni hacerlo si no coinciden los horarios."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra deriva",
+        "contenido": "Recorrido sin una ruta rígida, guiado por la curiosidad y lo que se va encontrando. Una deriva urbana permite descubrir detalles sin correr de un lugar a otro."
+      },
+      "buenasNoches": {
+        "contenido": "A veces cambiar de ruta por un par de horas es suficiente para despejar la cabeza."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Deriva",
+      "significado": "Recorrido sin una ruta rígida, guiado por la curiosidad y lo que se va encontrando.",
+      "ejemplo": "Una deriva urbana permite descubrir detalles sin correr de un lugar a otro."
+    }
+  },
+  {
+    "dia": 164,
+    "fecha": "2027-03-28",
+    "fechaTexto": "dom, 28 de mar",
+    "categoria": "El menú de un restaurante imposible",
+    "icono": "🍽️",
+    "tono": "juego creativo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a inventar un restaurante que no podría existir, pero al que igual darían ganas de entrar.",
+    "poema": [
+      "Imaginen un restaurante temático: comida para viajeros del tiempo, platos inspirados en planetas o recetas de personajes de ficción. Inventen tres platos y una bebida sin alcohol. Cada uno debe tener nombre, descripción breve y precio imaginario. La regla es que el menú tenga sentido dentro del tema y que al menos un plato sea completamente inesperado. Si lo hacen juntos, uno diseña los platos y el otro la decoración y el ambiente.",
+      "En el lienzo arma la primera página del menú con el nombre del restaurante, un plato estrella y una ilustración. No hace falta preparar la comida de verdad."
+    ],
+    "detalle": "En el lienzo arma la primera página del menú con el nombre del restaurante, un plato estrella y una ilustración. No hace falta preparar la comida de verdad.",
+    "buenasNoches": "Hay ideas que saben bien incluso antes de llegar a la mesa.",
+    "cancionTitulo": "Livin' Proof",
+    "cancionArtista": "Group Home",
+    "youtubeId": "NA6nF3qM_pI",
+    "cancionUrl": "https://www.youtube.com/watch?v=NA6nF3qM_pI",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a inventar un restaurante que no podría existir, pero al que igual darían ganas de entrar."
+      },
+      "mensajePrincipal": {
+        "titulo": "El menú de un restaurante imposible",
+        "contenido": "Imaginen un restaurante temático: comida para viajeros del tiempo, platos inspirados en planetas o recetas de personajes de ficción. Inventen tres platos y una bebida sin alcohol. Cada uno debe tener nombre, descripción breve y precio imaginario. La regla es que el menú tenga sentido dentro del tema y que al menos un plato sea completamente inesperado. Si lo hacen juntos, uno diseña los platos y el otro la decoración y el ambiente."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra maridaje",
+        "contenido": "Combinación de elementos que se complementan, especialmente sabores y bebidas. Un buen maridaje busca que dos sabores se acompañen sin competir."
+      },
+      "buenasNoches": {
+        "contenido": "Hay ideas que saben bien incluso antes de llegar a la mesa."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Maridaje",
+      "significado": "Combinación de elementos que se complementan, especialmente sabores y bebidas.",
+      "ejemplo": "Un buen maridaje busca que dos sabores se acompañen sin competir."
+    }
+  },
+  {
+    "dia": 165,
+    "fecha": "2027-03-29",
+    "fechaTexto": "lun, 29 de mar",
+    "categoria": "El mensaje que habría querido escuchar",
+    "icono": "💬",
+    "tono": "cercano y reflexivo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la actividad es sencilla: pensar en palabras que acompañan sin intentar solucionar todo.",
+    "poema": [
+      "Completa esta frase para ti: «Cuando tengo un día complicado, me ayuda que alguien…». Puede ser que escuche, haga reír, dé espacio, pregunte cómo va todo o proponga salir a caminar. Después escribe una segunda frase: «Y lo que no me ayuda tanto es…». No es una exigencia para nadie; es una forma de reconocer qué tipo de compañía te hace bien. Si se comparte, escuchen sin discutir ni intentar corregir la respuesta.",
+      "Guarda la frase que más te represente. También puedes convertirla en una nota breve para recordarla cuando haga falta."
+    ],
+    "detalle": "Guarda la frase que más te represente. También puedes convertirla en una nota breve para recordarla cuando haga falta.",
+    "buenasNoches": "Saber qué nos hace bien también es una forma de cuidarnos.",
+    "cancionTitulo": "Whirlwind Thru Cities",
+    "cancionArtista": "Afu-Ra",
+    "youtubeId": "Q3nMnBvjcAg",
+    "cancionUrl": "https://www.youtube.com/watch?v=Q3nMnBvjcAg",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la actividad es sencilla: pensar en palabras que acompañan sin intentar solucionar todo."
+      },
+      "mensajePrincipal": {
+        "titulo": "El mensaje que habría querido escuchar",
+        "contenido": "Completa esta frase para ti: «Cuando tengo un día complicado, me ayuda que alguien…». Puede ser que escuche, haga reír, dé espacio, pregunte cómo va todo o proponga salir a caminar. Después escribe una segunda frase: «Y lo que no me ayuda tanto es…». No es una exigencia para nadie; es una forma de reconocer qué tipo de compañía te hace bien. Si se comparte, escuchen sin discutir ni intentar corregir la respuesta."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra validación",
+        "contenido": "Reconocimiento de que una emoción, experiencia o punto de vista merece ser escuchado. A veces una frase de validación ayuda más que un consejo inmediato."
+      },
+      "buenasNoches": {
+        "contenido": "Saber qué nos hace bien también es una forma de cuidarnos."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Validación",
+      "significado": "Reconocimiento de que una emoción, experiencia o punto de vista merece ser escuchado.",
+      "ejemplo": "A veces una frase de validación ayuda más que un consejo inmediato."
+    }
+  },
+  {
+    "dia": 166,
+    "fecha": "2027-03-30",
+    "fechaTexto": "mar, 30 de mar",
+    "categoria": "La escena congelada",
+    "icono": "🎞️",
+    "tono": "juego visual",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a construir una escena como si alguien hubiera pausado una película justo en el momento más curioso.",
+    "poema": [
+      "Elijan una situación sencilla: alguien llega tarde, se cae una torre de cartas, una mascota escucha un ruido o un personaje descubre algo inesperado. Cada persona debe describir dónde está cada elemento, qué acaba de pasar y qué ocurrirá un segundo después. La otra persona dibuja la escena sin pedir más de tres aclaraciones. Comparen los resultados y vean qué detalles imaginó cada quien.",
+      "En el lienzo crea un fotograma congelado con un título y una pequeña línea de diálogo. Puede ser cómico, misterioso o cinematográfico."
+    ],
+    "detalle": "En el lienzo crea un fotograma congelado con un título y una pequeña línea de diálogo. Puede ser cómico, misterioso o cinematográfico.",
+    "buenasNoches": "Qué curioso todo lo que puede caber en un solo instante.",
+    "cancionTitulo": "Mama Dejame Fumar",
+    "cancionArtista": "Asilo 38",
+    "youtubeId": "i3dCS-s0LBQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=i3dCS-s0LBQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a construir una escena como si alguien hubiera pausado una película justo en el momento más curioso."
+      },
+      "mensajePrincipal": {
+        "titulo": "La escena congelada",
+        "contenido": "Elijan una situación sencilla: alguien llega tarde, se cae una torre de cartas, una mascota escucha un ruido o un personaje descubre algo inesperado. Cada persona debe describir dónde está cada elemento, qué acaba de pasar y qué ocurrirá un segundo después. La otra persona dibuja la escena sin pedir más de tres aclaraciones. Comparen los resultados y vean qué detalles imaginó cada quien."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra instante",
+        "contenido": "Momento muy breve que se percibe como una unidad dentro del tiempo. Una fotografía puede conservar un instante que de otra forma pasaría desapercibido."
+      },
+      "buenasNoches": {
+        "contenido": "Qué curioso todo lo que puede caber en un solo instante."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Instante",
+      "significado": "Momento muy breve que se percibe como una unidad dentro del tiempo.",
+      "ejemplo": "Una fotografía puede conservar un instante que de otra forma pasaría desapercibido."
+    }
+  },
+  {
+    "dia": 167,
+    "fecha": "2027-03-31",
+    "fechaTexto": "mié, 31 de mar",
+    "categoria": "Una curiosidad que merece conversación",
+    "icono": "🪐",
+    "tono": "conversación y descubrimiento",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy cada quien trae una curiosidad que le haya dejado pensando.",
+    "poema": [
+      "Busca o recuerda un dato, fenómeno o pregunta interesante que no sea demasiado complicado de explicar: por qué algunos animales brillan, cómo se forman ciertos colores, qué hace que una canción se quede en la cabeza o cómo se orientan las aves. Cuéntalo en un minuto y deja una pregunta abierta para que la otra persona aporte una teoría. No importa tener la explicación perfecta; lo importante es despertar curiosidad.",
+      "Si quieren, conviertan la mejor pregunta en una mini portada de revista científica con un titular llamativo y una ilustración."
+    ],
+    "detalle": "Si quieren, conviertan la mejor pregunta en una mini portada de revista científica con un titular llamativo y una ilustración.",
+    "buenasNoches": "Que nunca se nos acaben las ganas de aprender algo que no sabíamos ayer.",
+    "cancionTitulo": "El Despilfarro",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "iKvJo5Vs244",
+    "cancionUrl": "https://www.youtube.com/watch?v=iKvJo5Vs244",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy cada quien trae una curiosidad que le haya dejado pensando."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una curiosidad que merece conversación",
+        "contenido": "Busca o recuerda un dato, fenómeno o pregunta interesante que no sea demasiado complicado de explicar: por qué algunos animales brillan, cómo se forman ciertos colores, qué hace que una canción se quede en la cabeza o cómo se orientan las aves. Cuéntalo en un minuto y deja una pregunta abierta para que la otra persona aporte una teoría. No importa tener la explicación perfecta; lo importante es despertar curiosidad."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra asombro",
+        "contenido": "Emoción que surge al descubrir algo extraordinario o inesperado. El asombro puede aparecer cuando alguien comparte una idea que nunca habías considerado."
+      },
+      "buenasNoches": {
+        "contenido": "Que nunca se nos acaben las ganas de aprender algo que no sabíamos ayer."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Asombro",
+      "significado": "Emoción que surge al descubrir algo extraordinario o inesperado.",
+      "ejemplo": "El asombro puede aparecer cuando alguien comparte una idea que nunca habías considerado."
+    }
   }
 ];
