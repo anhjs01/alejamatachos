@@ -144,7 +144,7 @@
     // La categoría real del catálogo permite que el botón "siguiente" y el
     // avance automático sigan funcionando aunque el tono del día sea distinto.
     cancionActual.categoria = categoriaEncontrada ||
-      (typeof CATALOGO_CANCIONES !== "undefined" && CATALOGO_CANCIONES[dia.tono] ? dia.tono : "amor");
+      (typeof CATALOGO_CANCIONES !== "undefined" && CATALOGO_CANCIONES[dia.tono] ? dia.tono : null);
     sonando = false;
     errorReproduccion = false;
     reproducirId(dia.youtubeId, false);
