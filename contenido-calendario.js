@@ -13076,5 +13076,329 @@ const CALENDARIO = [
         "ejemplo": "Hay personas cuyo magnetismo está en la manera espontánea de sonreír o escuchar."
       }
     }
+  ],
+[
+    {
+      "dia": 294,
+      "fecha": "2027-08-05",
+      "fechaTexto": "jue, 5 de ago",
+      "categoria": "El alfabeto de las cosas favoritas",
+      "icono": "🔤",
+      "tono": "creatividad y expresión",
+      "color": {
+        "principal": "#8db8d0",
+        "suave": "#e5f0f6",
+        "oscuro": "#263c4b"
+      },
+      "buenosDias": "Hoy vamos a convertir las letras en excusas para descubrir gustos inesperados.",
+      "poema": [
+        "Escribe tu nombre en vertical y, junto a cada letra, anota algo que te guste: una comida, un sonido, una película, un lugar, un color o una pequeña costumbre. Si una letra se complica, inventa una respuesta absurda. Después elige tres palabras y conviértelas en un pequeño diseño usando tamaños, trazos y estilos distintos.",
+        "Si lo compartes con alguien, esa persona puede elegir una letra y preguntarte por qué escogiste esa respuesta. No hace falta que todas tengan una gran historia: a veces basta con que te hagan sonreír."
+      ],
+      "detalle": "Ponle un título a tu alfabeto, como si fuera la portada de una revista sobre ti.",
+      "buenasNoches": "Hay gustos que parecen mínimos, pero juntos dibujan un retrato bastante interesante.",
+      "cancionTitulo": "Shape of You",
+      "cancionArtista": "Ed Sheeran",
+      "youtubeId": "JGwWNGJdvx8",
+      "cancionUrl": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a convertir las letras en excusas para descubrir gustos inesperados."
+        },
+        "mensajePrincipal": {
+          "titulo": "El alfabeto de las cosas favoritas",
+          "contenido": "Escribe tu nombre en vertical y, junto a cada letra, anota algo que te guste: una comida, un sonido, una película, un lugar, un color o una pequeña costumbre. Si una letra se complica, inventa una respuesta absurda. Después elige tres palabras y conviértelas en un pequeño diseño usando tamaños, trazos y estilos distintos."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra filigrana",
+          "contenido": "Adorno delicado formado por hilos o trazos finos entrelazados. Puedes convertir una letra sencilla en una filigrana de líneas y pequeños detalles."
+        },
+        "buenasNoches": {
+          "contenido": "Hay gustos que parecen mínimos, pero juntos dibujan un retrato bastante interesante."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Filigrana",
+        "significado": "Adorno delicado formado por hilos o trazos finos entrelazados.",
+        "ejemplo": "Puedes convertir una letra sencilla en una filigrana de líneas y pequeños detalles."
+      }
+    },
+    {
+      "dia": 295,
+      "fecha": "2027-08-06",
+      "fechaTexto": "vie, 6 de ago",
+      "categoria": "El detective de las pistas invisibles",
+      "icono": "🔎",
+      "tono": "observación y deducción",
+      "color": {
+        "principal": "#b4a6d6",
+        "suave": "#eee9f6",
+        "oscuro": "#392e4d"
+      },
+      "buenosDias": "Hoy toca investigar, pero el misterio está escondido en algo que parece completamente normal.",
+      "poema": [
+        "Una persona elige un objeto que tenga cerca y escribe cinco pistas sobre él sin mencionar su nombre, su color ni para qué sirve. La otra persona puede hacer hasta siete preguntas que solo se respondan con sí o no. Si no lo adivina, recibe una pista extra; después cambian de turno.",
+        "Para hacerlo más difícil, elijan objetos que no estén a la vista y describan detalles de memoria. Gana quien logre despistar sin inventar pistas imposibles."
+      ],
+      "detalle": "El objeto final puede ser algo ridículo: cuanto más difícil sea describirlo, más divertida será la ronda.",
+      "buenasNoches": "Observar bien también es una forma de jugar: los detalles suelen hablar antes que las respuestas.",
+      "cancionTitulo": "Despacito",
+      "cancionArtista": "Luis Fonsi ft. Daddy Yankee",
+      "youtubeId": "kJQP7kiw5Fk",
+      "cancionUrl": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy toca investigar, pero el misterio está escondido en algo que parece completamente normal."
+        },
+        "mensajePrincipal": {
+          "titulo": "El detective de las pistas invisibles",
+          "contenido": "Una persona elige un objeto que tenga cerca y escribe cinco pistas sobre él sin mencionar su nombre, su color ni para qué sirve. La otra persona puede hacer hasta siete preguntas que solo se respondan con sí o no. Si no lo adivina, recibe una pista extra; después cambian de turno."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra anacronismo",
+          "contenido": "Error que consiste en situar algo fuera de su época correspondiente. Una pista con un anacronismo puede delatar que la historia del objeto fue inventada."
+        },
+        "buenasNoches": {
+          "contenido": "Observar bien también es una forma de jugar: los detalles suelen hablar antes que las respuestas."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Anacronismo",
+        "significado": "Error que consiste en situar algo fuera de su época correspondiente.",
+        "ejemplo": "Una pista con un anacronismo puede delatar que la historia del objeto fue inventada."
+      }
+    },
+    {
+      "dia": 296,
+      "fecha": "2027-08-07",
+      "fechaTexto": "sáb, 7 de ago",
+      "categoria": "La receta que cabe en una pausa",
+      "icono": "🍓",
+      "tono": "cocina fácil y creatividad",
+      "color": {
+        "principal": "#e5b18d",
+        "suave": "#f8eadc",
+        "oscuro": "#4a3021"
+      },
+      "buenosDias": "Una pausa también puede tener sabor. Hoy la misión es preparar algo rico sin encender el horno.",
+      "poema": [
+        "Prepara un vasito de yogur con fruta: coloca una capa de yogur natural, agrega trozos de banano o fresas, suma avena o cereal crujiente y termina con un poco de canela o miel si te gusta. Repite las capas en un vaso transparente para que se vean. Puedes cambiar las frutas según lo que tengas; revisa los ingredientes y las advertencias de posibles trazas si hay alergias alimentarias.",
+        "Inventa un nombre para tu creación y escribe la receta como si fuera el postre estrella de una cafetería. Si preparan dos versiones, hagan una cata y describan la textura y el sabor sin decir simplemente «rico»."
+      ],
+      "detalle": "Dale una puntuación del uno al diez por presentación, textura y sabor.",
+      "buenasNoches": "No todo plan especial necesita muchas horas: a veces empieza con una cuchara y cinco minutos libres.",
+      "cancionTitulo": "Perfect",
+      "cancionArtista": "Ed Sheeran",
+      "youtubeId": "2Vv-BfVoq4g",
+      "cancionUrl": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Una pausa también puede tener sabor. Hoy la misión es preparar algo rico sin encender el horno."
+        },
+        "mensajePrincipal": {
+          "titulo": "La receta que cabe en una pausa",
+          "contenido": "Prepara un vasito de yogur con fruta: coloca una capa de yogur natural, agrega trozos de banano o fresas, suma avena o cereal crujiente y termina con un poco de canela o miel si te gusta. Repite las capas en un vaso transparente para que se vean. Puedes cambiar las frutas según lo que tengas; revisa los ingredientes y las advertencias de posibles trazas si hay alergias alimentarias."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra umbral",
+          "contenido": "Punto de entrada o límite que marca el comienzo de algo. Ese primer bocado puede ser el umbral de una pausa que necesitabas."
+        },
+        "buenasNoches": {
+          "contenido": "No todo plan especial necesita muchas horas: a veces empieza con una cuchara y cinco minutos libres."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Umbral",
+        "significado": "Punto de entrada o límite que marca el comienzo de algo.",
+        "ejemplo": "Ese primer bocado puede ser el umbral de una pausa que necesitabas."
+      }
+    },
+    {
+      "dia": 297,
+      "fecha": "2027-08-08",
+      "fechaTexto": "dom, 8 de ago",
+      "categoria": "El debate de las opiniones imposibles",
+      "icono": "🎭",
+      "tono": "humor y conversación",
+      "color": {
+        "principal": "#d5a3a9",
+        "suave": "#f5e6e8",
+        "oscuro": "#482d33"
+      },
+      "buenosDias": "Hoy vamos a defender ideas disparatadas con la seriedad de un juicio histórico.",
+      "poema": [
+        "Elijan una pregunta absurda: ¿las empanadas deberían comerse con cubiertos?, ¿los lunes necesitan un botón de pausa?, ¿qué animal sería el peor compañero de oficina? Cada persona tiene un minuto para defender una postura y treinta segundos para responder al argumento contrario. La regla es buscar razones creativas, no ganar a toda costa.",
+        "Al final, el jurado —puede ser una moneda o una tercera persona— declara el argumento más convincente. Luego cambien de lado y defiendan la opinión opuesta."
+      ],
+      "detalle": "La ronda extra consiste en defender durante veinte segundos la postura que menos te convence.",
+      "buenasNoches": "Qué tranquilidad saber que no todas las conversaciones tienen que terminar en un acuerdo.",
+      "cancionTitulo": "Sorry",
+      "cancionArtista": "Justin Bieber",
+      "youtubeId": "fRh_vgS2dFE",
+      "cancionUrl": "https://www.youtube.com/watch?v=fRh_vgS2dFE",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a defender ideas disparatadas con la seriedad de un juicio histórico."
+        },
+        "mensajePrincipal": {
+          "titulo": "El debate de las opiniones imposibles",
+          "contenido": "Elijan una pregunta absurda: ¿las empanadas deberían comerse con cubiertos?, ¿los lunes necesitan un botón de pausa?, ¿qué animal sería el peor compañero de oficina? Cada persona tiene un minuto para defender una postura y treinta segundos para responder al argumento contrario. La regla es buscar razones creativas, no ganar a toda costa."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra aliteración",
+          "contenido": "Repetición de sonidos similares al comienzo de varias palabras cercanas. «Lunes lentos, largos y ligeramente legendarios» es una aliteración para defender una opinión disparatada."
+        },
+        "buenasNoches": {
+          "contenido": "Qué tranquilidad saber que no todas las conversaciones tienen que terminar en un acuerdo."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Aliteración",
+        "significado": "Repetición de sonidos similares al comienzo de varias palabras cercanas.",
+        "ejemplo": "«Lunes lentos, largos y ligeramente legendarios» es una aliteración para defender una opinión disparatada."
+      }
+    },
+    {
+      "dia": 298,
+      "fecha": "2027-08-09",
+      "fechaTexto": "lun, 9 de ago",
+      "categoria": "El gesto amable sin anuncio",
+      "icono": "🌱",
+      "tono": "amabilidad y atención",
+      "color": {
+        "principal": "#9dbfae",
+        "suave": "#e6f1eb",
+        "oscuro": "#2b4134"
+      },
+      "buenosDias": "Hoy el reto no es hacer algo enorme: es mejorarle un poquito el día a alguien sin convertirlo en espectáculo.",
+      "poema": [
+        "Piensa en una persona de tu entorno y haz un gesto concreto que pueda aliviarle el día: enviarle una nota de ánimo, ayudar con una tarea pequeña, agradecer algo específico o preguntarle cómo sigue un asunto que te contó. Que sea sincero y respetuoso, sin esperar una respuesta inmediata ni publicar el gesto para recibir reconocimiento.",
+        "Al final del día, anota qué hiciste y cómo te sentiste. No necesitas contarle a nadie el detalle si prefieres mantenerlo privado."
+      ],
+      "detalle": "Si no se te ocurre una persona, deja una nota amable para quien encuentre después tu pequeño mensaje.",
+      "buenasNoches": "La amabilidad más bonita no siempre hace ruido; a veces simplemente llega en el momento oportuno.",
+      "cancionTitulo": "Hello",
+      "cancionArtista": "Adele",
+      "youtubeId": "YQHsXMglC9A",
+      "cancionUrl": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy el reto no es hacer algo enorme: es mejorarle un poquito el día a alguien sin convertirlo en espectáculo."
+        },
+        "mensajePrincipal": {
+          "titulo": "El gesto amable sin anuncio",
+          "contenido": "Piensa en una persona de tu entorno y haz un gesto concreto que pueda aliviarle el día: enviarle una nota de ánimo, ayudar con una tarea pequeña, agradecer algo específico o preguntarle cómo sigue un asunto que te contó. Que sea sincero y respetuoso, sin esperar una respuesta inmediata ni publicar el gesto para recibir reconocimiento."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra camaradería",
+          "contenido": "Relación de amistad, confianza y colaboración entre personas. La camaradería se construye con gestos cotidianos de apoyo y respeto."
+        },
+        "buenasNoches": {
+          "contenido": "La amabilidad más bonita no siempre hace ruido; a veces simplemente llega en el momento oportuno."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Camaradería",
+        "significado": "Relación de amistad, confianza y colaboración entre personas.",
+        "ejemplo": "La camaradería se construye con gestos cotidianos de apoyo y respeto."
+      }
+    },
+    {
+      "dia": 299,
+      "fecha": "2027-08-10",
+      "fechaTexto": "mar, 10 de ago",
+      "categoria": "La fotografía de una historia diminuta",
+      "icono": "📷",
+      "tono": "mirada artística y narrativa",
+      "color": {
+        "principal": "#a8b8c8",
+        "suave": "#e9eff4",
+        "oscuro": "#303d4b"
+      },
+      "buenosDias": "Hoy una foto no tiene que mostrar algo extraordinario: tiene que contar algo de una manera distinta.",
+      "poema": [
+        "Elige un rincón de tu casa o un objeto cotidiano y toma tres fotografías: una desde muy cerca, otra desde un ángulo bajo y otra usando una sombra o reflejo. No muevas el objeto si no quieres; cambia tú de posición y busca una composición diferente. Después escoge la imagen que mejor transmita una sensación y ponle un título de máximo cinco palabras.",
+        "Si alguien más participa, intercambien las fotos sin explicar qué quisieron mostrar. Cada persona escribe qué historia cree que cuenta la imagen y comparan las interpretaciones."
+      ],
+      "detalle": "Prueba convertir la foto elegida en portada de un álbum o de una película imaginaria.",
+      "buenasNoches": "A veces la belleza no estaba escondida: simplemente estábamos mirando desde el mismo lugar.",
+      "cancionTitulo": "Counting Stars",
+      "cancionArtista": "OneRepublic",
+      "youtubeId": "hT_nvWreIhg",
+      "cancionUrl": "https://www.youtube.com/watch?v=hT_nvWreIhg",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy una foto no tiene que mostrar algo extraordinario: tiene que contar algo de una manera distinta."
+        },
+        "mensajePrincipal": {
+          "titulo": "La fotografía de una historia diminuta",
+          "contenido": "Elige un rincón de tu casa o un objeto cotidiano y toma tres fotografías: una desde muy cerca, otra desde un ángulo bajo y otra usando una sombra o reflejo. No muevas el objeto si no quieres; cambia tú de posición y busca una composición diferente. Después escoge la imagen que mejor transmita una sensación y ponle un título de máximo cinco palabras."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra reminiscencia",
+          "contenido": "Recuerdo impreciso o evocación de algo del pasado. Una fotografía puede despertar una reminiscencia incluso cuando solo muestra un rincón común."
+        },
+        "buenasNoches": {
+          "contenido": "A veces la belleza no estaba escondida: simplemente estábamos mirando desde el mismo lugar."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Reminiscencia",
+        "significado": "Recuerdo impreciso o evocación de algo del pasado.",
+        "ejemplo": "Una fotografía puede despertar una reminiscencia incluso cuando solo muestra un rincón común."
+      }
+    },
+    {
+      "dia": 300,
+      "fecha": "2027-08-11",
+      "fechaTexto": "mié, 11 de ago",
+      "categoria": "Una pregunta que cambia el ambiente",
+      "icono": "💬",
+      "tono": "coqueto y cercano",
+      "color": {
+        "principal": "#d8a1b8",
+        "suave": "#f6e6ed",
+        "oscuro": "#482a3b"
+      },
+      "buenosDias": "Hoy te dejo una pregunta sencilla, pero con espacio para una respuesta que no sea la de siempre.",
+      "poema": [
+        "Pregúntale a alguien: «¿Qué detalle pequeño puede hacer que una persona te parezca interesante sin que ella se dé cuenta?». Cada uno responde con dos ejemplos concretos: puede ser la forma de reír, cómo escucha, una manía simpática o la manera de explicar algo que le apasiona. Después pueden elegir cuál de esos detalles les parece más inesperado.",
+        "Si la conversación se presta, añade una segunda pregunta: «¿Y qué detalle mío crees que podría entrar en esa lista?». Tómalo como un intercambio ligero, no como un examen ni una obligación de halagar."
+      ],
+      "detalle": "Responde con honestidad, pero deja que el humor tenga también su espacio.",
+      "buenasNoches": "Hay preguntas que parecen pequeñas y, sin embargo, abren una puerta para conocerse un poquito más.",
+      "cancionTitulo": "Blank Space",
+      "cancionArtista": "Taylor Swift",
+      "youtubeId": "e-ORhEE9VVg",
+      "cancionUrl": "https://www.youtube.com/watch?v=e-ORhEE9VVg",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy te dejo una pregunta sencilla, pero con espacio para una respuesta que no sea la de siempre."
+        },
+        "mensajePrincipal": {
+          "titulo": "Una pregunta que cambia el ambiente",
+          "contenido": "Pregúntale a alguien: «¿Qué detalle pequeño puede hacer que una persona te parezca interesante sin que ella se dé cuenta?». Cada uno responde con dos ejemplos concretos: puede ser la forma de reír, cómo escucha, una manía simpática o la manera de explicar algo que le apasiona. Después pueden elegir cuál de esos detalles les parece más inesperado."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra azaroso",
+          "contenido": "Que depende del azar o sucede de manera inesperada. Un encuentro azaroso puede dejar una conversación que termina siendo memorable."
+        },
+        "buenasNoches": {
+          "contenido": "Hay preguntas que parecen pequeñas y, sin embargo, abren una puerta para conocerse un poquito más."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Azaroso",
+        "significado": "Que depende del azar o sucede de manera inesperada.",
+        "ejemplo": "Un encuentro azaroso puede dejar una conversación que termina siendo memorable."
+      }
+    }
   ]
 ];
