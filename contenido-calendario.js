@@ -3364,169 +3364,344 @@ const CALENDARIO = [
     "dia": 71,
     "fecha": "2026-12-25",
     "fechaTexto": "vie, 25 de dic",
-    "categoria": "Improvisar también es crear",
-    "icono": "🧶",
-    "tono": "filosofica",
+    "categoria": "Pintar sin buscar la perfección",
+    "icono": "🎨",
+    "tono": "creativo",
     "color": {
       "principal": "#e9a3bd",
       "suave": "#fbe0ea",
       "oscuro": "#321222"
     },
-    "buenosDias": "Crear también es dejar que una idea cambie. Puedes empezar con un color, una forma o un pedazo de barro y descubrir después qué querías hacer; no todo tiene que aparecer claro desde el principio.",
+    "buenosDias": "Hoy no se trata de hacer una obra maestra. Se trata de jugar un rato con los colores y ver qué aparece.",
     "poema": [
-      "Me imagino tu mesa llena de cosas, una idea que cambia a mitad de camino y tú descubriendo que el plan nuevo te gusta más que el original. Eso también es parte de crear.",
-      "Dale permiso a la improvisación, corazón. No todo tiene que salir de una imagen perfecta en la cabeza; a veces lo bonito aparece cuando empiezas."
+      "Materiales: papel grueso o cartulina, pinturas acrílicas o témperas, pincel, agua y algo para proteger la mesa. Elijan solo tres colores y hagan una pequeña obra sin dibujar primero el resultado. Pinten formas grandes y luego mezclen los colores para descubrir tonos nuevos. Pueden elegir un cielo al atardecer, una taza, una flor imaginaria o una emoción, o pintar de forma abstracta. Al terminar, cada uno pone un título a la obra del otro, sin corregirla ni intentar adivinar qué quiso representar. Dejen secar y limpien los materiales. ¿Qué tres colores escogerías para empezar?",
+      "Pigmento: Sustancia que aporta color a una pintura u otro material. Al mezclar pigmentos aparecen tonos que no estaban en la paleta original."
     ],
-    "detalle": "Prueba una idea nueva aunque todavía no sepas cómo llamarla. Tú puedes empezar con una mancha, un trozo de barro o una ocurrencia y encontrar el camino mientras avanzas.",
-    "buenasNoches": "Buenas noches, artista. No hace falta que todas tus ideas tengan nombre antes de dormir. Algunas pueden quedarse en borrador y seguir siendo buenas.",
-    "cancionTitulo": "Aero-Soul",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "jk9S5ca0Oh0",
-    "cancionUrl": "https://www.youtube.com/watch?v=jk9S5ca0Oh0"
+    "detalle": "Materiales: papel grueso o cartulina, pinturas acrílicas o témperas, pincel, agua y algo para proteger la mesa. Elijan solo tres colores y hagan una pequeña obra sin dibujar primero el resultado. Pinten formas grandes y luego mezclen los colores para descubrir tonos nuevos. Pueden elegir un cielo al atardecer, una taza, una flor imaginaria o una emoción, o pintar de forma abstracta. Al terminar, cada uno pone un título a la obra del otro, sin corregirla ni intentar adivinar qué quiso representar. Dejen secar y limpien los materiales. ¿Qué tres colores escogerías para empezar?",
+    "buenasNoches": "No todo lo bonito tiene que salir como lo imaginábamos. A veces la parte más interesante aparece justo cuando dejamos de intentar controlarlo todo.",
+    "cancionTitulo": "Ring My Bell",
+    "cancionArtista": "Anita Ward",
+    "youtubeId": "r1UkZLT20TI",
+    "cancionUrl": "https://www.youtube.com/watch?v=r1UkZLT20TI",
+    "tone": "creativo",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de pintar sin buscar la perfección.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, color sin reglas",
+        "contenido": "Hoy no se trata de hacer una obra maestra. Se trata de jugar un rato con los colores y ver qué aparece."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un cuadro pequeño con tres colores",
+        "contenido": "Materiales: papel grueso o cartulina, pinturas acrílicas o témperas, pincel, agua y algo para proteger la mesa. Elijan solo tres colores y hagan una pequeña obra sin dibujar primero el resultado. Pinten formas grandes y luego mezclen los colores para descubrir tonos nuevos. Pueden elegir un cielo al atardecer, una taza, una flor imaginaria o una emoción, o pintar de forma abstracta. Al terminar, cada uno pone un título a la obra del otro, sin corregirla ni intentar adivinar qué quiso representar. Dejen secar y limpien los materiales. ¿Qué tres colores escogerías para empezar?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del color",
+        "contenido": "Pigmento: Sustancia que aporta color a una pintura u otro material. Al mezclar pigmentos aparecen tonos que no estaban en la paleta original."
+      },
+      "buenasNoches": {
+        "titulo": "Un poco de color para cerrar",
+        "contenido": "No todo lo bonito tiene que salir como lo imaginábamos. A veces la parte más interesante aparece justo cuando dejamos de intentar controlarlo todo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Pigmento",
+      "significado": "Sustancia que aporta color a una pintura u otro material.",
+      "ejemplo": "Al mezclar pigmentos aparecen tonos que no estaban en la paleta original."
+    }
   },
   {
     "dia": 72,
     "fecha": "2026-12-26",
     "fechaTexto": "sáb, 26 de dic",
-    "categoria": "Un cariño claro, sin adivinanzas",
-    "icono": "🧩",
-    "tono": "filosofica",
-    "color": {
-      "principal": "#d6b36c",
-      "suave": "#f5e7c5",
-      "oscuro": "#2a1e0b"
-    },
-    "buenosDias": "Te deseo cariño claro: palabras que se sostengan con hechos y espacio para decir lo que piensas sin juegos. La ternura y el carácter no se contradicen; pueden vivir perfectamente en la misma persona.",
-    "poema": [
-      "No tienes que adivinar lo que alguien siente todo el tiempo. Una conexión bonita también deja espacio para preguntar, reírse de los nervios y decir las cosas con calma.",
-      "Y si algo te gusta, corazón, puedes demostrarlo a tu manera, sin apurarte ni prometer más de lo que sientes. Lo bonito no necesita correr para ser real."
-    ],
-    "detalle": "Si quieres a alguien, que se note en los gestos que sí puedes ofrecer; y si algo te importa, dilo con claridad. La ternura no pierde su encanto por tener carácter, corazón.",
-    "buenasNoches": "Que descanses, amor. Ser cariñosa no significa callarte lo que importa; tu ternura y tu firmeza pueden ir de la mano.",
-    "cancionTitulo": "No Está en Venta",
-    "cancionArtista": "Alcolirykoz",
-    "youtubeId": "Se6Cd4sW3ks",
-    "cancionUrl": "https://www.youtube.com/watch?v=Se6Cd4sW3ks"
-  },
-  {
-    "dia": 73,
-    "fecha": "2026-12-27",
-    "fechaTexto": "dom, 27 de dic",
-    "categoria": "Café sin azúcar y permiso de ir despacio",
-    "icono": "♨️",
-    "tono": "ambiente",
-    "color": {
-      "principal": "#b9a4e5",
-      "suave": "#e7defa",
-      "oscuro": "#211631"
-    },
-    "buenosDias": "Que el tinto salga a tu gusto y que tengas aunque sea un minuto para respirar antes de que el día te pida cosas. El café puede ser amargo; la jornada no tiene por qué serlo.",
-    "poema": [
-      "Me imagino la taza calentándote las manos mientras el sueño se va despidiendo poco a poco. No hay que convertir cada mañana en una carrera para que el día valga la pena.",
-      "Ve a tu ritmo, corazón. Ojalá entre todo lo que tengas que hacer encuentres algo que te dé gusto, aunque sea pequeño."
-    ],
-    "detalle": "Date permiso de tomar el café despacio si el día te lo permite. Y si no, al menos no te exijas ser una máquina desde que abres los ojos; las máquinas ni siquiera disfrutan el café.",
-    "buenasNoches": "Buenas noches, corazón. Si mañana toca café y correr, ojalá por lo menos tengas un minuto para respirar antes de que empiece la aventura.",
-    "cancionTitulo": "Don't Know Why",
-    "cancionArtista": "Norah Jones",
-    "youtubeId": "tO4dxvguQDk",
-    "cancionUrl": "https://www.youtube.com/watch?v=tO4dxvguQDk"
-  },
-  {
-    "dia": 74,
-    "fecha": "2026-12-28",
-    "fechaTexto": "lun, 28 de dic",
-    "categoria": "El turquesa que te encuentra por sorpresa",
-    "icono": "🪻",
-    "tono": "amor",
-    "color": {
-      "principal": "#8fc6bd",
-      "suave": "#d7f0e9",
-      "oscuro": "#102925"
-    },
-    "buenosDias": "Ojalá hoy te cruces con ese azul turquesa que llama la atención sin pedir permiso. A veces un color basta para despertar una idea, cambiar el ánimo o hacer que uno mire dos veces algo que antes habría pasado por alto.",
-    "poema": [
-      "Me gusta imaginarte encontrando un tono que te guste y pensando dónde podría quedar bien: en una pieza, en un dibujo o en algún detalle que todavía no sabes cómo usar. No tienes que convertir cada inspiración en un proyecto; a veces basta con guardarla para después.",
-      "Y si terminas mezclando colores hasta conseguir uno distinto al que tenías en mente, tampoco pasa nada. Hay descubrimientos que empiezan por curiosidad y se quedan porque, sin planearlo, resultaron más bonitos."
-    ],
-    "detalle": "Si hoy ves un azul turquesa que te guste, fíjate en qué tiene de especial: si es claro, intenso, verdoso o casi azul cielo. Puedes guardarlo en una foto o simplemente recordarlo como una idea para cuando te den ganas de crear.",
-    "buenasNoches": "Buenas noches, artista. Ojalá hoy algún color te haya regalado una idea, aunque todavía no sepas qué hacer con ella. No todas las inspiraciones tienen que convertirse en algo esta misma noche.",
-    "cancionTitulo": "Kiss Of Life",
-    "cancionArtista": "Sade",
-    "youtubeId": "MmOau-PMWJk",
-    "cancionUrl": "https://www.youtube.com/watch?v=MmOau-PMWJk"
-  },
-  {
-    "dia": 75,
-    "fecha": "2026-12-29",
-    "fechaTexto": "mar, 29 de dic",
-    "categoria": "Un plan casero para quedarse a gusto",
-    "icono": "🕯️",
-    "tono": "amor",
-    "color": {
-      "principal": "#e6a47d",
-      "suave": "#f9dfcf",
-      "oscuro": "#321b12"
-    },
-    "buenosDias": "Te dejo un plan sin presión para cuando te provoque: algo rico de comer, ropa cómoda, música de fondo y una película que probablemente termine pausada porque la conversación se puso mejor.",
-    "poema": [
-      "A mí esos planes me gustan porque no intentan impresionar a nadie. Solo comer algo que provoca, conversar y tener tiempo para reírse incluso cuando la película ya empezó.",
-      "Cuando te provoque, tú eliges qué cocinamos y yo ayudo… y de paso pregunto si ya se puede probar cada tres minutos."
-    ],
-    "detalle": "Si hoy se puede elegir, que el plan sea de casa: cocinar algo, ponerse cómodo y buscar una película. Si nos perdemos media trama hablando, siempre podemos decir que era una película experimental.",
-    "buenasNoches": "Buenas noches, bonita. Ojalá el día te haya dejado con ganas de repetir algo bonito: una charla, una comida, una película o una risa compartida.",
-    "cancionTitulo": "By Your Side",
-    "cancionArtista": "Sade",
-    "youtubeId": "C8QJmI_V3j4",
-    "cancionUrl": "https://www.youtube.com/watch?v=C8QJmI_V3j4"
-  },
-  {
-    "dia": 76,
-    "fecha": "2026-12-30",
-    "fechaTexto": "mié, 30 de dic",
-    "categoria": "La alegría de ser recibida con cariño",
-    "icono": "🐩",
-    "tono": "amor",
-    "color": {
-      "principal": "#d68caa",
-      "suave": "#f6dce6",
-      "oscuro": "#2b1220"
-    },
-    "buenosDias": "Ojalá hoy tus mascotas te reciban con esa alegría exagerada que no necesita explicación. Hay saludos que duran unos segundos y aun así consiguen hacer que una llegada se sienta especial.",
-    "poema": [
-      "No sé cómo hacen los animales para convertir una llegada en una celebración. Debe ser esa forma tan honesta de quererte: sin discursos, sin pose, sin guardar la alegría para después.",
-      "Dales cariño de mi parte, mi vida. Y si te sacan una sonrisa, ya hicieron su trabajo; aunque sospecho que tú también tienes bastante talento para alegrarles el día."
-    ],
-    "detalle": "Si tus mascotas se emocionan al verte, disfruta esa bienvenida sin tratar de hacerte la seria. Aunque vengas cansada, aunque haya sido un día largo, ese recibimiento merece una sonrisa genuina.",
-    "buenasNoches": "Que descanses, corazón. Si mañana tus mascotas te reciben como si fueras la persona más importante del planeta, no discutas con ellas: por una vez, el drama está justificado.",
-    "cancionTitulo": "Three Little Birds",
-    "cancionArtista": "Bob Marley & The Wailers",
-    "youtubeId": "HNBCVM4KbUM",
-    "cancionUrl": "https://www.youtube.com/watch?v=HNBCVM4KbUM"
-  },
-  {
-    "dia": 77,
-    "fecha": "2026-12-31",
-    "fechaTexto": "jue, 31 de dic",
-    "categoria": "Lo que este año te enseñó",
-    "icono": "🎆",
-    "tono": "amor",
+    "categoria": "El mapa de las pequeñas preferencias",
+    "icono": "🗺️",
+    "tono": "cercano",
     "color": {
       "principal": "#94a9d6",
       "suave": "#dce4f8",
       "oscuro": "#111d36"
     },
-    "buenosDias": "Para cerrar el año, no hace falta hacer un inventario perfecto de lo que lograste. Ojalá puedas reconocer lo que aprendiste, lo que te hizo reír y los momentos en que fuiste fiel a ti misma.",
+    "buenosDias": "Hay gustos pequeños que dicen mucho de una persona: cómo elige una bebida, qué clima disfruta o qué rincón le parece acogedor.",
     "poema": [
-      "Ojalá el año que termina te deje recuerdos que quieras guardar, ideas nuevas para crear y personas que te hagan sentir querida sin que tengas que pedirlo una y otra vez.",
-      "Y para cerrar, mi vida, quédate con esto: no necesitas convertirte en otra persona para merecer cosas bonitas. Sigue siendo tú, con tus colores, tus canciones, tus ocurrencias y esa sonrisa que hace que las pecas se roben la escena."
+      "Cada uno escribe seis preguntas con dos opciones: amanecer o atardecer, café o chocolate, lluvia o sol, pintura o arcilla, ciudad o naturaleza, plan improvisado o plan organizado. Respondan a la vez mostrando una opción con los dedos o escribiéndola en papel. Por cada coincidencia ganan un punto; por cada diferencia, expliquen en una frase por qué prefieren su opción. Después inventen una séptima pregunta más difícil. No intenten convencer al otro de cambiar de gusto: la idea es descubrir, no evaluar. Para cerrar, propongan una actividad que combine una preferencia de cada persona. ¿Cuál de tus gustos crees que me sorprendería más?",
+      "Preferencia: Elección o inclinación por una opción entre varias. Una preferencia puede cambiar con el tiempo y seguir siendo válida."
     ],
-    "detalle": "Antes de que termine el año, quédate un momento con lo que sí vale la pena guardar: una risa inesperada, algo que aprendiste, una idea que te emocionó o una persona que te hizo bien. No hace falta que todo haya salido perfecto para que haya habido cosas bonitas.",
-    "buenasNoches": "Buenas noches, Aleja. Que el año que se va no te obligue a hacer cuentas demasiado duras contigo misma. Guarda lo que te hizo bien, suelta un poco lo que pesó y date permiso de recibir el año nuevo sin tener que tenerlo todo resuelto.",
-    "cancionTitulo": "I'll Be Seeing You",
-    "cancionArtista": "Billie Holiday",
-    "youtubeId": "3C5zYKIuoxg",
-    "cancionUrl": "https://www.youtube.com/watch?v=3C5zYKIuoxg"
+    "detalle": "Cada uno escribe seis preguntas con dos opciones: amanecer o atardecer, café o chocolate, lluvia o sol, pintura o arcilla, ciudad o naturaleza, plan improvisado o plan organizado. Respondan a la vez mostrando una opción con los dedos o escribiéndola en papel. Por cada coincidencia ganan un punto; por cada diferencia, expliquen en una frase por qué prefieren su opción. Después inventen una séptima pregunta más difícil. No intenten convencer al otro de cambiar de gusto: la idea es descubrir, no evaluar. Para cerrar, propongan una actividad que combine una preferencia de cada persona. ¿Cuál de tus gustos crees que me sorprendería más?",
+    "buenasNoches": "Conocer a alguien no significa adivinarlo todo. También significa dejar espacio para que te sorprenda con una respuesta que no esperabas.",
+    "cancionTitulo": "Blue World",
+    "cancionArtista": "Mac Miller",
+    "youtubeId": "_GC2wFTCAGY",
+    "cancionUrl": "https://www.youtube.com/watch?v=_GC2wFTCAGY",
+    "tone": "cercano",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de el mapa de las pequeñas preferencias.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, curiosidad",
+        "contenido": "Hay gustos pequeños que dicen mucho de una persona: cómo elige una bebida, qué clima disfruta o qué rincón le parece acogedor."
+      },
+      "mensajePrincipal": {
+        "titulo": "Seis elecciones y una sorpresa",
+        "contenido": "Cada uno escribe seis preguntas con dos opciones: amanecer o atardecer, café o chocolate, lluvia o sol, pintura o arcilla, ciudad o naturaleza, plan improvisado o plan organizado. Respondan a la vez mostrando una opción con los dedos o escribiéndola en papel. Por cada coincidencia ganan un punto; por cada diferencia, expliquen en una frase por qué prefieren su opción. Después inventen una séptima pregunta más difícil. No intenten convencer al otro de cambiar de gusto: la idea es descubrir, no evaluar. Para cerrar, propongan una actividad que combine una preferencia de cada persona. ¿Cuál de tus gustos crees que me sorprendería más?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de las elecciones",
+        "contenido": "Preferencia: Elección o inclinación por una opción entre varias. Una preferencia puede cambiar con el tiempo y seguir siendo válida."
+      },
+      "buenasNoches": {
+        "titulo": "Todavía quedan cosas por descubrir",
+        "contenido": "Conocer a alguien no significa adivinarlo todo. También significa dejar espacio para que te sorprenda con una respuesta que no esperabas."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Preferencia",
+      "significado": "Elección o inclinación por una opción entre varias.",
+      "ejemplo": "Una preferencia puede cambiar con el tiempo y seguir siendo válida."
+    }
+  },
+  {
+    "dia": 73,
+    "fecha": "2026-12-27",
+    "fechaTexto": "dom, 27 de dic",
+    "categoria": "Un mensaje escondido entre canciones",
+    "icono": "🎶",
+    "tono": "juguetón",
+    "color": {
+      "principal": "#d6b36c",
+      "suave": "#f5e7c5",
+      "oscuro": "#2a1e0b"
+    },
+    "buenosDias": "Hoy la música puede ser un juego de pistas, no solo algo que suena de fondo.",
+    "poema": [
+      "Cada persona elige tres canciones que conozca bien, sin decir sus títulos. Para cada una da tres pistas: una emoción que le produce, una escena en la que la pondría y una palabra relacionada con su sonido. La otra persona puede hacer dos preguntas de sí o no. Si acierta con una pista, obtiene tres puntos; con dos, dos puntos; con tres, uno. Después de revelar la canción, quien la eligió cuenta por qué. En la ronda final inventen el título de una canción que todavía no existe y describan cómo sonaría. ¿Qué canción te resultaría imposible describir sin reírte?",
+      "Evocación: Acción de traer a la memoria una imagen, sensación o recuerdo. Una melodía puede provocar la evocación de un momento que parecía olvidado."
+    ],
+    "detalle": "Cada persona elige tres canciones que conozca bien, sin decir sus títulos. Para cada una da tres pistas: una emoción que le produce, una escena en la que la pondría y una palabra relacionada con su sonido. La otra persona puede hacer dos preguntas de sí o no. Si acierta con una pista, obtiene tres puntos; con dos, dos puntos; con tres, uno. Después de revelar la canción, quien la eligió cuenta por qué. En la ronda final inventen el título de una canción que todavía no existe y describan cómo sonaría. ¿Qué canción te resultaría imposible describir sin reírte?",
+    "buenasNoches": "A veces una canción explica algo que no sabíamos poner en palabras. Me gusta la idea de ir descubriendo esas pequeñas historias, una por una.",
+    "cancionTitulo": "Keep Your Worries",
+    "cancionArtista": "Guru; Angie Stone",
+    "youtubeId": "7R0D6ryRUqQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=7R0D6ryRUqQ",
+    "tone": "juguetón",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de un mensaje escondido entre canciones.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, una pista musical",
+        "contenido": "Hoy la música puede ser un juego de pistas, no solo algo que suena de fondo."
+      },
+      "mensajePrincipal": {
+        "titulo": "Adivina la canción y la historia",
+        "contenido": "Cada persona elige tres canciones que conozca bien, sin decir sus títulos. Para cada una da tres pistas: una emoción que le produce, una escena en la que la pondría y una palabra relacionada con su sonido. La otra persona puede hacer dos preguntas de sí o no. Si acierta con una pista, obtiene tres puntos; con dos, dos puntos; con tres, uno. Después de revelar la canción, quien la eligió cuenta por qué. En la ronda final inventen el título de una canción que todavía no existe y describan cómo sonaría. ¿Qué canción te resultaría imposible describir sin reírte?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de los recuerdos",
+        "contenido": "Evocación: Acción de traer a la memoria una imagen, sensación o recuerdo. Una melodía puede provocar la evocación de un momento que parecía olvidado."
+      },
+      "buenasNoches": {
+        "titulo": "La última pista de hoy",
+        "contenido": "A veces una canción explica algo que no sabíamos poner en palabras. Me gusta la idea de ir descubriendo esas pequeñas historias, una por una."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Evocación",
+      "significado": "Acción de traer a la memoria una imagen, sensación o recuerdo.",
+      "ejemplo": "Una melodía puede provocar la evocación de un momento que parecía olvidado."
+    }
+  },
+  {
+    "dia": 74,
+    "fecha": "2026-12-28",
+    "fechaTexto": "lun, 28 de dic",
+    "categoria": "Una pausa para respirar y estirar",
+    "icono": "🌿",
+    "tono": "calma",
+    "color": {
+      "principal": "#8fc6bd",
+      "suave": "#d7f0e9",
+      "oscuro": "#102925"
+    },
+    "buenosDias": "No hace falta convertir cada día en un reto. Hoy puede ser una pausa breve para bajar el ritmo y escuchar al cuerpo.",
+    "poema": [
+      "Busquen un espacio despejado y pongan música suave. Durante un minuto respiren con naturalidad y suelten los hombros. Después hagan movimientos lentos de cuello sin forzar, círculos pequeños con los hombros, estiramientos suaves de brazos y muñecas y movimientos cómodos de tobillos y piernas. Mantengan cada posición solo mientras resulte agradable; no reboten ni intenten alcanzar un límite. Si algo duele, provoca mareo o incomoda, deténganse. Terminen con un minuto sentado, respirando sin tener que hablar. No es una rutina médica: es una pausa adaptable que también pueden saltarse. ¿Qué parte del día te gustaría llevar con menos prisa?",
+      "Sosiego: Calma profunda, especialmente cuando disminuye la agitación o la preocupación. Unos minutos de sosiego pueden ayudar a cerrar el día con más tranquilidad."
+    ],
+    "detalle": "Busquen un espacio despejado y pongan música suave. Durante un minuto respiren con naturalidad y suelten los hombros. Después hagan movimientos lentos de cuello sin forzar, círculos pequeños con los hombros, estiramientos suaves de brazos y muñecas y movimientos cómodos de tobillos y piernas. Mantengan cada posición solo mientras resulte agradable; no reboten ni intenten alcanzar un límite. Si algo duele, provoca mareo o incomoda, deténganse. Terminen con un minuto sentado, respirando sin tener que hablar. No es una rutina médica: es una pausa adaptable que también pueden saltarse. ¿Qué parte del día te gustaría llevar con menos prisa?",
+    "buenasNoches": "Ojalá puedas descansar sin sentir que tienes que ganarte el descanso. No todo necesita resolverse hoy.",
+    "cancionTitulo": "I Gotta Find Peace of Mind - Live",
+    "cancionArtista": "Ms. Lauryn Hill",
+    "youtubeId": "b2IbsMCgz4A",
+    "cancionUrl": "https://www.youtube.com/watch?v=b2IbsMCgz4A",
+    "tone": "calma",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una pausa para respirar y estirar.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, sin prisa",
+        "contenido": "No hace falta convertir cada día en un reto. Hoy puede ser una pausa breve para bajar el ritmo y escuchar al cuerpo."
+      },
+      "mensajePrincipal": {
+        "titulo": "Diez minutos de movimiento tranquilo",
+        "contenido": "Busquen un espacio despejado y pongan música suave. Durante un minuto respiren con naturalidad y suelten los hombros. Después hagan movimientos lentos de cuello sin forzar, círculos pequeños con los hombros, estiramientos suaves de brazos y muñecas y movimientos cómodos de tobillos y piernas. Mantengan cada posición solo mientras resulte agradable; no reboten ni intenten alcanzar un límite. Si algo duele, provoca mareo o incomoda, deténganse. Terminen con un minuto sentado, respirando sin tener que hablar. No es una rutina médica: es una pausa adaptable que también pueden saltarse. ¿Qué parte del día te gustaría llevar con menos prisa?"
+      },
+      "palabraNueva": {
+        "titulo": "Una palabra para la calma",
+        "contenido": "Sosiego: Calma profunda, especialmente cuando disminuye la agitación o la preocupación. Unos minutos de sosiego pueden ayudar a cerrar el día con más tranquilidad."
+      },
+      "buenasNoches": {
+        "titulo": "Bajar el ritmo también cuenta",
+        "contenido": "Ojalá puedas descansar sin sentir que tienes que ganarte el descanso. No todo necesita resolverse hoy."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Sosiego",
+      "significado": "Calma profunda, especialmente cuando disminuye la agitación o la preocupación.",
+      "ejemplo": "Unos minutos de sosiego pueden ayudar a cerrar el día con más tranquilidad."
+    }
+  },
+  {
+    "dia": 75,
+    "fecha": "2026-12-29",
+    "fechaTexto": "mar, 29 de dic",
+    "categoria": "Una salida corta para cambiar de aire",
+    "icono": "🌤️",
+    "tono": "aventura",
+    "color": {
+      "principal": "#e6a47d",
+      "suave": "#f9dfcf",
+      "oscuro": "#321b12"
+    },
+    "buenosDias": "Si te apetece salir, podemos reservar unas horas para tomar algo y caminar un poco. Si no, esta idea puede esperar: no hay fecha obligatoria.",
+    "poema": [
+      "Elijan un café o una bebida que les guste y un parque, plazoleta o sendero urbano público cercano y seguro. Antes de salir, revisen horario, clima, ruta de regreso, accesibilidad y presupuesto. Reserven solo unas horas: pueden conversar mientras toman algo, caminar tranquilamente y elegir cada uno un detalle bonito del entorno. No es necesario comprar recuerdos ni encadenar actividades. Si el sitio está lleno, cambia el clima o alguien se cansa, acorten el recorrido o cambien de plan. Esta propuesta no significa que deban salir este fin de semana ni repetirlo cada semana; háganlo cuando a ambos les venga bien. ¿Prefieres árboles o una calle con cafeterías?",
+      "Paseo: Recorrido que se hace por gusto, descanso o para disfrutar del entorno. Un paseo breve puede cambiar de ambiente sin ocupar todo el día."
+    ],
+    "detalle": "Elijan un café o una bebida que les guste y un parque, plazoleta o sendero urbano público cercano y seguro. Antes de salir, revisen horario, clima, ruta de regreso, accesibilidad y presupuesto. Reserven solo unas horas: pueden conversar mientras toman algo, caminar tranquilamente y elegir cada uno un detalle bonito del entorno. No es necesario comprar recuerdos ni encadenar actividades. Si el sitio está lleno, cambia el clima o alguien se cansa, acorten el recorrido o cambien de plan. Esta propuesta no significa que deban salir este fin de semana ni repetirlo cada semana; háganlo cuando a ambos les venga bien. ¿Prefieres árboles o una calle con cafeterías?",
+    "buenasNoches": "Una salida sencilla puede ser suficiente por sí misma. No hay que convertir cada encuentro en una gran aventura para que valga la pena.",
+    "cancionTitulo": "Ride Wit Me",
+    "cancionArtista": "Nelly; City Spud",
+    "youtubeId": "RtSDWq6HsJE",
+    "cancionUrl": "https://www.youtube.com/watch?v=RtSDWq6HsJE",
+    "tone": "aventura",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de una salida corta para cambiar de aire.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, si te apetece salir",
+        "contenido": "Si te apetece salir, podemos reservar unas horas para tomar algo y caminar un poco. Si no, esta idea puede esperar: no hay fecha obligatoria."
+      },
+      "mensajePrincipal": {
+        "titulo": "Café, paseo y regreso sin afán",
+        "contenido": "Elijan un café o una bebida que les guste y un parque, plazoleta o sendero urbano público cercano y seguro. Antes de salir, revisen horario, clima, ruta de regreso, accesibilidad y presupuesto. Reserven solo unas horas: pueden conversar mientras toman algo, caminar tranquilamente y elegir cada uno un detalle bonito del entorno. No es necesario comprar recuerdos ni encadenar actividades. Si el sitio está lleno, cambia el clima o alguien se cansa, acorten el recorrido o cambien de plan. Esta propuesta no significa que deban salir este fin de semana ni repetirlo cada semana; háganlo cuando a ambos les venga bien. ¿Prefieres árboles o una calle con cafeterías?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra del recorrido",
+        "contenido": "Paseo: Recorrido que se hace por gusto, descanso o para disfrutar del entorno. Un paseo breve puede cambiar de ambiente sin ocupar todo el día."
+      },
+      "buenasNoches": {
+        "titulo": "Volver con calma",
+        "contenido": "Una salida sencilla puede ser suficiente por sí misma. No hay que convertir cada encuentro en una gran aventura para que valga la pena."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Paseo",
+      "significado": "Recorrido que se hace por gusto, descanso o para disfrutar del entorno.",
+      "ejemplo": "Un paseo breve puede cambiar de ambiente sin ocupar todo el día."
+    }
+  },
+  {
+    "dia": 76,
+    "fecha": "2026-12-30",
+    "fechaTexto": "mié, 30 de dic",
+    "categoria": "Crear una historia con objetos cotidianos",
+    "icono": "📚",
+    "tono": "creativo",
+    "color": {
+      "principal": "#b9a4e5",
+      "suave": "#e7defa",
+      "oscuro": "#211631"
+    },
+    "buenosDias": "Hoy cualquier objeto que esté cerca puede convertirse en el inicio de una historia absurda, tierna o misteriosa.",
+    "poema": [
+      "Cada persona elige en secreto un objeto cotidiano y lo pone sobre la mesa; elijan un tercer objeto al azar. La primera persona empieza una historia que incluya el suyo, la otra continúa incorporando el segundo y la tercera frase debe unirlos en una situación inesperada. Alternen frases durante dos minutos sin borrar ideas ni corregir la lógica. Repitan con otro género: comedia, misterio, aventura o romance ligero. Para terminar, inventen un título y dibujen una portada diminuta. Si les gusta, guárdenlo; no hace falta grabarlo ni publicarlo. La regla es construir sobre la idea anterior, no bloquearla. ¿Qué objeto de tu alrededor daría la historia más extraña?",
+      "Narrativa: Forma en que se cuentan y organizan los hechos de una historia. Una narrativa puede convertir tres objetos comunes en una aventura inesperada."
+    ],
+    "detalle": "Cada persona elige en secreto un objeto cotidiano y lo pone sobre la mesa; elijan un tercer objeto al azar. La primera persona empieza una historia que incluya el suyo, la otra continúa incorporando el segundo y la tercera frase debe unirlos en una situación inesperada. Alternen frases durante dos minutos sin borrar ideas ni corregir la lógica. Repitan con otro género: comedia, misterio, aventura o romance ligero. Para terminar, inventen un título y dibujen una portada diminuta. Si les gusta, guárdenlo; no hace falta grabarlo ni publicarlo. La regla es construir sobre la idea anterior, no bloquearla. ¿Qué objeto de tu alrededor daría la historia más extraña?",
+    "buenasNoches": "Me gusta cuando una idea sencilla termina en algo que ninguno habría imaginado por separado. A veces crear juntos empieza así, con una frase cualquiera.",
+    "cancionTitulo": "La Terrera",
+    "cancionArtista": "Rupatrupa",
+    "youtubeId": "2BW92cCp0T4",
+    "cancionUrl": "https://www.youtube.com/watch?v=2BW92cCp0T4",
+    "tone": "creativo",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de crear una historia con objetos cotidianos.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, inventemos algo",
+        "contenido": "Hoy cualquier objeto que esté cerca puede convertirse en el inicio de una historia absurda, tierna o misteriosa."
+      },
+      "mensajePrincipal": {
+        "titulo": "El relato de tres objetos",
+        "contenido": "Cada persona elige en secreto un objeto cotidiano y lo pone sobre la mesa; elijan un tercer objeto al azar. La primera persona empieza una historia que incluya el suyo, la otra continúa incorporando el segundo y la tercera frase debe unirlos en una situación inesperada. Alternen frases durante dos minutos sin borrar ideas ni corregir la lógica. Repitan con otro género: comedia, misterio, aventura o romance ligero. Para terminar, inventen un título y dibujen una portada diminuta. Si les gusta, guárdenlo; no hace falta grabarlo ni publicarlo. La regla es construir sobre la idea anterior, no bloquearla. ¿Qué objeto de tu alrededor daría la historia más extraña?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de las historias",
+        "contenido": "Narrativa: Forma en que se cuentan y organizan los hechos de una historia. Una narrativa puede convertir tres objetos comunes en una aventura inesperada."
+      },
+      "buenasNoches": {
+        "titulo": "Una historia sin final perfecto",
+        "contenido": "Me gusta cuando una idea sencilla termina en algo que ninguno habría imaginado por separado. A veces crear juntos empieza así, con una frase cualquiera."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Narrativa",
+      "significado": "Forma en que se cuentan y organizan los hechos de una historia.",
+      "ejemplo": "Una narrativa puede convertir tres objetos comunes en una aventura inesperada."
+    }
+  },
+  {
+    "dia": 77,
+    "fecha": "2026-12-31",
+    "fechaTexto": "jue, 31 de dic",
+    "categoria": "Un plan de cierre para el año",
+    "icono": "✨",
+    "tono": "cercano",
+    "color": {
+      "principal": "#d68caa",
+      "suave": "#f6dce6",
+      "oscuro": "#2b1220"
+    },
+    "buenosDias": "No hace falta hacer una lista enorme de propósitos. Podemos escoger una intención pequeña que haga más amable el comienzo de la próxima etapa.",
+    "poema": [
+      "Cada uno escribe tres cosas que le gustaría experimentar, aprender o cuidar en los próximos meses. Eviten convertirlo en exigencias: pueden ser deseos pequeños, como probar una técnica de pintura, conocer un café nuevo, escuchar un álbum completo o reservar una tarde sin pantallas. Marquen una idea que puedan empezar con poco tiempo y presupuesto y anoten un primer paso concreto. Compartan solo lo que les nazca; no es necesario enseñar la lista completa ni prometer que cumplirán todo juntos. Si una idea necesita dinero, transporte o coordinación, déjenla como posibilidad para planear cuando sea oportuno. Cierren eligiendo una canción que represente cómo quieren sentirse en la siguiente etapa. ¿Qué deseo pequeño te gustaría probar primero?",
+      "Intención: Propósito consciente que orienta una acción o una decisión. Una intención realista ayuda a empezar sin convertir el futuro en una obligación."
+    ],
+    "detalle": "Cada uno escribe tres cosas que le gustaría experimentar, aprender o cuidar en los próximos meses. Eviten convertirlo en exigencias: pueden ser deseos pequeños, como probar una técnica de pintura, conocer un café nuevo, escuchar un álbum completo o reservar una tarde sin pantallas. Marquen una idea que puedan empezar con poco tiempo y presupuesto y anoten un primer paso concreto. Compartan solo lo que les nazca; no es necesario enseñar la lista completa ni prometer que cumplirán todo juntos. Si una idea necesita dinero, transporte o coordinación, déjenla como posibilidad para planear cuando sea oportuno. Cierren eligiendo una canción que represente cómo quieren sentirse en la siguiente etapa. ¿Qué deseo pequeño te gustaría probar primero?",
+    "buenasNoches": "No sé qué traerá la siguiente etapa, y tampoco hace falta decidirlo todo hoy. Ojalá podamos avanzar con curiosidad, paciencia y espacio para cambiar de idea.",
+    "cancionTitulo": "Apocalypse",
+    "cancionArtista": "Cigarettes After Sex",
+    "youtubeId": "sElE_BfQ67s",
+    "cancionUrl": "https://www.youtube.com/watch?v=sElE_BfQ67s",
+    "tone": "cercano",
+    "inspiracionCancion": "Una canción para acompañar el ambiente de un plan de cierre para el año.",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días, una intención pequeña",
+        "contenido": "No hace falta hacer una lista enorme de propósitos. Podemos escoger una intención pequeña que haga más amable el comienzo de la próxima etapa."
+      },
+      "mensajePrincipal": {
+        "titulo": "Tres deseos realistas y una primera acción",
+        "contenido": "Cada uno escribe tres cosas que le gustaría experimentar, aprender o cuidar en los próximos meses. Eviten convertirlo en exigencias: pueden ser deseos pequeños, como probar una técnica de pintura, conocer un café nuevo, escuchar un álbum completo o reservar una tarde sin pantallas. Marquen una idea que puedan empezar con poco tiempo y presupuesto y anoten un primer paso concreto. Compartan solo lo que les nazca; no es necesario enseñar la lista completa ni prometer que cumplirán todo juntos. Si una idea necesita dinero, transporte o coordinación, déjenla como posibilidad para planear cuando sea oportuno. Cierren eligiendo una canción que represente cómo quieren sentirse en la siguiente etapa. ¿Qué deseo pequeño te gustaría probar primero?"
+      },
+      "palabraNueva": {
+        "titulo": "La palabra de lo que elegimos",
+        "contenido": "Intención: Propósito consciente que orienta una acción o una decisión. Una intención realista ayuda a empezar sin convertir el futuro en una obligación."
+      },
+      "buenasNoches": {
+        "titulo": "Lo que viene puede esperar un poco",
+        "contenido": "No sé qué traerá la siguiente etapa, y tampoco hace falta decidirlo todo hoy. Ojalá podamos avanzar con curiosidad, paciencia y espacio para cambiar de idea."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Intención",
+      "significado": "Propósito consciente que orienta una acción o una decisión.",
+      "ejemplo": "Una intención realista ayuda a empezar sin convertir el futuro en una obligación."
+    }
   },
   {
     "dia": 78,
