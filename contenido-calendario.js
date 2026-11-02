@@ -13400,5 +13400,329 @@ const CALENDARIO = [
         "ejemplo": "Un encuentro azaroso puede dejar una conversación que termina siendo memorable."
       }
     }
+  ],
+[
+    {
+      "dia": 301,
+      "fecha": "2027-08-12",
+      "fechaTexto": "jue, 12 de ago",
+      "categoria": "El desafío del papel imposible",
+      "icono": "📄",
+      "tono": "destreza y creatividad",
+      "color": {
+        "principal": "#91b9c9",
+        "suave": "#e3f0f4",
+        "oscuro": "#243c48"
+      },
+      "buenosDias": "Hoy un papel cualquiera tiene que convertirse en algo que se sostenga por sí mismo.",
+      "poema": [
+        "Toma una hoja y construye una figura de origami o una estructura sencilla que pueda mantenerse de pie sin cinta ni pegamento. Puedes intentar una grulla, una caja o una pequeña torre. Si no conoces los pliegues, busca una referencia y sigue los pasos con paciencia; después intenta repetirlo sin mirar las instrucciones.",
+        "Cuando termines, haz una segunda versión con una sola regla nueva: debe ser más pequeña, más alta o tener una parte móvil. No importa que quede perfecta; lo divertido es descubrir cómo cambia el resultado con cada pliegue."
+      ],
+      "detalle": "Ponle nombre a tu creación como si fuera una pieza de arquitectura.",
+      "buenasNoches": "A veces una idea no necesita mucho material: basta una hoja y un poco de curiosidad.",
+      "cancionTitulo": "Billie Jean",
+      "cancionArtista": "Michael Jackson",
+      "youtubeId": "Zi_XLOBDo_Yk",
+      "cancionUrl": "https://www.youtube.com/watch?v=Zi_XLOBDo_Yk",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy un papel cualquiera tiene que convertirse en algo que se sostenga por sí mismo."
+        },
+        "mensajePrincipal": {
+          "titulo": "El desafío del papel imposible",
+          "contenido": "Toma una hoja y construye una figura de origami o una estructura sencilla que pueda mantenerse de pie sin cinta ni pegamento. Puedes intentar una grulla, una caja o una pequeña torre. Si no conoces los pliegues, busca una referencia y sigue los pasos con paciencia; después intenta repetirlo sin mirar las instrucciones."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra atisbo",
+          "contenido": "Señal o indicio pequeño de algo que todavía no se muestra por completo. Un primer atisbo de la figura aparece cuando el papel empieza a tomar forma."
+        },
+        "buenasNoches": {
+          "contenido": "A veces una idea no necesita mucho material: basta una hoja y un poco de curiosidad."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Atisbo",
+        "significado": "Señal o indicio pequeño de algo que todavía no se muestra por completo.",
+        "ejemplo": "Un primer atisbo de la figura aparece cuando el papel empieza a tomar forma."
+      }
+    },
+    {
+      "dia": 302,
+      "fecha": "2027-08-13",
+      "fechaTexto": "vie, 13 de ago",
+      "categoria": "El anuncio de un objeto ordinario",
+      "icono": "📣",
+      "tono": "improvisación y humor",
+      "color": {
+        "principal": "#d9b18d",
+        "suave": "#f7ecdf",
+        "oscuro": "#4a3525"
+      },
+      "buenosDias": "Hoy vamos a vender algo que nadie necesita como si fuera el invento del siglo.",
+      "poema": [
+        "Elige un objeto cercano y crea un anuncio de treinta segundos para convencer a alguien de que es extraordinario. Debes incluir un nombre comercial, una ventaja exagerada y un eslogan. La gracia está en usar argumentos creativos sin burlarte de nadie; puedes grabarlo como un comercial de televisión o presentarlo en vivo.",
+        "Si alguien participa, esa persona será el cliente escéptico y hará dos preguntas difíciles. Cambien de rol y anuncien otro objeto todavía menos impresionante."
+      ],
+      "detalle": "Cierra el anuncio con una garantía absurda, pero inofensiva: por ejemplo, «te hará mirar dos veces el cajón».",
+      "buenasNoches": "El talento para encontrarle gracia a lo cotidiano es una forma estupenda de creatividad.",
+      "cancionTitulo": "Rolling in the Deep",
+      "cancionArtista": "Adele",
+      "youtubeId": "rYEDA3JcQqw",
+      "cancionUrl": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a vender algo que nadie necesita como si fuera el invento del siglo."
+        },
+        "mensajePrincipal": {
+          "titulo": "El anuncio de un objeto ordinario",
+          "contenido": "Elige un objeto cercano y crea un anuncio de treinta segundos para convencer a alguien de que es extraordinario. Debes incluir un nombre comercial, una ventaja exagerada y un eslogan. La gracia está en usar argumentos creativos sin burlarte de nadie; puedes grabarlo como un comercial de televisión o presentarlo en vivo."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra paradoja",
+          "contenido": "Idea o situación que parece contradictoria, pero puede contener una verdad. La paradoja del anuncio es que cuanto más común es el objeto, más espectacular debe sonar su presentación."
+        },
+        "buenasNoches": {
+          "contenido": "El talento para encontrarle gracia a lo cotidiano es una forma estupenda de creatividad."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Paradoja",
+        "significado": "Idea o situación que parece contradictoria, pero puede contener una verdad.",
+        "ejemplo": "La paradoja del anuncio es que cuanto más común es el objeto, más espectacular debe sonar su presentación."
+      }
+    },
+    {
+      "dia": 303,
+      "fecha": "2027-08-14",
+      "fechaTexto": "sáb, 14 de ago",
+      "categoria": "La escena alternativa",
+      "icono": "🎬",
+      "tono": "cine y narración",
+      "color": {
+        "principal": "#b4a6d4",
+        "suave": "#eee9f5",
+        "oscuro": "#392e4d"
+      },
+      "buenosDias": "Hoy una historia conocida va a tomar un camino completamente distinto.",
+      "poema": [
+        "Piensa en una película o serie que conozcas y elige una escena breve. Reescribe lo que ocurre cambiando una sola decisión del personaje: ¿qué pasaría si dijera que no, llegara cinco minutos antes o eligiera otro camino? Cuenta la nueva versión en cinco frases y dale un título distinto.",
+        "Si lo hacen entre dos, una persona plantea el cambio y la otra continúa la historia sin contradecir lo que ya se estableció. Después pueden comparar cuál versión tendría el giro más inesperado."
+      ],
+      "detalle": "Añade una escena poscréditos de dos líneas que cambie la interpretación del final.",
+      "buenasNoches": "Una buena historia también vive de todas las versiones que nunca llegaron a la pantalla.",
+      "cancionTitulo": "Take On Me",
+      "cancionArtista": "a-ha",
+      "youtubeId": "djV11Xbc914",
+      "cancionUrl": "https://www.youtube.com/watch?v=djV11Xbc914",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy una historia conocida va a tomar un camino completamente distinto."
+        },
+        "mensajePrincipal": {
+          "titulo": "La escena alternativa",
+          "contenido": "Piensa en una película o serie que conozcas y elige una escena breve. Reescribe lo que ocurre cambiando una sola decisión del personaje: ¿qué pasaría si dijera que no, llegara cinco minutos antes o eligiera otro camino? Cuenta la nueva versión en cinco frases y dale un título distinto."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra convergencia",
+          "contenido": "Encuentro de caminos, ideas o elementos que terminan acercándose a un mismo punto. Dos historias distintas pueden tener una convergencia inesperada cuando comparten una decisión clave."
+        },
+        "buenasNoches": {
+          "contenido": "Una buena historia también vive de todas las versiones que nunca llegaron a la pantalla."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Convergencia",
+        "significado": "Encuentro de caminos, ideas o elementos que terminan acercándose a un mismo punto.",
+        "ejemplo": "Dos historias distintas pueden tener una convergencia inesperada cuando comparten una decisión clave."
+      }
+    },
+    {
+      "dia": 304,
+      "fecha": "2027-08-15",
+      "fechaTexto": "dom, 15 de ago",
+      "categoria": "El retrato con la mano equivocada",
+      "icono": "✍️",
+      "tono": "arte y juego sin presión",
+      "color": {
+        "principal": "#d7a2b3",
+        "suave": "#f5e7ec",
+        "oscuro": "#482d38"
+      },
+      "buenosDias": "Hoy no buscamos un dibujo bonito: buscamos uno que tenga personalidad propia.",
+      "poema": [
+        "Dibuja un retrato sencillo usando la mano que normalmente no utilizas. Tienes tres minutos y no puedes borrar. Puedes dibujarte, retratar a alguien conocido o inventar un personaje. Cuando termines, añade un detalle que no estaba en el modelo: un sombrero imposible, una ceja dramática o un accesorio inesperado.",
+        "Si hay otra persona, intercambien los retratos y escriban debajo un título de exposición. No se permiten disculpas por el resultado: la misión es disfrutar el proceso y reírse con cariño."
+      ],
+      "detalle": "Ponle una descripción de catálogo artístico de una sola frase, exageradamente elegante.",
+      "buenasNoches": "A veces soltar el control deja espacio para que aparezca algo mucho más divertido.",
+      "cancionTitulo": "A Sky Full of Stars",
+      "cancionArtista": "Coldplay",
+      "youtubeId": "VPRjCeoBqrI",
+      "cancionUrl": "https://www.youtube.com/watch?v=VPRjCeoBqrI",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy no buscamos un dibujo bonito: buscamos uno que tenga personalidad propia."
+        },
+        "mensajePrincipal": {
+          "titulo": "El retrato con la mano equivocada",
+          "contenido": "Dibuja un retrato sencillo usando la mano que normalmente no utilizas. Tienes tres minutos y no puedes borrar. Puedes dibujarte, retratar a alguien conocido o inventar un personaje. Cuando termines, añade un detalle que no estaba en el modelo: un sombrero imposible, una ceja dramática o un accesorio inesperado."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra templanza",
+          "contenido": "Moderación y equilibrio al actuar o reaccionar. La templanza ayuda a no frustrarse cuando el dibujo no sale como lo imaginábamos."
+        },
+        "buenasNoches": {
+          "contenido": "A veces soltar el control deja espacio para que aparezca algo mucho más divertido."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Templanza",
+        "significado": "Moderación y equilibrio al actuar o reaccionar.",
+        "ejemplo": "La templanza ayuda a no frustrarse cuando el dibujo no sale como lo imaginábamos."
+      }
+    },
+    {
+      "dia": 305,
+      "fecha": "2027-08-16",
+      "fechaTexto": "lun, 16 de ago",
+      "categoria": "La palabra prohibida",
+      "icono": "🗣️",
+      "tono": "juego verbal y agilidad",
+      "color": {
+        "principal": "#9fbea9",
+        "suave": "#e8f1eb",
+        "oscuro": "#2b4134"
+      },
+      "buenosDias": "Hoy toca hablar con cuidado: hay una palabra que no se puede pronunciar.",
+      "poema": [
+        "Elijan una palabra cotidiana —por ejemplo, «sí», «no», «bueno» o «yo»— y conversen durante dos minutos sin decirla. Quien la pronuncie pierde un punto; si alguien se queda sin respuesta, puede pedir cinco segundos para pensar. Cambien la palabra prohibida en cada ronda y aumenten poco a poco la dificultad.",
+        "Para hacerlo más divertido, elijan un tema inesperado: defender una comida, explicar un viaje imaginario o contar cómo sería un día viviendo dentro de una película."
+      ],
+      "detalle": "Ronda extra: intenten mantener una conversación completa sin usar ninguna palabra que empiece por la letra elegida.",
+      "buenasNoches": "Las mejores ocurrencias suelen aparecer justo cuando dejamos de intentar sonar perfectos.",
+      "cancionTitulo": "Firework",
+      "cancionArtista": "Katy Perry",
+      "youtubeId": "QGJuMBssdHY",
+      "cancionUrl": "https://www.youtube.com/watch?v=QGJuMBssdHY",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy toca hablar con cuidado: hay una palabra que no se puede pronunciar."
+        },
+        "mensajePrincipal": {
+          "titulo": "La palabra prohibida",
+          "contenido": "Elijan una palabra cotidiana —por ejemplo, «sí», «no», «bueno» o «yo»— y conversen durante dos minutos sin decirla. Quien la pronuncie pierde un punto; si alguien se queda sin respuesta, puede pedir cinco segundos para pensar. Cambien la palabra prohibida en cada ronda y aumenten poco a poco la dificultad."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra fugacidad",
+          "contenido": "Cualidad de aquello que dura muy poco o pasa rápidamente. La fugacidad de una ronda hace que cada respuesta tenga que llegar a tiempo."
+        },
+        "buenasNoches": {
+          "contenido": "Las mejores ocurrencias suelen aparecer justo cuando dejamos de intentar sonar perfectos."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Fugacidad",
+        "significado": "Cualidad de aquello que dura muy poco o pasa rápidamente.",
+        "ejemplo": "La fugacidad de una ronda hace que cada respuesta tenga que llegar a tiempo."
+      }
+    },
+    {
+      "dia": 306,
+      "fecha": "2027-08-17",
+      "fechaTexto": "mar, 17 de ago",
+      "categoria": "La colección de cinco cosas azules",
+      "icono": "🔵",
+      "tono": "composición visual y observación",
+      "color": {
+        "principal": "#8eb8c9",
+        "suave": "#e3f0f5",
+        "oscuro": "#253d49"
+      },
+      "buenosDias": "Hoy vamos a crear una pequeña colección visual a partir de un solo color.",
+      "poema": [
+        "Busca cinco objetos azules de tu entorno y colócalos juntos de una manera que se vea intencional. Juega con tamaños, texturas y distancias: no tienen que ser objetos decorativos, pueden ser cosas de uso diario. Toma una fotografía desde arriba y otra desde un ángulo lateral; después decide cuál composición funciona mejor.",
+        "Si no tienes cinco objetos del mismo tono, mezcla azules claros y oscuros. El objetivo es descubrir cómo un color puede unir cosas que normalmente no pondrías juntas."
+      ],
+      "detalle": "Dale a tu colección un nombre de exposición y escribe una descripción de máximo veinte palabras.",
+      "buenasNoches": "Mirar con atención transforma lo cotidiano en una oportunidad para crear.",
+      "cancionTitulo": "Pompeii",
+      "cancionArtista": "Bastille",
+      "youtubeId": "uelHIf3W6sg",
+      "cancionUrl": "https://www.youtube.com/watch?v=uelHIf3W6sg",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a crear una pequeña colección visual a partir de un solo color."
+        },
+        "mensajePrincipal": {
+          "titulo": "La colección de cinco cosas azules",
+          "contenido": "Busca cinco objetos azules de tu entorno y colócalos juntos de una manera que se vea intencional. Juega con tamaños, texturas y distancias: no tienen que ser objetos decorativos, pueden ser cosas de uso diario. Toma una fotografía desde arriba y otra desde un ángulo lateral; después decide cuál composición funciona mejor."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra nimiedad",
+          "contenido": "Cosa pequeña o de poca importancia. Una nimiedad puede convertirse en protagonista cuando la colocamos dentro de una composición cuidada."
+        },
+        "buenasNoches": {
+          "contenido": "Mirar con atención transforma lo cotidiano en una oportunidad para crear."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Nimiedad",
+        "significado": "Cosa pequeña o de poca importancia.",
+        "ejemplo": "Una nimiedad puede convertirse en protagonista cuando la colocamos dentro de una composición cuidada."
+      }
+    },
+    {
+      "dia": 307,
+      "fecha": "2027-08-18",
+      "fechaTexto": "mié, 18 de ago",
+      "categoria": "El detalle que suma puntos",
+      "icono": "😉",
+      "tono": "coqueto y espontáneo",
+      "color": {
+        "principal": "#d8a0b8",
+        "suave": "#f6e5ed",
+        "oscuro": "#482a3b"
+      },
+      "buenosDias": "Hay detalles que no son grandes gestos, pero sí pueden ganarse puntos sin hacer demasiado ruido.",
+      "poema": [
+        "Cada uno menciona una costumbre, habilidad o detalle pequeño que le parece atractivo en otra persona: puede ser cómo se concentra, cómo trata a los demás, su sentido del humor o la forma en que habla de algo que le apasiona. Después, si hay confianza, pueden decir cuál de esos detalles han notado en el otro. La idea es compartir, no poner nota ni exigir cumplidos.",
+        "Terminen inventando una categoría absurda para ese detalle, como «mejor manera de explicar algo» o «sonrisa que aparece sin aviso». Mantengan el tono ligero y dejen que la conversación fluya."
+      ],
+      "detalle": "Si prefieren no hablar de ustedes, inventen dos personajes y decidan qué detalle haría que se cayeran bien.",
+      "buenasNoches": "No todo lo que llama la atención llega haciendo ruido; algunas cosas se quedan por la manera en que nos hacen sentir.",
+      "cancionTitulo": "I Wanna Dance with Somebody",
+      "cancionArtista": "Whitney Houston",
+      "youtubeId": "YykjpeuMNEk",
+      "cancionUrl": "https://www.youtube.com/watch?v=YykjpeuMNEk",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hay detalles que no son grandes gestos, pero sí pueden ganarse puntos sin hacer demasiado ruido."
+        },
+        "mensajePrincipal": {
+          "titulo": "El detalle que suma puntos",
+          "contenido": "Cada uno menciona una costumbre, habilidad o detalle pequeño que le parece atractivo en otra persona: puede ser cómo se concentra, cómo trata a los demás, su sentido del humor o la forma en que habla de algo que le apasiona. Después, si hay confianza, pueden decir cuál de esos detalles han notado en el otro. La idea es compartir, no poner nota ni exigir cumplidos."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra parsimonia",
+          "contenido": "Calma o lentitud al hacer algo, sin apresurarse. Con parsimonia, una conversación puede dejar espacio para escuchar de verdad."
+        },
+        "buenasNoches": {
+          "contenido": "No todo lo que llama la atención llega haciendo ruido; algunas cosas se quedan por la manera en que nos hacen sentir."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Parsimonia",
+        "significado": "Calma o lentitud al hacer algo, sin apresurarse.",
+        "ejemplo": "Con parsimonia, una conversación puede dejar espacio para escuchar de verdad."
+      }
+    }
   ]
 ];
