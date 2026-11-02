@@ -5022,5 +5022,327 @@ const CALENDARIO = [
     "cancionArtista": "Anyone/Cualkiera; Rapiphero",
     "youtubeId": "iN4JYAXgqzY",
     "cancionUrl": "https://www.youtube.com/watch?v=iN4JYAXgqzY"
+  },
+  {
+    "dia": 119,
+    "fecha": "2027-02-11",
+    "fechaTexto": "jue, 11 de feb",
+    "categoria": "El expediente de las tres pistas",
+    "icono": "🗝️",
+    "tono": "juguetón",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy tienes un pequeño caso por resolver.",
+    "poema": [
+      "Escribe una palabra secreta de cinco letras y crea tres pistas: significado, lugar y una letra descrita sin nombrarla. La otra persona tiene tres intentos. Después intercambien los papeles. Si juegas a solas, guarda las pistas y vuelve a ellas diez minutos después.",
+      "Dibuja en el lienzo de ALEJA® una imagen que dé pistas de la palabra sin escribirla."
+    ],
+    "detalle": "Dibuja en el lienzo de ALEJA® una imagen que dé pistas de la palabra sin escribirla.",
+    "buenasNoches": "Caso cerrado por hoy. Descansa tu detective interior.",
+    "cancionTitulo": "I Get Around",
+    "cancionArtista": "2Pac; Digital Underground",
+    "youtubeId": "YqJAnQTwmJs",
+    "cancionUrl": "https://www.youtube.com/watch?v=YqJAnQTwmJs",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy tienes un pequeño caso por resolver."
+      },
+      "mensajePrincipal": {
+        "titulo": "El expediente de las tres pistas",
+        "contenido": "Escribe una palabra secreta de cinco letras y crea tres pistas: significado, lugar y una letra descrita sin nombrarla. La otra persona tiene tres intentos. Después intercambien los papeles. Si juegas a solas, guarda las pistas y vuelve a ellas diez minutos después."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra deducción",
+        "contenido": "Razonar a partir de indicios. Si ves huellas mojadas, deduces que alguien entró bajo la lluvia."
+      },
+      "buenasNoches": {
+        "contenido": "Caso cerrado por hoy. Descansa tu detective interior."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Deducción",
+      "significado": "Razonar a partir de indicios.",
+      "ejemplo": "Si ves huellas mojadas, deduces que alguien entró bajo la lluvia."
+    }
+  },
+  {
+    "dia": 120,
+    "fecha": "2027-02-12",
+    "fechaTexto": "vie, 12 de feb",
+    "categoria": "El manual no oficial para sacarte una sonrisa",
+    "icono": "💌",
+    "tono": "coqueto",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy la misión es descubrir qué detalle puede dibujar una sonrisa sin hacer demasiado ruido.",
+    "poema": [
+      "Completa: «Para mejorar un día complicado…», «Una forma inesperada de hacerme reír…», «Un plan sencillo que aceptaría…». Añade una instrucción absurda para activar el buen humor. Si lo comparten, cada uno completa el manual del otro sin asumir que ya conoce sus respuestas. «No sé cuál es tu truco para alegrar un lugar, pero sospecho que tiene algo que ver con aparecer en él».",
+      "Diseña en el lienzo una tarjeta «Manual de uso» con tres instrucciones y un botón imaginario para activar una sonrisa."
+    ],
+    "detalle": "Diseña en el lienzo una tarjeta «Manual de uso» con tres instrucciones y un botón imaginario para activar una sonrisa.",
+    "buenasNoches": "Ojalá hoy haya aparecido una razón pequeña para sonreír.",
+    "cancionTitulo": "Hip 2 Da Game",
+    "cancionArtista": "Lord Finesse",
+    "youtubeId": "ihZXuUDUYho",
+    "cancionUrl": "https://www.youtube.com/watch?v=ihZXuUDUYho",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la misión es descubrir qué detalle puede dibujar una sonrisa sin hacer demasiado ruido."
+      },
+      "mensajePrincipal": {
+        "titulo": "El manual no oficial para sacarte una sonrisa",
+        "contenido": "Completa: «Para mejorar un día complicado…», «Una forma inesperada de hacerme reír…», «Un plan sencillo que aceptaría…». Añade una instrucción absurda para activar el buen humor. Si lo comparten, cada uno completa el manual del otro sin asumir que ya conoce sus respuestas. «No sé cuál es tu truco para alegrar un lugar, pero sospecho que tiene algo que ver con aparecer en él»."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra espontáneo",
+        "contenido": "Que surge naturalmente, sin preparación. Una risa espontánea aparece cuando algo sorprende de verdad."
+      },
+      "buenasNoches": {
+        "contenido": "Ojalá hoy haya aparecido una razón pequeña para sonreír."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Espontáneo",
+      "significado": "Que surge naturalmente, sin preparación.",
+      "ejemplo": "Una risa espontánea aparece cuando algo sorprende de verdad."
+    }
+  },
+  {
+    "dia": 121,
+    "fecha": "2027-02-13",
+    "fechaTexto": "sáb, 13 de feb",
+    "categoria": "El juego de mesa que cabe en un bolsillo",
+    "icono": "🎲",
+    "tono": "juguetón",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy inventaremos un juego desde cero con papel, lápiz y una moneda.",
+    "poema": [
+      "Dibuja nueve casillas y escribe retos: contar una anécdota, imitar un sonido, inventar un título, dibujar con ojos cerrados, nombrar tres cosas de un color, crear una palabra, hacer una pregunta, tararear o contar un dato. Lanza una moneda para avanzar: cara a la derecha, sello hacia abajo. Si sales del tablero, vuelve al inicio. Completa tres retos; cualquiera puede pasar una prueba que no le apetezca.",
+      "Inventa un nombre y diseña una portada para el juego en el lienzo de ALEJA®."
+    ],
+    "detalle": "Inventa un nombre y diseña una portada para el juego en el lienzo de ALEJA®.",
+    "buenasNoches": "A veces basta con inventar las reglas para pasar un rato distinto.",
+    "cancionTitulo": "Feliz Si Es Raro",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "rTv5pNLz9IU",
+    "cancionUrl": "https://www.youtube.com/watch?v=rTv5pNLz9IU",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy inventaremos un juego desde cero con papel, lápiz y una moneda."
+      },
+      "mensajePrincipal": {
+        "titulo": "El juego de mesa que cabe en un bolsillo",
+        "contenido": "Dibuja nueve casillas y escribe retos: contar una anécdota, imitar un sonido, inventar un título, dibujar con ojos cerrados, nombrar tres cosas de un color, crear una palabra, hacer una pregunta, tararear o contar un dato. Lanza una moneda para avanzar: cara a la derecha, sello hacia abajo. Si sales del tablero, vuelve al inicio. Completa tres retos; cualquiera puede pasar una prueba que no le apetezca."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra lúdico",
+        "contenido": "Relacionado con el juego o la diversión. Una actividad lúdica permite aprender mientras nos divertimos."
+      },
+      "buenasNoches": {
+        "contenido": "A veces basta con inventar las reglas para pasar un rato distinto."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Lúdico",
+      "significado": "Relacionado con el juego o la diversión.",
+      "ejemplo": "Una actividad lúdica permite aprender mientras nos divertimos."
+    }
+  },
+  {
+    "dia": 122,
+    "fecha": "2027-02-14",
+    "fechaTexto": "dom, 14 de feb",
+    "categoria": "La banda sonora de una escena cotidiana",
+    "icono": "🎧",
+    "tono": "creativo",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy vamos a ponerle música a una escena que normalmente no tendría banda sonora.",
+    "poema": [
+      "Elige una escena cotidiana: preparar desayuno, esperar transporte, ordenar el escritorio o mirar por la ventana. Busca en la sección musical de ALEJA® una canción que la acompañe. Anota qué parte combina con el ritmo y qué imagen aparece en tu cabeza. Si participan dos, elijan canciones distintas para la misma escena y comparen las películas que imaginaron.",
+      "Crea en el lienzo un afiche de película para esa escena: título, frase promocional y color dominante."
+    ],
+    "detalle": "Crea en el lienzo un afiche de película para esa escena: título, frase promocional y color dominante.",
+    "buenasNoches": "Hasta las escenas comunes podrían tener una banda sonora memorable.",
+    "cancionTitulo": "ATLiens",
+    "cancionArtista": "Outkast",
+    "youtubeId": "ktc9hsSfUck",
+    "cancionUrl": "https://www.youtube.com/watch?v=ktc9hsSfUck",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a ponerle música a una escena que normalmente no tendría banda sonora."
+      },
+      "mensajePrincipal": {
+        "titulo": "La banda sonora de una escena cotidiana",
+        "contenido": "Elige una escena cotidiana: preparar desayuno, esperar transporte, ordenar el escritorio o mirar por la ventana. Busca en la sección musical de ALEJA® una canción que la acompañe. Anota qué parte combina con el ritmo y qué imagen aparece en tu cabeza. Si participan dos, elijan canciones distintas para la misma escena y comparen las películas que imaginaron."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra evocación",
+        "contenido": "Acción de traer algo a la memoria o a la imaginación. Una melodía puede evocar un lugar o una escena olvidada."
+      },
+      "buenasNoches": {
+        "contenido": "Hasta las escenas comunes podrían tener una banda sonora memorable."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Evocación",
+      "significado": "Acción de traer algo a la memoria o a la imaginación.",
+      "ejemplo": "Una melodía puede evocar un lugar o una escena olvidada."
+    }
+  },
+  {
+    "dia": 123,
+    "fecha": "2027-02-15",
+    "fechaTexto": "lun, 15 de feb",
+    "categoria": "El rompecabezas sin mirar el reloj",
+    "icono": "🧩",
+    "tono": "reto",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "El reto no es competir: es concentrarte y disfrutar cuando las piezas empiezan a encajar.",
+    "poema": [
+      "Entra al rompecabezas de ALEJA® y elige una imagen y dificultad que disfrutes. Si te atascas, separa bordes o colores y cambia de estrategia. Al terminar, observa qué detalle no habías notado. Si juegan dos, pueden turnarse o resolverlo juntos.",
+      "Abre el lienzo y dibuja de memoria el detalle que más te gustó de la imagen."
+    ],
+    "detalle": "Abre el lienzo y dibuja de memoria el detalle que más te gustó de la imagen.",
+    "buenasNoches": "Cada pieza encontró su lugar a su tiempo.",
+    "cancionTitulo": "Children's Story",
+    "cancionArtista": "Slick Rick",
+    "youtubeId": "HjNTu8jdukA",
+    "cancionUrl": "https://www.youtube.com/watch?v=HjNTu8jdukA",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "El reto no es competir: es concentrarte y disfrutar cuando las piezas empiezan a encajar."
+      },
+      "mensajePrincipal": {
+        "titulo": "El rompecabezas sin mirar el reloj",
+        "contenido": "Entra al rompecabezas de ALEJA® y elige una imagen y dificultad que disfrutes. Si te atascas, separa bordes o colores y cambia de estrategia. Al terminar, observa qué detalle no habías notado. Si juegan dos, pueden turnarse o resolverlo juntos."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra ensamblar",
+        "contenido": "Unir piezas para formar un conjunto. Un rompecabezas ensambla partes distintas en una imagen."
+      },
+      "buenasNoches": {
+        "contenido": "Cada pieza encontró su lugar a su tiempo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Ensamblar",
+      "significado": "Unir piezas para formar un conjunto.",
+      "ejemplo": "Un rompecabezas ensambla partes distintas en una imagen."
+    }
+  },
+  {
+    "dia": 124,
+    "fecha": "2027-02-16",
+    "fechaTexto": "mar, 16 de feb",
+    "categoria": "Una cita para crear algo con las manos",
+    "icono": "🪞",
+    "tono": "experiencia",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hay planes en los que el recuerdo también es algo que hiciste con tus propias manos.",
+    "poema": [
+      "Busquen, cuando ambos quieran, un taller de una sesión: pintura de espejos, cerámica, decoración de figuras, ilustración u origami. Revisen duración, precio, materiales, ubicación y disponibilidad. Una tarde es suficiente. Si no encaja, improvisen una versión casera. Cada persona crea una pieza distinta.",
+      "Dibujen en el lienzo un boceto de lo que les gustaría crear y comparen ideas, sin obligación de reservar ese día."
+    ],
+    "detalle": "Dibujen en el lienzo un boceto de lo que les gustaría crear y comparen ideas, sin obligación de reservar ese día.",
+    "buenasNoches": "Ojalá encuentres una actividad en la que pierdas la noción del tiempo.",
+    "cancionTitulo": "Mass Appeal",
+    "cancionArtista": "Gang Starr",
+    "youtubeId": "y9lNbNGbo24",
+    "cancionUrl": "https://www.youtube.com/watch?v=y9lNbNGbo24",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hay planes en los que el recuerdo también es algo que hiciste con tus propias manos."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una cita para crear algo con las manos",
+        "contenido": "Busquen, cuando ambos quieran, un taller de una sesión: pintura de espejos, cerámica, decoración de figuras, ilustración u origami. Revisen duración, precio, materiales, ubicación y disponibilidad. Una tarde es suficiente. Si no encaja, improvisen una versión casera. Cada persona crea una pieza distinta."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra artesanal",
+        "contenido": "Elaborado manualmente, con atención al proceso y los detalles. Una pieza artesanal puede tener diferencias que la hacen única."
+      },
+      "buenasNoches": {
+        "contenido": "Ojalá encuentres una actividad en la que pierdas la noción del tiempo."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Artesanal",
+      "significado": "Elaborado manualmente, con atención al proceso y los detalles.",
+      "ejemplo": "Una pieza artesanal puede tener diferencias que la hacen única."
+    }
+  },
+  {
+    "dia": 125,
+    "fecha": "2027-02-17",
+    "fechaTexto": "mié, 17 de feb",
+    "categoria": "Inventario de cosas que no caben en una fotografía",
+    "icono": "✍️",
+    "tono": "poético",
+    "color": {
+      "principal": "#a9a0d4",
+      "suave": "#e9e4f6",
+      "oscuro": "#28213f"
+    },
+    "buenosDias": "Hoy basta con prestar atención a esas pequeñas cosas que sentimos, pero no sabemos cómo guardar.",
+    "poema": [
+      "Escribe cinco cosas que no caben en una fotografía: una conversación tranquila, el olor de un lugar, una risa inesperada o la emoción de probar algo nuevo. Elige una y descríbela sin nombrarla, usando sonidos, temperatura, colores y comparaciones. Puedes dejar que alguien adivine o convertirlo en un poema.",
+      "Composición: «No todo lo importante deja una imagen. Hay instantes que se quedan en la manera de respirar, en una risa que vuelve sin aviso o en el silencio que no pide ser llenado»."
+    ],
+    "detalle": "Composición: «No todo lo importante deja una imagen. Hay instantes que se quedan en la manera de respirar, en una risa que vuelve sin aviso o en el silencio que no pide ser llenado».",
+    "buenasNoches": "Que descanses. Ojalá hoy haya quedado algo bonito sin necesitar fotografía.",
+    "cancionTitulo": "Keep Ya Head Up",
+    "cancionArtista": "2Pac",
+    "youtubeId": "36pJ8WrqUMQ",
+    "cancionUrl": "https://www.youtube.com/watch?v=36pJ8WrqUMQ",
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy basta con prestar atención a esas pequeñas cosas que sentimos, pero no sabemos cómo guardar."
+      },
+      "mensajePrincipal": {
+        "titulo": "Inventario de cosas que no caben en una fotografía",
+        "contenido": "Escribe cinco cosas que no caben en una fotografía: una conversación tranquila, el olor de un lugar, una risa inesperada o la emoción de probar algo nuevo. Elige una y descríbela sin nombrarla, usando sonidos, temperatura, colores y comparaciones. Puedes dejar que alguien adivine o convertirlo en un poema."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra intangible",
+        "contenido": "Que no puede tocarse físicamente, aunque pueda sentirse. La confianza, un recuerdo y una emoción son intangibles."
+      },
+      "buenasNoches": {
+        "contenido": "Que descanses. Ojalá hoy haya quedado algo bonito sin necesitar fotografía."
+      }
+    },
+    "palabraNueva": {
+      "palabra": "Intangible",
+      "significado": "Que no puede tocarse físicamente, aunque pueda sentirse.",
+      "ejemplo": "La confianza, un recuerdo y una emoción son intangibles."
+    }
   }
 ];
