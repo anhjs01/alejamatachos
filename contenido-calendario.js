@@ -4054,7 +4054,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy no hace falta explicar todo con palabras. Podemos traducir una emoción en color, forma y textura.",
     "poema": [
       "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?",
-      "Matiz: Diferencia sutil en la manera en que se siente o expresa una emoción. Un matiz emocional puede cambiar una escena de alegre a nostálgica."
+      "Cromático: Relacionado con los colores o con sus combinaciones. El contraste cromático hizo que la pequeña pintura destacara."
     ],
     "detalle": "Materiales: papel, pinturas o lápices de colores. Cada uno elige una emoción —calma, entusiasmo, nostalgia o curiosidad— y crea una pequeña paleta de tres colores. Mezclen tonos si tienen pintura y hagan formas libres, sin dibujar objetos reconocibles. Después, si les apetece, expliquen por qué eligieron esos colores; la otra persona escucha sin corregir ni intentar interpretar lo que «debería» significar. También pueden inventar un nombre para la paleta. No hace falta saber pintar ni mostrar algo que prefieran mantener privado. ¿Qué color tendría para ti un día que sale bien?",
     "buenasNoches": "No siempre tenemos que encontrar la palabra exacta para lo que sentimos. A veces basta con darle un color y permitir que esté ahí.",
@@ -4074,7 +4074,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra del color",
-        "contenido": "Matiz: Diferencia sutil en la manera en que se siente o expresa una emoción. Un matiz emocional puede cambiar una escena de alegre a nostálgica."
+        "contenido": "Cromático: Relacionado con los colores o con sus combinaciones. El contraste cromático hizo que la pequeña pintura destacara."
       },
       "buenasNoches": {
         "titulo": "Lo que hoy tuvo color",
@@ -4082,9 +4082,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Matiz",
-      "significado": "Diferencia sutil en la manera en que se siente o expresa una emoción.",
-      "ejemplo": "Un matiz emocional puede cambiar una escena de alegre a nostálgica."
+      "palabra": "Cromático",
+      "significado": "Relacionado con los colores o con sus combinaciones.",
+      "ejemplo": "El contraste cromático hizo que la pequeña pintura destacara."
     }
   },
   {
@@ -4198,7 +4198,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy la cocina se queda práctica: una comida cálida, preparada en sartén y sin necesidad de horno.",
     "poema": [
       "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?",
-      "Sazón: Equilibrio de sabores y aromas que caracteriza una preparación. La sazón puede cambiar mucho con un toque de pimienta o hierbas."
+      "Aromático: Que desprende un olor agradable o característico. El toque aromático de las hierbas realzó el arroz."
     ],
     "detalle": "Ingredientes para dos: 1 taza de arroz cocido, 2 huevos, 1 taza de espinaca u otras verduras picadas, ¼ de cebolla, 1 cucharada de aceite, un chorrito de leche opcional, sal y pimienta. Pica la cebolla y sofríela con aceite durante dos o tres minutos. Añade las verduras y cocina hasta que estén tiernas. Incorpora el arroz y una cucharada de agua; remueve para calentarlo. En un espacio de la sartén, cocina los huevos revueltos hasta que estén completamente hechos y mézclalos con el arroz. Si quieres más cremosidad, agrega un poco de leche y remueve a fuego bajo. Ajusta la sal y sirve caliente. ¿Le pondrías más verduras o lo dejarías sencillo?",
     "buenasNoches": "Comer rico no tiene que significar pasar horas cocinando. Cuidarse también puede ser sencillo.",
@@ -4218,7 +4218,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de los sabores",
-        "contenido": "Sazón: Equilibrio de sabores y aromas que caracteriza una preparación. La sazón puede cambiar mucho con un toque de pimienta o hierbas."
+        "contenido": "Aromático: Que desprende un olor agradable o característico. El toque aromático de las hierbas realzó el arroz."
       },
       "buenasNoches": {
         "titulo": "Algo rico sin hacer un gran lío",
@@ -4226,9 +4226,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Sazón",
-      "significado": "Equilibrio de sabores y aromas que caracteriza una preparación.",
-      "ejemplo": "La sazón puede cambiar mucho con un toque de pimienta o hierbas."
+      "palabra": "Aromático",
+      "significado": "Que desprende un olor agradable o característico.",
+      "ejemplo": "El toque aromático de las hierbas realzó el arroz."
     }
   },
   {
@@ -4294,7 +4294,7 @@ const CALENDARIO = [
     "buenosDias": "Hoy la imaginación lleva el volante: una historia improvisada que puede terminar en comedia, misterio o cualquier cosa inesperada.",
     "poema": [
       "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?",
-      "Improvisación: Creación espontánea sin preparación detallada previa. La improvisación convirtió una historia sencilla en una comedia inesperada."
+      "Espontaneidad: Cualidad de actuar o crear de manera natural, sin preparación rígida. La espontaneidad hizo que la historia tomara un rumbo inesperado."
     ],
     "detalle": "Elijan al azar un personaje, un lugar y un objeto cotidiano. La primera persona empieza con una frase que incluya al personaje; la otra continúa usando el lugar; la tercera frase debe incorporar el objeto. Alternen una frase por turno durante diez turnos, sin borrar lo anterior ni exigir lógica perfecta. En la quinta frase, alguien introduce un giro inesperado; en la octava, la otra persona debe resolverlo. Al terminar, pongan título a la historia y elijan la frase más absurda. Si les gusta, escríbanla para conservarla. ¿Qué objeto cotidiano sería el peor protagonista de una aventura?",
     "buenasNoches": "No todas las ideas tienen que salir redondas. Algunas valen la pena precisamente porque se desviaron del plan.",
@@ -4314,7 +4314,7 @@ const CALENDARIO = [
       },
       "palabraNueva": {
         "titulo": "La palabra de inventar",
-        "contenido": "Improvisación: Creación espontánea sin preparación detallada previa. La improvisación convirtió una historia sencilla en una comedia inesperada."
+        "contenido": "Espontaneidad: Cualidad de actuar o crear de manera natural, sin preparación rígida. La espontaneidad hizo que la historia tomara un rumbo inesperado."
       },
       "buenasNoches": {
         "titulo": "Que la imaginación siga jugando",
@@ -4322,9 +4322,9 @@ const CALENDARIO = [
       }
     },
     "palabraNueva": {
-      "palabra": "Improvisación",
-      "significado": "Creación espontánea sin preparación detallada previa.",
-      "ejemplo": "La improvisación convirtió una historia sencilla en una comedia inesperada."
+      "palabra": "Espontaneidad",
+      "significado": "Cualidad de actuar o crear de manera natural, sin preparación rígida.",
+      "ejemplo": "La espontaneidad hizo que la historia tomara un rumbo inesperado."
     }
   },
   {
