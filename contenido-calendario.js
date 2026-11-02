@@ -14696,5 +14696,329 @@ const CALENDARIO = [
         "ejemplo": "La conversación tomó afluencia cuando cada respuesta despertó otra pregunta."
       }
     }
+  ],
+[
+    {
+      "dia": 329,
+      "fecha": "2027-09-09",
+      "fechaTexto": "jue, 9 de sep",
+      "categoria": "El inventario de habilidades absurdas",
+      "icono": "🧩",
+      "tono": "humor e imaginación",
+      "color": {
+        "principal": "#b7a9d2",
+        "suave": "#f0ecf6",
+        "oscuro": "#3c334b"
+      },
+      "buenosDias": "Hoy vamos a reconocer talentos que no sirven para nada… y por eso mismo son buenísimos.",
+      "poema": [
+        "Inventa tres habilidades completamente inútiles pero muy específicas: saber distinguir cucharas por su sonido, encontrar siempre el lado frío de la almohada o recordar el orden de los comerciales de una pausa. Ponles nombre, nivel de dificultad y una situación en la que podrían ser sorprendentemente útiles.",
+        "Si alguien participa, cada uno presenta su talento como si estuviera en una entrevista de trabajo. El otro puede hacer una pregunta seria para poner a prueba la habilidad."
+      ],
+      "detalle": "Crea un diploma oficial para el talento más inútil y entrégalo con solemnidad.",
+      "buenasNoches": "No todos los talentos tienen que impresionar; algunos solo tienen que hacernos reír.",
+      "cancionTitulo": "Take On Me",
+      "cancionArtista": "a-ha",
+      "youtubeId": "M7lc1UVf-VE",
+      "cancionUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a reconocer talentos que no sirven para nada… y por eso mismo son buenísimos."
+        },
+        "mensajePrincipal": {
+          "titulo": "El inventario de habilidades absurdas",
+          "contenido": "Inventa tres habilidades completamente inútiles pero muy específicas: saber distinguir cucharas por su sonido, encontrar siempre el lado frío de la almohada o recordar el orden de los comerciales de una pausa. Ponles nombre, nivel de dificultad y una situación en la que podrían ser sorprendentemente útiles."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra altruismo",
+          "contenido": "Actitud de procurar el bien de otras personas incluso sin buscar beneficio propio. Su altruismo se notó cuando ayudó sin esperar reconocimiento."
+        },
+        "buenasNoches": {
+          "contenido": "No todos los talentos tienen que impresionar; algunos solo tienen que hacernos reír."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Altruismo",
+        "significado": "Actitud de procurar el bien de otras personas incluso sin buscar beneficio propio.",
+        "ejemplo": "Su altruismo se notó cuando ayudó sin esperar reconocimiento."
+      }
+    },
+    {
+      "dia": 330,
+      "fecha": "2027-09-10",
+      "fechaTexto": "vie, 10 de sep",
+      "categoria": "La ruta de una gota de agua",
+      "icono": "💧",
+      "tono": "curiosidad y ciencia cotidiana",
+      "color": {
+        "principal": "#8ebbc7",
+        "suave": "#e7f2f5",
+        "oscuro": "#29434b"
+      },
+      "buenosDias": "Hoy vamos a seguir un viaje diminuto que ocurre a nuestro alrededor todo el tiempo.",
+      "poema": [
+        "Dibuja el recorrido de una gota de agua desde que cae una nube hasta que llega a un vaso, una planta o el mar. Incluye al menos cuatro etapas: lluvia, escorrentía o río, evaporación y formación de nubes. Añade una parte imaginaria en la que la gota cuenta qué lugares ha visitado.",
+        "Si lo haces con alguien, cada uno inventa una etapa distinta y luego conectan los dibujos para formar un solo viaje. Comprueben si el recorrido tiene sentido y añadan un dato curioso que conozcan."
+      ],
+      "detalle": "Ponle nombre a la gota y escribe una postal desde su parada favorita.",
+      "buenasNoches": "Hasta una gota puede tener una historia enorme si seguimos su recorrido.",
+      "cancionTitulo": "Viva La Vida",
+      "cancionArtista": "Coldplay",
+      "youtubeId": "pRpeEdMmmQ0",
+      "cancionUrl": "https://www.youtube.com/watch?v=pRpeEdMmmQ0",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a seguir un viaje diminuto que ocurre a nuestro alrededor todo el tiempo."
+        },
+        "mensajePrincipal": {
+          "titulo": "La ruta de una gota de agua",
+          "contenido": "Dibuja el recorrido de una gota de agua desde que cae una nube hasta que llega a un vaso, una planta o el mar. Incluye al menos cuatro etapas: lluvia, escorrentía o río, evaporación y formación de nubes. Añade una parte imaginaria en la que la gota cuenta qué lugares ha visitado."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra beneplácito",
+          "contenido": "Aprobación o satisfacción ante algo que se considera positivo. La propuesta recibió el beneplácito de todos después de escuchar sus razones."
+        },
+        "buenasNoches": {
+          "contenido": "Hasta una gota puede tener una historia enorme si seguimos su recorrido."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Beneplácito",
+        "significado": "Aprobación o satisfacción ante algo que se considera positivo.",
+        "ejemplo": "La propuesta recibió el beneplácito de todos después de escuchar sus razones."
+      }
+    },
+    {
+      "dia": 331,
+      "fecha": "2027-09-11",
+      "fechaTexto": "sáb, 11 de sep",
+      "categoria": "El desafío de la receta a ciegas",
+      "icono": "🥄",
+      "tono": "juego sensorial y cocina",
+      "color": {
+        "principal": "#d5b28d",
+        "suave": "#f6efe3",
+        "oscuro": "#493925"
+      },
+      "buenosDias": "Hoy el reto es descubrir sabores y texturas prestando atención a los detalles.",
+      "poema": [
+        "Prepara tres pequeñas muestras de alimentos seguros y conocidos, sin mezclarlos: por ejemplo, trozos de fruta, una galleta simple y yogur. Con los ojos cerrados o mirando hacia otro lado, prueba una muestra a la vez e intenta describir su textura, temperatura y sabor antes de adivinar qué es. No uses ingredientes desconocidos ni nada que pueda causar una reacción; también puedes hacer el reto solo con olores si prefieres.",
+        "Después cambia los papeles: quien prepara las muestras debe dar pistas sin decir el nombre. La idea es jugar con la percepción, no forzar a probar nada que no apetezca."
+      ],
+      "detalle": "Puntúa cada descripción por creatividad, no solo por acertar el alimento.",
+      "buenasNoches": "La curiosidad también sabe respetar los límites de cada persona.",
+      "cancionTitulo": "Good Time",
+      "cancionArtista": "Owl City & Carly Rae Jepsen",
+      "youtubeId": "nfWlot6h_JM",
+      "cancionUrl": "https://www.youtube.com/watch?v=nfWlot6h_JM",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy el reto es descubrir sabores y texturas prestando atención a los detalles."
+        },
+        "mensajePrincipal": {
+          "titulo": "El desafío de la receta a ciegas",
+          "contenido": "Prepara tres pequeñas muestras de alimentos seguros y conocidos, sin mezclarlos: por ejemplo, trozos de fruta, una galleta simple y yogur. Con los ojos cerrados o mirando hacia otro lado, prueba una muestra a la vez e intenta describir su textura, temperatura y sabor antes de adivinar qué es. No uses ingredientes desconocidos ni nada que pueda causar una reacción; también puedes hacer el reto solo con olores si prefieres."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra cautela",
+          "contenido": "Cuidado y atención para evitar riesgos o consecuencias no deseadas. Con cautela revisó los ingredientes antes de preparar la degustación."
+        },
+        "buenasNoches": {
+          "contenido": "La curiosidad también sabe respetar los límites de cada persona."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Cautela",
+        "significado": "Cuidado y atención para evitar riesgos o consecuencias no deseadas.",
+        "ejemplo": "Con cautela revisó los ingredientes antes de preparar la degustación."
+      }
+    },
+    {
+      "dia": 332,
+      "fecha": "2027-09-12",
+      "fechaTexto": "dom, 12 de sep",
+      "categoria": "La galería de sombras",
+      "icono": "🌒",
+      "tono": "arte y observación",
+      "color": {
+        "principal": "#9d9cbd",
+        "suave": "#eeedf5",
+        "oscuro": "#353449"
+      },
+      "buenosDias": "Hoy la luz será el material principal de una pequeña obra.",
+      "poema": [
+        "Con una lámpara o la luz de una ventana, coloca objetos entre la fuente de luz y una pared para crear sombras. Prueba con tres distancias distintas y observa cómo cambian el tamaño y la forma. Combina dos objetos para crear una silueta nueva y dibuja su contorno en una hoja.",
+        "Ponle título a tu figura y escribe qué podría ser si apareciera en una película fantástica. Si participan dos personas, una crea la sombra y la otra intenta adivinar qué objetos la forman."
+      ],
+      "detalle": "Haz una segunda versión que parezca un animal o una criatura inventada.",
+      "buenasNoches": "La imaginación puede aparecer incluso en una pared vacía cuando cambia la luz.",
+      "cancionTitulo": "Clint Eastwood",
+      "cancionArtista": "Gorillaz",
+      "youtubeId": "aJOTlE1K90k",
+      "cancionUrl": "https://www.youtube.com/watch?v=aJOTlE1K90k",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy la luz será el material principal de una pequeña obra."
+        },
+        "mensajePrincipal": {
+          "titulo": "La galería de sombras",
+          "contenido": "Con una lámpara o la luz de una ventana, coloca objetos entre la fuente de luz y una pared para crear sombras. Prueba con tres distancias distintas y observa cómo cambian el tamaño y la forma. Combina dos objetos para crear una silueta nueva y dibuja su contorno en una hoja."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra denuedo",
+          "contenido": "Valor y decisión para afrontar una tarea difícil. Con denuedo intentó una composición nueva hasta lograr una silueta interesante."
+        },
+        "buenasNoches": {
+          "contenido": "La imaginación puede aparecer incluso en una pared vacía cuando cambia la luz."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Denuedo",
+        "significado": "Valor y decisión para afrontar una tarea difícil.",
+        "ejemplo": "Con denuedo intentó una composición nueva hasta lograr una silueta interesante."
+      }
+    },
+    {
+      "dia": 333,
+      "fecha": "2027-09-13",
+      "fechaTexto": "lun, 13 de sep",
+      "categoria": "El manual para un día complicado",
+      "icono": "📘",
+      "tono": "autoconocimiento práctico",
+      "color": {
+        "principal": "#b6c6ae",
+        "suave": "#edf2e9",
+        "oscuro": "#35432f"
+      },
+      "buenosDias": "Hoy vamos a escribir instrucciones amables para esos días en los que nada parece salir a la primera.",
+      "poema": [
+        "Crea un manual de cinco pasos para acompañarte en un día difícil. Incluye una acción pequeña para ordenar el entorno, algo sencillo para comer o beber, una pausa sin pantalla, una persona o actividad a la que puedas acudir y una frase que te ayude a bajar la exigencia. Que sean indicaciones realistas, no una lista de obligaciones.",
+        "Ponle un título al manual y guárdalo donde puedas encontrarlo. Si lo compartes, cada persona puede aportar una idea que le haya servido alguna vez, sin intentar resolver la vida del otro."
+      ],
+      "detalle": "Añade una instrucción de emergencia que pueda cumplirse en menos de dos minutos.",
+      "buenasNoches": "No todos los días piden grandes respuestas; algunos solo necesitan un poco de paciencia.",
+      "cancionTitulo": "Unwritten",
+      "cancionArtista": "Natasha Bedingfield",
+      "youtubeId": "5qap5aO4i9A",
+      "cancionUrl": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a escribir instrucciones amables para esos días en los que nada parece salir a la primera."
+        },
+        "mensajePrincipal": {
+          "titulo": "El manual para un día complicado",
+          "contenido": "Crea un manual de cinco pasos para acompañarte en un día difícil. Incluye una acción pequeña para ordenar el entorno, algo sencillo para comer o beber, una pausa sin pantalla, una persona o actividad a la que puedas acudir y una frase que te ayude a bajar la exigencia. Que sean indicaciones realistas, no una lista de obligaciones."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra fisonomía",
+          "contenido": "Aspecto exterior o conjunto de rasgos característicos de algo. El manual adquirió una fisonomía propia al reunir consejos muy personales y concretos."
+        },
+        "buenasNoches": {
+          "contenido": "No todos los días piden grandes respuestas; algunos solo necesitan un poco de paciencia."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Fisonomía",
+        "significado": "Aspecto exterior o conjunto de rasgos característicos de algo.",
+        "ejemplo": "El manual adquirió una fisonomía propia al reunir consejos muy personales y concretos."
+      }
+    },
+    {
+      "dia": 334,
+      "fecha": "2027-09-14",
+      "fechaTexto": "mar, 14 de sep",
+      "categoria": "La entrevista al personaje secundario",
+      "icono": "🎬",
+      "tono": "cine y narración",
+      "color": {
+        "principal": "#c9a6a1",
+        "suave": "#f4eae8",
+        "oscuro": "#493431"
+      },
+      "buenosDias": "Hoy vamos a darle el micrófono a alguien que normalmente aparece solo unos segundos en la historia.",
+      "poema": [
+        "Piensa en una película, serie o libro que conozcas y elige un personaje secundario. Escribe cinco preguntas que un entrevistador le haría después de los acontecimientos principales. Luego responde como si fueras ese personaje: ¿qué vio que los protagonistas no notaron?, ¿qué piensa del final?, ¿qué haría ahora?, ¿qué secreto cotidiano guarda? y ¿qué consejo daría?",
+        "Si alguien participa, una persona hace de entrevistador y la otra interpreta al personaje. Pueden elegir a alguien cómico, misterioso o incluso un objeto que aparezca en la historia."
+      ],
+      "detalle": "Responde una pregunta con una anécdota que nunca apareció en la obra original.",
+      "buenasNoches": "Hasta el personaje que pasa desapercibido puede guardar la mejor parte del relato.",
+      "cancionTitulo": "The Lazy Song",
+      "cancionArtista": "Bruno Mars",
+      "youtubeId": "DkeiKbqa02g",
+      "cancionUrl": "https://www.youtube.com/watch?v=DkeiKbqa02g",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Hoy vamos a darle el micrófono a alguien que normalmente aparece solo unos segundos en la historia."
+        },
+        "mensajePrincipal": {
+          "titulo": "La entrevista al personaje secundario",
+          "contenido": "Piensa en una película, serie o libro que conozcas y elige un personaje secundario. Escribe cinco preguntas que un entrevistador le haría después de los acontecimientos principales. Luego responde como si fueras ese personaje: ¿qué vio que los protagonistas no notaron?, ¿qué piensa del final?, ¿qué haría ahora?, ¿qué secreto cotidiano guarda? y ¿qué consejo daría?"
+        },
+        "palabraNueva": {
+          "titulo": "La palabra heterogéneo",
+          "contenido": "Formado por elementos de distinta clase o naturaleza. El grupo heterogéneo de personajes secundarios dio a la historia más matices."
+        },
+        "buenasNoches": {
+          "contenido": "Hasta el personaje que pasa desapercibido puede guardar la mejor parte del relato."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Heterogéneo",
+        "significado": "Formado por elementos de distinta clase o naturaleza.",
+        "ejemplo": "El grupo heterogéneo de personajes secundarios dio a la historia más matices."
+      }
+    },
+    {
+      "dia": 335,
+      "fecha": "2027-09-15",
+      "fechaTexto": "mié, 15 de sep",
+      "categoria": "Una promesa pequeña y cumplible",
+      "icono": "🤍",
+      "tono": "confianza y cercanía",
+      "color": {
+        "principal": "#d6a0b5",
+        "suave": "#f5e8ed",
+        "oscuro": "#482d3b"
+      },
+      "buenosDias": "Las promesas más valiosas no siempre son enormes: a veces son pequeñas y se cumplen de verdad.",
+      "poema": [
+        "Elige una acción sencilla que puedas cumplir esta semana: terminar algo pendiente, reservar diez minutos para una actividad que disfrutas, enviar un mensaje que has pospuesto o descansar sin sentir culpa. Escríbela de forma concreta, con un momento aproximado y un primer paso fácil. Evita compromisos que dependan de controlar lo que otra persona haga.",
+        "Si compartes el ejercicio, pueden contarse qué acción eligieron y preguntarse después cómo les fue, sin convertirlo en competencia. La confianza también crece cuando uno aprende a cumplir lo que se promete a sí mismo."
+      ],
+      "detalle": "Escribe la promesa en una nota breve y deja espacio para marcarla cuando la cumplas.",
+      "buenasNoches": "Una promesa pequeña, cuando es sincera, puede pesar más que un discurso enorme.",
+      "cancionTitulo": "Hall of Fame",
+      "cancionArtista": "The Script ft. will.i.am",
+      "youtubeId": "tVj0ZTS4WF4",
+      "cancionUrl": "https://www.youtube.com/watch?v=tVj0ZTS4WF4",
+      "cartas": {
+        "buenosDias": {
+          "titulo": "Buenos días",
+          "contenido": "Las promesas más valiosas no siempre son enormes: a veces son pequeñas y se cumplen de verdad."
+        },
+        "mensajePrincipal": {
+          "titulo": "Una promesa pequeña y cumplible",
+          "contenido": "Elige una acción sencilla que puedas cumplir esta semana: terminar algo pendiente, reservar diez minutos para una actividad que disfrutas, enviar un mensaje que has pospuesto o descansar sin sentir culpa. Escríbela de forma concreta, con un momento aproximado y un primer paso fácil. Evita compromisos que dependan de controlar lo que otra persona haga."
+        },
+        "palabraNueva": {
+          "titulo": "La palabra inédito",
+          "contenido": "Que no ha sido publicado, visto o conocido antes. La idea era inédita para el grupo y abrió una conversación distinta."
+        },
+        "buenasNoches": {
+          "contenido": "Una promesa pequeña, cuando es sincera, puede pesar más que un discurso enorme."
+        }
+      },
+      "palabraNueva": {
+        "palabra": "Inédito",
+        "significado": "Que no ha sido publicado, visto o conocido antes.",
+        "ejemplo": "La idea era inédita para el grupo y abrió una conversación distinta."
+      }
+    }
   ]
 ];
