@@ -1,4 +1,4 @@
-/* Calendario ALEJA · 349 días registrados; estructura normalizada y cartas recuperadas. */
+/* Calendario ALEJA · 365 días del 16 de octubre de 2026 al 15 de octubre de 2027. Cuatro cartas por día. */
 const CALENDARIO = [
   {
     "dia": 1,
@@ -16500,5 +16500,757 @@ const CALENDARIO = [
       "significado": "Que está situado cerca de algo.",
       "ejemplo": "Encontraron un parque aledaño para continuar el paseo."
     }
+  },
+  {
+    "dia": 350,
+    "fecha": "2027-09-30",
+    "fechaTexto": "jue, 30 de sep",
+    "categoria": "La lista de las cosas que sí valieron la pena",
+    "icono": "📓",
+    "tono": "memoria y gratitud",
+    "color": {
+      "principal": "#d6a6b9",
+      "suave": "#f4e6ec",
+      "oscuro": "#432b38"
+    },
+    "buenosDias": "Hoy no toca hacer una lista de pendientes. Vamos a mirar lo que sí ocurrió y merece quedarse.",
+    "poema": [
+      "Escribe cinco momentos recientes que te hayan dejado algo bueno: una conversación, una idea, una tarde tranquila, una canción o algo que te atreviste a probar. Anota qué los hizo especiales y qué parte de ti apareció allí."
+    ],
+    "detalle": "Escribe cinco momentos recientes que te hayan dejado algo bueno: una conversación, una idea, una tarde tranquila, una canción o algo que te atreviste a probar. Anota qué los hizo especiales y qué parte de ti apareció allí.",
+    "buenasNoches": "A veces avanzar también consiste en reconocer lo que ya hemos recorrido.",
+    "cancionTitulo": "Just Can’t Get Enough",
+    "cancionArtista": "Black Eyed Peas",
+    "youtubeId": "OrTyD7rjBpw",
+    "cancionUrl": "https://www.youtube.com/watch?v=OrTyD7rjBpw",
+    "palabraNueva": {
+      "palabra": "Retrospectiva",
+      "significado": "Mirada o revisión de hechos y experiencias del pasado.",
+      "ejemplo": "Una frase propia con retrospectiva."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy no toca hacer una lista de pendientes. Vamos a mirar lo que sí ocurrió y merece quedarse."
+      },
+      "mensajePrincipal": {
+        "titulo": "La lista de las cosas que sí valieron la pena",
+        "contenido": "Escribe cinco momentos recientes que te hayan dejado algo bueno: una conversación, una idea, una tarde tranquila, una canción o algo que te atreviste a probar. Anota qué los hizo especiales y qué parte de ti apareció allí."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra retrospectiva",
+        "contenido": "RETROSPECTIVA\n\nMirada o revisión de hechos y experiencias del pasado.\n\nEjemplo: «Una frase propia con retrospectiva.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "A veces avanzar también consiste en reconocer lo que ya hemos recorrido."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: memoria y gratitud, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 351,
+    "fecha": "2027-10-01",
+    "fechaTexto": "vie, 1 de oct",
+    "categoria": "El retrato hablado de alguien que aún estás descubriendo",
+    "icono": "🗣️",
+    "tono": "curiosidad y cercanía",
+    "color": {
+      "principal": "#9fc4d5",
+      "suave": "#e3f0f5",
+      "oscuro": "#263e4b"
+    },
+    "buenosDias": "Una pregunta bien elegida puede abrir una conversación preciosa.",
+    "poema": [
+      "Completen tres frases: «Algo que casi nadie nota de mí…», «Una cosa que me gustaría aprender…» y «Un plan sencillo que siempre me alegra…». La otra persona escucha y puede hacer una pregunta. No hay obligación de compartir algo íntimo."
+    ],
+    "detalle": "Completen tres frases: «Algo que casi nadie nota de mí…», «Una cosa que me gustaría aprender…» y «Un plan sencillo que siempre me alegra…». La otra persona escucha y puede hacer una pregunta. No hay obligación de compartir algo íntimo.",
+    "buenasNoches": "Conocer a alguien es prestar atención a lo que va compartiendo, poco a poco.",
+    "cancionTitulo": "Do For Love",
+    "cancionArtista": "2Pac",
+    "youtubeId": "VjJpf_5FFJo",
+    "cancionUrl": "https://www.youtube.com/watch?v=VjJpf_5FFJo",
+    "palabraNueva": {
+      "palabra": "Reciprocidad",
+      "significado": "Correspondencia mutua entre dos personas o partes.",
+      "ejemplo": "Una frase propia con reciprocidad."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Una pregunta bien elegida puede abrir una conversación preciosa."
+      },
+      "mensajePrincipal": {
+        "titulo": "El retrato hablado de alguien que aún estás descubriendo",
+        "contenido": "Completen tres frases: «Algo que casi nadie nota de mí…», «Una cosa que me gustaría aprender…» y «Un plan sencillo que siempre me alegra…». La otra persona escucha y puede hacer una pregunta. No hay obligación de compartir algo íntimo."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra reciprocidad",
+        "contenido": "RECIPROCIDAD\n\nCorrespondencia mutua entre dos personas o partes.\n\nEjemplo: «Una frase propia con reciprocidad.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Conocer a alguien es prestar atención a lo que va compartiendo, poco a poco."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: curiosidad y cercanía, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 352,
+    "fecha": "2027-10-02",
+    "fechaTexto": "sáb, 2 de oct",
+    "categoria": "Una salida de medio día con una misión compartida",
+    "icono": "🧭",
+    "tono": "salida sencilla y complicidad",
+    "color": {
+      "principal": "#9cbea8",
+      "suave": "#e4f0e7",
+      "oscuro": "#263d2d"
+    },
+    "buenosDias": "Si hoy coincide el tiempo, podemos cambiar de escenario durante unas horas. Sin agenda apretada.",
+    "poema": [
+      "Elijan un lugar agradable para caminar —un mirador, un parque amplio, un lago o una zona tranquila—, lleven algo para tomar y busquen tres detalles que normalmente pasarían inadvertidos. Después pueden sentarse, conversar y elegir una foto del paseo. Si el clima o las ganas cambian, se adapta o se deja para otro día."
+    ],
+    "detalle": "Elijan un lugar agradable para caminar —un mirador, un parque amplio, un lago o una zona tranquila—, lleven algo para tomar y busquen tres detalles que normalmente pasarían inadvertidos. Después pueden sentarse, conversar y elegir una foto del paseo. Si el clima o las ganas cambian, se adapta o se deja para otro día.",
+    "buenasNoches": "Los planes sencillos también construyen recuerdos. Lo importante es que el paseo se sienta ligero para los dos.",
+    "cancionTitulo": "All Eyez On Me (ft. Big Syke)",
+    "cancionArtista": "2Pac; Big Syke",
+    "youtubeId": "zgZ52M4a_R0",
+    "cancionUrl": "https://www.youtube.com/watch?v=zgZ52M4a_R0",
+    "palabraNueva": {
+      "palabra": "Derrotero",
+      "significado": "Rumbo o camino que se sigue para llegar a un lugar o alcanzar un propósito.",
+      "ejemplo": "Una frase propia con derrotero."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Si hoy coincide el tiempo, podemos cambiar de escenario durante unas horas. Sin agenda apretada."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una salida de medio día con una misión compartida",
+        "contenido": "Elijan un lugar agradable para caminar —un mirador, un parque amplio, un lago o una zona tranquila—, lleven algo para tomar y busquen tres detalles que normalmente pasarían inadvertidos. Después pueden sentarse, conversar y elegir una foto del paseo. Si el clima o las ganas cambian, se adapta o se deja para otro día."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra derrotero",
+        "contenido": "DERROTERO\n\nRumbo o camino que se sigue para llegar a un lugar o alcanzar un propósito.\n\nEjemplo: «Una frase propia con derrotero.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Los planes sencillos también construyen recuerdos. Lo importante es que el paseo se sienta ligero para los dos."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: salida sencilla y complicidad, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 353,
+    "fecha": "2027-10-03",
+    "fechaTexto": "dom, 3 de oct",
+    "categoria": "La carta que no necesita enviarse",
+    "icono": "✉️",
+    "tono": "escritura y honestidad",
+    "color": {
+      "principal": "#c7a9ce",
+      "suave": "#f0e7f3",
+      "oscuro": "#3c2d43"
+    },
+    "buenosDias": "Hoy vamos a escribir sin pensar en la respuesta de nadie. Solo dejar que las ideas encuentren su lugar.",
+    "poema": [
+      "Escribe una carta breve dirigida a tu yo de dentro de un año. Cuéntale qué te ilusiona ahora, qué te gustaría cuidar, qué hábito quieres conservar y qué cosa ya no quieres exigirte tanto. Deja una pregunta para que la responda al volver a leerla."
+    ],
+    "detalle": "Escribe una carta breve dirigida a tu yo de dentro de un año. Cuéntale qué te ilusiona ahora, qué te gustaría cuidar, qué hábito quieres conservar y qué cosa ya no quieres exigirte tanto. Deja una pregunta para que la responda al volver a leerla.",
+    "buenasNoches": "Hay palabras que primero necesitamos decirnos a nosotros mismos. Que esta noche te encuentre en paz con lo que eres hoy.",
+    "cancionTitulo": "Money Trees",
+    "cancionArtista": "Kendrick Lamar; Jay Rock",
+    "youtubeId": "bBNpSXAYteM",
+    "cancionUrl": "https://www.youtube.com/watch?v=bBNpSXAYteM",
+    "palabraNueva": {
+      "palabra": "Prospectiva",
+      "significado": "Reflexión que considera escenarios y posibilidades futuras.",
+      "ejemplo": "Una frase propia con prospectiva."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a escribir sin pensar en la respuesta de nadie. Solo dejar que las ideas encuentren su lugar."
+      },
+      "mensajePrincipal": {
+        "titulo": "La carta que no necesita enviarse",
+        "contenido": "Escribe una carta breve dirigida a tu yo de dentro de un año. Cuéntale qué te ilusiona ahora, qué te gustaría cuidar, qué hábito quieres conservar y qué cosa ya no quieres exigirte tanto. Deja una pregunta para que la responda al volver a leerla."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra prospectiva",
+        "contenido": "PROSPECTIVA\n\nReflexión que considera escenarios y posibilidades futuras.\n\nEjemplo: «Una frase propia con prospectiva.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Hay palabras que primero necesitamos decirnos a nosotros mismos. Que esta noche te encuentre en paz con lo que eres hoy."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: escritura y honestidad, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 354,
+    "fecha": "2027-10-04",
+    "fechaTexto": "lun, 4 de oct",
+    "categoria": "El torneo de técnicas malditas inventadas",
+    "icono": "⚡",
+    "tono": "fandom y humor",
+    "color": {
+      "principal": "#a8b6df",
+      "suave": "#e8ecfa",
+      "oscuro": "#2b3454"
+    },
+    "buenosDias": "La escuela de hechicería abre una competición: hoy gana la técnica más ingeniosa, no la más destructiva.",
+    "poema": [
+      "Inventen una técnica maldita inspirada en Jujutsu Kaisen. Debe tener nombre, efecto, alcance y una limitación. Después creen una expansión de dominio con una regla inesperada. La otra persona propone una situación y ustedes explican cómo funcionaría sin volverla invencible. Actividad original de fans, sin spoilers."
+    ],
+    "detalle": "Inventen una técnica maldita inspirada en Jujutsu Kaisen. Debe tener nombre, efecto, alcance y una limitación. Después creen una expansión de dominio con una regla inesperada. La otra persona propone una situación y ustedes explican cómo funcionaría sin volverla invencible. Actividad original de fans, sin spoilers.",
+    "buenasNoches": "La condición de la técnica la obligaba a elegir el momento exacto.",
+    "cancionTitulo": "La imaginación no necesita ser invencible para ser brillante.",
+    "cancionArtista": "Passin' Me By",
+    "youtubeId": "The Pharcyde",
+    "cancionUrl": "https://www.youtube.com/watch?v=The Pharcyde",
+    "palabraNueva": {
+      "palabra": "Condición",
+      "significado": "Circunstancia o requisito que limita, determina o hace posible algo.",
+      "ejemplo": "Una frase propia con condición."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "La escuela de hechicería abre una competición: hoy gana la técnica más ingeniosa, no la más destructiva."
+      },
+      "mensajePrincipal": {
+        "titulo": "El torneo de técnicas malditas inventadas",
+        "contenido": "Inventen una técnica maldita inspirada en Jujutsu Kaisen. Debe tener nombre, efecto, alcance y una limitación. Después creen una expansión de dominio con una regla inesperada. La otra persona propone una situación y ustedes explican cómo funcionaría sin volverla invencible. Actividad original de fans, sin spoilers."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra condición",
+        "contenido": "CONDICIÓN\n\nCircunstancia o requisito que limita, determina o hace posible algo.\n\nEjemplo: «Una frase propia con condición.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "La condición de la técnica la obligaba a elegir el momento exacto."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: fandom y humor, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 355,
+    "fecha": "2027-10-05",
+    "fechaTexto": "mar, 5 de oct",
+    "categoria": "Un desayuno que parece de cafetería",
+    "icono": "🥞",
+    "tono": "cocina y cuidado",
+    "color": {
+      "principal": "#dfb987",
+      "suave": "#f8ecd9",
+      "oscuro": "#4a3520"
+    },
+    "buenosDias": "Hoy la cocina se toma un rato para preparar algo rico, sencillo y sin horno.",
+    "poema": [
+      "Preparen tostadas francesas en sartén con pan, huevo, leche y canela, acompañadas de fruta; o una versión salada con queso y tomate. Remojen el pan brevemente y cocínenlo hasta dorar ambos lados. Revisen etiquetas para descartar maní y trazas relevantes; eviten contaminación cruzada en utensilios, superficies y aceite."
+    ],
+    "detalle": "Preparen tostadas francesas en sartén con pan, huevo, leche y canela, acompañadas de fruta; o una versión salada con queso y tomate. Remojen el pan brevemente y cocínenlo hasta dorar ambos lados. Revisen etiquetas para descartar maní y trazas relevantes; eviten contaminación cruzada en utensilios, superficies y aceite.",
+    "buenasNoches": "La receta no tenía que ser perfecta. Bastaba con compartir el proceso y probar algo rico.",
+    "cancionTitulo": "Keep Their Heads Ringin'",
+    "cancionArtista": "Dr. Dre",
+    "youtubeId": "TE891IHxyV8",
+    "cancionUrl": "https://www.youtube.com/watch?v=TE891IHxyV8",
+    "palabraNueva": {
+      "palabra": "Dorado",
+      "significado": "Aspecto tostado que adquiere la superficie de un alimento al cocinarse.",
+      "ejemplo": "Una frase propia con dorado."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy la cocina se toma un rato para preparar algo rico, sencillo y sin horno."
+      },
+      "mensajePrincipal": {
+        "titulo": "Un desayuno que parece de cafetería",
+        "contenido": "Preparen tostadas francesas en sartén con pan, huevo, leche y canela, acompañadas de fruta; o una versión salada con queso y tomate. Remojen el pan brevemente y cocínenlo hasta dorar ambos lados. Revisen etiquetas para descartar maní y trazas relevantes; eviten contaminación cruzada en utensilios, superficies y aceite."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra dorado",
+        "contenido": "DORADO\n\nAspecto tostado que adquiere la superficie de un alimento al cocinarse.\n\nEjemplo: «Una frase propia con dorado.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "La receta no tenía que ser perfecta. Bastaba con compartir el proceso y probar algo rico."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: cocina y cuidado, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 356,
+    "fecha": "2027-10-06",
+    "fechaTexto": "mié, 6 de oct",
+    "categoria": "El expediente secreto de Hogwarts",
+    "icono": "🪄",
+    "tono": "fantasía y misterio",
+    "color": {
+      "principal": "#b6a2d6",
+      "suave": "#eee8f6",
+      "oscuro": "#342744"
+    },
+    "buenosDias": "Ha llegado un expediente sin remitente a la biblioteca. Solo puede abrirse cuando alguien resuelve tres pistas.",
+    "poema": [
+      "Inventen un objeto que guarda recuerdos sin tener páginas, una puerta que aparece cuando alguien necesita encontrar algo y una criatura pequeña que esconde un secreto enorme. Construyan el expediente: quién lo dejó, qué protege y qué ocurriría si alguien lo abre demasiado pronto. Actividad original inspirada en Harry Potter, sin spoilers."
+    ],
+    "detalle": "Inventen un objeto que guarda recuerdos sin tener páginas, una puerta que aparece cuando alguien necesita encontrar algo y una criatura pequeña que esconde un secreto enorme. Construyan el expediente: quién lo dejó, qué protege y qué ocurriría si alguien lo abre demasiado pronto. Actividad original inspirada en Harry Potter, sin spoilers.",
+    "buenasNoches": "No todos los misterios necesitan resolverse antes de dormir. Guarda una pista para mañana.",
+    "cancionTitulo": "Mmhmm",
+    "cancionArtista": "BigXthaPlug",
+    "youtubeId": "x_WayannFys",
+    "cancionUrl": "https://www.youtube.com/watch?v=x_WayannFys",
+    "palabraNueva": {
+      "palabra": "Enigma",
+      "significado": "Dicho, hecho o situación difícil de comprender o explicar.",
+      "ejemplo": "Una frase propia con enigma."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Ha llegado un expediente sin remitente a la biblioteca. Solo puede abrirse cuando alguien resuelve tres pistas."
+      },
+      "mensajePrincipal": {
+        "titulo": "El expediente secreto de Hogwarts",
+        "contenido": "Inventen un objeto que guarda recuerdos sin tener páginas, una puerta que aparece cuando alguien necesita encontrar algo y una criatura pequeña que esconde un secreto enorme. Construyan el expediente: quién lo dejó, qué protege y qué ocurriría si alguien lo abre demasiado pronto. Actividad original inspirada en Harry Potter, sin spoilers."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra enigma",
+        "contenido": "ENIGMA\n\nDicho, hecho o situación difícil de comprender o explicar.\n\nEjemplo: «Una frase propia con enigma.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "No todos los misterios necesitan resolverse antes de dormir. Guarda una pista para mañana."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: fantasía y misterio, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 357,
+    "fecha": "2027-10-07",
+    "fechaTexto": "jue, 7 de oct",
+    "categoria": "El mapa de los lugares que todavía queremos conocer",
+    "icono": "🗺️",
+    "tono": "planes futuros y descubrimiento",
+    "color": {
+      "principal": "#8fb9c8",
+      "suave": "#e2f0f4",
+      "oscuro": "#263e48"
+    },
+    "buenosDias": "Hoy no vamos a reservar nada ni a llenar una agenda. Solo vamos a dibujar posibilidades.",
+    "poema": [
+      "Hagan un mapa con cuatro tipos de lugares que les gustaría conocer algún día: un mirador para ver el atardecer, un lago para pasar unas horas, un sitio tranquilo para pintar y un lugar al aire libre para un picnic. Escriban qué harían allí y qué necesitarían llevar. No pongan fechas ni nombres concretos: es un mapa de posibilidades."
+    ],
+    "detalle": "Hagan un mapa con cuatro tipos de lugares que les gustaría conocer algún día: un mirador para ver el atardecer, un lago para pasar unas horas, un sitio tranquilo para pintar y un lugar al aire libre para un picnic. Escriban qué harían allí y qué necesitarían llevar. No pongan fechas ni nombres concretos: es un mapa de posibilidades.",
+    "buenasNoches": "Los planes bonitos también pueden esperar al momento adecuado.",
+    "cancionTitulo": "Bang Bang",
+    "cancionArtista": "K'NAAN; Adam Levine",
+    "youtubeId": "bFoFN9Sbk2w",
+    "cancionUrl": "https://www.youtube.com/watch?v=bFoFN9Sbk2w",
+    "palabraNueva": {
+      "palabra": "Cartografía",
+      "significado": "Arte o técnica de representar espacios geográficos mediante mapas.",
+      "ejemplo": "Una frase propia con cartografía."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy no vamos a reservar nada ni a llenar una agenda. Solo vamos a dibujar posibilidades."
+      },
+      "mensajePrincipal": {
+        "titulo": "El mapa de los lugares que todavía queremos conocer",
+        "contenido": "Hagan un mapa con cuatro tipos de lugares que les gustaría conocer algún día: un mirador para ver el atardecer, un lago para pasar unas horas, un sitio tranquilo para pintar y un lugar al aire libre para un picnic. Escriban qué harían allí y qué necesitarían llevar. No pongan fechas ni nombres concretos: es un mapa de posibilidades."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra cartografía",
+        "contenido": "CARTOGRAFÍA\n\nArte o técnica de representar espacios geográficos mediante mapas.\n\nEjemplo: «Una frase propia con cartografía.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Los planes bonitos también pueden esperar al momento adecuado."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: planes futuros y descubrimiento, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 358,
+    "fecha": "2027-10-08",
+    "fechaTexto": "vie, 8 de oct",
+    "categoria": "El concurso de indirectas con elegancia",
+    "icono": "💬",
+    "tono": "coqueteo y humor",
+    "color": {
+      "principal": "#e4a6bb",
+      "suave": "#f7e5ec",
+      "oscuro": "#472738"
+    },
+    "buenosDias": "Hoy hay permiso para coquetear, pero con creatividad: nada de frases copiadas.",
+    "poema": [
+      "Escriban tres indirectas: una sutil, una descaradamente divertida y una que parezca una observación inocente hasta que se piensa dos veces. La otra persona las clasifica y explica cuál le pareció más ingeniosa. El juego debe ser cómodo para ambos; si una frase no cae bien, se cambia."
+    ],
+    "detalle": "Escriban tres indirectas: una sutil, una descaradamente divertida y una que parezca una observación inocente hasta que se piensa dos veces. La otra persona las clasifica y explica cuál le pareció más ingeniosa. El juego debe ser cómodo para ambos; si una frase no cae bien, se cambia.",
+    "buenasNoches": "Una buena indirecta deja una sonrisa, no una obligación.",
+    "cancionTitulo": "Ambitionz Az A Ridah",
+    "cancionArtista": "2Pac",
+    "youtubeId": "6glk4oMbgKE",
+    "cancionUrl": "https://www.youtube.com/watch?v=6glk4oMbgKE",
+    "palabraNueva": {
+      "palabra": "Sutileza",
+      "significado": "Cualidad de lo que se expresa con delicadeza, ingenio o poca evidencia.",
+      "ejemplo": "Una frase propia con sutileza."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy hay permiso para coquetear, pero con creatividad: nada de frases copiadas."
+      },
+      "mensajePrincipal": {
+        "titulo": "El concurso de indirectas con elegancia",
+        "contenido": "Escriban tres indirectas: una sutil, una descaradamente divertida y una que parezca una observación inocente hasta que se piensa dos veces. La otra persona las clasifica y explica cuál le pareció más ingeniosa. El juego debe ser cómodo para ambos; si una frase no cae bien, se cambia."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra sutileza",
+        "contenido": "SUTILEZA\n\nCualidad de lo que se expresa con delicadeza, ingenio o poca evidencia.\n\nEjemplo: «Una frase propia con sutileza.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Una buena indirecta deja una sonrisa, no una obligación."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: coqueteo y humor, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 359,
+    "fecha": "2027-10-09",
+    "fechaTexto": "sáb, 9 de oct",
+    "categoria": "La noche de preguntas para conocerse mejor",
+    "icono": "🌙",
+    "tono": "conversación e intimidad gradual",
+    "color": {
+      "principal": "#9eacd0",
+      "suave": "#e7ebf6",
+      "oscuro": "#2b344e"
+    },
+    "buenosDias": "Hoy guardamos un rato para conversar sin pantallas de por medio. No hay que llegar a ninguna conclusión.",
+    "poema": [
+      "Elijan una pregunta ligera, una curiosa y una más personal: «¿qué comida podrías repetir una semana?», «¿qué habilidad aprenderías si tuvieras un mes libre?» y «¿qué gesto te hace sentir tenido en cuenta?». Cada persona puede pasar una pregunta o responder solo hasta donde le nazca."
+    ],
+    "detalle": "Elijan una pregunta ligera, una curiosa y una más personal: «¿qué comida podrías repetir una semana?», «¿qué habilidad aprenderías si tuvieras un mes libre?» y «¿qué gesto te hace sentir tenido en cuenta?». Cada persona puede pasar una pregunta o responder solo hasta donde le nazca.",
+    "buenasNoches": "La confianza se mide por la tranquilidad de poder hablar al propio ritmo.",
+    "cancionTitulo": "Gil",
+    "cancionArtista": "Milo j; Trueno",
+    "youtubeId": "2ezVj9wLr5U",
+    "cancionUrl": "https://www.youtube.com/watch?v=2ezVj9wLr5U",
+    "palabraNueva": {
+      "palabra": "Confidencia",
+      "significado": "Revelación o comunicación reservada que se comparte con alguien de confianza.",
+      "ejemplo": "Una frase propia con confidencia."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy guardamos un rato para conversar sin pantallas de por medio. No hay que llegar a ninguna conclusión."
+      },
+      "mensajePrincipal": {
+        "titulo": "La noche de preguntas para conocerse mejor",
+        "contenido": "Elijan una pregunta ligera, una curiosa y una más personal: «¿qué comida podrías repetir una semana?», «¿qué habilidad aprenderías si tuvieras un mes libre?» y «¿qué gesto te hace sentir tenido en cuenta?». Cada persona puede pasar una pregunta o responder solo hasta donde le nazca."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra confidencia",
+        "contenido": "CONFIDENCIA\n\nRevelación o comunicación reservada que se comparte con alguien de confianza.\n\nEjemplo: «Una frase propia con confidencia.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "La confianza se mide por la tranquilidad de poder hablar al propio ritmo."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: conversación e intimidad gradual, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 360,
+    "fecha": "2027-10-10",
+    "fechaTexto": "dom, 10 de oct",
+    "categoria": "Una escapada de dos días para cambiar de aire",
+    "icono": "🏕️",
+    "tono": "viaje compartido y confianza",
+    "color": {
+      "principal": "#9ab9a3",
+      "suave": "#e6f0e6",
+      "oscuro": "#2b4030"
+    },
+    "buenosDias": "Ya podemos imaginar un plan un poco más largo, pero sigue siendo una propuesta flexible: dos días, una noche.",
+    "poema": [
+      "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Día uno: llegar, caminar un poco y preparar una cena fácil. Día dos: desayunar sin afán, hacer una actividad corta y regresar. Antes de decidir, revisen presupuesto, transporte, clima, seguridad y que ambos quieran hacerlo. Si dos días no encajan, se transforma en una salida de un día."
+    ],
+    "detalle": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Día uno: llegar, caminar un poco y preparar una cena fácil. Día dos: desayunar sin afán, hacer una actividad corta y regresar. Antes de decidir, revisen presupuesto, transporte, clima, seguridad y que ambos quieran hacerlo. Si dos días no encajan, se transforma en una salida de un día.",
+    "buenasNoches": "Los planes más bonitos son los que pueden adaptarse a la realidad de los dos.",
+    "cancionTitulo": "Círculo Vicioso",
+    "cancionArtista": "Granuja",
+    "youtubeId": "23xU8aPP2D8",
+    "cancionUrl": "https://www.youtube.com/watch?v=23xU8aPP2D8",
+    "palabraNueva": {
+      "palabra": "Escapada",
+      "significado": "Viaje breve o salida corta para descansar o cambiar de ambiente.",
+      "ejemplo": "Una frase propia con escapada."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Ya podemos imaginar un plan un poco más largo, pero sigue siendo una propuesta flexible: dos días, una noche."
+      },
+      "mensajePrincipal": {
+        "titulo": "Una escapada de dos días para cambiar de aire",
+        "contenido": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Día uno: llegar, caminar un poco y preparar una cena fácil. Día dos: desayunar sin afán, hacer una actividad corta y regresar. Antes de decidir, revisen presupuesto, transporte, clima, seguridad y que ambos quieran hacerlo. Si dos días no encajan, se transforma en una salida de un día."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra escapada",
+        "contenido": "ESCAPADA\n\nViaje breve o salida corta para descansar o cambiar de ambiente.\n\nEjemplo: «Una frase propia con escapada.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Los planes más bonitos son los que pueden adaptarse a la realidad de los dos."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: viaje compartido y confianza, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 361,
+    "fecha": "2027-10-11",
+    "fechaTexto": "lun, 11 de oct",
+    "categoria": "El álbum de las pequeñas pruebas",
+    "icono": "📸",
+    "tono": "memoria y creatividad",
+    "color": {
+      "principal": "#c7a7b5",
+      "suave": "#f3e8ed",
+      "oscuro": "#45313b"
+    },
+    "buenosDias": "Hoy vamos a reunir pruebas de que los días normales también tienen escenas memorables.",
+    "poema": [
+      "Elige cuatro fotografías: una de algo que te hizo reír, otra de un lugar, otra de una creación y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al verla. También puedes hacer dibujos u objetos que representen cada momento."
+    ],
+    "detalle": "Elige cuatro fotografías: una de algo que te hizo reír, otra de un lugar, otra de una creación y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al verla. También puedes hacer dibujos u objetos que representen cada momento.",
+    "buenasNoches": "No necesitas documentarlo todo para que algo sea importante. A veces basta con haberlo vivido.",
+    "cancionTitulo": "Sound of da Police",
+    "cancionArtista": "KRS-One",
+    "youtubeId": "9ZrAYxWPN6c",
+    "cancionUrl": "https://www.youtube.com/watch?v=9ZrAYxWPN6c",
+    "palabraNueva": {
+      "palabra": "Evocación",
+      "significado": "Acción de traer algo a la memoria o imaginarlo con viveza.",
+      "ejemplo": "Una frase propia con evocación."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a reunir pruebas de que los días normales también tienen escenas memorables."
+      },
+      "mensajePrincipal": {
+        "titulo": "El álbum de las pequeñas pruebas",
+        "contenido": "Elige cuatro fotografías: una de algo que te hizo reír, otra de un lugar, otra de una creación y una de un detalle que casi nadie habría fotografiado. Escribe debajo una frase que no describa lo que se ve, sino lo que recuerdas al verla. También puedes hacer dibujos u objetos que representen cada momento."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra evocación",
+        "contenido": "EVOCACIÓN\n\nAcción de traer algo a la memoria o imaginarlo con viveza.\n\nEjemplo: «Una frase propia con evocación.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "No necesitas documentarlo todo para que algo sea importante. A veces basta con haberlo vivido."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: memoria y creatividad, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 362,
+    "fecha": "2027-10-12",
+    "fechaTexto": "mar, 12 de oct",
+    "categoria": "La receta de una tarde perfecta",
+    "icono": "🥤",
+    "tono": "ritual cotidiano y cocina",
+    "color": {
+      "principal": "#d4b07f",
+      "suave": "#f5ecd9",
+      "oscuro": "#46351f"
+    },
+    "buenosDias": "Hoy vamos a diseñar una tarde sencilla con una bebida fría, algo para picar y una actividad sin mucha preparación.",
+    "poema": [
+      "Preparen una limonada de hierbabuena con agua fría, zumo de limón, azúcar o miel si la consumen, hierbabuena y hielo. Acompañen con fruta o palomitas hechas en olla con aceite limpio. Revisen etiquetas para descartar maní y trazas relevantes; eviten utensilios o aceites compartidos con frutos secos. Elijan una película o música."
+    ],
+    "detalle": "Preparen una limonada de hierbabuena con agua fría, zumo de limón, azúcar o miel si la consumen, hierbabuena y hielo. Acompañen con fruta o palomitas hechas en olla con aceite limpio. Revisen etiquetas para descartar maní y trazas relevantes; eviten utensilios o aceites compartidos con frutos secos. Elijan una película o música.",
+    "buenasNoches": "Una tarde sencilla puede ser exactamente lo que hacía falta.",
+    "cancionTitulo": "De Memoria",
+    "cancionArtista": "Métricas Frías;Doble Porcion",
+    "youtubeId": "WnvhpmplGNs",
+    "cancionUrl": "https://www.youtube.com/watch?v=WnvhpmplGNs",
+    "palabraNueva": {
+      "palabra": "Ritual",
+      "significado": "Costumbre o conjunto de acciones que se repiten con un sentido especial.",
+      "ejemplo": "Una frase propia con ritual."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy vamos a diseñar una tarde sencilla con una bebida fría, algo para picar y una actividad sin mucha preparación."
+      },
+      "mensajePrincipal": {
+        "titulo": "La receta de una tarde perfecta",
+        "contenido": "Preparen una limonada de hierbabuena con agua fría, zumo de limón, azúcar o miel si la consumen, hierbabuena y hielo. Acompañen con fruta o palomitas hechas en olla con aceite limpio. Revisen etiquetas para descartar maní y trazas relevantes; eviten utensilios o aceites compartidos con frutos secos. Elijan una película o música."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra ritual",
+        "contenido": "RITUAL\n\nCostumbre o conjunto de acciones que se repiten con un sentido especial.\n\nEjemplo: «Una frase propia con ritual.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Una tarde sencilla puede ser exactamente lo que hacía falta."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: ritual cotidiano y cocina, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 363,
+    "fecha": "2027-10-13",
+    "fechaTexto": "mié, 13 de oct",
+    "categoria": "El manifiesto de lo que mereces",
+    "icono": "✍️",
+    "tono": "autoestima y cierre",
+    "color": {
+      "principal": "#d6a7bd",
+      "suave": "#f4e8ee",
+      "oscuro": "#452e3a"
+    },
+    "buenosDias": "Hoy quiero invitarte a hablarte con la misma paciencia que tendrías con alguien a quien quieres mucho.",
+    "poema": [
+      "Escribe cinco frases que empiecen con «Merezco…»: descanso, respeto, oportunidades, alegría, límites, creatividad o tranquilidad. Después elige una y conviértela en una acción pequeña que puedas hacer por ti esta semana. No hay que comparar experiencias ni demostrar nada."
+    ],
+    "detalle": "Escribe cinco frases que empiecen con «Merezco…»: descanso, respeto, oportunidades, alegría, límites, creatividad o tranquilidad. Después elige una y conviértela en una acción pequeña que puedas hacer por ti esta semana. No hay que comparar experiencias ni demostrar nada.",
+    "buenasNoches": "Tú también mereces cuidado. No confundas ser amable con los demás con olvidarte de serlo contigo.",
+    "cancionTitulo": "La Vida en el Guetto",
+    "cancionArtista": "La Etnnia",
+    "youtubeId": "HCyZeteZoXg",
+    "cancionUrl": "https://www.youtube.com/watch?v=HCyZeteZoXg",
+    "palabraNueva": {
+      "palabra": "Dignidad",
+      "significado": "Valor propio de toda persona, que merece respeto y consideración.",
+      "ejemplo": "Una frase propia con dignidad."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Hoy quiero invitarte a hablarte con la misma paciencia que tendrías con alguien a quien quieres mucho."
+      },
+      "mensajePrincipal": {
+        "titulo": "El manifiesto de lo que mereces",
+        "contenido": "Escribe cinco frases que empiecen con «Merezco…»: descanso, respeto, oportunidades, alegría, límites, creatividad o tranquilidad. Después elige una y conviértela en una acción pequeña que puedas hacer por ti esta semana. No hay que comparar experiencias ni demostrar nada."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra dignidad",
+        "contenido": "DIGNIDAD\n\nValor propio de toda persona, que merece respeto y consideración.\n\nEjemplo: «Una frase propia con dignidad.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Tú también mereces cuidado. No confundas ser amable con los demás con olvidarte de serlo contigo."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: autoestima y cierre, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 364,
+    "fecha": "2027-10-14",
+    "fechaTexto": "jue, 14 de oct",
+    "categoria": "La última página antes del nuevo capítulo",
+    "icono": "📖",
+    "tono": "cierre narrativo y esperanza",
+    "color": {
+      "principal": "#9db5d1",
+      "suave": "#e7edf6",
+      "oscuro": "#2c394c"
+    },
+    "buenosDias": "Mañana se cierra este recorrido de 365 días. Hoy no hay que adelantarse al final.",
+    "poema": [
+      "Escribe el título de un capítulo que resuma este año y tres escenas que no quieras olvidar. Añade una escena que todavía no ha ocurrido y que te gustaría vivir, sin fijar una fecha ni convertirla en promesa. Piensa en algo que aprendiste sobre ti y en una cosa que quieres seguir explorando."
+    ],
+    "detalle": "Escribe el título de un capítulo que resuma este año y tres escenas que no quieras olvidar. Añade una escena que todavía no ha ocurrido y que te gustaría vivir, sin fijar una fecha ni convertirla en promesa. Piensa en algo que aprendiste sobre ti y en una cosa que quieres seguir explorando.",
+    "buenasNoches": "Mañana termina el calendario, pero no la posibilidad de seguir creando recuerdos.",
+    "cancionTitulo": "Rap Sexo y Saxofón",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "-aHrPD5EJZI",
+    "cancionUrl": "https://www.youtube.com/watch?v=-aHrPD5EJZI",
+    "palabraNueva": {
+      "palabra": "Epílogo",
+      "significado": "Parte final de una obra que ofrece cierre o reflexiona sobre lo ocurrido.",
+      "ejemplo": "Una frase propia con epílogo."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Mañana se cierra este recorrido de 365 días. Hoy no hay que adelantarse al final."
+      },
+      "mensajePrincipal": {
+        "titulo": "La última página antes del nuevo capítulo",
+        "contenido": "Escribe el título de un capítulo que resuma este año y tres escenas que no quieras olvidar. Añade una escena que todavía no ha ocurrido y que te gustaría vivir, sin fijar una fecha ni convertirla en promesa. Piensa en algo que aprendiste sobre ti y en una cosa que quieres seguir explorando."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra epílogo",
+        "contenido": "EPÍLOGO\n\nParte final de una obra que ofrece cierre o reflexiona sobre lo ocurrido.\n\nEjemplo: «Una frase propia con epílogo.»"
+      },
+      "buenasNoches": {
+        "titulo": "Cierre de hoy",
+        "contenido": "Mañana termina el calendario, pero no la posibilidad de seguir creando recuerdos."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: cierre narrativo y esperanza, con una atmósfera propia y sin reproducir su letra."
+  },
+  {
+    "dia": 365,
+    "fecha": "2027-10-15",
+    "fechaTexto": "vie, 15 de oct",
+    "categoria": "El comienzo que elegimos celebrar",
+    "icono": "✨",
+    "tono": "celebración y futuro compartido",
+    "color": {
+      "principal": "#70cfe0",
+      "suave": "#e0f7fa",
+      "oscuro": "#12343d"
+    },
+    "buenosDias": "Llegamos al día 365. No es una meta que obligue a nada ni una despedida: es una excusa para celebrar lo que se creó.",
+    "poema": [
+      "Si ambos lo desean, la propuesta especial es una escapada de hasta tres días y dos noches, planeada con tiempo. Elijan juntos una experiencia de naturaleza y descanso: una cabaña cerca de un lago, una zona de montaña, camping organizado o un lugar donde combinar paseo y creatividad. Día uno: viajar sin apuro y caminar un poco. Día dos: disfrutar la actividad principal, pintar, conocer el entorno o descansar. Día tres: desayunar con calma y regresar. No hay destino ni fecha fijados; revisen presupuesto, transporte, clima, seguridad, comida adecuada y disponibilidad. Si tres días no encajan, conviértanlo en dos o en una salida de una jornada."
+    ],
+    "detalle": "Si ambos lo desean, la propuesta especial es una escapada de hasta tres días y dos noches, planeada con tiempo. Elijan juntos una experiencia de naturaleza y descanso: una cabaña cerca de un lago, una zona de montaña, camping organizado o un lugar donde combinar paseo y creatividad. Día uno: viajar sin apuro y caminar un poco. Día dos: disfrutar la actividad principal, pintar, conocer el entorno o descansar. Día tres: desayunar con calma y regresar. No hay destino ni fecha fijados; revisen presupuesto, transporte, clima, seguridad, comida adecuada y disponibilidad. Si tres días no encajan, conviértanlo en dos o en una salida de una jornada.",
+    "buenasNoches": "Gracias por abrir estas 365 puertas. El calendario termina aquí; la historia no tiene por qué hacerlo. Que lo que venga sea elegido con ganas, respeto y libertad.",
+    "cancionTitulo": "Acrobacias - Remix",
+    "cancionArtista": "Alcolirykoz",
+    "youtubeId": "PdbrcupFYmc",
+    "cancionUrl": "https://www.youtube.com/watch?v=PdbrcupFYmc",
+    "palabraNueva": {
+      "palabra": "Continuidad",
+      "significado": "Cualidad de lo que permanece o sigue desarrollándose sin romper su curso.",
+      "ejemplo": "Una frase propia con continuidad."
+    },
+    "cartas": {
+      "buenosDias": {
+        "titulo": "Buenos días",
+        "contenido": "Llegamos al día 365. No es una meta que obligue a nada ni una despedida: es una excusa para celebrar lo que se creó."
+      },
+      "mensajePrincipal": {
+        "titulo": "El comienzo que elegimos celebrar",
+        "contenido": "Si ambos lo desean, la propuesta especial es una escapada de hasta tres días y dos noches, planeada con tiempo. Elijan juntos una experiencia de naturaleza y descanso: una cabaña cerca de un lago, una zona de montaña, camping organizado o un lugar donde combinar paseo y creatividad. Día uno: viajar sin apuro y caminar un poco. Día dos: disfrutar la actividad principal, pintar, conocer el entorno o descansar. Día tres: desayunar con calma y regresar. No hay destino ni fecha fijados; revisen presupuesto, transporte, clima, seguridad, comida adecuada y disponibilidad. Si tres días no encajan, conviértanlo en dos o en una salida de una jornada."
+      },
+      "palabraNueva": {
+        "titulo": "La palabra continuidad",
+        "contenido": "CONTINUIDAD\n\nCualidad de lo que permanece o sigue desarrollándose sin romper su curso.\n\nEjemplo: «Una frase propia con continuidad.»"
+      },
+      "buenasNoches": {
+        "titulo": "No es el final de la historia",
+        "contenido": "Gracias por abrir estas 365 puertas. El calendario termina aquí; la historia no tiene por qué hacerlo. Que lo que venga sea elegido con ganas, respeto y libertad."
+      }
+    },
+    "inspiracionCancion": "La canción acompaña el tono de este día: celebración y futuro compartido, con una atmósfera propia y sin reproducir su letra."
   }
 ];
