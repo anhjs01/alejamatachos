@@ -3989,7 +3989,7 @@ const CALENDARIO = [
     "dia": 84,
     "fecha": "2027-01-07",
     "fechaTexto": "jue, 7 de ene",
-    "categoria": "La banda sonora de un momento",
+    "categoria": "El remix imaginario de una canción",
     "icono": "🎧",
     "tono": "musical",
     "color": {
@@ -4015,8 +4015,8 @@ const CALENDARIO = [
         "contenido": "Hay momentos que parecen tener música propia. Hoy pueden elegir cuál sería la banda sonora de una escena inventada o de un recuerdo bonito."
       },
       "mensajePrincipal": {
-        "titulo": "Tres escenas, tres canciones",
-        "contenido": "Cada uno propone tres escenas: una llegada inesperada, una tarde lluviosa y un final feliz, por ejemplo. Para cada escena, elijan una canción que encaje por ritmo, ambiente o recuerdo; no tiene que ser romántica. Escuchen un fragmento breve de cada elección y expliquen por qué funciona. Después intercambien una escena para que la otra persona elija la música. Si los gustos no coinciden, no hay que convencer a nadie: describan qué sensación querían crear. Para la última ronda, inventen una escena absurda y busquen una canción que la vuelva todavía más divertida. ¿Qué canción pondrías a un momento tranquilo al atardecer?\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres escenas y tres canciones; expliquen la elección sin necesidad de compartir letras."
+        "titulo": "El remix imaginario de una canción",
+        "contenido": "RETO MUSICAL · 15–20 MINUTOS\n\nElige una canción que conozcas bien y transfórmala mentalmente en otro género. Si es pop, imagina una versión de jazz, rock, salsa, electrónica o música acústica; si es lenta, conviértela en una versión de baile.\n\nDescribe tres cambios: qué instrumentos aparecerían, cómo cambiaría el ritmo y qué emoción tendría ahora. Si participan dos, cada persona transforma la misma canción en un género distinto y comparan las versiones imaginarias. No hace falta cantar ni reproducir la letra."
       },
       "palabraNueva": {
         "titulo": "La palabra del ambiente",
@@ -6814,7 +6814,7 @@ const CALENDARIO = [
     "dia": 144,
     "fecha": "2027-03-08",
     "fechaTexto": "lun, 8 de mar",
-    "categoria": "Una biblioteca de mundos posibles",
+    "categoria": "La biblioteca de mundos posibles",
     "icono": "📚",
     "tono": "imaginativo",
     "color": {
@@ -6839,8 +6839,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a cambiar una sola decisión de una historia conocida."
       },
       "mensajePrincipal": {
-        "titulo": "Una biblioteca de mundos posibles",
-        "contenido": "Piensa en Harry Potter, una película o una serie que conozcas bien. Escoge un momento pequeño y cambia una decisión: ¿qué habría pasado si el personaje hubiera dicho la verdad, tomado otro camino o confiado en alguien distinto? Escribe una versión alternativa de cinco líneas. No necesitas reescribir toda la historia; basta con explorar una consecuencia inesperada.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cambien una decisión pequeña y construyan dos consecuencias sin revelar finales que la otra persona no conozca."
+        "titulo": "La biblioteca de mundos posibles",
+        "contenido": "RETO DE FANTASÍA Y DISEÑO · 20–25 MINUTOS\n\nImagina una biblioteca que no guarda libros sobre lugares reales, sino mundos que podrían existir. Inventa tres títulos y describe en dos líneas qué mundo contiene cada uno.\n\nPara uno de esos libros, define:\n1. Una regla natural que sea distinta a la nuestra.\n2. Una costumbre de quienes viven allí.\n3. Un objeto que solo tendría sentido en ese mundo.\n4. Un problema que el personaje principal debe resolver.\n\nPuedes inspirarte en fantasía, ciencia ficción o en una idea completamente nueva. Si ambos participan, cada uno crea un mundo y eligen cuál merece una segunda página."
       },
       "palabraNueva": {
         "titulo": "La palabra ucronía",
@@ -9630,7 +9630,7 @@ const CALENDARIO = [
     "dia": 204,
     "fecha": "2027-05-07",
     "fechaTexto": "vie, 7 de may",
-    "categoria": "La receta de una bebida inventada",
+    "categoria": "Avena fría con canela para una mañana tranquila",
     "icono": "🥤",
     "tono": "creatividad y bebidas",
     "color": {
@@ -9655,8 +9655,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a crear una bebida con nombre propio, sin complicarnos la vida."
       },
       "mensajePrincipal": {
-        "titulo": "La receta de una bebida inventada",
-        "contenido": "Inventen una bebida sin alcohol con dos o tres ingredientes: agua con limón y hierbabuena, té frío con durazno o agua con rodajas de naranja y pepino. Pónganle un nombre y describan para qué momento del día sería perfecta. Si la preparan, usen ingredientes seguros, revisen etiquetas y eviten cualquier producto con maní o riesgo de contaminación cruzada.\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS. Para el almuerzo de oficina, prepara la base fría por la mañana y lleva el hielo aparte; para una salida, usa una botella reutilizable."
+        "titulo": "Avena fría con canela para una mañana tranquila",
+        "contenido": "BEBIDA PARA DOS · 10–15 MINUTOS · SIN ALCOHOL\n\nIngredientes: 300 ml de leche o bebida vegetal que ya utilicen, 3 cucharadas de avena, medio banano maduro, una pizca de canela y hielo opcional.\n\nPreparación:\n1. Mezcla la avena con la leche y deja reposar 5–10 minutos.\n2. Añade el banano y la canela.\n3. Licúa o tritura hasta obtener una textura uniforme.\n4. Ajusta con un poco más de leche si queda demasiado espesa.\n5. Sirve fría o a temperatura ambiente.\n\nEs una opción para la mañana o para acompañar un almuerzo. Si la llevan a la oficina, manténganla refrigerada y agítenla antes de servir. No preparen más cantidad de la que puedan conservar correctamente."
       },
       "palabraNueva": {
         "titulo": "La palabra infusión",
@@ -10005,7 +10005,7 @@ const CALENDARIO = [
     "dia": 212,
     "fecha": "2027-05-15",
     "fechaTexto": "sáb, 15 de may",
-    "categoria": "La ruta de un plan cultural",
+    "categoria": "Diseñemos una escapada flexible de dos días",
     "icono": "🎨",
     "tono": "salida cultural de un día",
     "color": {
@@ -10030,8 +10030,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a imaginar una salida de un día que mezcle curiosidad y tiempo libre."
       },
       "mensajePrincipal": {
-        "titulo": "La ruta de un plan cultural",
-        "contenido": "Diseñen una ruta cultural sencilla para un día: una exposición o museo, una pausa para tomar algo y un segundo lugar que les dé curiosidad, como una librería, un jardín o un mirador. No elijan establecimientos concretos ni pongan fecha todavía; calculen cuánto tiempo dedicarían a cada parte y dejen un margen para improvisar. La salida solo se convierte en plan real si a ambos les provoca y les cuadra el tiempo.\n\nTIEMPO DE DISEÑO: 15–20 MINUTOS. La ruta es para un día futuro; comparen transporte, entradas, comida y presupuesto antes de ponerle fecha."
+        "titulo": "Diseñemos una escapada flexible de dos días",
+        "contenido": "PLAN FUTURO DE DOS DÍAS · 20–30 MINUTOS DE DISEÑO · SIN RESERVAS\n\nImaginen una escapada de dos días y una noche para una etapa en la que ambos tengan tiempo, ganas y presupuesto. No elijan un destino concreto todavía: piensen en una zona natural, un pueblo tranquilo o un lugar donde puedan combinar descanso y una actividad cultural.\n\nDÍA 1: desplazamiento sin afán, una sola actividad principal y una cena sencilla. Eviten llenar la jornada de paradas.\nDÍA 2: desayuno, una caminata corta o visita opcional y regreso con tiempo.\n\nAntes de considerarlo, hagan una estimación de transporte, alojamiento, comidas, entradas y dinero para imprevistos. Añadan una versión más económica de un solo día. Es una idea para mitad del recorrido, no una promesa ni una reserva."
       },
       "palabraNueva": {
         "titulo": "La palabra itinerario",
@@ -12400,7 +12400,7 @@ const CALENDARIO = [
     "dia": 263,
     "fecha": "2027-07-05",
     "fechaTexto": "lun, 5 de jul",
-    "categoria": "El menú de pequeños aprendizajes",
+    "categoria": "El tutorial de algo que ya sabes hacer",
     "icono": "🧠",
     "tono": "curiosidad y aprendizaje",
     "color": {
@@ -12425,8 +12425,8 @@ const CALENDARIO = [
         "contenido": "Hoy elige aprender una cosa pequeña que puedas contar después."
       },
       "mensajePrincipal": {
-        "titulo": "El menú de pequeños aprendizajes",
-        "contenido": "Busca una habilidad o dato que puedas explorar en quince minutos: hacer un nudo útil, reconocer una constelación, entender cómo funciona un código QR, aprender una palabra de otro idioma o descubrir por qué se produce un fenómeno cotidiano. Quédate con una fuente clara, practica o verifica lo aprendido y luego explícalo en tres frases como si se lo contaras a alguien que nunca ha oído hablar del tema.\n\nTIEMPO DE EXPLORACIÓN: 15 MINUTOS. Elige una habilidad pequeña y termina con una nota que explique lo que aprendiste."
+        "titulo": "El tutorial de algo que ya sabes hacer",
+        "contenido": "RETO DE ENSEÑANZA · 10–15 MINUTOS\n\nElige una habilidad pequeña que ya domines: preparar una bebida, organizar una carpeta, hacer un nudo, dibujar una forma, usar una herramienta digital o resolver una tarea cotidiana.\n\nExplícala como si la otra persona nunca la hubiera hecho:\n1. ¿Qué necesita antes de empezar?\n2. ¿Cuál es el primer paso?\n3. ¿Qué error suele cometer alguien que empieza?\n4. ¿Cómo sabe que terminó correctamente?\n\nSi participan dos, quien escucha debe repetir el proceso con sus propias palabras. No se trata de enseñar algo difícil, sino de descubrir qué tan claro puedes explicar lo que ya sabes."
       },
       "palabraNueva": {
         "titulo": "La palabra curiosidad",
@@ -13528,7 +13528,7 @@ const CALENDARIO = [
     "dia": 287,
     "fecha": "2027-07-29",
     "fechaTexto": "jue, 29 de jul",
-    "categoria": "El mapa de un lugar que no existe",
+    "categoria": "La leyenda de un lugar que no existe",
     "icono": "🗺️",
     "tono": "imaginación y diseño",
     "color": {
@@ -13553,8 +13553,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a inventar un sitio al que no se llega siguiendo Google Maps: toca dibujarlo desde cero."
       },
       "mensajePrincipal": {
-        "titulo": "El mapa de un lugar que no existe",
-        "contenido": "En una hoja, crea el mapa de un lugar imaginario. Ponle nombre a tres zonas, inventa un camino que conecte todo y agrega un sitio secreto al que solo se pueda entrar cumpliendo una condición divertida. Puede ser una isla, un barrio, un bosque o una ciudad diminuta. No necesitas dibujar bien: usa símbolos, manchas de color y nombres curiosos.\n\nTIEMPO SUGERIDO: 20–25 MINUTOS. Tres zonas, un camino y un secreto; dibuja una leyenda sencilla para el mapa."
+        "titulo": "La leyenda de un lugar que no existe",
+        "contenido": "RETO DE FANTASÍA Y ESCRITURA · 20–25 MINUTOS\n\nInventa un lugar que no aparezca en ningún mapa: puede ser una isla, una ciudad escondida o un pueblo que solo existe durante una estación del año.\n\nEscribe su leyenda en cinco partes:\n1. Cómo apareció el lugar.\n2. Qué regla extraña deben respetar sus habitantes.\n3. Qué objeto protege su secreto.\n4. Qué ocurrió la última vez que alguien rompió la regla.\n5. Qué pregunta sigue sin respuesta.\n\nNo necesitas dibujar un mapa ni describir calles; la misión es crear el mito que la gente contaría sobre ese lugar."
       },
       "palabraNueva": {
         "titulo": "La palabra topografía",
@@ -14280,7 +14280,7 @@ const CALENDARIO = [
     "dia": 303,
     "fecha": "2027-08-14",
     "fechaTexto": "sáb, 14 de ago",
-    "categoria": "La escena alternativa",
+    "categoria": "La escena narrada por un objeto secundario",
     "icono": "🎬",
     "tono": "cine y narración",
     "color": {
@@ -14305,8 +14305,8 @@ const CALENDARIO = [
         "contenido": "Hoy una historia conocida va a tomar un camino completamente distinto."
       },
       "mensajePrincipal": {
-        "titulo": "La escena alternativa",
-        "contenido": "Piensa en una película o serie que conozcas y elige una escena breve. Reescribe lo que ocurre cambiando una sola decisión del personaje: ¿qué pasaría si dijera que no, llegara cinco minutos antes o eligiera otro camino? Cuenta la nueva versión en cinco frases y dale un título distinto.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Cambia una decisión y escribe tres consecuencias; evita revelar giros de la trama a quien no la conozca."
+        "titulo": "La escena narrada por un objeto secundario",
+        "contenido": "RETO DE ESCRITURA CREATIVA · 15–20 MINUTOS\n\nElige una escena de una película, serie, anime o libro que conozcas bien. Esta vez no cambies lo que ocurre: cuenta la escena desde el punto de vista de un objeto que estaba allí.\n\nPuede ser una taza sobre la mesa, una llave, una lámpara, una carta o una silla. Escribe qué vio, qué escuchó y qué cree que pasó después. El objeto puede equivocarse o interpretar mal lo que vio; eso hace más divertida la narración.\n\nEvita spoilers si la otra persona no conoce la historia."
       },
       "palabraNueva": {
         "titulo": "La palabra convergencia",
@@ -14938,7 +14938,7 @@ const CALENDARIO = [
     "dia": 317,
     "fecha": "2027-08-28",
     "fechaTexto": "sáb, 28 de ago",
-    "categoria": "El experimento de la torre estable",
+    "categoria": "El puente de papel que soporta una carga",
     "icono": "🧱",
     "tono": "ingenio y desafío práctico",
     "color": {
@@ -14963,8 +14963,8 @@ const CALENDARIO = [
         "contenido": "Hoy el reto es construir algo alto sin que la gravedad arruine tus planes."
       },
       "mensajePrincipal": {
-        "titulo": "El experimento de la torre estable",
-        "contenido": "Con materiales seguros que tengas a mano —vasos plásticos, bloques, cartas o cajas pequeñas— construye una torre. Antes de empezar, decide una regla: usar una sola mano, no apoyar los codos o trabajar en silencio. Haz una primera versión, observa dónde pierde estabilidad y modifica la base o la distribución del peso.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres intentos y una sola regla por construcción; utilicen piezas ligeras y no suban a muebles."
+        "titulo": "El puente de papel que soporta una carga",
+        "contenido": "RETO DE INGENIO · 15–20 MINUTOS\n\nMateriales: dos hojas de papel, dos libros o cajas pequeñas para hacer de apoyos y unas monedas u objetos pequeños para probar la resistencia.\n\n1. Coloca los dos apoyos separados por unos 15–20 cm.\n2. Pon una hoja plana entre ellos y observa cuánto peso soporta.\n3. Dobla la segunda hoja en acordeón y colócala como puente.\n4. Añade los objetos uno por uno, sin empujar ni forzar la estructura.\n5. Cambia solo una variable —la separación de los apoyos o el tipo de pliegue— y vuelve a probar.\n\nAnota qué diseño soportó más peso y por qué crees que funcionó. No uses objetos pesados ni pongas nada frágil debajo."
       },
       "palabraNueva": {
         "titulo": "La palabra inercia",
@@ -15267,7 +15267,7 @@ const CALENDARIO = [
     "dia": 324,
     "fecha": "2027-09-04",
     "fechaTexto": "sáb, 4 de sep",
-    "categoria": "El debate de una tontería importante",
+    "categoria": "La aduana de los objetos imposibles",
     "icono": "⚖️",
     "tono": "humor y conversación",
     "color": {
@@ -15292,8 +15292,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a defender una opinión absurda como si estuviera en juego el destino del mundo."
       },
       "mensajePrincipal": {
-        "titulo": "El debate de una tontería importante",
-        "contenido": "Escoge un tema inofensivo: ¿la pizza se come mejor doblada?, ¿los lunes deberían tener otro nombre?, ¿qué animal sería el peor compañero de oficina? Defiende una postura durante un minuto con tres argumentos, aunque no estés de acuerdo con ella. Después cambia de bando y defiende exactamente lo contrario.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Una idea por persona y un minuto para defenderla; mantengan el debate ligero."
+        "titulo": "La aduana de los objetos imposibles",
+        "contenido": "JUEGO CREATIVO · 15–20 MINUTOS\n\nImaginen que existe una aduana para objetos que quieren entrar a un país inventado. Cada persona elige un objeto cotidiano y debe justificar por qué merece pasar.\n\nLa persona que hace de agente de aduana puede preguntar:\n- ¿Para qué sirve en realidad?\n- ¿Qué secreto esconde?\n- ¿Qué ocurriría si se quedara fuera?\n\nDespués intercambien papeles. Para cerrar, inventen un sello de entrada y una regla absurda pero inofensiva para ese objeto."
       },
       "palabraNueva": {
         "titulo": "La palabra latente",
@@ -16959,7 +16959,7 @@ const CALENDARIO = [
     "dia": 360,
     "fecha": "2027-10-10",
     "fechaTexto": "dom, 10 de oct",
-    "categoria": "El diseño de una escapada de dos días",
+    "categoria": "La invitación para cerrar el recorrido",
     "icono": "🏕️",
     "tono": "planes futuros y confianza",
     "color": {
@@ -16985,11 +16985,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy no toca reservar ni viajar: vamos a diseñar con calma una escapada de dos días para cuando ambos quieran y puedan."
+        "contenido": "Ya se acerca el cierre del recorrido, pero no quiero dar nada por hecho. Hoy vamos a imaginar una invitación bonita con dos alternativas y espacio para que ambos decidan."
       },
       "mensajePrincipal": {
-        "titulo": "El diseño de una escapada de dos días",
-        "contenido": "Imaginen una cabaña, una zona de camping organizada o un alojamiento sencillo cerca de un lago o montaña. Diseñen dos jornadas flexibles: el primer día, llegar con luz, caminar un poco y preparar una cena fácil; el segundo, desayunar sin afán, hacer una actividad corta y regresar. Anoten presupuesto aproximado, transporte, clima, seguridad, comida adecuada y qué necesitarían llevar. No elijan destino ni fecha todavía; el plan solo se concreta si a ambos les entusiasma y les resulta viable.\n\nTIEMPO DE DISEÑO: 20–30 MINUTOS. No reserven todavía; comparen costo total, transporte, clima, seguridad y una versión de una sola jornada."
+        "titulo": "La invitación para cerrar el recorrido",
+        "contenido": "RETO DE ANTICIPACIÓN · 15–20 MINUTOS\n\nPrepara una invitación sencilla para celebrar que el calendario está llegando a su última etapa. Propón dos versiones para que la otra persona pueda elegir libremente: una celebración en casa con una comida o actividad hecha por ustedes, y un plan de una sola jornada si el tiempo y el presupuesto lo permiten.\n\nIncluye tres detalles: qué te gustaría compartir, qué alternativa de bajo costo existe y cómo dejar claro que la invitación puede cambiarse o aplazarse. No reserves, no compres y no fijes fechas todavía. La idea es expresar ilusión sin convertirla en presión."
       },
       "palabraNueva": {
         "titulo": "La palabra escapada",
