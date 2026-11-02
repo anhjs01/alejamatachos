@@ -13763,7 +13763,7 @@ const CALENDARIO = [
     "dia": 292,
     "fecha": "2027-08-03",
     "fechaTexto": "mar, 3 de ago",
-    "categoria": "Un brindis de colores sin ocasión especial",
+    "categoria": "El brindis de tres pequeñas victorias",
     "icono": "🥤",
     "tono": "receta sencilla y sensorial",
     "color": {
@@ -13788,8 +13788,8 @@ const CALENDARIO = [
         "contenido": "No necesitamos una celebración enorme para preparar algo bonito y refrescante. Hoy el vaso también puede ser parte del plan."
       },
       "mensajePrincipal": {
-        "titulo": "Un brindis de colores sin ocasión especial",
-        "contenido": "Prepara una bebida fría en un vaso transparente: mezcla agua con gas o agua fría con zumo de limón o naranja, agrega hielo y unas hojas de hierbabuena. Si quieres darle color, añade unas rodajas de fruta o un poco de pulpa de mora. Prueba el sabor antes de endulzar y ajusta a tu gusto. No requiere horno ni ingredientes complicados; revisa siempre las etiquetas y evita cualquier ingrediente que pueda contener maní o trazas si hay riesgo de alergia.\n\nTIEMPO DE PREPARACIÓN: 10–15 MINUTOS. Es una bebida sin alcohol; puedes prepararla por la mañana, llevarla fría al almuerzo o añadir hielo antes de una salida."
+        "titulo": "El brindis de tres pequeñas victorias",
+        "contenido": "RETO DE RECONOCIMIENTO · 10–15 MINUTOS · SIN COMPRAS\n\nPiensa en tres cosas pequeñas que merezcan celebrarse: algo que terminaste, una conversación que te hizo bien, una dificultad que atravesaste o una idea que te animaste a probar.\n\nPara cada una, escribe un brindis de una sola frase. No tiene que ser solemne ni romántico; puede ser divertido, directo o muy sencillo. Si participan dos o tres personas, cada una elige una victoria y lee su frase. Si alguien prefiere guardarla para sí, también vale.\n\nLa idea es reconocer lo que sí ocurrió, sin compararlo con lo que todavía falta."
       },
       "palabraNueva": {
         "titulo": "La palabra burbujeo",
@@ -15643,7 +15643,7 @@ const CALENDARIO = [
     "dia": 332,
     "fecha": "2027-09-12",
     "fechaTexto": "dom, 12 de sep",
-    "categoria": "La galería de sombras",
+    "categoria": "El dibujo de una línea que no se detiene",
     "icono": "🌒",
     "tono": "arte y observación",
     "color": {
@@ -15668,8 +15668,8 @@ const CALENDARIO = [
         "contenido": "Hoy la luz será el material principal de una pequeña obra."
       },
       "mensajePrincipal": {
-        "titulo": "La galería de sombras",
-        "contenido": "Con una lámpara o la luz de una ventana, coloca objetos entre la fuente de luz y una pared para crear sombras. Prueba con tres distancias distintas y observa cómo cambian el tamaño y la forma. Combina dos objetos para crear una silueta nueva y dibuja su contorno en una hoja.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres objetos y tres distancias; evita acercar la lámpara a telas o papel caliente."
+        "titulo": "El dibujo de una línea que no se detiene",
+        "contenido": "RETO DE DIBUJO CONTINUO · 15–20 MINUTOS\n\nElige un tema sencillo: una cara, una planta, una taza o un animal imaginario. Pon el lápiz sobre el papel y dibuja sin levantarlo hasta completar la figura.\n\n1. Empieza por la forma exterior.\n2. Deja que la misma línea forme detalles internos: ojos, hojas, asas o patrones.\n3. Si te equivocas, incorpora el error como parte del diseño; no borres ni reinicies.\n4. Al terminar, añade un título y una frase que describa la personalidad de la figura.\n\nNIVEL EXTRA: repite el dibujo con la mano contraria o con un límite de 60 segundos. Si participan dos, intercambien las hojas y añadan una sola línea al dibujo del otro."
       },
       "palabraNueva": {
         "titulo": "La palabra denuedo",
