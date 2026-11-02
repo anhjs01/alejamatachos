@@ -366,7 +366,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "Nuestro próximo pueblo",
-        "contenido": "Para una próxima escapada, hagamos una lista de tres cosas imprescindibles y dos caprichos. Por ejemplo: un paisaje de agua, un mirador para ver el atardecer y arquitectura bonita; como caprichos, una panadería pequeña y una calle empedrada. Después buscamos juntos un destino real que cumpla con eso y revisamos si sigue siendo viable cuando llegue el momento. La idea es elegir el lugar entre los dos, no casarnos hoy con uno."
+        "contenido": "Para una próxima escapada, hagamos una lista de tres cosas imprescindibles y dos caprichos. Por ejemplo: un paisaje de agua, un mirador para ver el atardecer y arquitectura bonita; como caprichos, una panadería pequeña y una calle empedrada. Después buscamos juntos un destino real que cumpla con eso y revisamos si sigue siendo viable cuando llegue el momento. La idea es elegir el lugar entre los dos, no casarnos hoy con uno.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS para definir los imprescindibles y caprichos. El destino y la fecha se eligen más adelante, solo si el plan resulta viable."
       },
       "palabraNueva": {
         "titulo": "Palabra para llevar",
@@ -531,7 +531,7 @@ const CALENDARIO = [
     "dia": 12,
     "fecha": "2026-10-27",
     "fechaTexto": "mar, 27 de oct",
-    "categoria": "Pintar al aire libre, con el paisaje de modelo",
+    "categoria": "Pintar un paisaje desde una referencia",
     "icono": "🎨",
     "tono": "creativo",
     "color": {
@@ -553,11 +553,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, pintora",
-        "contenido": "Quiero que algún día hagamos un plan distinto: subir a un cerro o a un mirador permitido, llevar nuestros materiales y pintar el paisaje allí mismo. No tiene que ser una excursión complicada; buscamos un sitio accesible, seguro y donde esté permitido instalarse."
+        "contenido": "Hoy no necesitamos subir a un mirador para pintar un paisaje. Elige una fotografía que te guste, prepara cinco colores y convierte una referencia sencilla en una versión propia."
       },
       "mensajePrincipal": {
-        "titulo": "Reto: paisaje en 30 minutos",
-        "contenido": "Lleva un cuaderno de acuarela o cartón entelado pequeño, lápiz HB, pinceles, acuarelas o acrílicos, recipiente de agua, paño, cinta, protector solar y una bolsa para llevarnos todos los residuos. Nivel 1: dibuja solo tres formas grandes del paisaje. Nivel 2: limita la paleta a cinco colores y mezcla los tonos que ves. Nivel 3: añade un detalle que haga reconocible el lugar: una silueta, una nube, una baranda o un árbol. No buscamos una postal perfecta; queremos dos versiones distintas del mismo paisaje. Si hace viento o llueve, hacemos el reto desde una ventana o una cafetería con vista."
+        "titulo": "Pintar un paisaje desde una referencia",
+        "contenido": "RETO DE PINTURA · 30 MINUTOS · EN CASA\n\nMateriales: una foto de paisaje que ya tengas o una imagen de referencia, papel grueso o cartón entelado pequeño, lápiz HB, pinceles, acuarelas o acrílicos, agua y un paño.\n\nNIVEL 1 · 5 MINUTOS: dibuja solo tres formas grandes: cielo, terreno y elemento principal.\nNIVEL 2 · 10 MINUTOS: limita la paleta a cinco colores y mezcla los tonos principales sin buscar detalles.\nNIVEL 3 · 15 MINUTOS: añade un punto de luz, una sombra y un detalle que haga reconocible la escena.\n\nNo buscamos una postal perfecta; queremos dos interpretaciones distintas de la misma referencia. Si participan dos, cada persona elige una paleta diferente.\n\nTIEMPO TOTAL: 30 MINUTOS. Cinco para el boceto, diez para la base de color y quince para luces, sombras y detalles."
       },
       "palabraNueva": {
         "titulo": "Palabra de artista",
@@ -565,7 +565,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Guarda esta idea para un día despejado. Me gusta imaginar nuestros dos cuadros diferentes del mismo lugar: dos maneras de mirar exactamente el mismo paisaje."
+        "contenido": "Guarda el cuadro aunque no haya quedado como lo imaginabas. La próxima vez puedes retomar la misma escena y descubrir qué cambió en tu manera de pintarla."
       }
     },
     "palabraNueva": {
@@ -843,7 +843,7 @@ const CALENDARIO = [
       },
       "mensajePrincipal": {
         "titulo": "El museo de sonidos de nuestro entorno",
-        "contenido": "Durante veinte o treinta minutos, identifiquen cinco sonidos que puedan escuchar desde casa: uno natural, uno hecho por personas, uno lejano, uno que les dé calma y uno inesperado. Pueden anotarlos o grabar fragmentos sin captar conversaciones privadas ni a personas identificables. Después cada uno escoge el sonido que más le gustó, le inventa un título y ordenan los cinco como si fueran la banda sonora de una escena. Si el entorno está silencioso, pueden usar sonidos de objetos cotidianos."
+        "contenido": "Durante veinte o treinta minutos, identifiquen cinco sonidos que puedan escuchar desde casa: uno natural, uno hecho por personas, uno lejano, uno que les dé calma y uno inesperado. Pueden anotarlos o grabar fragmentos sin captar conversaciones privadas ni a personas identificables. Después cada uno escoge el sonido que más le gustó, le inventa un título y ordenan los cinco como si fueran la banda sonora de una escena. Si el entorno está silencioso, pueden usar sonidos de objetos cotidianos.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Si el entorno está silencioso, creen sonidos con objetos cotidianos y graben solo los que no incluyan conversaciones privadas."
       },
       "palabraNueva": {
         "titulo": "Palabra para escuchar",
@@ -995,7 +995,7 @@ const CALENDARIO = [
       },
       "buenasNoches": {
         "titulo": "Buenas noches",
-        "contenido": "Que descanses. Dejo esta salida anotada en nuestra lista de planes: un café bonito, dos cuadernos y tiempo para mirar el mundo con calma."
+        "contenido": "Antes de cerrar los ojos, elige el dibujo que más te hizo sonreír. Una taza, una nube o una forma absurda pueden convertirse en el recuerdo más bonito de una pausa sencilla."
       }
     },
     "palabraNueva": {
@@ -1153,7 +1153,7 @@ const CALENDARIO = [
     "dia": 25,
     "fecha": "2026-11-09",
     "fechaTexto": "lun, 9 de nov",
-    "categoria": "Una escapada con agua y arquitectura",
+    "categoria": "El pasaporte de cinco lugares inventados",
     "icono": "🏛️",
     "tono": "aventura",
     "color": {
@@ -1175,11 +1175,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días, viajera",
-        "contenido": "Para un próximo fin de semana libre, imaginemos una escapada con tres cosas: un lago grande o un embalse, una iglesia o edificio histórico que destaque y un mirador desde donde podamos ver el paisaje completo. No voy a inventar un pueblo ni asegurar que un sitio siga abierto: cuando tengamos fechas, buscamos opciones reales y revisamos disponibilidad, clima, transporte y condiciones."
+        "contenido": "Hoy no vamos a planear una salida real. Vamos a llenar un pasaporte imaginario con cinco lugares que solo existen en nuestra cabeza; el presupuesto es cero y el destino lo inventamos nosotros."
       },
       "mensajePrincipal": {
-        "titulo": "Diseñemos la búsqueda",
-        "contenido": "Cada uno elige su imprescindible: puede ser caminar junto al agua, conocer una iglesia imponente, ver casas de arquitectura colorida, probar comida típica o llegar a un mirador al atardecer. Después buscamos un destino que reúna la mayoría. Plan flexible: salir temprano, recorrer el centro, almorzar algo local, visitar el paisaje principal y cerrar con la vista. Si no alcanza para pasar la noche, lo convertimos en paseo de un día; si tenemos más tiempo, añadimos una noche."
+        "titulo": "El pasaporte de cinco lugares inventados",
+        "contenido": "RETO DE IMAGINACIÓN · 15–20 MINUTOS · COSTO CERO\n\nDiseña cinco sellos para un pasaporte que solo sirve para visitar lugares inventados. Para cada destino escribe un nombre, cómo es el clima, una costumbre local y una cosa que harías allí.\n\nUno puede ser una ciudad suspendida entre montañas, otro una isla donde siempre llueve, otro un pueblo que cambia de color al atardecer. No busques destinos reales ni pienses en gastos: hoy el viaje ocurre en la imaginación."
       },
       "palabraNueva": {
         "titulo": "Palabra viajera",
@@ -1249,7 +1249,7 @@ const CALENDARIO = [
     "dia": 27,
     "fecha": "2026-11-11",
     "fechaTexto": "mié, 11 de nov",
-    "categoria": "Cena de carne en salsa de tomate y arroz",
+    "categoria": "Carne en salsa de tomate con arroz y ensalada",
     "icono": "🍅",
     "tono": "cocina",
     "color": {
@@ -1274,7 +1274,7 @@ const CALENDARIO = [
         "contenido": "Hoy propongo una comida completa sin horno: carne en salsa de tomate con arroz y una ensalada fresca. Esta vez yo preparo la carne y tú puedes encargarte del arroz o elegir la música; si preferimos, intercambiamos."
       },
       "mensajePrincipal": {
-        "titulo": "Compra y receta para dos",
+        "titulo": "Carne en salsa de tomate con arroz y ensalada",
         "contenido": "Compra: 300 g de carne de res en cubos o tiras, 1 taza de arroz, 2 tomates maduros, ½ cebolla, 1 diente de ajo, ½ pimentón, 1 zanahoria pequeña, aceite, sal, pimienta, comino y cilantro opcional. Para la carne: sofríe cebolla, ajo y pimentón; añade la carne y dórala por tandas. Incorpora tomate picado, zanahoria, comino, sal y un chorrito de agua. Tapa y cocina a fuego bajo hasta que la carne esté tierna, agregando agua si hace falta. Destapa al final y deja reducir la salsa hasta que espese. Para el arroz: lava una taza, sofríela brevemente con una cucharadita de aceite, agrega dos tazas de agua y sal; cocina tapado a fuego bajo hasta que se absorba. Acompaña con tomate y pepino en cubos con limón. Ajusta el tiempo según el corte de carne y verifica que esté bien cocida.\n\nTIEMPO ESTIMADO: 35–40 MINUTOS. Si será el almuerzo de mañana, decidan la noche anterior qué tienen y qué falta; la compra puede hacerse al salir del trabajo."
       },
       "palabraNueva": {
@@ -1585,7 +1585,7 @@ const CALENDARIO = [
     "dia": 34,
     "fecha": "2026-11-18",
     "fechaTexto": "mié, 18 de nov",
-    "categoria": "Un postre de sartén para compartir",
+    "categoria": "Duraznos tibios caramelizados con yogur",
     "icono": "🍑",
     "tono": "cocina",
     "color": {
@@ -1610,7 +1610,7 @@ const CALENDARIO = [
         "contenido": "Hoy toca postre sin horno: duraznos tibios caramelizados con yogur o crema. Es rápido, queda bonito y podemos prepararlo juntos."
       },
       "mensajePrincipal": {
-        "titulo": "Compra y receta para dos",
+        "titulo": "Duraznos tibios caramelizados con yogur",
         "contenido": "Compra: 2 duraznos maduros pero firmes, 1 cucharada de mantequilla, 1½ cucharadas de azúcar morena, una pizca de canela, ½ limón y yogur griego o crema para servir. Lava y corta los duraznos en gajos. Derrite la mantequilla en una sartén a fuego medio, añade el azúcar y la canela y mezcla hasta que se disuelva. Incorpora los duraznos y cocínalos dos o tres minutos por lado, hasta que estén dorados y tiernos pero no deshechos. Añade unas gotas de limón al final. Sirve tibio sobre yogur o crema y, si quieres, agrega galleta triturada. Turno: uno se encarga de la sartén y el otro prepara los platos. Cuidado con el caramelo caliente; deja templar antes de probar.\n\nTIEMPO ESTIMADO: 15–20 MINUTOS. Cocina los duraznos a fuego medio y deja que se enfríen un poco antes de añadir el yogur o la crema."
       },
       "palabraNueva": {
@@ -1777,7 +1777,7 @@ const CALENDARIO = [
     "dia": 38,
     "fecha": "2026-11-22",
     "fechaTexto": "dom, 22 de nov",
-    "categoria": "El mapa de un rincón por descubrir",
+    "categoria": "El mapa de una tarde imaginaria",
     "icono": "🧭",
     "tono": "curiosidad y planes flexibles",
     "color": {
@@ -1798,11 +1798,11 @@ const CALENDARIO = [
     "cartas": {
       "buenosDias": {
         "titulo": "Buenos días",
-        "contenido": "Hoy no hace falta salir: vamos a diseñar una pequeña ruta para guardar y usar cuando coincidan las ganas."
+        "contenido": "Hoy vamos a dibujar una tarde que todavía no existe: tres momentos, tres colores y una sorpresa en medio. No hay que salir ni organizar nada."
       },
       "mensajePrincipal": {
-        "titulo": "El mapa de un rincón por descubrir",
-        "contenido": "Cada persona propone tres paradas posibles para una futura salida de unas horas: un lugar donde tomar algo, un espacio cultural o una tienda curiosa y un sitio tranquilo para sentarse o tomar fotografías. No elijan establecimientos concretos ni fechas todavía. Comparen qué les atrae de cada idea y armen una ruta flexible que puedan adaptar al presupuesto, al transporte, al clima y a los horarios. La actividad de hoy termina con el mapa, no con una obligación de salir."
+        "titulo": "El mapa de una tarde imaginaria",
+        "contenido": "RETO CREATIVO · 15–20 MINUTOS · EN CASA O EN LA OFICINA\n\nDibuja el mapa de una tarde que todavía no existe. Divide la hoja en tres momentos: cómo empieza, qué sorpresa aparece en la mitad y con qué sensación termina. Añade un color, un sonido y un objeto a cada parte.\n\nNo tiene que ser un lugar real ni un plan para salir. Si participan dos, cada uno dibuja una mitad del recorrido y luego conectan las escenas para crear una sola historia."
       },
       "palabraNueva": {
         "titulo": "Palabra de camino",
@@ -9254,7 +9254,7 @@ const CALENDARIO = [
     "dia": 196,
     "fecha": "2027-04-29",
     "fechaTexto": "jue, 29 de abr",
-    "categoria": "La banda sonora de un día cualquiera",
+    "categoria": "La canción que acompaña un recuerdo",
     "icono": "🎧",
     "tono": "música y observación",
     "color": {
@@ -9279,8 +9279,8 @@ const CALENDARIO = [
         "contenido": "Hoy toca convertir un día normal en una pequeña escena de película."
       },
       "mensajePrincipal": {
-        "titulo": "La banda sonora de un día cualquiera",
-        "contenido": "Elijan un momento corriente —preparar café, caminar a casa, ordenar el escritorio o esperar el transporte— y asígnenle una canción como si fuera la escena principal de una película. Después expliquen qué género tendría esa película y qué título le pondrían. Si están en lugares distintos, cada quien manda su escena y su canción.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Una escena cotidiana y una canción; no hace falta salir a grabarla."
+        "titulo": "La canción que acompaña un recuerdo",
+        "contenido": "ELIGE UNA CANCIÓN PARA UN RECUERDO · 10–15 MINUTOS\n\nPiensa en un recuerdo concreto: una tarde tranquila, una conversación que te hizo reír, un logro pequeño o un momento que te gustaría conservar. Escoge una canción que encaje con la sensación de ese recuerdo, aunque no haya sonado en ese momento.\n\nEscribe tres detalles de la escena —un color, un sonido y algo que estaba ocurriendo— y explica qué parte de la canción acompaña mejor esa imagen. Si lo comparten, cada persona puede elegir un recuerdo distinto; no hace falta que sea un recuerdo de pareja ni que se revele algo íntimo."
       },
       "palabraNueva": {
         "titulo": "La palabra cotidiano",
@@ -9489,7 +9489,7 @@ const CALENDARIO = [
     "dia": 201,
     "fecha": "2027-05-04",
     "fechaTexto": "mar, 4 de may",
-    "categoria": "El mapa de los lugares pendientes",
+    "categoria": "La brújula de una experiencia futura",
     "icono": "🗺️",
     "tono": "sueños y planes flexibles",
     "color": {
@@ -9514,8 +9514,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a hacer un mapa de lugares que despiertan curiosidad, sin convertirlo en una agenda obligatoria."
       },
       "mensajePrincipal": {
-        "titulo": "El mapa de los lugares pendientes",
-        "contenido": "Cada quien propone tres tipos de lugar que le gustaría conocer o visitar algún día: un mirador, un pueblo tranquilo, un jardín, un museo, un lago o un sitio para ver las estrellas. Al lado escriban qué les gustaría hacer allí y si sería un plan de unas horas o de un día. No pongan fechas ni compromisos; es una colección de posibilidades.\n\nTIEMPO SUGERIDO: 10–15 MINUTOS. Es un mapa de posibilidades, no una reserva: anoten presupuesto y condiciones antes de elegir."
+        "titulo": "La brújula de una experiencia futura",
+        "contenido": "DISEÑO DE UNA POSIBILIDAD · 10–15 MINUTOS · SIN FECHA NI RESERVA\n\nElijan una sola experiencia que les dé curiosidad: aprender una técnica artística, conocer un lugar natural, visitar una exposición, probar una actividad nueva o cocinar algo distinto. Compárenla con cuatro criterios: cuánto tiempo requiere, qué presupuesto aproximado tendría, qué tan fácil es llegar o prepararla y cuánto entusiasmo despierta.\n\nCada persona puede cambiar una condición para hacerla más sencilla. Guarden la versión más realista, sin elegir fecha ni asumir que necesariamente se hará."
       },
       "palabraNueva": {
         "titulo": "La palabra horizonte",
@@ -10898,7 +10898,7 @@ const CALENDARIO = [
     "dia": 231,
     "fecha": "2027-06-03",
     "fechaTexto": "jue, 3 de jun",
-    "categoria": "El museo de objetos cotidianos",
+    "categoria": "La biografía secreta de un objeto",
     "icono": "🏛️",
     "tono": "creatividad y observación",
     "color": {
@@ -10923,8 +10923,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a convertir tres objetos comunes en piezas de museo."
       },
       "mensajePrincipal": {
-        "titulo": "El museo de objetos cotidianos",
-        "contenido": "Escoge tres objetos que tengas cerca: pueden ser un recibo, una llave, una taza, un boleto o cualquier cosa pequeña. Asígnales un nombre de exposición y escribe una ficha de museo para cada uno: título, año aproximado y una historia inventada de dos líneas. La gracia es mirar lo cotidiano como si fuera extraordinario.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres objetos, un título de exposición y una descripción breve para cada pieza."
+        "titulo": "La biografía secreta de un objeto",
+        "contenido": "RETO DE ESCRITURA · 15–20 MINUTOS\n\nElige un solo objeto cotidiano que tengas cerca: una llave, una taza, un recibo o una libreta. Escribe su biografía en primera persona, como si el objeto pudiera hablar: dónde cree que nació, qué ha visto, qué secreto guarda y qué le gustaría que ocurriera después.\n\nSi participan dos, intercambien objetos y escriban la biografía del que recibió cada uno. Al final lean los textos y descubran qué detalle inventado fue el más convincente."
       },
       "palabraNueva": {
         "titulo": "La palabra curaduría",
@@ -11086,7 +11086,7 @@ const CALENDARIO = [
     "dia": 235,
     "fecha": "2027-06-07",
     "fechaTexto": "lun, 7 de jun",
-    "categoria": "El debate de las decisiones imposibles",
+    "categoria": "La isla de las tres reglas",
     "icono": "⚖️",
     "tono": "juego de argumentos",
     "color": {
@@ -11111,8 +11111,8 @@ const CALENDARIO = [
         "contenido": "Hoy tenemos un pequeño debate para defender ideas que quizá no son las nuestras."
       },
       "mensajePrincipal": {
-        "titulo": "El debate de las decisiones imposibles",
-        "contenido": "Elijan una situación ligera: ¿es mejor tener siempre la respuesta o poder hacer siempre la pregunta correcta?, ¿vivir cerca de todo o en un lugar tranquilo?, ¿tener mucho tiempo libre o energía para aprovecharlo? Cada persona defiende una opción durante un minuto y luego debe defender la contraria durante otro minuto. No se trata de ganar, sino de construir argumentos.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres dilemas y un minuto por argumento; pueden cambiar de opinión al escuchar al otro."
+        "titulo": "La isla de las tres reglas",
+        "contenido": "JUEGO CREATIVO PARA DOS O TRES · 15–20 MINUTOS\n\nImaginen una isla pequeña donde todo el mundo llega por primera vez. Cada persona propone una regla para convivir allí: puede ser práctica, divertida o completamente absurda, pero debe ser justa para todos.\n\nDespués negocien una cuarta regla que reúna las mejores ideas. Dibujen un símbolo para la isla y pónganle nombre. La gracia no es imponer la regla más extraña, sino construir un lugar donde todos puedan sentirse cómodos."
       },
       "palabraNueva": {
         "titulo": "La palabra perspectiva",
@@ -14891,7 +14891,7 @@ const CALENDARIO = [
     "dia": 316,
     "fecha": "2027-08-27",
     "fechaTexto": "vie, 27 de ago",
-    "categoria": "El doblaje de una escena muda",
+    "categoria": "El storyboard de tres viñetas",
     "icono": "🎙️",
     "tono": "humor e improvisación",
     "color": {
@@ -14916,8 +14916,8 @@ const CALENDARIO = [
         "contenido": "Hoy toca prestarles una voz inesperada a las cosas que no hablan."
       },
       "mensajePrincipal": {
-        "titulo": "El doblaje de una escena muda",
-        "contenido": "Busca un video corto sin diálogo —puede ser una escena propia, una animación o un clip que ya tengas— y crea un doblaje completamente distinto de lo que sucede. También puedes hacerlo mirando una escena con el sonido apagado: inventa qué están diciendo los personajes y cambia el género de la situación, de drama a comedia o de aventura a telenovela.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Un clip corto, dos versiones de doblaje y una ronda final para cambiar el género."
+        "titulo": "El storyboard de tres viñetas",
+        "contenido": "RETO DE ILUSTRACIÓN · 20–25 MINUTOS\n\nCuenta una historia sin diálogos usando solo tres viñetas. Primera: presenta un personaje y un lugar. Segunda: introduce un problema o una sorpresa. Tercera: muestra una solución inesperada o un final abierto.\n\nPuedes dibujar con lápiz, marcadores o formas simples. Si participan dos, una persona dibuja el inicio y la otra el giro y el final; luego revisen si la historia se entiende sin explicaciones."
       },
       "palabraNueva": {
         "titulo": "La palabra tenacidad",
@@ -15079,7 +15079,7 @@ const CALENDARIO = [
     "dia": 320,
     "fecha": "2027-08-31",
     "fechaTexto": "mar, 31 de ago",
-    "categoria": "La cápsula del tiempo de cinco minutos",
+    "categoria": "El cuaderno de preguntas pendientes",
     "icono": "⏳",
     "tono": "memoria y perspectiva",
     "color": {
@@ -15104,8 +15104,8 @@ const CALENDARIO = [
         "contenido": "Imagina que dentro de un año encuentras una nota escrita por ti hoy."
       },
       "mensajePrincipal": {
-        "titulo": "La cápsula del tiempo de cinco minutos",
-        "contenido": "Escribe un mensaje breve para tu yo de dentro de doce meses. Incluye algo que esperas haber aprendido, una costumbre que te gustaría conservar y una pregunta cuya respuesta todavía no conoces. No hace falta hacer promesas grandes: basta con dejar una fotografía honesta de este momento.\n\nTIEMPO SUGERIDO: 5 MINUTOS. Escribe la nota, ponle fecha y guárdala para abrirla dentro de un año."
+        "titulo": "El cuaderno de preguntas pendientes",
+        "contenido": "RETO DE CURIOSIDAD · 10–15 MINUTOS\n\nEscribe cinco preguntas que te hayan surgido últimamente y que no hayas tenido tiempo de investigar. Pueden ser sobre arte, música, ciencia, historia, naturaleza o algo cotidiano que siempre te ha dado curiosidad.\n\nClasifícalas: una que puedas resolver en cinco minutos, una que requiera buscar una fuente fiable y otra que merezca una conversación. Elige solo una para investigar esta semana; las demás pueden esperar."
       },
       "palabraNueva": {
         "titulo": "La palabra auspicio",
@@ -15925,7 +15925,7 @@ const CALENDARIO = [
     "dia": 338,
     "fecha": "2027-09-18",
     "fechaTexto": "sáb, 18 de sep",
-    "categoria": "El objeto con una segunda vida",
+    "categoria": "El rediseño de un objeto cotidiano",
     "icono": "♻️",
     "tono": "creatividad y reutilización",
     "color": {
@@ -15950,8 +15950,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a mirar un objeto que ya cumplió su función y pensar qué otra historia podría tener."
       },
       "mensajePrincipal": {
-        "titulo": "El objeto con una segunda vida",
-        "contenido": "Busca un envase limpio, una caja pequeña, un frasco o un trozo de cartón que normalmente desecharías. Imagina dos usos nuevos y escoge uno que puedas hacer de forma segura con materiales disponibles: un organizador, un portalápices, una maceta decorativa o un soporte sencillo. No hace falta comprar nada.\n\nTIEMPO SUGERIDO: 20–30 MINUTOS. Elige un objeto limpio y seguro, diseña dos usos y prueba uno sin herramientas peligrosas."
+        "titulo": "El rediseño de un objeto cotidiano",
+        "contenido": "RETO DE DISEÑO · 20–25 MINUTOS\n\nElige un objeto cotidiano que ya funcione: una botella reutilizable, una libreta, un estuche o una lámpara. No lo conviertas en otra cosa; imagina cómo mejorarías su diseño para hacerlo más cómodo, duradero o fácil de usar.\n\nDibuja tres cambios concretos. Para cada uno explica qué problema resuelve y qué material sencillo podría servir. Si participan dos, cada persona rediseña el mismo objeto desde una prioridad distinta: comodidad, estética o sostenibilidad."
       },
       "palabraNueva": {
         "titulo": "La palabra maña",
@@ -16395,7 +16395,7 @@ const CALENDARIO = [
     "dia": 348,
     "fecha": "2027-09-28",
     "fechaTexto": "mar, 28 de sep",
-    "categoria": "El intercambio de recomendaciones improbables",
+    "categoria": "La crítica de lo cotidiano en tres estrellas",
     "icono": "🎲",
     "tono": "curiosidad y descubrimiento",
     "color": {
@@ -16420,8 +16420,8 @@ const CALENDARIO = [
         "contenido": "Hoy vamos a recomendar algo sin recurrir a lo de siempre."
       },
       "mensajePrincipal": {
-        "titulo": "El intercambio de recomendaciones improbables",
-        "contenido": "Elige una recomendación poco obvia: una película que casi nadie menciona, una canción de un género que no sueles escuchar, un canal curioso, un libro breve o una actividad que parezca rara pero valga la pena. Explica en tres pistas por qué podría gustarle a otra persona, sin revelar el nombre al principio. Si participan dos, cada uno prepara una recomendación sorpresa para el otro. La otra persona puede hacer hasta tres preguntas antes de aceptar el reto de probarla o verla.\n\nTIEMPO SUGERIDO: 15–20 MINUTOS. Tres pistas y hasta tres preguntas antes de revelar la recomendación."
+        "titulo": "La crítica de lo cotidiano en tres estrellas",
+        "contenido": "RETO DE OBSERVACIÓN Y HUMOR · 10–15 MINUTOS\n\nElige una experiencia corriente: esperar el ascensor, encontrar una mesa libre, preparar café, caminar bajo la lluvia o buscar las llaves. Escribe una reseña de tres estrellas imaginarias: una por lo que funcionó, otra por lo inesperado y otra por lo que mejorarías.\n\nPonle un título como si fuera una reseña de cine o de restaurante. Si participan dos, cada persona reseña la misma experiencia desde un punto de vista distinto y comparan sus puntuaciones."
       },
       "palabraNueva": {
         "titulo": "La palabra perenne",
